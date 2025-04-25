@@ -1,0 +1,117 @@
+none
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+1. ("Human", "Retina", "Muller glial cell", "TRDN")
+2. ("Human", "Retina", "Muller glial cell", "VIM")
+3. ("Human", "Retina", "Bipolar cell", "NIF3L1")
+4. ("Human", "Retina", "Bipolar cell", "PKCA")
+5. ("Human", "Retina", "Cone photoreceptor cell", "RAB41")
+6. ("Human", "Retina", "Cone photoreceptor cell", "OPN1SW")
+
+These tuples are derived from the specific mentions of the genes and their localization or co-localization with particular cell types in the human retina.
+
+Based on the provided text, here are the cell markers identified in the format requested:
+
+1. ("Zebrafish", "Eye", "Muller glial cells", "Pattern 17") - However, this is a pattern and not a specific gene or protein marker, so it may not fully meet the criteria.
+2. ("null", "Cornea", "Epithelial cells", "TGFBI")
+3. ("null", "Cornea", "Differentiating corneal epithelial cells", "ELF3")
+4. ("null", "Cornea", "Inflamed epithelial cells", "ANXA1")
+
+The other mentions (like MEG3, MGP, WIF1, and Ribosomal genes) are associated with subtypes of fibroblasts but are not explicitly stated as markers. If we consider them as potential markers, the tuples would be:
+
+5. ("null", "Iris/ciliary body", "MEG3-high fibroblasts", "MEG3")
+6. ("null", "Iris/ciliary body", "MGP-high fibroblasts", "MGP")
+7. ("null", "Iris/ciliary body", "WIF1-high fibroblasts", "WIF1")
+8. ("null", "Iris/ciliary body", "Ribosomal genes high fibroblasts", "Ribosomal genes")
+
+However, if we strictly adhere to the definition of a marker as a specific gene or protein that distinguishes cell types, only the first four tuples should be considered.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("null", "Eye", "Smooth muscle cells (SMCs)", "MYH11")
+2. ("null", "Eye", "Smooth muscle cells (SMCs)", "MYL9")
+3. ("null", "Eye", "Pigmented epithelial cells", "MLANA")
+4. ("null", "Eye", "Pigmented epithelial cells", "PMEL")
+5. ("null", "Eye", "Ciliary body cells (CBCs)", "PAX6")
+6. ("null", "Eye", "Ciliary body cells (CBCs)", "SIX3")
+7. ("null", "Eye", "Putative stem cells", "OTX2")
+8. ("null", "Eye", "COL9A1-high CBCs", "CPAMD8")
+9. ("null", "Eye", "Putative stem cells", "MDK")
+
+The species is not explicitly mentioned in the provided text, so it is set to "null". The tissue type is generally referred to as the eye, and more specific cell names and their corresponding markers are listed.
+
+Based on the provided document, here are the identified cell markers in the requested format:
+
+1. ("null", "null", "Putative stem cells", "ROR1")
+2. ("null", "null", "Pigmented CBCs", "ROR2")
+3. ("null", "null", "COL9A1-high CBCs", "FZD1")
+4. ("null", "null", "Putative stem cells, Pigmented CBCs, COL9A1-high CBCs", "FGFR1")
+5. ("null", "Eye", "CBCs, SMCs, Fibroblasts", "GSN")
+6. ("Human", "Cornea", "Conjunctival cells", "ACE2")
+7. ("Human", "Cornea", "Conjunctival cells", "TMPRSS2")
+8. ("Human", "Cornea", "Conjunctival cells", "BSG")
+9. ("Human", "Cornea", "Conjunctival cells", "CTSB")
+10. ("Human", "Cornea", "Conjunctival cells", "CTSL")
+11. ("null", "Iris", "Melanocytes", "PAX3")
+12. ("null", "Iris", "Melanocytes", "MITF")
+13. ("null", "Iris", "Melanocytes", "SOX10")
+14. ("null", "Retinal ganglion cells (RGCs)", "RGCs", "SREBP2")
+15. ("null", "Retinal ganglion cells (RGCs)", "RGCs", "KLF7")
+16. ("null", "Amacrine cells (ACs) and Retinal ganglion cells (RGCs)", "ACs and RGCs", "PBX1")
+
+Note: The "Species" and "Tissue Type" fields are filled with "null" where specific information is not provided in the text.
+
+Based on the provided document, the following cell markers can be identified and formatted as requested:
+
+1. ("Human", "Eye (Iris)", "Putative stem cells", "COL9A1")
+2. ("Human", "Eye (Iris)", "Ciliary body cells", "COL9A1")
+3. ("Human", "Eye (Iris)", "Pigmented ciliary body cells", "COL9A1")
+4. ("null", "null", "RGCs", "KLF7")
+5. ("null", "null", "RGCs", "POU4F1")
+6. ("null", "null", "RGCs", "EBF3")
+7. ("null", "null", "RGCs", "ONECUT1")
+8. ("null", "null", "RGCs", "ONECUT2")
+
+The species and tissue type for some entries are filled with "null" due to the lack of specific information in the text regarding these details. However, the markers and their associated cell types are clearly indicated in the text.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("null", "null", "RGC cells", "KLF7")
+2. ("null", "null", "RGC precursor cells", "POU4F1")
+3. ("null", "null", "RGC precursor cells", "IRX2")
+4. ("null", "null", "RGC precursor cells", "EBF3")
+5. ("null", "null", "RGC precursor cells", "EBF1")
+6. ("null", "null", "RGC precursor cells", "SREBF2")
+
+The species and tissue type are not explicitly mentioned in the text for these markers, hence they are filled with "null". The document does not provide specific details about the species or the exact tissue type, but it discusses retinal ganglion cells (RGCs) and their precursors, indicating that the tissue is likely to be related to the retina.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Eye", "Putative stem cell", "OTX2")
+2. ("Human", "Eye", "COL9A1 high CBCs", "CPAMD8")
+3. ("Human", "Eye", "Pigmented CBCs", "null") - This tuple is excluded as the marker field is empty.
+4. ("Human", "Eye", "Putative stem cell", "PAX6")
+5. ("Human", "Eye", "Putative stem cell", "SIX3")
+6. ("Human", "Eye", "COL9A1 high CBCs", "PAX6")
+7. ("Human", "Eye", "COL9A1 high CBCs", "SIX3")
+8. ("Human", "Eye", "CBCs", "PAX6")
+9. ("Human", "Eye", "CBCs", "SIX3")
+
+The relevant tuples with non-empty "Marker" fields are:
+- ("Human", "Eye", "Putative stem cell", "OTX2")
+- ("Human", "Eye", "COL9A1 high CBCs", "CPAMD8")
+- ("Human", "Eye", "Putative stem cell", "PAX6")
+- ("Human", "Eye", "Putative stem cell", "SIX3")
+- ("Human", "Eye", "COL9A1 high CBCs", "PAX6")
+- ("Human", "Eye", "COL9A1 high CBCs", "SIX3")
+- ("Human", "Eye", "CBCs", "PAX6")
+- ("Human", "Eye", "CBCs", "SIX3")
+
+Based on the provided document, there are no explicit mentions of cell markers in the format required (i.e., with all the necessary fields: "Species", "Tissue Type", "Cell Name", and "Marker"). The text discusses several transcription factors and genes, but it does not clearly specify them as markers for specific cell types within a particular tissue and species. 
+
+Given the requirements, the correct response is:
+
+```none
+```
+

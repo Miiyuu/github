@@ -1,0 +1,61 @@
+Based on the information provided in the document, the following cell markers can be identified:
+
+1. ("Mouse", "Esophagus", "Basal cell", "Krt14")
+2. ("Mouse", "Esophagus", "Basal cell", "Krt5")
+3. ("Mouse", "Esophagus", "Basal cell", "Fabp5")
+4. ("Mouse", "Esophagus", "Suprabasal cell", "Krt13")
+5. ("Mouse", "Esophagus", "Suprabasal cell", "Krt4")
+6. ("Mouse", "Esophagus", "Suprabasal cell", "Krtdap")
+7. ("Mouse", "Esophagus", "Basal cell", "Krt15")
+8. ("Mouse", "Esophagus", "Basal cell", "Sox2")
+9. ("Mouse", "Esophagus", "Basal cell", "Trp63")
+
+These tuples represent the species, tissue type, cell name, and marker as described in the document, focusing on the esophageal keratinocytes in mice.
+
+Based on the provided document, the following cell markers have been identified. The information is presented in the required tuple format:
+
+1. ("Mouse", "Esophageal epithelium", "Basal cell", "Mki67")
+2. ("Mouse", "Esophageal epithelium", "Superficial cell", "Flg")
+3. ("Mouse", "Esophageal epithelium", "Superficial cell", "Ivl")
+4. ("Mouse", "Esophageal epithelium", "Basal cell", "COL17A1")
+5. ("Mouse", "Esophageal epithelium", "Suprabasal cell", "ATP1B3")
+6. ("Mouse", "Esophageal epithelium", "Superficial cell", "CNFN")
+7. ("Mouse", "Esophageal epithelium", "Superficial cell", "Krt4")
+8. ("Mouse", "Esophageal epithelium", "Superficial cell", "Krt13")
+9. ("Mouse", "Esophageal epithelium", "Superficial cell", "Krtdap")
+10. ("Mouse", "Esophageal epithelium", "Superficial cell", "Lor")
+
+Each of these tuples contains a specific marker for a distinct cell type within the murine esophageal epithelium, as described in the text.
+
+Based on the information provided in the document, here are the identified cell markers for murine esophageal epithelium:
+
+1. ("Mouse", "Esophageal epithelium", "Basal cell", "Krt14")
+2. ("Mouse", "Esophageal epithelium", "Basal cell", "Krt5")
+3. ("Mouse", "Esophageal epithelium", "Superficial cell", "Fabp5")
+4. ("Mouse", "Esophageal epithelium", "Superficial cell", "Krt13")
+5. ("Mouse", "Esophageal epithelium", "Superficial cell", "Krt4")
+6. ("Mouse", "Esophageal epithelium", "Superficial cell", "Krtdap")
+
+These markers are derived from the section that describes the expression of specific genes in different cell populations within the murine esophageal epithelium.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Esophageal epithelium", "Basal cells (stem cell potential)", "Integrin β4")
+2. ("Mouse", "Esophageal epithelium", "Basal cells (stem cell potential)", "CD73")
+3. ("Mouse", "Esophageal epithelium", "Stem/Progenitor cells", "CD34")
+4. ("Mouse", "Esophageal epithelium", "Stem/Progenitor cells", "KRT15")
+5. ("Mouse", "Esophageal epithelium", "Stem/Progenitor cells", "Integrin a6")
+6. ("Mouse", "Esophageal epithelium", "Stem/Progenitor cells", "CD71")
+
+These tuples are derived directly from the information given in the text, focusing on the markers that distinguish different cell types within the murine esophageal epithelium.
+
+Based on the provided text, the following cell markers have been identified:
+
+- ("Mouse", "Esophageal epithelium", "Basal cells", "COL17A1")
+
+The document mentions that "the presence of a COL17A1 as a marker of basal cells in murine esophageal epithelium is consistent with studies in human esophageal epithelium." This statement directly provides a marker for basal cells in the context of murine esophageal epithelium. Other parts of the text do not provide specific markers but rather discuss the cellular and molecular landscape, which does not meet the requirement for specifying a cell marker.
+
+none
+

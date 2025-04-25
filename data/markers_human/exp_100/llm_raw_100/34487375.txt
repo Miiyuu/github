@@ -1,0 +1,138 @@
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("Mouse", "Suprachiasmatic nucleus (SCN)", "VIP-expressing neuron", "VIP")
+2. ("Mouse", "Suprachiasmatic nucleus (SCN)", "AVP-expressing neuron", "AVP")
+3. ("Mouse", "Suprachiasmatic nucleus (SCN)", "GRP-expressing neuron", "GRP")
+4. ("Mouse", "Suprachiasmatic nucleus (SCN)", "CCK-expressing neuron", "CCK")
+5. ("Mouse", "Suprachiasmatic nucleus (SCN)", "C1ql3-expressing neuron", "C1ql3")
+
+These tuples are derived from the part of the text that mentions single-cell RNA sequencing (scRNASeq) identifying five SCN neuronal subtypes with specific marker genes.
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Putative SCN neurons", "Nms")
+2. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Putative SCN neurons", "Avp")
+3. ("Mouse", "Hypothalamus", "Extra-SCN hypothalamic neurons", "Sst")
+4. ("Mouse", "Hypothalamus", "Extra-SCN hypothalamic neurons", "Gal")
+5. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Astrocytes", "Aqp4")
+6. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Astrocytes", "Gfap")
+7. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Oligodendrocytes", "Mog")
+8. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Oligodendrocytes", "Plp1")
+9. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Radial glia", "Ccnb1")
+10. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Radial glia", "Ube2c")
+11. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Microglia", "Ly86")
+12. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Microglia", "C1qa")
+13. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Ependymocytes", "Tmem212")
+14. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Ependymocytes", "Tctex1d4")
+15. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Endothelial cells", "Lum")
+16. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Endothelial cells", "Dcn")
+
+Each tuple contains the species, tissue type, cell name, and marker as specified in the document.
+
+Based on the provided document, the following cell markers have been identified. Each is presented in the required tuple format:
+
+1. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group A neuron", "Gem")
+2. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group A neuron", "Ppp1r17")
+3. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group A neuron", "Anxa5")
+4. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group B neuron", "Vip")
+5. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group B neuron", "C1ql3")
+6. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group B neuron", "Calb2")
+7. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group C neuron", "Grp")
+8. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group C neuron", "Synpr")
+9. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group C neuron", "Cd24a")
+10. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group D neuron", "Prok2")
+11. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group D neuron", "Avp")
+12. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group D neuron", "Nms")
+13. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group E neuron", "Cck")
+14. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group E neuron", "ProkR2")
+15. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group E neuron", "Nsmf")
+16. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group F neuron", "Mef2c")
+17. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group F neuron", "Peg10")
+18. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group F neuron", "Pcdh11x")
+19. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group G neuron", "Gadd45a")
+20. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group G neuron", "Hspa1a")
+21. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group G neuron", "Cck")
+22. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group H neuron", "Vipr2")
+23. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group H neuron", "Lbh")
+24. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Group H neuron", "Gas7")
+25. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group D neuron", "Igfbp5")
+26. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group D neuron", "Ptp4a1")
+27. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group D neuron", "Hmgb3")
+28. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group E neuron", "Aip")
+29. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group E neuron", "Pkib")
+30. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group E neuron", "Dlk1")
+31. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group I neuron", "Chodl")
+32. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group I neuron", "Peg10")
+33. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group I neuron", "Avp")
+34. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group J neuron", "Sncb")
+35. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group J neuron", "Nrxn3")
+36. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group J neuron", "Syt1")
+37. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group K neuron", "Alcam")
+38. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group K neuron", "Synpr")
+39. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Night-time Group K neuron", "Npy")
+
+These tuples capture the species, tissue type, cell name, and specific marker genes as described in the text.
+
+Based on the provided document, several neuropeptides and their receptors are discussed as markers for different cell populations. However, the document does not specify the exact species, tissue type, or cell names. Given the context, it is likely that the discussion is about mouse SCN (Suprachiasmatic Nucleus) cells. Here are the markers identified, with "null" filled in for missing information:
+
+1. ("Mouse", "SCN", "null", "Prok2")
+2. ("Mouse", "SCN", "null", "ProkR2")
+3. ("Mouse", "SCN", "null", "Vip")
+4. ("Mouse", "SCN", "null", "Vipr2")
+5. ("Mouse", "SCN", "null", "Avp")
+6. ("Mouse", "SCN", "null", "Avpr1a")
+7. ("Mouse", "SCN", "null", "Grp")
+8. ("Mouse", "SCN", "null", "Grpr")
+
+These tuples represent the neuropeptide and receptor markers discussed in the text, with the assumption that the species is "Mouse" and the tissue type is "SCN" (Suprachiasmatic Nucleus). The specific cell names are not provided, so "null" is used in those fields.
+
+none
+
+none
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "SCN (Suprachiasmatic nucleus)", "SCN subtype 1", "Avp")
+2. ("Mouse", "SCN (Suprachiasmatic nucleus)", "SCN subtype 2", "Grp")
+3. ("Mouse", "SCN (Suprachiasmatic nucleus)", "SCN subtype 3", "Vip")
+4. ("Mouse", "SCN (Suprachiasmatic nucleus)", "SCN subtype 4", "Cck")
+5. ("Mouse", "SCN (Suprachiasmatic nucleus)", "SCN subtype 5", "C1ql3")
+6. ("Mouse", "SCN (Suprachiasmatic nucleus)", "SCN cells", "Prok2")
+7. ("Mouse", "SCN (Suprachiasmatic nucleus)", "SCN cells", "Rasl11b")
+8. ("Mouse", "SCN (Suprachiasmatic nucleus)", "SCN cells", "Nr1d1")
+9. ("Mouse", "SCN (Suprachiasmatic nucleus)", "SCN cells", "Rgs16")
+10. ("Mouse", "SCN (Suprachiasmatic nucleus)", "SCN cells", "Rasd1")
+
+These tuples represent the species, tissue type, cell name, and specific marker genes as described in the text.
+
+none
+
+none
+
+none
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+- ("Mouse", "Suprachiasmatic nucleus", "Prok2+ cells", "Prok2")
+- ("Mouse", "Suprachiasmatic nucleus", "ProkR2+ cells", "ProkR2")
+- ("Mouse", "Suprachiasmatic nucleus", "VIP+ cells", "VIP")
+- ("Mouse", "Suprachiasmatic nucleus", "Vipr2+ cells", "Vipr2")
+- ("Mouse", "Suprachiasmatic nucleus", "GRP+ cells", "GRP")
+- ("Mouse", "Suprachiasmatic nucleus", "GRPR+ cells", "GRPR")
+- ("Mouse", "Suprachiasmatic nucleus", "AVP+ cells", "AVP")
+- ("Mouse", "Suprachiasmatic nucleus", "AVPR1A+ cells", "AVPR1A")
+
+These markers are derived from the discussion of different signaling axes and cellular nodes within the suprachiasmatic nucleus (SCN) of mice, as indicated in the text.
+
+none
+
+none
+
+none
+

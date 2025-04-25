@@ -1,0 +1,52 @@
+none
+
+none
+
+none
+
+Based on the provided text, there is no explicit mention of specific cell markers for different cell types. The document primarily discusses IL8 expression in various cell populations and its association with clinical outcomes, but it does not list specific marker genes, signature genes, or protein markers that are used to distinguish different cell types. Therefore, the correct response is:
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified. The document does not explicitly mention species or tissue type, so these fields are filled with "null" where specific information is not available.
+
+- ("null", "null", "CD16 monocytes", "FCGR3A (CD16)")
+- ("null", "null", "Monocytes", "LST1")
+- ("null", "null", "M1-like", "S100A6")
+- ("null", "null", "M2-like", "FCER1G")
+- ("null", "null", "CD8+ TEM", "TIMP1")
+- ("null", "null", "CD8+ TCM", "IFI30")
+- ("null", "null", "CD8+ T cells", "CXCL8")
+- ("null", "null", "CD4+ T cells", "CXCL2")
+- ("null", "null", "CD4+ TEM", "CXCL3")
+- ("null", "null", "NK cells", "PLIN2")
+- ("null", "null", "B cells", "IL1B")
+
+The document does not provide a clear distinction between species and tissue types for the listed markers, hence those fields are marked as "null". Additionally, the markers are inferred from the context of the figure description, which suggests these genes are differentially expressed in the specified immune cell subsets.
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Peripheral blood", "CD3+ T cell", "CD3D")
+2. ("Human", "Peripheral blood", "CD3+ T cell", "CD3E")
+3. ("Human", "Peripheral blood", "CD8+ T cell", "CD3E")
+4. ("Human", "Peripheral blood", "CD8+ T cell", "CD8A")
+5. ("Human", "Peripheral blood", "B cell", "CD79A")
+6. ("Human", "Peripheral blood", "CD14 monocyte", "CD14")
+7. ("Human", "Peripheral blood", "NK cell", "NKG7")
+
+The information about species is inferred from the context, as the document discusses human immune cells and diseases. The tissue type is specified as peripheral blood, given that the markers are associated with leukocytes. If more specific tissue types or other details were available in the text, they would be included.
+
+none
+
+none
+
+none
+
+none
+

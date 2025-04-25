@@ -1,0 +1,115 @@
+Based on the provided text, here are the cell markers identified, formatted as requested:
+
+1. ("Human", "Gastric mucosa", "Chief cell", "LIPF")
+2. ("Human", "Gastric mucosa", "Chief cell", "PGC")
+3. ("Human", "Gastric mucosa", "Immune-related cell", "LY6K")
+4. ("Human", "Gastric mucosa", "Immune-related cell", "Major histocompatibility complex class II")
+
+The document does not specify other species or tissue types beyond human and gastric mucosa, so those fields are filled accordingly for the given information.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "Gastric tissue", "Epithelial cell", "EPCAM")
+2. ("Human", "Gastric tissue", "Epithelial cell", "KRT18")
+3. ("Human", "Gastric tissue", "Epithelial cell", "KRT8")
+4. ("Human", "Gastric tissue", "Parietal cell", "ATP4A")
+5. ("Human", "Gastric tissue", "Endocrine cell", "CHGA")
+6. ("Human", "Gastric tissue", "B cell", "MS4A1")
+7. ("Human", "Gastric tissue", "B cell", "CD79A")
+8. ("Human", "Gastric tissue", "T cell", "CD2")
+9. ("Human", "Gastric tissue", "T cell", "CD3D")
+10. ("Human", "Gastric tissue", "T cell", "CD3E")
+11. ("Human", "Gastric tissue", "Macrophage", "CD14")
+12. ("Human", "Gastric tissue", "Mast cell", "CPA3")
+13. ("Human", "Gastric tissue", "Fibroblast", "ACTA2")
+14. ("Human", "Gastric tissue", "Fibroblast", "COL1A2")
+15. ("Human", "Gastric tissue", "Endotheliocyte", "ENG")
+16. ("Human", "Gastric tissue", "Endotheliocyte", "VWF")
+
+Additionally, for distinguishing between malignant and non-malignant epithelium, the following markers were mentioned:
+
+- Malignant epithelium: CLDN4, CLDN7, TFF3, REG4
+- Non-malignant epithelium: MUC5AC, GKN1, PGC, LIPF
+
+These can be added as follows:
+
+17. ("Human", "Gastric tissue", "Malignant epithelial cell", "CLDN4")
+18. ("Human", "Gastric tissue", "Malignant epithelial cell", "CLDN7")
+19. ("Human", "Gastric tissue", "Malignant epithelial cell", "TFF3")
+20. ("Human", "Gastric tissue", "Malignant epithelial cell", "REG4")
+21. ("Human", "Gastric tissue", "Non-malignant epithelial cell", "MUC5AC")
+22. ("Human", "Gastric tissue", "Non-malignant epithelial cell", "GKN1")
+23. ("Human", "Gastric tissue", "Non-malignant epithelial cell", "PGC")
+24. ("Human", "Gastric tissue", "Non-malignant epithelial cell", "LIPF")
+
+none
+
+Based on the provided document, here are the cell markers identified in the format of tuples:
+
+1. ("Human", "Stomach", "Surface cells", "TFF2")
+2. ("Human", "Stomach", "Surface cells", "GKN1")
+3. ("Human", "Stomach", "Surface cells", "MUC5AC")
+4. ("Human", "Stomach", "Chief cells", "PGA3")
+5. ("Human", "Stomach", "Chief cells", "PGA4")
+6. ("Human", "Stomach", "Chief cells", "LIPF")
+7. ("Human", "Stomach", "Mucous neck cells", "PGA3")
+8. ("Human", "Stomach", "Mucous neck cells", "MUC6")
+9. ("Human", "Stomach", "Metaplasia cells", "TFF2")
+10. ("Human", "Stomach", "Metaplasia cells", "CD44")
+11. ("Human", "Stomach", "Metaplasia cells", "SOX9")
+12. ("Human", "Stomach", "Metaplasia cells", "HLA-DPA1")
+
+These tuples represent the specific markers for different cell types within the human stomach as described in the text.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Gastric tumor", "C2 (small intestine-like)", "APOA1")
+2. ("Human", "Gastric tumor", "C2 (small intestine-like)", "FABP2")
+3. ("Human", "Gastric tumor", "C1 (gastric epithelial-like)", "CLDN18")
+4. ("Human", "Gastric tumor", "C1 (gastric epithelial-like)", "TFF2")
+5. ("Human", "Gastric tumor", "C4 (chief cell-like)", "LIPF")
+6. ("Human", "Gastric tumor", "C4 (chief cell-like)", "PGC")
+7. ("Human", "Gastric tumor", "C4 (chief cell-like)", "PGA3")
+
+The document does not specify a species directly, but given that it discusses human diseases and references human-specific data such as TCGA STAD dataset, "Human" is inferred for the species. The tissue type is specified as "Gastric tumor" or related gastric tissues, and the cell names are derived from the molecular characteristics described.
+
+Based on the provided text, the following cell markers can be identified:
+
+- ("Human", "Stomach gland", "GA-FG-CCP cells", "MUC6")
+- ("Human", "Stomach gland", "GA-FG-CCP cells", "PGA3")
+- ("Human", "Intestinal-type gastric adenocarcinoma", "GA-FG-CCP cells", "CTNNB1")
+
+The document mentions that MUC6 and PGA3 are co-expressed in the cells of subgroup C4, which are characterized as GA-FG-CCP cells. Additionally, CTNNB1, a gene involved in the Wnt/β-catenin signaling pathway, is significantly higher in cluster 3, which shares molecular features with GA-FG-CCP.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Gastric tissue", "EBV+ malignant cells", "LY6K")
+2. ("Human", "Gastric tissue", "EBV+ malignant cells", "HLA-DPA1")
+3. ("Human", "Gastric tissue", "EBV+ malignant cells", "HLA-DPB1")
+
+These markers are specifically mentioned in the context of EBV+ malignant cells within the C5 subgroup, which is characterized by high expression of these genes. The species is inferred to be Human based on the context of the study, and the tissue type is gastric, as the research is focused on gastric adenocarcinoma (GA).
+
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+1. The document mentions HLA-DPA1 and HLA-DPB1 as being highly expressed in an EBV-positive sample (IGC5) which is part of a specific subgroup (C5). These are MHC-II genes and are used to characterize immune active cells. However, the specific cell type within this context isn't explicitly named but can be inferred as immune cells based on the function of these markers. Given the lack of a more specific cell name, we will use "Immune cell" for the Cell Name field.
+2. LY6K is also mentioned as a marker expressed in the same EBV-positive tumor cells.
+
+Given the guidelines, the tuples would be as follows:
+
+- ("Human", "Gastric adenocarcinoma", "Immune cell", "HLA-DPA1")
+- ("Human", "Gastric adenocarcinoma", "Immune cell", "HLA-DPB1")
+- ("Human", "Gastric adenocarcinoma", "Tumor cell", "LY6K")
+
+Thus, the final answer is:
+```python
+[
+    ("Human", "Gastric adenocarcinoma", "Immune cell", "HLA-DPA1"),
+    ("Human", "Gastric adenocarcinoma", "Immune cell", "HLA-DPB1"),
+    ("Human", "Gastric adenocarcinoma", "Tumor cell", "LY6K")
+]
+```
+

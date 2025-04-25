@@ -1,0 +1,145 @@
+Based on the information provided in the document, the following cell markers have been identified. The format follows the specified tuple structure:
+
+1. ("Human", "Gastric tissue", "Epithelial cells", "PGC")
+2. ("Human", "Gastric tissue", "Epithelial cells", "TFF1")
+3. ("Human", "Gastric tissue", "Epithelial cells", "MUC5AC")
+4. ("Human", "Gastric tissue", "Epithelial cells", "EPCAM")
+5. ("Human", "Gastric tissue", "Epithelial cells", "GIF")
+6. ("Human", "Gastric tissue", "Epithelial cells", "CHGA")
+7. ("Human", "Gastric tissue", "Fibroblasts", "THY1")
+8. ("Human", "Gastric tissue", "Fibroblasts", "DCN")
+9. ("Human", "Gastric tissue", "Fibroblasts", "COL4A1")
+10. ("Human", "Gastric tissue", "Fibroblasts", "FAP")
+11. ("Human", "Gastric tissue", "Endothelial cells", "PECAM")
+12. ("Human", "Gastric tissue", "Endothelial cells", "ENG")
+13. ("Human", "Gastric tissue", "Endothelial cells", "VWF")
+14. ("Human", "Gastric tissue", "Endothelial cells", "SELE")
+15. ("Human", "Gastric tissue", "Immune cells", "PTPRC")
+16. ("Human", "Gastric tissue", "CD4 T cells", "CD3D")
+17. ("Human", "Gastric tissue", "CD4 T cells", "CD4")
+18. ("Human", "Gastric tissue", "CD4 T cells", "IL7R")
+19. ("Human", "Gastric tissue", "Cytotoxic T cells", "CD3D")
+20. ("Human", "Gastric tissue", "Cytotoxic T cells", "CD8A")
+21. ("Human", "Gastric tissue", "Cytotoxic T cells", "CD8B")
+22. ("Human", "Gastric tissue", "Regulatory T cells", "FOXP3")
+23. ("Human", "Gastric tissue", "Regulatory T cells", "IL2RA")
+24. ("Human", "Gastric tissue", "NK cells", "NKG7")
+25. ("Human", "Gastric tissue", "NK cells", "GNLY")
+26. ("Human", "Gastric tissue", "B cells", "MS4A1")
+27. ("Human", "Gastric tissue", "Plasma cells", "Immunoglobulin genes")
+28. ("Human", "Gastric tissue", "Mast cells", "TPSAB1")
+29. ("Human", "Gastric tissue", "Macrophages", "CD68")
+30. ("Human", "Gastric tissue", "Macrophages", "CD14")
+31. ("Human", "Gastric tissue", "Macrophages", "FCGR3A")
+32. ("Human", "Gastric tissue", "Epithelial cells (GC type 1)", "TFF3")
+33. ("Human", "Gastric tissue", "Epithelial cells (GC type 1)", "FABP1")
+34. ("Human", "Gastric tissue", "Epithelial cells (GC type 1)", "SPINK4")
+35. ("Human", "Gastric tissue", "Epithelial cells (GC type 1)", "MUC13")
+36. ("Human", "Gastric tissue", "Epithelial cells (GC type 1)", "REG4")
+37. ("Human", "Gastric tissue", "Epithelial cells (GC type 2)", "KRT7")
+38. ("Human", "Gastric tissue", "Epithelial cells (GC type 2)", "KRT17")
+39. ("Human", "Gastric tissue", "Epithelial cells (GC type 2)", "SOX4")
+40. ("Human", "Gastric tissue", "Epithelial cells (GC type 2)", "HES1")
+
+Each of these tuples represents a specific marker for different cell types within human gastric tissue, as described in the document.
+
+Based on the provided document, here are the cell markers identified in the specified format:
+
+1. ("null", "null", "Monocyte-macrophage", "CD14")
+2. ("null", "null", "Monocyte-macrophage", "FCGR3A")
+3. ("null", "null", "Monocyte-macrophage", "CD68")
+4. ("null", "null", "Dendritic cell (DC)", "CLEC4C")
+5. ("null", "null", "Dendritic cell (DC)", "ID2")
+6. ("null", "null", "Dendritic cell (DC)", "IRF4")
+7. ("null", "null", "Dendritic cell (DC)", "CD83")
+8. ("null", "null", "Macrophage M1", "CCL19")
+9. ("null", "null", "Macrophage M1", "TNF")
+10. ("null", "null", "Macrophage M1", "CCL5")
+11. ("null", "null", "Macrophage M2", "MRC1")
+12. ("null", "null", "Macrophage M2", "CCL18")
+13. ("null", "null", "Macrophage M2", "CCL13")
+14. ("null", "null", "Macrophage M2", "CD163")
+15. ("null", "null", "Plasmacytoid DC", "IL3RA (CD123)")
+16. ("null", "null", "Plasmacytoid DC", "CLEC4C (CD303)")
+17. ("null", "null", "TME-infiltrating DC", "CD83")
+18. ("null", "null", "TME-infiltrating DC", "CCR7")
+19. ("null", "null", "TME-infiltrating DC", "IL7R")
+20. ("null", "null", "TME-infiltrating DC", "ID2")
+
+The species and tissue type were not specified in the document for these cells, so they are marked as "null" in the tuples.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Gastric TME", "CD4 helper T cell", "CD4")
+2. ("Human", "Gastric TME", "CD8 T cell", "CD8")
+3. ("Human", "Gastric TME", "NK cell", "null") - The document does not specify a particular marker for NK cells, but since it mentions them as part of the classic immunophenotyping, we can infer that they are present and use "null" for the unspecified marker.
+4. ("Human", "Gastric TME", "Treg cell", "Treg")
+5. ("Human", "Gastric TME", "Plasma cell", "null") - Similar to NK cells, plasma cells are mentioned but without a specific marker, hence "null".
+6. ("Human", "Gastric TME", "B cell", "B")
+7. ("Human", "Gastric TME", "Cytotoxic CD8 T lymphocyte (CTL)", "GZMB, GZMA, PRF1, IFNG, NKG7")
+8. ("Human", "Gastric TME", "Exhausted T cell (TEx)", "PDCD1, TIGIT, CD96, HAVCR2 (TIM3), LAG3, CTLA4, VSIR, ICOS, TNFRSF18 (GITR), CD27, TNFRSF9, CD40, CD226, TNFRSF4, CXCL13")
+
+Each tuple is constructed based on the information available in the text, with "null" used where specific markers were not provided for certain cell types.
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Human", "Tumor", "Effector CTLs (subclass 2)", "CXCL13")
+2. ("Human", "Tumor", "Effector CTLs (subclass 2)", "RBPJ")
+3. ("Human", "Tumor", "Effector CTLs (subclass 2)", "NR3C1")
+4. ("Human", "Tumor", "Effector CTLs (subclass 2)", "BATF")
+5. ("Human", "Tumor", "Memory T cells", "CD45RO")
+6. ("Human", "Tumor", "T cells", "CD3")
+7. ("Human", "Tumor", "Exhausted effector T cells", "PD-1")
+8. ("Human", "Tumor", "Tregs (subclass 1)", "MKI67")
+9. ("Human", "Tumor", "Tregs (subclass 1)", "TYMS")
+10. ("Human", "Tumor", "Naïve CD4 T cells", "CCR7")
+11. ("Human", "Tumor", "Naïve CD4 T cells", "SELL")
+12. ("Human", "Tumor", "Effector CD4 T cells", "GZMA")
+13. ("Human", "Tumor", "Effector CD4 T cells", "GZMB")
+14. ("Human", "Tumor", "Effector CD4 T cells", "CXCL13")
+15. ("Human", "Tumor", "Effector CD4 T cells", "BATF")
+16. ("Human", "Tumor", "Effector CD4 T cells", "HLA genes")
+
+These tuples represent the specific markers for different cell types within the context of the human tumor microenvironment as described in the text.
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Human", "null", "Endothelial cell", "PECAM")
+2. ("Human", "null", "Endothelial cell", "ENG")
+3. ("Human", "null", "Endothelial cell", "VWF")
+4. ("Human", "null", "Endothelial cell", "SELE")
+5. ("Human", "null", "Fibroblast", "THY1")
+6. ("Human", "null", "Fibroblast", "DCN")
+7. ("Human", "null", "Fibroblast", "COL4A1")
+8. ("Human", "null", "Fibroblast", "FAP")
+9. ("Human", "null", "Pericyte", "RSG5")
+10. ("Human", "null", "Pericyte", "PDGFRB")
+11. ("Human", "null", "Endothelial cell", "ESM1")
+12. ("Human", "null", "Endothelial cell", "ANGPT2")
+13. ("Human", "null", "Endothelial cell", "COL4A1")
+14. ("Human", "null", "Endothelial cell", "COL4A2")
+15. ("Human", "null", "Endothelial cell", "DLL4")
+16. ("Human", "null", "Endothelial cell", "MARCKSL1")
+17. ("Human", "null", "Endothelial cell", "ACKR1")
+18. ("Human", "null", "Endothelial cell", "CD36")
+19. ("Human", "null", "Endothelial cell", "SELP")
+
+The species is assumed to be Human given the context of the study (gastric tumor microenvironment, TME), but the specific tissue type is not explicitly mentioned in the text for these markers, hence it's marked as "null".
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+1. ("Human", "null", "Fibroblast", "ACTA2")
+2. ("Human", "null", "Endothelial cell", "SOX18")
+3. ("Human", "null", "Endothelial cell", "SOX7")
+4. ("Human", "null", "Fibroblast", "EGR2")
+5. ("Human", "null", "Pericyte", "FOXF2")
+6. ("Human", "null", "Endothelial cell", "KDR")
+7. ("Human", "null", "Endothelial cell", "FLT1")
+8. ("Human", "null", "Endothelial cell", "FLT4")
+9. ("Human", "null", "Endothelial cell", "PDGFB")
+10. ("Human", "null", "Endothelial cell", "TEK")
+
+These markers are derived from the differential gene expression and regulatory activities mentioned in the text for specific cell types within tumor and normal tissues. The species is assumed to be Human, as the context suggests a study related to human gastric cancer. Tissue type is not specified beyond being either tumor or normal, so it's marked as "null".
+
+none
+

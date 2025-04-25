@@ -1,0 +1,163 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Ocular tissue", "Microglia", "MHCII-")
+2. ("Mouse", "Ocular tissue", "MHCII+CD11c-", "MHCII+CD11c-")
+3. ("Mouse", "Ocular tissue", "MHCII+CD11c+", "MHCII+CD11c+")
+4. ("Mouse", "Ocular tissue", "MHCII-", "MHCII-")
+5. ("Human", "Choroid", "MHCII+CD11C-", "MHCII+CD11C-")
+6. ("Human", "Choroid", "MHCII+CD11C+", "MHCII+CD11C+")
+
+These tuples are based on the macrophage subsets and their surface markers as described in the text. The species, tissue type, cell name, and marker were directly extracted or inferred from the content of the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Choroid", "MHCII− Macrophages", "MHCII")
+2. ("Mouse", "Choroid", "MHCII+CD11c− Macrophages", "MHCII")
+3. ("Mouse", "Choroid", "MHCII+CD11c+ Macrophages", "MHCII")
+4. ("Mouse", "Choroid", "MHCII+CD11c− Macrophages", "CD11c")
+5. ("Mouse", "Choroid", "MHCII+CD11c+ Macrophages", "CD11c")
+6. ("Human", "Choroid", "MHCII+CD11C− Macrophages", "MHCII")
+7. ("Human", "Choroid", "MHCII+CD11C+ Macrophages", "MHCII")
+8. ("Human", "Choroid", "MHCII+CD11C− Macrophages", "CD11C")
+9. ("Human", "Choroid", "MHCII+CD11C+ Macrophages", "CD11C")
+
+These tuples are based on the information regarding macrophage subsets and their respective markers (MHCII, CD11c/CD11C) in both mouse and human choroidal tissues.
+
+Based on the information provided in the document, several markers are identified for different cell types in mouse eye tissue. Here are the tuples with the required format:
+
+1. ("Mouse", "Eye", "Macrophage", "IBA1")
+2. ("Mouse", "Eye", "Endothelial cell", "ICAM2")
+3. ("Mouse", "Eye", "Dendritic cell", "CD11c")
+4. ("Mouse", "Eye", "Neutrophil", "Ly6G")
+5. ("Mouse", "Eye", "Natural Killer cell", "NK1.1")
+6. ("Mouse", "Eye", "Eosinophil", "Siglec F")
+7. ("Mouse", "Eye", "B cell", "B220")
+8. ("Mouse", "Eye and blood", "T cell (CD8+)", "CD8")
+9. ("Mouse", "Eye and blood", "T cell (CD4+)", "CD4")
+10. ("Mouse", "Eye", "Antigen-presenting cell", "MHC II")
+11. ("Mouse", "Eye", "Monocyte/Macrophage", "CD11b")
+12. ("Mouse", "Eye and blood", "Leukocyte", "CD45")
+
+These markers are used to identify and distinguish various cell types in the context of the study.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "null", "Microglia", "CD45dim")
+2. ("Mouse", "null", "Infiltrating immune cells", "CD45high")
+3. ("Mouse", "null", "Microglia", "CD64+MHCIIlow")
+4. ("Mouse", "null", "MHCII- macrophages", "MHCII-")
+5. ("Mouse", "null", "MHCII+CD11c- macrophages", "MHCII+CD11c-")
+6. ("Mouse", "null", "MHCII+CD11c+ macrophages", "MHCII+CD11c+")
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "null", "Macrophages", "MHCII+CD11c+")
+2. ("Mouse", "null", "Macrophages", "MHCII+CD11c-")
+3. ("Mouse", "null", "Tissue resident macrophages and peripheral blood monocytes", "Cx3cr1")
+
+The document does not specify a particular tissue type for these markers, so "null" is used in the "Tissue Type" field. The markers are used to distinguish different types of macrophages and monocytes in mouse models.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Macrophages", "GFP+MHCII-")
+2. ("Mouse", "Retina", "Macrophages", "GFP-MHCII-")
+3. ("Mouse", "Retina", "Macrophages", "GFP+MHCII+CD11c-")
+4. ("Mouse", "Retina", "Macrophages", "GFP-MHCII+CD11c-")
+5. ("Mouse", "Retina", "Macrophages", "GFP+MHCII+CD11c+")
+
+These tuples are derived from the descriptions of different macrophage subsets in the mouse retina, using GFP (Green Fluorescent Protein) and MHCII (Major Histocompatibility Complex Class II) as markers, along with CD11c for further subset differentiation.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Eye (iris, retina, choroid)", "MHCII- macrophages", "CD64+MHCII-")
+2. ("Mouse", "Eye (iris, retina, choroid)", "MHCII+CD11c- macrophages", "CD64+MHCII+CD11c-")
+3. ("Mouse", "Eye (iris, retina, choroid)", "MHCII+CD11c+ macrophages", "CD64+MHCII+CD11c+")
+4. ("Mouse", "Eye (retina, choroid)", "Microglia", "CD45DimCD64+MHCIILow")
+
+These markers are used to distinguish different macrophage subsets and microglia in the eye tissues of mice.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "RPE-choroid", "Macrophage", "CD68")
+2. ("Human", "RPE-choroid", "Macrophage", "CD163")
+3. ("Human", "RPE-choroid", "Macrophage", "CD14")
+4. ("Human", "RPE-choroid", "Macrophage", "AIF1 (IBA1)")
+5. ("Human", "RPE-choroid", "Macrophage", "HLA-DMA")
+6. ("Human", "RPE-choroid", "Macrophage", "ITGAX (CD11C)")
+7. ("Human", "RPE-choroid", "Effector NK/T cells", "CD2")
+8. ("Human", "RPE-choroid", "Effector NK/T cells", "CD8B")
+9. ("Human", "RPE-choroid", "Effector NK/T cells", "NKG7")
+10. ("Human", "RPE-choroid", "B cells", "CD79A")
+11. ("Human", "RPE-choroid", "Mast cells", "KIT")
+12. ("Human", "RPE-choroid", "Mast cells", "CPA3")
+
+These tuples represent the cell markers for different cell types as described in the document.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Macrophage", "Tie2")
+2. ("Mouse", "Retina", "Macrophage", "LEPR")
+3. ("Mouse", "Retina", "Macrophage", "ID1")
+4. ("Mouse", "Retina", "Macrophage", "EPAS1")
+5. ("Mouse", "Retina", "Macrophage", "MIR29A")
+6. ("Mouse", "Retina", "Macrophage", "TNF")
+7. ("Mouse", "Retina", "Macrophage", "PDGFB")
+
+These markers are associated with different subsets of macrophages in the mouse retina and their roles in angiogenesis.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Choroid", "Mac-E (nAMD-associated macrophage population)", "MIR29A")
+2. ("Mouse", "Choroid", "Mac-E (nAMD-associated macrophage population)", "TNF")
+3. ("Mouse", "Choroid", "Mac-E (nAMD-associated macrophage population)", "PDGFB")
+4. ("Mouse", "Choroid", "Mac-E (nAMD-associated macrophage population)", "CXCR4")
+5. ("Mouse", "Choroid", "Mac-E (nAMD-associated macrophage population)", "VEGFA")
+6. ("Mouse", "Choroid", "Mac-E (nAMD-associated macrophage population)", "THBS1")
+
+These markers are specifically mentioned in relation to the Mac-E subset of macrophages, which is associated with nAMD (neovascular age-related macular degeneration) and demonstrates differential expression compared to other macrophage subsets.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Microglia", "CD45dimCD64+")
+2. ("Mouse", "Retina", "Activated microglia", "CD45highCD64+MHCII+")
+3. ("Mouse", "Retina", "Macrophages", "MHCII+CD11c+")
+4. ("Mouse", "Iris and ciliary body macrophages", "Macrophages", "MHCII−")
+5. ("Mouse", "Choroidal macrophages", "Macrophages", "MHCII−")
+6. ("Mouse", "Retina", "Macrophages", "Cx3cr1low or Cx3cr1+")
+
+The information is derived from the context where these markers are used to distinguish between different types of cells in the mouse retina, iris, ciliary body, and choroid.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "null", "Macrophage", "MHCII")
+2. ("Mouse", "null", "Macrophage", "CD11c")
+3. ("Human", "null", "Mac-A and Mac-B subsets", "CYR61")
+4. ("Human", "null", "Mac-A and Mac-B subsets", "ENG")
+5. ("Human", "null", "Mac-A and Mac-B subsets", "TEK")
+6. ("Human", "null", "Mac-A and Mac-B subsets", "LEPR")
+7. ("Human", "null", "Mac-A and Mac-B subsets", "ID1")
+8. ("Human", "null", "Mac-A and Mac-B subsets", "EPAS1")
+
+The tissue type is not specifically mentioned for each marker in the text, so it's set as "null" in the tuples. The document primarily discusses macrophages and their subpopulations, and the markers associated with these cells.
+
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "RPE-choroid", "Macrophage", "HLA.DMA")
+2. ("Human", "RPE-choroid", "Macrophage", "ITGAX")
+
+The document mentions HLA.DMA (MHCII) and ITGAX (CD11C) as markers for macrophages in human RPE-choroid samples. The species is human, and the tissue type is RPE-choroid. No other specific cell types or markers are clearly defined with the required detail in the given text.
+
+Based on the provided document, the following cell markers have been identified and are presented in the requested format:
+
+1. ("Mouse", "Eye", "MHCII- macrophage", "MHCII-")
+2. ("Mouse", "Eye", "MHCII+CD11c- macrophage", "MHCII+CD11c-")
+3. ("Mouse", "Eye", "MHCII+CD11c+ macrophage", "MHCII+CD11c+")
+4. ("Human", "Choroid", "MHCII+CD11C- macrophage", "MHCII+CD11C-")
+5. ("Human", "Choroid", "MHCII+CD11C+ macrophage", "MHCII+CD11C+")
+
+These tuples represent the specific markers used to distinguish different types of macrophages within the mouse eye and human choroid as described in the text.
+
+none
+

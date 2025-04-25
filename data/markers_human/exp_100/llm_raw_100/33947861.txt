@@ -1,0 +1,150 @@
+none
+
+none
+
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("Mouse", "Lung", "AT1 cell", "Spock2")
+2. ("Mouse", "Lung", "AT2 cell", "Lamp3")
+3. ("Mouse", "Lung", "Epithelial cell", "Cdh1")
+4. ("Mouse", "Lung", "Mesenchymal cell", "Pdgfra")
+
+These markers are derived from the differential expression or association with specific cell types as described in the text.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Lung", "AT1 cell", "HOPX")
+2. ("Mouse", "Lung", "AT2 cell", "SFTPC")
+3. ("Mouse", "Lung", "Proliferating cells", "KI67")
+
+These markers are used to distinguish different cell types in the lung tissue of mice, as indicated by their differential expression or loss upon genetic manipulation.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Lung", "AT1 cell", "NKX2-1")
+2. ("Mouse", "Lung", "AT2 cell", "Sftpc")
+3. ("Mouse", "Lung", "AT2 cell", "Sftpb")
+4. ("Mouse", "Lung", "AT1 cell", "Pdpn")
+5. ("Mouse", "Lung", "AT1 cell", "Hopx")
+6. ("Mouse", "Lung", "AT2 cell", "Lamp3")
+7. ("Mouse", "Lung", "null", "Cdh1")  // Cdh1 is mentioned in relation to lineage sites but not specifically tied to a single cell type.
+8. ("Mouse", "Lung", "null", "Irf2")  // Irf2 is mentioned as a common site for AT1 and AT2 cells, but not specific to one cell type.
+
+However, since the "Marker" field must not be empty and if other fields are empty, they should be filled with "null", the final list of tuples is:
+
+- ("Mouse", "Lung", "AT1 cell", "NKX2-1")
+- ("Mouse", "Lung", "AT2 cell", "Sftpc")
+- ("Mouse", "Lung", "AT2 cell", "Sftpb")
+- ("Mouse", "Lung", "AT1 cell", "Pdpn")
+- ("Mouse", "Lung", "AT1 cell", "Hopx")
+- ("Mouse", "Lung", "AT2 cell", "Lamp3")
+- ("Mouse", "Lung", "null", "Cdh1")
+- ("Mouse", "Lung", "null", "Irf2")
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Lung", "AT1 cell", "Spock2")
+2. ("Mouse", "Lung", "AT2 cell", "Lamp3")
+3. ("Mouse", "Lung", "AT1 and AT2 cell", "Cdh1")
+4. ("Mouse", "Lung", "AT1 and AT2 cell", "NKX2-1")
+
+The document does not specify a species, but given the context and use of specific genetic tools (e.g., Wnt3aCre, SftpcCreER), it is reasonable to assume that the study is conducted in mice. The tissue type is clearly stated as the lung. The cells are identified as AT1 and AT2, which are alveolar epithelial cells. The markers Spock2, Lamp3, Cdh1, and NKX2-1 are used to distinguish between these cell types.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Lung", "SOX9 progenitors", "Sox9")
+2. ("Mouse", "Lung", "AT1 cells", "Spock2")
+3. ("Mouse", "Lung", "AT1 cells", "Lamp3")
+
+These tuples are derived from the text where it is mentioned that AT1 and AT2 cells were distinguishable at E18.5, and the bifurcated trajectory originating from embryonic SOX9 progenitors and splitting toward adult AT1 and AT2 cells, as respectively exemplified by Sox9, Spock2, and Lamp3.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("null", "null", "AT1 cells", "Tead1/4")
+2. ("null", "null", "AT1 cells", "Ctgf")
+3. ("null", "null", "AT1 cells", "Cyr61")
+4. ("null", "null", "AT2 cells", "CEBPA")
+
+The species and tissue type are not explicitly mentioned in the document, so they are filled with "null". The document provides information on AT1 and AT2 cells, which are types of alveolar cells, but it does not specify the exact tissue or species, although it is likely referring to lung tissue and possibly a mammalian model such as mouse based on the context.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Lung", "AT1 cell", "HOPX")
+2. ("Mouse", "Lung", "AT2 cell", "SFTPC")
+3. ("Mouse", "Lung", "AT2 cell", "LAMP3")
+4. ("Mouse", "Lung", "AT1 cell", "Ager")
+5. ("Mouse", "Lung", "AT1 cell", "Hopx")
+6. ("Mouse", "Lung", "AT2 cell", "Il33")
+7. ("Mouse", "Lung", "AT2 cell", "Lcn2")
+
+These tuples are derived from the text where specific genes or proteins are mentioned as markers for distinguishing between AT1 and AT2 cells in mouse lung tissue.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Lung", "AT2 cell", "SFTPC")
+2. ("Mouse", "Lung", "AT2 cell", "LAMP3")
+3. ("Mouse", "Lung", "AT1 cell", "HOPX")
+4. ("Mouse", "Lung", "AT1 cell", "PDPN")
+
+These markers are used to distinguish between AT1 and AT2 cells in the lung tissue of mice.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("null", "Lung", "AT2 cell", "Lamp3")
+2. ("null", "Lung", "AT1 cell", "Spock2")
+3. ("null", "Lung", "Progenitor cell", "Sox9")
+4. ("null", "Lung", "Proliferative cell", "Mki67")
+
+The species is not explicitly mentioned in the given text, hence it's marked as "null". The tissue type is clearly indicated as the lung. The document provides clear markers for AT2 cells (Lamp3), AT1 cells (Spock2), progenitor cells (Sox9), and proliferative cells (Mki67).
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Lung", "AT1 cell", "NKX2-1")
+2. ("Mouse", "Lung", "AT2 cell", "SFTPC")
+3. ("Mouse", "Lung", "AT2 cell", "LAMP3")
+
+These markers are used to distinguish between AT1 and AT2 cells in mouse lung tissue. The document discusses changes in the expression of these markers in response to genetic modifications, indicating their importance as cell-specific identifiers.
+
+none
+
+The provided text does not contain specific information about cell markers as defined by the differential expression in different cell types, which are necessary to form the requested tuples. The text discusses genetic and epigenetic changes, as well as some transcription factors, but it does not provide clear marker genes, signature genes, protein markers, or molecular markers that are used to distinguish different cell types.
+
+Based on the provided text, there are some mentions of cell markers, particularly in the context of distinguishing between AT1 and AT2 cells. Here are the identified cell markers in the required format:
+
+1. ("Mouse", "Lung", "AT1 cell", "YAP/TAZ")
+2. ("Mouse", "Lung", "AT2 cell", "CEBPA")
+3. ("Mouse", "Lung", "AT2 cell", "LAMP3")
+4. ("Mouse", "Lung", "AT2 cell", "ECAD")
+
+These markers are used to distinguish between alveolar type 1 (AT1) and alveolar type 2 (AT2) cells in the mouse lung.
+
+none
+
+none
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+none
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+none
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+none
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+Based on the information provided in the document, the following cell markers can be identified. Since the species and tissue type are not explicitly mentioned, "null" is used for those fields. Here are the tuples with the required format:
+
+1. ("null", "null", "Epithelial cell", "Nkx2-1")
+2. ("null", "null", "Epithelial cell", "Epcam")
+3. ("null", "null", "Endothelial cell", "Cdh5")
+4. ("null", "null", "Immune cell", "Runx1")
+5. ("null", "null", "Mesenchymal cell", "Tbx4")
+
+These tuples include the cell markers that are differentially expressed in the specified cell types.
+

@@ -1,0 +1,102 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. **("Human", "Esophagus", "Pathogenic effector TH2 cells", "GPR15")** - GPR15 is upregulated in pathogenic effector TH2 (peTH2) cells and is associated with esophagus homing.
+2. **("Human", "Peripheral blood", "Memory CD4+ T cells", "CRTH2")** - CRTH2 is a marker for memory CD4+ T cells, which can be further classified into conventional TH2 or peTH2 phenotypes based on the presence or absence of CD161.
+
+These tuples are derived from the information given in the document, where specific markers are used to identify and characterize different cell types in the context of eosinophilic esophagitis.
+
+Based on the provided document, the following cell markers have been identified and are presented in the requested format:
+
+1. ("null", "null", "Eosinophil", "SIGLEC8")
+2. ("null", "null", "Eosinophil", "CCR3")
+3. ("null", "null", "Eosinophil", "PTGDR2")
+4. ("null", "null", "Eosinophil", "IL5RA")
+5. ("null", "null", "Eosinophil", "CLC")
+6. ("null", "null", "Eosinophil", "RNASE2")
+7. ("null", "null", "Neutrophil", "CXCR2")
+8. ("null", "null", "Neutrophil", "FCGR3A")
+9. ("null", "null", "Neutrophil", "FCGR3B")
+
+The species and tissue type were not specified for these markers in the text, hence they are filled with "null".
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "Esophagus", "TH17 cells", "IL26")
+2. ("Human", "Esophagus", "TH17 cells", "IL17A")
+3. ("Human", "Esophagus", "TH17 cells", "IL17F")
+4. ("Human", "Esophagus", "CD8+ cells", "IFNG")
+5. ("Human", "Esophagus", "CD8+ cells", "GZMB")
+6. ("Human", "Esophagus", "CD8+ cells", "GNLY")
+7. ("Human", "Esophagus and Duodenum", "T cells", "ITGA4")
+8. ("Human", "Esophagus and Duodenum", "T cells", "ITGB7")
+9. ("Human", "Duodenum", "T cells", "CCR9")
+10. ("Human", "Esophagus", "CD4+ T cells", "GPR15")
+
+These tuples are derived from the differential expression patterns of various genes in T cell subtypes across the esophagus and duodenum as described in the document.
+
+Based on the provided text, there are no explicit mentions of cell markers in the format requested. The document discusses peTH2 cells and their interactions with other cells, but it does not provide a clear "Species", "Tissue Type", "Cell Name", and "Marker" combination as required. Therefore, the response is:
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "CRTH2+CD161+ memory CD4+ T cells", "CRTH2")
+2. ("Human", "null", "CRTH2+CD161+ memory CD4+ T cells", "CD161")
+3. ("Human", "null", "CRTH2+CD161- memory CD4+ T cells", "CRTH2")
+4. ("Human", "null", "peTH2 cells", "IL4")
+5. ("Human", "null", "peTH2 cells", "IL5")
+6. ("Human", "null", "peTH2 cells", "IL9")
+7. ("Human", "null", "peTH2 cells", "IL13")
+8. ("Human", "null", "peTH2 cells", "HPGDS")
+9. ("Human", "null", "peTH2 cells", "IL17RB")
+10. ("Human", "null", "peTH2 cells", "IL1RL1")
+
+The document does not specify a particular tissue type, so "null" is used for the "Tissue Type" field. The species is clearly Human, and the markers are directly associated with specific cell types as described in the text.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Esophagus", "peTH2 cell", "GPR15")
+2. ("Human", "Peripheral blood", "peTH2 cell", "CRTH2")
+3. ("Human", "Peripheral blood", "peTH2 cell", "CD161")
+4. ("Human", "Peripheral blood", "CD4+ T cell", "CD154")
+5. ("Human", "Peripheral blood", "peTH2 cell", "FFAR3")
+
+These markers are used to distinguish different cell types and their differential expression in specific conditions or tissues as described in the document.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "Esophagus", "peTH2 cell", "GPR15")
+2. ("Human", "Esophagus", "peTH2 cell", "CD161")
+3. ("Human", "Esophagus", "peTH2 cell", "IL-25R")
+4. ("Human", "Esophagus", "peTH2 cell", "IL-33R")
+5. ("Human", "Esophagus", "peTH2 cell", "CCR8")
+6. ("Human", "Esophagus", "peTH2 cell", "FFAR3")
+7. ("Human", "Esophagus", "peTH2 cell", "HPGDS")
+8. ("Human", "Esophagus", "peTH2 cell", "PPAR-γ")
+
+These tuples are based on the information that peTH2 cells, which are a subset of CD4+ T cells, express these markers specifically in the esophagus, and this expression is associated with their role in eosinophilic esophagitis (EoE).
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Peripheral blood", "Memory CD4+ T cell", "CD3")
+2. ("Human", "Peripheral blood", "Memory CD4+ T cell", "CD4")
+3. ("Human", "Peripheral blood", "Memory CD4+ T cell", "CD45RA")
+4. ("Human", "Peripheral blood", "Memory CD4+ T cell", "CRTH2")
+5. ("Human", "Peripheral blood", "Memory CD4+ T cell", "CD161")
+6. ("Human", "Peripheral blood", "T cell", "GPR15")
+7. ("Human", "Peripheral blood", "T cell", "FFAR3")
+
+These tuples are derived from the specific antibodies and markers used in the flow cytometry analysis to identify and sort different T cell populations, particularly memory CD4+ T cells, and their subsets based on the expression of CRTH2 and CD161.
+
+none
+
+none
+
+none
+
+none
+

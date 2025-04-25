@@ -1,0 +1,162 @@
+none
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Mouse", "Esophagus", "Columnar transition epithelium", "Krt8")
+2. ("Mouse", "Esophagus", "Columnar transition epithelium", "Krt18")
+3. ("Mouse", "Esophagus", "Columnar transition epithelium", "Cldn18")
+4. ("Mouse", "Esophagus", "Squamous transition epithelium", "Krt14")
+5. ("Mouse", "Esophagus", "Squamous transition epithelium", "Krt5")
+6. ("Mouse", "Esophagus", "Squamous transition epithelium", "Trp63")
+7. ("Mouse", "Esophagus", "Transition epithelium (both columnar and squamous)", "EpCam")
+8. ("Human", "Esophagus (Barrett's Esophagus)", "Metaplastic cells", "KRT8")
+9. ("Human", "Esophagus (Barrett's Esophagus)", "Metaplastic cells", "AGR2")
+10. ("Human", "Esophagus (Barrett's Esophagus)", "Metaplastic cells", "VIL1")
+11. ("Human", "Esophagus (Barrett's Esophagus)", "Metaplastic cells", "KRT7")
+12. ("Human", "Esophagus (Barrett's Esophagus)", "Metaplastic cells", "KRT20")
+13. ("Mouse", "Esophagus", "SmoM2+ esophageal cells", "EpCam")
+
+These tuples summarize the key marker information extracted from the document, adhering to the specified format and requirements.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Esophagus", "Epithelial cells", "Krt8")
+2. ("Mouse", "Esophagus", "Epithelial cells", "Krt7")
+3. ("Mouse", "Esophagus", "Epithelial cells", "EpCam")
+4. ("Human", "Esophagus", "Barrett's Esophagus cells", "KRT8")
+5. ("Human", "Esophagus", "Barrett's Esophagus cells", "AGR2")
+6. ("Human", "Esophagus", "Barrett's Esophagus cells", "VIL1")
+7. ("Human", "Esophagus", "Barrett's Esophagus cells", "KRT7")
+8. ("Human", "Esophagus", "Barrett's Esophagus cells", "KRT20")
+9. ("Mouse", "Esophagus", "Squamous cells", "Krt14")
+10. ("Mouse", "Esophagus", "Squamous cells", "Krt4")
+11. ("Mouse", "Esophagus", "Squamous cells", "Krt13")
+12. ("Mouse", "Esophagus", "Columnar metaplasia cells", "Krt7")
+13. ("Mouse", "Esophagus", "Columnar metaplasia cells", "Krt8")
+14. ("Mouse", "Esophagus", "Columnar metaplasia cells", "Muc5ac")
+15. ("Mouse", "Esophagus", "Columnar metaplasia cells", "Muc2")
+16. ("Mouse", "Esophagus", "Columnar metaplasia cells", "Muc6")
+17. ("Mouse", "Esophagus", "Columnar metaplasia cells", "Agr2")
+18. ("Mouse", "Esophagus", "Columnar metaplasia cells", "Vil1")
+
+These tuples reflect the specific markers associated with different cell types and conditions as described in the text.
+
+Based on the provided document, here are the identified cell markers in the requested format:
+
+1. ("Mouse", "Esophageal tissue", "Basal epithelial cells", "Krt14")
+2. ("Mouse", "Esophageal tissue", "Suprabasal differentiated cells", "Krt13")
+3. ("Mouse", "Esophageal tissue", "Terminally differentiated cells", "Sprr1b")
+4. ("Mouse", "Esophageal tissue", "Smo+ cells", "Ptch1")
+5. ("Mouse", "Esophageal tissue", "Columnar cells", "Krt8")
+6. ("Mouse", "Esophageal tissue", "Columnar cells", "Krt18")
+7. ("Mouse", "Esophageal tissue", "Columnar cells", "Krt19")
+
+These tuples reflect the specific cell types and their associated markers as described in the text.
+
+Based on the provided document, here are the cell markers identified in the specified format:
+
+1. ("Mouse", "Esophagus", "Basal cells", "Itga6")
+2. ("Mouse", "Esophagus", "Basal cells", "Itgb4")
+3. ("Mouse", "Esophagus", "Smo+ differentiated cells", "Abca12")
+4. ("Mouse", "Esophagus", "Smo+ differentiated cells", "Sprr1b")
+5. ("Mouse", "Esophagus", "Smo+/Krt8+ columnar-like cells", "Sox9")
+6. ("Mouse", "Esophagus", "EpHI/K8+ cells", "Krt7")
+7. ("Mouse", "Esophagus", "EpHI/K8+ cells", "Muc5ac")
+8. ("Mouse", "Esophagus", "EpHI/K8+ cells", "Tff1")
+9. ("Mouse", "Esophagus", "EpHI/K8neg cells", "Krt5")
+10. ("Mouse", "Esophagus", "EpHI/K8neg cells", "Krt14")
+11. ("Mouse", "Esophagus", "EpHI/K8neg cells", "Trp63")
+12. ("Mouse", "Embryonic esophagus", "Embryonic esophageal cells", "Krt8")
+13. ("Mouse", "Embryonic esophagus", "Embryonic esophageal cells", "Krt7")
+14. ("Mouse", "Embryonic esophagus", "Embryonic esophageal cells", "Krt20")
+
+These tuples represent the cell markers that were mentioned with their corresponding species, tissue type, and cell name as per the requirements.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Esophagus", "Epithelial cells", "Sox9")
+2. ("Human", "Barrett's esophagus", "null", "SOX9")
+3. ("Mouse", "GI tract epithelium", "EpCam-positive cells", "Sox9")
+4. ("Mouse", "Esophagus", "EpHI cells", "Krt7")
+5. ("Mouse", "Esophagus", "EpHI cells", "Krt8")
+6. ("Mouse", "Esophagus", "EpHI cells", "Krt18")
+7. ("Mouse", "Esophagus", "EpHI cells", "Krt20")
+
+These tuples represent the species, tissue type, cell name, and marker as specified in the requirements.
+
+Based on the provided document, several markers are mentioned in the context of different cell types and conditions. Here are the identified cell markers in the required format:
+
+1. ("Mouse", "Esophageal tissue", "EpHI/K8+ cells", "Krt8")
+2. ("Mouse", "Esophageal tissue", "EpHI/K8neg cells", "Krt8")
+3. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Ptch1")
+4. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Gli1")
+5. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Lgr5")
+6. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Axin2")
+7. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Lef1")
+8. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Bmp6")
+9. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Krt20")
+10. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Foxc1")
+11. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Foxe1")
+12. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Runx2")
+13. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Zeb2")
+14. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Krt7")
+15. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Krt8")
+16. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Krt19")
+17. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Tff1")
+18. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Muc5ac")
+19. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Muc4")
+20. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Gkn2")
+21. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Mgam")
+22. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Vil1")
+23. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "Foxa2")
+24. ("Mouse", "Esophageal tissue", "Columnar differentiated cells", "GATA6")
+
+Each tuple corresponds to a marker that is differentially expressed in the specified cell type within the esophageal tissue of mice.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Esophagus", "Squamous cell", "Krt7")
+2. ("Mouse", "Esophagus", "Squamous cell", "Krt20")
+3. ("Mouse", "Esophagus", "Squamous cell", "p63")
+
+The other mentions in the text, such as Sonic Hedgehog (Shh) and SmoM2, are related to signaling pathways or their components but do not serve as specific cell markers for the cell types discussed. Therefore, they are not included in the list.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("null", "Esophagus", "Esophageal cells", "Krt8")
+2. ("null", "Esophagus", "Esophageal cells", "Sox9")
+3. ("null", "Esophagus", "Esophageal cells", "CyclinD1")
+
+These markers are associated with columnar differentiation in esophageal cells. The species is not explicitly mentioned, so it is filled as "null".
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Esophagus", "Columnar cells", "Sox9")
+2. ("Mouse", "Esophagus", "Columnar/intestinal cells", "K8")
+3. ("Mouse", "Esophagus", "Columnar/intestinal cells", "A33")
+4. ("Human", "Barrett's esophagus", "Epithelial cells", "Foxa2")
+5. ("Human", "Barrett's esophagus", "Epithelial cells", "Agr2")
+6. ("Human", "Barrett's esophagus", "Epithelial cells", "Muc2")
+
+The document does not specify a direct marker for "EpHI cells" or "esophageal progenitors," and it mentions Cdx2 as a regulator but not necessarily a specific marker for any of the cell types in the context given. Therefore, Cdx2 is not included in the list.
+
+Based on the provided document, the following cell markers are identified. The information is organized according to the specified format:
+
+1. ("Human", "Esophagus", "Columnar metaplasia cells", "EpCam")
+2. ("Human", "Esophagus", "Columnar metaplasia cells", "Krt8")
+3. ("Human", "Esophagus", "Columnar metaplasia cells", "Sox9")
+
+These markers (EpCam, Krt8, and Sox9) are specifically mentioned as being expressed in human columnar metaplasia of the esophagus. The other details, such as the species and tissue type, are derived from the context provided in the text.
+
+Based on the provided document, there is no explicit information about cell markers used to distinguish different cell types in a specific context of species, tissue type, and cell name. The document lists various antibodies and probes that are used for staining and analysis, but it does not specify their use as markers for particular cell types. Therefore, according to the requirements, the answer is:
+
+none
+
+none
+
+none
+
+none
+

@@ -1,0 +1,120 @@
+none
+
+Based on the provided text, the following cell markers have been identified. The information is structured as per your requirements:
+
+1. ("Mouse", "Gastric corpus epithelium", "Base stem cells (BSCs)", "Troy")
+2. ("Mouse", "Gastric corpus epithelium", "Base stem cells (BSCs)", "Lgr5")
+3. ("Mouse", "Gastric corpus epithelium", "Isthmus stem cells (IsthSCs)", "Sox2")
+4. ("Mouse", "Gastric corpus epithelium", "Isthmus stem cells (IsthSCs)", "Runx1")
+5. ("Mouse", "Gastric corpus epithelium", "Isthmus stem cells (IsthSCs)", "Lrig1")
+6. ("Mouse", "Gastric corpus epithelium", "Isthmus stem cells (IsthSCs)", "Mist1 (Bhlha15)")
+7. ("Mouse", "Gastric corpus epithelium", "Isthmus stem cells (IsthSCs)", "Bmi1")
+
+Note: The species "Mouse" is inferred based on the context of the study and typical model organisms used in such research. If this assumption is incorrect, please replace "Mouse" with the appropriate species or "null" if not specified.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Gastric corpus glands", "Isthmus cells", "Sox2")
+2. ("Mouse", "Gastric corpus glands", "Isthmus cells", "Mist1")
+3. ("Mouse", "Gastric corpus glands", "Isthmus cells", "Runx1")
+4. ("Mouse", "Gastric corpus glands", "Isthmus cells", "Ki67")
+5. ("Mouse", "Gastric corpus glands", "Isthmus cells", "Lrig1")
+6. ("Mouse", "Gastric corpus glands", "IsthSCs (Isthmus stem cells)", "Stmn1")
+
+These tuples represent the species, tissue type, cell name, and marker as per the requirements.
+
+none
+
+none
+
+Based on the provided document, the following cell marker information can be extracted:
+
+- **Species**: Mouse
+- **Tissue Type**: Stomach corpus epithelium
+- **Cell Name**: Neck cells
+- **Marker**: Muc6
+
+This leads to the tuple:
+```python
+("Mouse", "Stomach corpus epithelium", "Neck cells", "Muc6")
+```
+
+No other specific markers for different cell types are mentioned in the text. Therefore, the final output is:
+
+```python
+[("Mouse", "Stomach corpus epithelium", "Neck cells", "Muc6")]
+```
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Stomach corpus", "Isthmus progenitor", "Mki67")
+2. ("Mouse", "Stomach corpus", "Isthmus progenitor", "Stmn1")
+
+These tuples are derived from the information that Mki67 (Ki67) and Stmn1 were identified as marker candidates for the actively cycling isthmus progenitor population in the mouse stomach corpus.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Stomach corpus glands", "Parietal cells", "Atp4b")
+2. ("Mouse", "Stomach corpus glands", "Pit cells", "Muc5ac")
+3. ("Mouse", "Stomach corpus glands", "Neck cells", "GS-II")
+4. ("Mouse", "Isthmus region", "Stmn1high cells", "Stmn1")
+5. ("Mouse", "Isthmus region", "Stmn1low cells", "Stmn1")
+6. ("Mouse", "Isthmus region", "Proliferative cells", "Ki67")
+7. ("Mouse", "Isthmus region", "G1/early S phase cells", "Cdt1")
+8. ("Mouse", "Isthmus region", "G2/M phase cells", "Ccnb1")
+9. ("Mouse", "Isthmus region", "Pit cells", "Muc5ac")
+10. ("Mouse", "Isthmus region", "Neck cells", "Muc6")
+
+These tuples are derived from the specific details and context provided in the text, where each marker is associated with a particular cell type within the specified tissue of the mouse.
+
+Based on the provided document, the following cell markers can be identified and formatted as requested:
+
+1. ("null", "null", "Stmn1+ cells (G1/S phase)", "Stmn1")
+2. ("null", "null", "Stmn1+ cells (G1/S phase)", "Mki67")
+3. ("null", "null", "Stmn1+ cells (G2/M phase)", "Cdt1")
+4. ("null", "null", "Stmn1+ cells (G2/M phase)", "Ccnb1")
+5. ("null", "null", "pit cell lineage (PL)", "Muc5ac")
+6. ("null", "null", "neck cell lineage (NL)", "Muc6")
+
+These tuples are derived from the information in the text where specific genes are used to characterize different states or lineages of Stmn1+ cells. The species and tissue type were not specified in the document, hence they are marked as "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Stomach corpus glands", "PL progenitor", "Muc5ac")
+2. ("Mouse", "Stomach corpus glands", "IsthSC", "Muc5ac")
+3. ("Mouse", "Stomach corpus glands", "IsthSC", "Muc6")
+4. ("Mouse", "Stomach corpus glands", "NL progenitor", "Muc6")
+5. ("Mouse", "Stomach corpus glands", "IsthSC", "Cib1")
+6. ("Mouse", "Stomach corpus glands", "IsthSC", "Ndufb8")
+7. ("Mouse", "Stomach corpus glands", "IsthSC", "Psma7")
+8. ("Mouse", "Stomach corpus glands", "Proliferating cells", "Ki67")
+9. ("Mouse", "Stomach corpus glands", "Chief cells", "Pgc")
+
+These tuples represent the species, tissue type, cell name, and marker as specified in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "IsthSCs", "Stmn1")
+2. ("null", "null", "IsthSCs", "Ki67")
+3. ("null", "null", "IsthSCs", "Muc5ac")
+4. ("null", "null", "IsthSCs", "Muc6")
+5. ("null", "null", "chief (stem) cells", "Troy")
+6. ("null", "null", "chief (stem) cells", "Lgr5")
+
+The species and tissue type were not explicitly mentioned in the text, so they are filled with "null". The markers Stmn1, Ki67, Muc5ac, Muc6, Troy, and Lgr5 are associated with specific cell types as described.
+
+none
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Stomach", "Proliferating cells", "Stmn1")
+2. ("Mouse", "Stomach", "Proliferating cells", "Ki67")
+
+The document mentions that Stmn1 and Ki67 were selected as the most likely prospective markers for proliferating cells in the gastric corpus based on the analysis and immunostaining results from the Human Protein Atlas. No other specific markers with all required details (species, tissue type, cell name, and marker) are clearly defined in the text.
+
+none
+

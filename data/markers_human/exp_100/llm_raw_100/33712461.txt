@@ -1,0 +1,173 @@
+none
+
+The provided text does not contain specific information about cell markers (marker genes, signature genes, protein markers, or other molecular markers) that are used to distinguish different cell types. The document primarily discusses the role of Atoh7 in retinal ganglion cell (RGC) development and survival but does not list any specific markers for RGCs or other retinal cells. Therefore, based on the given requirements, the appropriate response is "none".
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "RBPMS")
+2. ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "Isl1")
+3. ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "Brn3a (Pou4f1)")
+4. ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "Brn3b (Pou4f2)")
+
+These markers are used to identify and characterize Retinal Ganglion Cells (RGCs) in mouse retinas.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Brn3a")
+2. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Brn3b")
+3. ("Mouse", "Retina", "ipRGC (Intrinsically photosensitive Retinal Ganglion Cell)", "Melanopsin")
+
+These markers are used to distinguish and characterize different types of retinal ganglion cells in mouse retina tissue.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "RBPMS")
+2. ("Mouse", "Retina", "GCL cells (Ganglion Cell Layer cells)", "Isl1")
+3. ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "Brn3a")
+4. ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "Brn3b")
+
+These markers are used to identify or characterize specific cell types within the retina, as detailed in the document.
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Retinal ganglion cells", "BRN3A")
+2. ("Mouse", "Retina", "Retinal ganglion cells", "BRN3B")
+3. ("Mouse", "Retina", "Retinal ganglion cells", "ISL1")
+4. ("Mouse", "Retina", "Retinal ganglion cells", "RBPMS")
+
+These markers are specifically mentioned in the context of retinal ganglion cells (RGCs) in the mouse retina.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Retinal ganglion cells (RGCs)", "Islr2")
+2. ("Mouse", "Retina", "Mature RGCs", "Pou4f2")
+3. ("Mouse", "Retina", "Mature RGCs", "Gap43")
+4. ("Mouse", "Retina", "Mature RGCs", "Sncg")
+5. ("Mouse", "Retina", "Mature RGCs", "Isl1")
+6. ("Mouse", "Retina", "Neurogenic retinal progenitor cells (RPCs)", "Gal")
+7. ("Mouse", "Retina", "Neurogenic RPCs", "Neurod1")
+8. ("Mouse", "Retina", "Neurogenic RPCs", "Insm1")
+9. ("Mouse", "Retina", "Neurogenic RPCs", "Neurod4")
+10. ("Mouse", "Retina", "Neurogenic RPCs", "Hes6")
+11. ("Mouse", "Retina", "Neurogenic RPCs", "Onecut1")
+12. ("Mouse", "Retina", "Neurogenic RPCs", "Onecut2")
+13. ("Mouse", "Retina", "Neurogenic RPCs", "Sox4")
+
+These markers are differentially expressed in the specified cell types within the retina of mice and are used to distinguish between mature retinal ganglion cells and neurogenic retinal progenitor cells, as well as to highlight the effects of Atoh7 deficiency on gene expression patterns.
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Pou4f2 (Brn3b)")
+2. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Isl1")
+3. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Gal")
+4. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Pou4f1 (Brn3a)")
+5. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "RBPMS")
+6. ("Mouse", "Retina", "Neurogenic RPC (Retinal Progenitor Cell)", "Gadd45a")
+7. ("Mouse", "Retina", "Neurogenic RPC (Retinal Progenitor Cell)", "Sox11")
+8. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Gap43")
+9. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Igfbpl1")
+10. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Sncg")
+
+These tuples are based on the information provided in the text regarding differential expression or specific association of these markers with certain cell types in the mouse retina.
+
+Based on the provided document, the following cell markers have been identified. The information is presented in the requested format:
+
+1. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Igfbp4")
+2. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Foxp1")
+3. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Stxbp6")
+4. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Bhlhe22")
+5. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Penk")
+6. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Ebf3")
+7. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Pou4f1")
+8. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Pou4f2")
+9. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Prdm8")
+10. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Slc17a6")
+11. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Irx3")
+12. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Calb2")
+13. ("Mouse", "Retina", "RGC (Retinal Ganglion Cell)", "Tac1")
+
+These tuples represent specific markers associated with RGCs (Retinal Ganglion Cells) in the mouse retina as described in the text.
+
+Based on the provided document, the following cell markers have been identified:
+
+- ("null", "null", "RGCs", "Pou6f2")
+- ("null", "null", "RGCs", "Elavl4")
+- ("null", "null", "RGCs", "Isl1")
+- ("null", "null", "RGCs", "Tubb2b")
+- ("null", "null", "neurogenic RPCs", "Hes6")
+- ("null", "null", "neurogenic RPCs", "Btg2")
+- ("null", "null", "neurogenic RPCs", "Neurod1")
+- ("null", "null", "neurogenic RPCs", "Neurog2")
+- ("null", "null", "neurogenic RPCs", "Pou6f2")
+- ("null", "null", "neurogenic RPCs", "Otx2")
+- ("null", "null", "neurogenic RPCs", "Meis2")
+- ("null", "null", "neurogenic RPCs", "Lhx4")
+
+These markers are inferred from the genes that display changes in expression or binding in the context of Atoh7 mutants, specifically within retinal ganglion cells (RGCs) and neurogenic retinal progenitor cells (RPCs). The species is not explicitly mentioned, but given the context of the research, it can be assumed to be a model organism like mouse, though this is not directly stated. Therefore, "Species" and "Tissue Type" are filled with "null" as per the instructions.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "RGCs", "Atoh7-bound and down-regulated in Atoh7 mutants")
+2. ("Mouse", "Retina", "Neurogenic cells or photoreceptor precursors", "Neurod1")
+3. ("Mouse", "Retina", "Neurogenic cells or photoreceptor precursors", "Neurog2")
+4. ("Mouse", "Retina", "Neurogenic cells or photoreceptor precursors", "Hes6")
+5. ("Mouse", "Retina", "Cone photoreceptors", "Lhx4")
+6. ("Mouse", "Retina", "Cone photoreceptors", "Otx2")
+7. ("Mouse", "Retina", "Cone photoreceptors", "Thrb")
+8. ("Mouse", "Retina", "Neurogenic RPCs and RGCs", "Galanin")
+
+Please note that for some of these, the specific marker is described by its functional category (e.g., "Atoh7-bound and down-regulated in Atoh7 mutants") as the exact gene names are not provided in the text.
+
+none
+
+none
+
+Based on the provided document, there is no explicit mention of cell markers in the context of distinguishing different cell types. The document primarily discusses transgenic mouse lines and antibodies used for immunohistochemistry. Since the information about specific cell markers (marker genes, signature genes, protein markers, or molecular markers) that are used to distinguish different cell types is not provided, the appropriate response is:
+
+none
+
+Based on the provided text, there are no explicit mentions of cell markers in the format required, such as marker genes, signature genes, or protein markers that are specifically used to distinguish different cell types. The document primarily describes the use of various antibodies for immunostaining and the methodology for imaging and quantifying retinal ganglion cells (RGCs) in both adult and embryonic retinas.
+
+However, some of the antibodies mentioned can be considered as markers for specific cell types in the context of the retina:
+
+- **Opn4**: This is a marker for intrinsically photosensitive retinal ganglion cells (ipRGCs).
+- **Pax6**: This is a transcription factor involved in eye development and can be a marker for certain retinal progenitor cells.
+- **Rxrgamma (Rxrγ)**: This is a nuclear receptor and may be used as a marker for specific retinal cell types, though it is not explicitly stated in the text.
+- **Cone arrestin**: This is a marker for cone photoreceptors.
+- **Calbindin**: This is often used as a marker for certain subtypes of RGCs and other retinal neurons.
+- **Brn3a**: This is a transcription factor and a well-known marker for RGCs.
+
+Given the requirements, we can construct the following tuples based on the information available:
+
+1. ("Mouse", "Retina", "Intrinsically photosensitive retinal ganglion cell", "Opn4")
+2. ("Mouse", "Retina", "Retinal progenitor cell", "Pax6")
+3. ("Mouse", "Retina", "Cone photoreceptor", "Cone arrestin")
+4. ("Mouse", "Retina", "Retinal ganglion cell", "Calbindin")
+5. ("Mouse", "Retina", "Retinal ganglion cell", "Brn3a")
+
+The species is assumed to be "Mouse" based on the context of the study. The tissue type is "Retina" as the document discusses retinal cells. The cell names are inferred from the known roles of the markers in the retina. 
+
+Since "Rxrgamma" is not explicitly linked to a specific cell type in the document, it is not included in the list.
+
+none
+
+none
+
+Based on the provided document, here are the identified cell markers in the specified format:
+
+1. ("Human", "Retina", "Retinal ganglion cells", "CD171(L1CAM)")
+2. ("Murine", "Retina", "Retinal ganglion cells", "ISL1")
+3. ("Murine", "Retina", "Retinal ganglion cells", "BRN3B")
+4. ("Murine", "Retina", "Retinal ganglion cells", "Neurod1")
+5. ("Murine", "Retina", "Retinal ganglion cells", "Pou4f2")
+6. ("Murine", "Retina", "Retinal ganglion cells", "Isl1")
+7. ("Mammalian", "Retina", "Ganglion cells", "RBPMS")
+8. ("Mouse", "Retina", "Retinal ganglion cells", "SOX4")
+9. ("Mouse", "Retina", "Retinal ganglion cells", "SOX11")
+
+These tuples capture the relevant information about the cell markers mentioned in the document.
+

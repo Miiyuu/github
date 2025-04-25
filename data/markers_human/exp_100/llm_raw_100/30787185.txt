@@ -1,0 +1,37 @@
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Vascular endothelial cell", "Notch1")
+2. ("Mouse", "Retina", "Vascular endothelial cell", "Jag1")
+3. ("Mouse", "Retina", "Vascular endothelial cell", "Dll4")
+
+These markers are specifically mentioned in the context of their expression in vascular endothelial (VE) cells within the retina of mice.
+
+none
+
+The provided text does not contain specific information about cell markers that are used to distinguish different cell types. The document primarily discusses the effects of JAG1 and DLL4 on endothelial cells, including changes in VE-cadherin phosphorylation and its impact on cell junctions. However, it does not specify any marker genes, signature genes, protein markers, or molecular markers that are used to identify or differentiate specific cell types. Therefore, based on the given requirements, the response is "none".
+
+none
+
+The provided document does not contain specific information about cell markers used to distinguish different cell types. The text primarily discusses the expression and effects of JAG1, DLL4, and other molecules in the context of diabetes and vascular permeability, but it does not specify these as markers for particular cell types. Therefore, based on the requirements, the answer is "none".
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Retinal tissue", "Endothelial cell", "Notch1")
+2. ("Mouse", "Retinal tissue", "Endothelial cell", "Jag1")
+3. ("Mouse", "Retinal tissue", "Endothelial cell", "Dll4")
+4. ("null", "null", "Endothelial cell", "VE-cadherin")
+
+These tuples are derived from the sections of the text that discuss the expression and roles of these markers in endothelial cells, particularly in the context of retinal tissue.
+
+none
+
+none
+
+none
+
+none
+
+none
+

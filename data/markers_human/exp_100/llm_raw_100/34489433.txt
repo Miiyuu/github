@@ -1,0 +1,206 @@
+Based on the provided document, the following cell markers have been identified. The information is organized according to the specified format:
+
+1. ("Human", "null", "Epithelial cell", "EPCAM")
+2. ("Human", "null", "Epithelial cell", "SFN")
+3. ("Human", "null", "Epithelial cell", "Cytokeratins")
+4. ("Human", "null", "CD45+ cells", "CD45")
+5. ("Human", "null", "Endothelial cell", "CD45-")  # Note: CD45- is used here to denote the negative selection for endothelial cells, as specific positive markers are not mentioned in the text.
+6. ("Human", "null", "Fibroblasts", "CD45-")  # Similarly, CD45- is used to denote the negative selection for fibroblasts.
+7. ("Human", "null", "Pericytes", "CD45-")  # CD45- is used for pericytes.
+8. ("Human", "null", "Fibroblastic reticular cells (FRC)", "CD45-")  # CD45- is used for FRCs.
+9. ("Human", "null", "T cells", "CD45+")
+10. ("Human", "null", "B cells", "CD45+")
+11. ("Human", "null", "Myeloid cells", "CD45+")
+
+Please note that the tissue type is not explicitly stated in the provided document, and the species is assumed to be Human based on the context of the study. For some cell types, like endothelial cells, fibroblasts, pericytes, and FRCs, the marker is inferred from the negative selection (CD45-) since specific positive markers are not provided in the text.
+
+Based on the provided document, the following cell markers have been identified. The information is structured as per the requested format:
+
+1. ("Human", "ESCC tumors", "Mucosal cells", "S100P")
+2. ("Human", "ESCC tumors", "Mucosal cells", "CXCL17")
+3. ("Human", "ESCC tumors", "Mucosal cells", "AGR2")
+4. ("Human", "ESCC tumors", "Mucosal cells", "MUC20")
+5. ("Human", "ESCC tumors", "Stress cells", "EGR1")
+6. ("Human", "ESCC tumors", "Stress cells", "JUN")
+7. ("Human", "ESCC tumors", "Stress cells", "FOS")
+8. ("Human", "ESCC tumors", "Antigen Presentation (AP) cells", "CD74")
+9. ("Human", "ESCC tumors", "Antigen Presentation (AP) cells", "HLA-DPA1")
+10. ("Human", "ESCC tumors", "Antigen Presentation (AP) cells", "HLA-DRA/B1/B5")
+11. ("Human", "ESCC tumors", "Cycling cells", "CENPW")
+12. ("Human", "ESCC tumors", "Cycling cells", "CKS1B")
+13. ("Human", "ESCC tumors", "Cycling cells", "BIRC5")
+14. ("Human", "ESCC tumors", "Epi1 cells", "KRT6")
+15. ("Human", "ESCC tumors", "Epi1 cells", "KRT16")
+16. ("Human", "ESCC tumors", "Epi1 cells", "KRT17")
+17. ("Human", "ESCC tumors", "Epi2 cells", "SPRR1A")
+18. ("Human", "ESCC tumors", "Epi2 cells", "SPRR1B")
+19. ("Human", "ESCC tumors", "Epi2 cells", "S100A8")
+20. ("Human", "ESCC tumors", "Epi2 cells", "S100A9")
+21. ("Human", "ESCC tumors", "Mesenchymal-like cells", "VIM")
+22. ("Human", "ESCC tumors", "Mesenchymal-like cells", "SPARC")
+
+Each tuple represents a specific marker gene or protein that is characteristic of a particular cell type within the context of ESCC (esophageal squamous cell carcinoma) tumors in humans.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "ESCC tumor", "T follicular helper 1 (TFH1) cell", "CXCR5")
+2. ("Human", "ESCC tumor", "Exhausted T (TEX) cell", "CD39 (ENTPD1)")
+3. ("Human", "ESCC tumor", "Exhausted T (TEX) cell", "CD103 (ITGAE)")
+4. ("Human", "ESCC tumor", "Exhausted T (TEX) cell", "KLRG1")
+
+The species is inferred to be Human as the document discusses human ESCC (Esophageal Squamous Cell Carcinoma) tumors. The tissue type is specified as ESCC tumor. The cell names and their corresponding markers are directly mentioned in the text.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "ESCC tumor and adjacent normal tissues", "Germinal center B2 (GC B2) cells", "MKI67")
+2. ("Human", "ESCC tumor and adjacent normal tissues", "Germinal center B2 (GC B2) cells", "TOP2A")
+3. ("Human", "ESCC tumor and adjacent normal tissues", "Monocytes and Tumor-associated macrophages (TAMs)", "TGFB1")
+4. ("Human", "ESCC tumor and adjacent normal tissues", "Monocytes and Tumor-associated macrophages (TAMs)", "COX2")
+5. ("Human", "ESCC tumor and adjacent normal tissues", "Monocytes", "VEGFA")
+6. ("Human", "ESCC tumor and adjacent normal tissues", "Tumor-associated macrophages (TAMs)", "MMP9")
+7. ("Human", "ESCC tumor and adjacent normal tissues", "Tumor-associated macrophages (TAMs)", "MMP12")
+8. ("Human", "ESCC tumor and adjacent normal tissues", "Conventional DC (cDC)", "HLA-DRA")
+9. ("Human", "ESCC tumor and adjacent normal tissues", "Conventional DC (cDC)", "CD80")
+10. ("Human", "ESCC tumor and adjacent normal tissues", "Conventional DC (cDC)", "CD86")
+11. ("Human", "ESCC tumor and adjacent normal tissues", "Conventional DC (cDC)", "TNF")
+12. ("Human", "ESCC tumor and adjacent normal tissues", "Conventional DC (cDC)", "IL1B")
+13. ("Human", "ESCC tumor and adjacent normal tissues", "Tolerogenic DC (tDC)", "HLA-DRA")
+14. ("Human", "ESCC tumor and adjacent normal tissues", "Tolerogenic DC (tDC)", "CD80")
+15. ("Human", "ESCC tumor and adjacent normal tissues", "Tolerogenic DC (tDC)", "CD86")
+16. ("Human", "ESCC tumor and adjacent normal tissues", "Tolerogenic DC (tDC)", "CCR7")
+17. ("Human", "ESCC tumor and adjacent normal tissues", "Plasmacytoid DC (pDC)", "ICOSLG")
+
+These tuples represent the cell markers for various cell types as described in the text.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "ESCC (Esophageal Squamous Cell Carcinoma) Tissue", "tDC (Tumor-Associated Dendritic Cells)", "IDO1")
+2. ("Human", "ESCC (Esophageal Squamous Cell Carcinoma) Tissue", "tDC (Tumor-Associated Dendritic Cells)", "PD-L1")
+3. ("Human", "ESCC (Esophageal Squamous Cell Carcinoma) Tissue", "tDC (Tumor-Associated Dendritic Cells)", "PD-L2")
+
+These markers are specifically mentioned as being highly expressed in tDCs compared to other immune cell subtypes and play a role in immunosuppression within the tumor microenvironment.
+
+Based on the provided document, the following cell markers have been identified. The information is organized as per the specified format:
+
+1. ("Human", "null", "Normal fibroblasts (NMF)", "SLPI")
+2. ("Human", "null", "Normal fibroblasts (NMF)", "PI16")
+3. ("Human", "null", "Normal activated fibroblasts (NAF1/2)", "IGF1")
+4. ("Human", "null", "Normal activated fibroblasts (NAF1/2)", "C7")
+5. ("Human", "null", "Normal activated fibroblasts (NAF1/2)", "APOD")
+6. ("Human", "null", "Cancer-associated fibroblasts (CAF1)", "CXCL1")
+7. ("Human", "null", "Cancer-associated fibroblasts (CAF1)", "CXCL6")
+8. ("Human", "null", "Cancer-associated fibroblasts (CAF1)", "CCL2/11")
+9. ("Human", "null", "Cancer-associated fibroblasts (CAF1)", "CXCL14")
+10. ("Human", "null", "Cancer-associated fibroblasts (CAF2)", "CXCL5/8")
+11. ("Human", "null", "Cancer-associated fibroblasts (CAF2)", "CSF3")
+12. ("Human", "null", "Cancer-associated fibroblasts (CAF3)", "TAGLN")
+13. ("Human", "null", "Cancer-associated fibroblasts (CAF3)", "ACTA2")
+14. ("Human", "null", "Cancer-associated fibroblasts (CAF3)", "ACTG2")
+15. ("Human", "null", "Cancer-associated fibroblasts (CAF4)", "COL1A1/2")
+16. ("Human", "null", "Cancer-associated fibroblasts (CAF4)", "COL3A1")
+17. ("Human", "null", "Cancer-associated fibroblasts (CAF4)", "COL5A1/2")
+18. ("Human", "null", "Cancer-associated fibroblasts (CAF4)", "COL6A1/2/3")
+
+The species is assumed to be "Human" based on the context of the research, and the tissue type is not specifically mentioned in the text for each marker, hence it is filled with "null".
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "NEC1/2 (Vein endothelial cells)", "CPE")
+2. ("null", "null", "NEC1/2 (Vein endothelial cells)", "ACKR1")
+3. ("null", "null", "NEC3 (Artery endothelial cells)", "SEMA3G")
+4. ("null", "null", "NEC3 (Artery endothelial cells)", "GJA5")
+5. ("null", "null", "TECs", "ANGPT2")
+6. ("null", "null", "TECs", "VEGFR1/2/3")
+7. ("null", "null", "TECs", "PDGFB")
+
+The species and tissue type were not explicitly mentioned in the text, so they are marked as "null". The cell names and their corresponding markers are directly extracted from the text.
+
+none
+
+none
+
+none
+
+Based on the provided document, I have identified the following cell markers. The information is presented in the requested format:
+
+1. ("null", "null", "GC B cells", "CXCL17")
+2. ("null", "null", "GC B cells", "AGR2")
+3. ("null", "null", "GC B cells", "MUC20")
+
+The document does not provide specific details about the species or the tissue type for these markers, hence "null" is used for those fields. Additionally, the markers CXCL17, AGR2, and MUC20 are associated with GC B cells within the context of esophageal squamous cell carcinoma (ESCC) survival.
+
+Based on the information provided in the document, here are the cell markers identified and formatted as requested:
+
+1. ("null", "null", "Epithelial cell", "EPCAM")
+2. ("null", "null", "Epithelial cell", "SFN")
+3. ("null", "null", "Epithelial cell", "KRT5")
+4. ("null", "null", "Epithelial cell", "KRT14")
+5. ("null", "null", "Fibroblast", "FN1")
+6. ("null", "null", "Fibroblast", "DCN")
+7. ("null", "null", "Fibroblast", "COL1A1")
+8. ("null", "null", "Fibroblast", "COL1A2")
+9. ("null", "null", "Fibroblast", "COL3A1")
+10. ("null", "null", "Fibroblast", "COL6A1")
+11. ("null", "null", "Endothelial cell", "VWF")
+12. ("null", "null", "Endothelial cell", "PECAM1")
+13. ("null", "null", "Endothelial cell", "ENG")
+14. ("null", "null", "Endothelial cell", "CDH5")
+15. ("null", "null", "Pericyte", "RGS5")
+16. ("null", "null", "Pericyte", "MCAM")
+17. ("null", "null", "Pericyte", "ACTA2")
+18. ("null", "null", "Fibroblastic reticular cell", "CCL21")
+19. ("null", "null", "Fibroblastic reticular cell", "PDPN")
+20. ("null", "null", "T cell", "CD2")
+21. ("null", "null", "T cell", "CD3D")
+22. ("null", "null", "T cell", "CD3E")
+23. ("null", "null", "T cell", "CD3G")
+24. ("null", "null", "B cell", "CD19")
+25. ("null", "null", "B cell", "CD79A")
+26. ("null", "null", "B cell", "MS4A1")
+27. ("null", "null", "B cell", "JCHAIN")
+28. ("null", "null", "B cell", "MZB1")
+29. ("null", "null", "Myeloid cell", "CD68")
+30. ("null", "null", "Myeloid cell", "LYZ")
+31. ("null", "null", "Myeloid cell", "CD14")
+32. ("null", "null", "Myeloid cell", "IL3RA")
+33. ("null", "null", "Myeloid cell", "LAMP3")
+34. ("null", "null", "Myeloid cell", "CLEC4C")
+35. ("null", "null", "Myeloid cell", "TPSAB1")
+
+The document did not specify the species or tissue type, hence these fields are filled with "null".
+
+Based on the provided text, the following cell markers can be identified:
+
+1. CD45 - used to identify immune cells (including tDCs and T cells).
+2. CCR7 - a marker for tDCs in the context of tumor-infiltrating dendritic cells.
+3. CD274 (PD-L1) - another marker for tDCs, particularly in the context of this study.
+4. CD8 - a well-known marker for cytotoxic T lymphocytes.
+
+Given these details, the tuples based on the information available in the document are as follows:
+
+- ("Human", "ESCC tumor", "tumor-infiltrating tDCs", "CD45")
+- ("Human", "ESCC tumor", "tumor-infiltrating tDCs", "CCR7")
+- ("Human", "ESCC tumor", "tumor-infiltrating tDCs", "CD274")
+- ("Human", "Peripheral blood", "CD8+ T cells", "CD8")
+
+Therefore, the final list is:
+
+```python
+[
+    ("Human", "ESCC tumor", "tumor-infiltrating tDCs", "CD45"),
+    ("Human", "ESCC tumor", "tumor-infiltrating tDCs", "CCR7"),
+    ("Human", "ESCC tumor", "tumor-infiltrating tDCs", "CD274"),
+    ("Human", "Peripheral blood", "CD8+ T cells", "CD8")
+]
+```
+
+none
+
+The provided text does not contain specific information about cell markers used to distinguish different cell types. The document discusses mutational signatures and immunohistochemical staining of certain proteins (AGR2, CXCL17, MUC20) in esophageal squamous cell carcinoma (ESCC) tumors, but it does not specify these as markers for particular cell types. Therefore, no valid tuples can be formed based on the given requirements.
+

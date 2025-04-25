@@ -1,0 +1,119 @@
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "Corneal tissue", "Hematopoietic cells", "PTPRC")
+2. ("Human", "Corneal tissue", "T cells", "CD3")
+3. ("Human", "Corneal tissue", "T cells", "CD8")
+4. ("Human", "Corneal tissue", "T cells", "CD4")
+5. ("Human", "Corneal tissue", "T cells", "IFN-g")
+6. ("Human", "Corneal tissue", "T cells", "Granzyme B")
+7. ("Human", "Corneal tissue", "T cells", "Granzyme A")
+8. ("Human", "Corneal tissue", "T cells", "CD96")
+9. ("Human", "Corneal tissue", "T cells", "CCR7")
+10. ("Human", "Corneal tissue", "T cells", "IDO1")
+11. ("Human", "Corneal tissue", "T cells", "HLA-A, HLA-B, and HLA-C")
+12. ("Human", "Corneal tissue", "T cells", "HLA-DR")
+13. ("Human", "Corneal tissue", "T cells", "HLA-DQ")
+14. ("Human", "Corneal tissue", "T cells", "IL-10")
+15. ("Human", "Corneal tissue", "T cells", "CXCL16")
+16. ("Human", "Corneal tissue", "T cells", "TGF-b1")
+17. ("Human", "Corneal tissue", "T cells", "Perforin 1")
+18. ("Human", "Corneal tissue", "T cells", "IL-32")
+19. ("Human", "Corneal tissue", "T cells", "CXCL2")
+20. ("Human", "Corneal tissue", "T cells", "CXCR6")
+21. ("Human", "Corneal tissue", "Innate immune cells", "CD164")
+
+These tuples represent the different cell types and their corresponding markers as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Corneal limbus", "Macrophages and monocytes", "CD68")
+2. ("Human", "Corneal limbus", "Dendritic cells (DCs)", "HLA subtypes")
+3. ("Human", "Corneal limbus", "Dendritic cells (DCs)", "CD74")
+4. ("Human", "Corneal limbus", "T lymphocytes", "CD3E")
+5. ("Human", "Corneal limbus", "T lymphocytes", "CD3D")
+6. ("Human", "Corneal limbus", "T lymphocytes", "LCK")
+7. ("Human", "Corneal limbus", "Naive T cells", "CD28")
+8. ("Human", "Corneal limbus", "Naive T cells", "CD27")
+9. ("Human", "Corneal limbus", "Naive T cells", "IL7R")
+10. ("Human", "Corneal limbus", "Naive T cells", "BATF")
+11. ("Human", "Corneal limbus", "CD8+ T cells", "CD69")
+12. ("Human", "Corneal limbus", "CD8+ T cells", "Lag3")
+13. ("Human", "Corneal limbus", "CD8+ T cells", "GZMA")
+14. ("Human", "Corneal limbus", "CD8+ T cells", "GZMB")
+15. ("Human", "Corneal limbus", "CD8+ T cells", "PRF1")
+16. ("Human", "Corneal limbus", "CD8+ T cells", "IFNG")
+17. ("Human", "Corneal limbus", "CD8+ T cells", "IL32")
+18. ("Human", "Corneal limbus", "CD8+ T cells", "CD96")
+19. ("Human", "Corneal limbus", "CD8+ T cells", "IFN-g")
+20. ("Human", "Corneal limbus", "CD8+ T cells", "Granzyme A")
+21. ("Human", "Corneal limbus", "CD8+ T cells", "Granzyme B")
+22. ("Human", "Corneal limbus", "CD8+ T cells", "Perforin 1")
+23. ("Human", "Corneal limbus", "CD8+ T cells", "IL-32")
+
+These tuples represent the cell markers as described in the text, with each field filled according to the given instructions.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "Basophils", "Lamp1/2")
+2. ("null", "null", "Basophils", "CD164")
+3. ("null", "null", "Macrophages", "CD14")
+4. ("null", "null", "Macrophages", "CD68")
+5. ("null", "null", "Macrophages", "FCGR2A/B")
+6. ("null", "null", "Monocytes", "CXCL16") 
+7. ("null", "Cornea", "T cells", "CD8")
+8. ("null", "Cornea", "T cells", "CD4")
+
+The species and tissue type were not explicitly mentioned for most of the markers, hence they are filled with "null" as per the instructions. The information about CXCL16 being secreted by monocytes and macrophages to recruit naive T cells is also noted, but it's presented in a way that doesn't fit directly into the required tuple format, especially since CXCL16 is more of a functional mediator than a specific cell marker in this context.
+
+none
+
+The provided list contains a series of gene and protein names, but there is no contextual information linking these to specific cell types, tissue types, or species. Without this additional context, it's not possible to accurately identify and format the markers as requested. Therefore, based on the given requirements, the correct response is "none".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Cornea", "Innate immune cells (Granulocytes)", "CD164")
+2. ("Human", "Cornea", "Dendritic Cells (mregDCs)", "LAMP3")
+3. ("Human", "Cornea", "Dendritic Cells (mregDCs)", "BIRC3")
+
+The document does not provide specific marker information for other cell types or additional details that would allow us to fill in more tuples.
+
+Based on the provided document, the following cell markers can be identified and formatted as requested:
+
+1. ("Human", "Cornea", "mregDCs", "CCR7")
+2. ("Human", "Cornea", "mregDCs", "CD74")
+3. ("Human", "Cornea", "mregDCs", "ID2")
+4. ("Human", "Cornea", "mregDCs", "GPR183")
+5. ("Human", "Cornea", "mregDCs", "CCL22")
+6. ("Human", "Cornea", "mregDCs", "IL4l1")
+7. ("Human", "Cornea", "mregDCs", "CD40")
+8. ("Human", "Cornea", "mregDCs", "TXN")
+9. ("Human", "Cornea", "mregDCs", "IL1B")
+10. ("Human", "Cornea", "mregDCs", "IL-15")
+11. ("Human", "Cornea", "mregDCs", "IL-23A")
+12. ("Human", "Cornea", "mregDCs", "IDO1")
+
+These tuples are based on the information provided in the document, where specific genes are mentioned as being highly expressed or specifically expressed in mregDCs (mucosal regulatory dendritic cells) of the human cornea.
+
+Based on the provided document, here are the cell markers identified in the format of tuples:
+
+1. ("Human", "Cornea", "CD4+ T cells", "CD4")
+2. ("Human", "Cornea", "Naive T cells", "BATF")
+3. ("Human", "Cornea", "CD8+ T cells", "CD96")
+4. ("Human", "Cornea", "CD8+ T cells", "Lag3")
+5. ("Human", "Cornea", "CD8+ T cells", "CD69")
+6. ("Human", "Cornea", "Dendritic cells (DCs)", "HLA-DQA")
+7. ("Human", "Cornea", "Dendritic cells (DCs)", "HLA-DPA")
+8. ("Human", "Cornea", "Dendritic cells (DCs)", "HLA-DPB")
+9. ("Human", "Cornea", "mregDCs (subset of DCs)", "BIRC3")
+10. ("Human", "Cornea", "mregDCs (subset of DCs)", "LAMP3")
+11. ("Human", "Cornea", "mregDCs (subset of DCs)", "IL15")
+12. ("Human", "Cornea", "mregDCs (subset of DCs)", "CD40")
+13. ("Human", "Cornea", "mregDCs (subset of DCs)", "CCR7")
+14. ("Human", "Cornea", "mregDCs (subset of DCs)", "IDO1")
+
+These tuples represent the specific markers for different cell types within the human corneal tissue as described in the document.
+
+none
+

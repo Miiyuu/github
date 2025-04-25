@@ -1,0 +1,70 @@
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "Retina", "Microglia", "CD11b")
+2. ("null", "Retina", "Microglia", "F4/80")
+3. ("null", "Retina", "Microglia", "CD68")
+4. ("null", "Retina", "Microglia", "IBA1")
+
+The species is not explicitly mentioned in the document, so it is filled with "null". The tissue type is specified as the retina, and the cell of interest is microglia. The markers for microglia are CD11b, F4/80, CD68, and IBA1.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Rat", "Retina", "Microglia", "CD206")
+2. ("Rat", "Retina", "Microglia", "Ym1")
+3. ("Rat", "Retina", "Microglia", "Arg1")
+4. ("Rat", "Retina", "Microglia", "IL-1b")
+5. ("Rat", "Retina", "Microglia", "IL-6")
+6. ("Rat", "Retina", "Microglia", "TNF-a")
+7. ("Rat", "Retina", "Microglia", "iNOS")
+
+The document does not provide specific markers for astrocytes or Müller cells, nor does it specify any other cell types with their corresponding markers. The species is specified as "Rat" based on the context, and the tissue type is "Retina" since the discussion revolves around retinal cells and optic nerve injuries.
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "null", "M1-polarized microglia and macrophages", "C1q complement proteins")
+2. ("null", "null", "M1-polarized microglia and macrophages", "CX3CR1")
+3. ("null", "null", "M2-polarized microglia and macrophages", "arginase-1")
+4. ("null", "null", "M2-polarized microglia and macrophages", "CD206")
+5. ("null", "null", "M2-polarized microglia and macrophages", "IGF-1")
+6. ("null", "null", "bipolar/rod-shaped microglia", "CD68")
+
+The document does not specify the species or the exact tissue type, so these fields are filled with "null" as per the instructions.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Rodent", "Retina", "Bipolar/rod-shaped microglia", "CD68")
+2. ("Rodent", "Retina", "Bipolar/rod-shaped microglia", "MHC-II")
+3. ("Rodent", "Retina", "Amoeboid microglia", "CD86")
+4. ("Rodent", "Retina", "Amoeboid microglia", "Ym1")
+5. ("Rat", "Retina", "RGCs (Retinal Ganglion Cells)", "Brn3a")
+
+These tuples represent the species, tissue type, cell name, and specific marker as described in the document.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "null", "Microglia (bipolar/rod-shaped)", "TNF-a")
+2. ("Mouse", "null", "Microglia (bipolar/rod-shaped)", "IL-1b")
+3. ("Mouse", "null", "Microglia (bipolar/rod-shaped)", "CD32")
+4. ("Mouse", "null", "Microglia (bipolar/rod-shaped)", "CD86")
+5. ("Mouse", "null", "Microglia (bipolar/rod-shaped)", "IL-10")
+6. ("Mouse", "null", "Microglia (bipolar/rod-shaped)", "TGF-b")
+7. ("Mouse", "Retina", "Microglia (resident)", "CD11b")
+8. ("Mouse", "Retina", "Microglia (resident)", "CD45")
+9. ("Mouse", "Retina", "Microglia (resident)", "F4/80")
+10. ("Mouse", "Retina", "Microglia (resident)", "IBA-1")
+
+The species is assumed to be "Mouse" based on the context of the document, and where the tissue type was not explicitly mentioned, it has been filled with "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "Resident microglia", "TMEM119")
+2. ("null", "null", "Resident microglia", "P2RY12")
+
+The species and tissue type are not explicitly mentioned in the text, hence they are filled with "null". The document discusses resident microglia as a cell type, and it mentions TMEM119 and P2RY12 as specific markers for these cells.
+
+none
+

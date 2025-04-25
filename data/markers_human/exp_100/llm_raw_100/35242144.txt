@@ -1,0 +1,20 @@
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "Endothelial cell", "IDH2")
+2. ("null", "null", "Photoreceptor cell", "S100A6")
+3. ("null", "null", "Endothelial cell", "ITPA")
+4. ("null", "null", "Tumor cell", "ITPA")
+5. ("null", "null", "T cell", "PARP8")
+6. ("null", "null", "Endothelial cell", "APRC1B")
+7. ("null", "null", "Tumor cell", "KDELR3")
+
+The species and tissue type are not specified in the text, hence they are filled with "null".
+
+none
+
+none
+

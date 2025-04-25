@@ -1,0 +1,19 @@
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Salivary gland", "B cell", "Cd79a")
+2. ("Mouse", "Salivary gland", "T cell", "Icos")
+3. ("Mouse", "Salivary gland", "Myeloid cell", "Cd68")
+
+The document does not provide explicit marker information for other cell types or species, so no additional tuples are generated.
+
+Based on the provided text, the following cell markers can be identified:
+
+- ("Mouse", "Salivary gland", "Epithelial cell", "Irak1")
+- ("Mouse", "Salivary gland", "Epithelial cell", "Cd74")
+- ("Mouse", "Salivary gland", "Epithelial cell", "Tap1")
+- ("Mouse", "Salivary gland", "Epithelial cell", "Tap2")
+
+These markers are specifically mentioned as being upregulated in the NOD.B10 salivary epithelial cells. The species is specified as Mouse, and the tissue type is Salivary gland. The cell type is described as Epithelial cell.
+

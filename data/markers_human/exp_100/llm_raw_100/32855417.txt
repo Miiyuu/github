@@ -1,0 +1,191 @@
+Based on the provided document, the following cell markers have been identified and are presented in the required tuple format:
+
+1. ("Mouse", "Foregut", "Definitive Endoderm (DE) cells", "Foxa1/2")
+2. ("Mouse", "Foregut", "Definitive Endoderm (DE) cells", "Cdh1")
+3. ("Mouse", "Foregut", "Definitive Endoderm (DE) cells", "Epcam")
+4. ("Mouse", "Foregut", "Splanchnic Mesoderm (SM) cells", "Foxf1")
+5. ("Mouse", "Foregut", "Splanchnic Mesoderm (SM) cells", "Vim")
+6. ("Mouse", "Foregut", "Splanchnic Mesoderm (SM) cells", "Pdgfra")
+7. ("Mouse", "Foregut", "Pharynx cells", "Tbx1")
+8. ("Mouse", "Foregut", "Respiratory cluster (trachea and lung) cells", "Nkx2-1")
+9. ("Mouse", "Foregut", "Respiratory cluster (trachea and lung) cells", "Foxa2")
+10. ("Mouse", "Foregut", "Esophagus cells", "Sox2")
+11. ("Mouse", "Foregut", "Stomach cells", "Sox2")
+12. ("Mouse", "Foregut", "Stomach cells", "Osr1")
+13. ("Mouse", "Foregut", "Hepatic clusters (hepatoblasts and early hepatocytes)", "Alb")
+14. ("Mouse", "Foregut", "Hepatic clusters (hepatoblasts and early hepatocytes)", "Prox1")
+15. ("Mouse", "Foregut", "Hepatic clusters (hepatoblasts and early hepatocytes)", "Afp")
+16. ("Mouse", "Foregut", "Hepatic clusters (early hepatocytes)", "HNF4a")
+17. ("Mouse", "Foregut", "Ventral hepatopancreatic duct cells", "Sox17")
+18. ("Mouse", "Foregut", "Ventral hepatopancreatic duct cells", "Pdx1")
+19. ("Mouse", "Foregut", "Dorsal pancreas cells", "Mnx1")
+20. ("Mouse", "Foregut", "Dorsal pancreas cells", "Pdx1")
+21. ("Mouse", "Foregut", "Duodenum cells", "Cdx2")
+22. ("Mouse", "Foregut", "Anterior foregut progenitor cells", "Otx2")
+23. ("Mouse", "Foregut", "Dorsal lateral foregut progenitor cells", "Sox2")
+24. ("Mouse", "Foregut", "Dorsal lateral foregut progenitor cells", "Sp5")
+25. ("Mouse", "Foregut", "Foregut progenitor cells", "Osr1")
+26. ("Mouse", "Foregut", "Foregut progenitor cells", "Irx1")
+27. ("Mouse", "Foregut", "Hepatic endoderm progenitor cells", "Hhex")
+28. ("Mouse", "Foregut", "Ventral DE adjacent to heart cells", "Nkx2-3")
+29. ("Mouse", "Foregut", "Midgut cells", "Cdx2")
+
+These tuples represent the specific markers used to distinguish different cell types within the mouse embryonic foregut as described in the document.
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Mouse", "Pharynx", "Pharyngeal cells", "Tbx1")
+2. ("Mouse", "Pharynx", "Pharyngeal cells", "Prrx1")
+3. ("Mouse", "Cardiac outflow tract", "Cardiac outflow tract cells", "Isl1")
+4. ("Mouse", "Cardiac outflow tract", "Cardiac outflow tract cells", "Mtus2")
+5. ("Mouse", "Respiratory mesenchyme", "Respiratory mesenchyme cells", "Nkx6-1")
+6. ("Mouse", "Respiratory mesenchyme", "Respiratory mesenchyme cells", "Gata4")
+7. ("Mouse", "Respiratory mesenchyme", "Respiratory mesenchyme cells", "Wnt2")
+8. ("Mouse", "Esophageal mesenchyme", "Esophageal mesenchyme cells", "Nkx6-1")
+9. ("Mouse", "Esophageal mesenchyme", "Esophageal mesenchyme cells", "Sfrp2")
+10. ("Mouse", "Esophageal mesenchyme", "Esophageal mesenchyme cells", "Wnt4")
+11. ("Mouse", "Stomach mesenchyme", "Stomach mesenchyme cells", "Barx1")
+12. ("Mouse", "Stomach mesenchyme", "Stomach mesenchyme cells", "Hlx")
+13. ("Mouse", "Duodenum mesenchyme", "Duodenum mesenchyme cells", "Hand1")
+14. ("Mouse", "Duodenum mesenchyme", "Duodenum mesenchyme cells", "Hoxc8")
+15. ("Mouse", "Septum transversum mesenchyme", "Septum transversum mesenchyme cells", "Alcam")
+16. ("Mouse", "Septum transversum mesenchyme", "Septum transversum mesenchyme cells", "Wnt2")
+17. ("Mouse", "Septum transversum mesenchyme", "Septum transversum mesenchyme cells", "Gata4")
+18. ("Mouse", "Sinus venosus", "Sinus venosus cells", "Tbx5")
+19. ("Mouse", "Sinus venosus", "Sinus venosus cells", "Wnt2")
+20. ("Mouse", "Sinus venosus", "Sinus venosus cells", "Gata4")
+21. ("Mouse", "Sinus venosus", "Sinus venosus cells", "Vsnl1")
+22. ("Mouse", "Fibroblast", "Fibroblast cells", "Msx1")
+23. ("Mouse", "Fibroblast", "Fibroblast cells", "Wnt2")
+24. ("Mouse", "Fibroblast", "Fibroblast cells", "Hand1")
+25. ("Mouse", "Fibroblast", "Fibroblast cells", "Col1a1")
+26. ("Mouse", "Mesothelium", "Mesothelium cells", "Wt1")
+27. ("Mouse", "Mesothelium", "Mesothelium cells", "Gata4")
+28. ("Mouse", "Mesothelium", "Mesothelium cells", "Uroplakin")
+
+Each of these tuples contains a marker that is differentially expressed in specific cell types within the mouse foregut and related tissues, as described in the document.
+
+Based on the provided document, I have identified several cell markers. Here are the tuples with the required format:
+
+1. ("Mouse", "Foregut", "Splanchnic mesoderm", "Foxf1")
+2. ("Mouse", "Foregut endoderm", "Endoderm", "Cdh1")
+3. ("Mouse", "Pharyngeal mesenchyme", "Mesenchyme", "Tbx1")
+4. ("Mouse", "Pharyngeal mesenchyme", "Mesenchyme", "Irx2")
+5. ("Mouse", "Esophageal mesenchyme", "Mesenchyme", "Osr1")
+6. ("Mouse", "Esophageal mesenchyme", "Mesenchyme", "Hic1")
+7. ("Mouse", "Respiratory mesenchyme", "Mesenchyme", "Sp5")
+8. ("Mouse", "Respiratory mesenchyme", "Mesenchyme", "Hoxa5")
+9. ("Mouse", "Gastric mesenchyme", "Mesenchyme", "Barx1")
+10. ("Mouse", "Gastric mesenchyme", "Mesenchyme", "Tox3")
+11. ("Mouse", "Septum transversum mesenchyme (stm)", "Mesenchyme", "Lhx9")
+12. ("Mouse", "Septum transversum mesenchyme (stm)", "Mesenchyme", "Gata4")
+13. ("Mouse", "Duodenum mesenchyme", "Mesenchyme", "Hand1")
+14. ("Mouse", "Duodenum mesenchyme", "Mesenchyme", "Pitx1")
+15. ("Mouse", "Respiratory and esophageal mesoderm", "Mesoderm", "Nkx6-1")
+
+These markers are derived from the specific gene expressions in different tissues and cell types as described in the document.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Foregut tissue", "Posterior foregut endoderm", "Hhex")
+2. ("Mouse", "Foregut tissue", "Hepatoblasts", "Prox1")
+3. ("Mouse", "Foregut tissue", "Hepatoblasts", "Afp")
+4. ("Mouse", "Foregut tissue", "Hepatopancreatic biliary progenitors", "Prox1")
+5. ("Mouse", "Foregut tissue", "Hepatopancreatic biliary progenitors", "Sox17")
+6. ("Mouse", "Foregut tissue", "Hepatopancreatic biliary progenitors", "Pdx1")
+7. ("Mouse", "Lateral foregut", "DE lateral foregut cells", "Osr1")
+8. ("Mouse", "Mesenchyme", "SM cells", "Osr1")
+
+These tuples are based on the marker genes and their associated cell types as described in the document.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Foregut", "Respiratory cells", "Nkx2-1")
+2. ("Mouse", "Foregut", "Esophageal cells", "Sox2")
+3. ("Mouse", "Foregut", "Gastric cells", "Foxf1")
+
+These markers are used to distinguish between different types of cells within the foregut, specifically respiratory, esophageal, and gastric cells in a mouse model.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Gut tube", "Smooth muscle (SM)", "Gli1")
+2. ("Mouse", "Liver", "Smooth muscle (SM)", "Gli1") - Note: The document indicates very few or no Gli1-LacZ positive cells in the liver SM, but it still serves as a marker for comparison.
+3. ("Human", "Splanchnic mesenchyme-like lineages", "Smooth muscle (SM)", "FOXF1")
+4. ("Human", "Splanchnic mesenchyme-like lineages", "Smooth muscle (SM)", "HOXA1")
+5. ("Human", "Splanchnic mesenchyme-like lineages", "Smooth muscle (SM)", "HOXA5")
+6. ("Human", "Splanchnic mesenchyme-like lineages", "Smooth muscle (SM)", "WNT2")
+
+These markers are used to distinguish between different types of smooth muscle cells and their developmental stages, as indicated by the differential expression patterns described in the text.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. The mention of PAX3, PRRX1, and CD31 in the context of distinguishing between endothelial, somatic, or limb mesenchyme cells indicates these as potential markers. However, it's noted that the d4 SM cultures did not express significant levels of these markers. Thus, they are mentioned but not confirmed as positive markers for any specific cell type in this context.
+2. NKX6-1, TBX5, and WNT2 are indicated to be associated with respiratory mesenchyme when HH, RA, and BMP4 treatments were applied.
+3. MSC, BARX1, WNT4, and NKX3-2 are suggested to promote an esophageal/gastric-like identity under the influence of RA and a BMP4 antagonist.
+
+Given the criteria and format specified, here are the relevant tuples based on the information extracted:
+
+- ("null", "null", "Respiratory mesenchyme", "NKX6-1")
+- ("null", "null", "Respiratory mesenchyme", "TBX5")
+- ("null", "null", "Respiratory mesenchyme", "WNT2")
+- ("null", "null", "Esophageal/Gastric-like cell", "MSC")
+- ("null", "null", "Esophageal/Gastric-like cell", "BARX1")
+- ("null", "null", "Esophageal/Gastric-like cell", "WNT4")
+- ("null", "null", "Esophageal/Gastric-like cell", "NKX3-2")
+
+The species and tissue type are not explicitly mentioned for these markers, hence they are filled with "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Foregut", "Liver stromal mesenchyme (stm) and mesothelium", "WT1")
+2. ("Mouse", "Foregut", "Liver stromal mesenchyme (stm) and mesothelium", "TBX18")
+3. ("Mouse", "Foregut", "Liver stromal mesenchyme (stm) and mesothelium", "LHX2")
+4. ("Mouse", "Foregut", "Liver stromal mesenchyme (stm) and mesothelium", "UPK1B")
+5. ("Mouse", "Foregut", "Liver fibroblast", "MSX1/2")
+6. ("Mouse", "Foregut", "Liver fibroblast", "HAND1")
+
+These markers are derived from the gene expression profiles of cells treated with different combinations of signaling molecules (RA/BMP and RA/BMP4/WNT) to mimic liver stm, mesothelium, and liver fibroblast differentiation.
+
+Based on the provided document, here are the identified cell markers in the specified format:
+
+1. ("Mouse", "Splanchnic mesoderm", "Cardiac progenitors", "NKX2-5")
+2. ("Mouse", "Splanchnic mesoderm", "Early splanchnic mesoderm", "FOXF1")
+3. ("Mouse", "Splanchnic mesoderm", "Early splanchnic mesoderm", "HOXA1")
+4. ("Mouse", "Splanchnic mesoderm", "Liver stromal/mesothelial cells", "WT1")
+5. ("Mouse", "Splanchnic mesoderm", "Liver stromal/mesothelial cells", "UPK1B")
+6. ("Mouse", "Splanchnic mesoderm", "Liver fibroblast", "MSX1")
+7. ("Mouse", "Splanchnic mesoderm", "Respiratory splanchnic mesoderm", "NKX6-1")
+8. ("Mouse", "Splanchnic mesoderm", "Esophageal/gastric splanchnic mesoderm", "MSC")
+9. ("Mouse", "Splanchnic mesoderm", "Esophageal/gastric splanchnic mesoderm", "BARX1")
+
+These markers are based on the RT-PCR analysis and the specific expression patterns described in the text.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. For the definitive endoderm (DE) clusters, the markers are Foxa1/2, Cdh1, and Epcam.
+2. For the splanchnic mesoderm (SM) clusters, the markers are Foxf1, Vim, and Pdgfra.
+
+The species mentioned is mouse, and the tissue type is related to foregut organogenesis, which involves tissues such as the gut tube, pharynx, and liver. Since specific cell names beyond the broad categories of DE and SM are not provided, we will use these terms for the "Cell Name" field. 
+
+Therefore, the tuples based on the information in the document are:
+
+- ("Mouse", "Foregut", "Definitive endoderm (DE)", "Foxa1/2")
+- ("Mouse", "Foregut", "Definitive endoderm (DE)", "Cdh1")
+- ("Mouse", "Foregut", "Definitive endoderm (DE)", "Epcam")
+- ("Mouse", "Foregut", "Splanchnic mesoderm (SM)", "Foxf1")
+- ("Mouse", "Foregut", "Splanchnic mesoderm (SM)", "Vim")
+- ("Mouse", "Foregut", "Splanchnic mesoderm (SM)", "Pdgfra")
+
+Each tuple contains a valid marker, so there are no tuples to delete. Here are the final tuples:
+
+```python
+[
+    ("Mouse", "Foregut", "Definitive endoderm (DE)", "Foxa1/2"),
+    ("Mouse", "Foregut", "Definitive endoderm (DE)", "Cdh1"),
+    ("Mouse", "Foregut", "Definitive endoderm (DE)", "Epcam"),
+    ("Mouse", "Foregut", "Splanchnic mesoderm (SM)", "Foxf1"),
+    ("Mouse", "Foregut", "Splanchnic mesoderm (SM)", "Vim"),
+    ("Mouse", "Foregut", "Splanchnic mesoderm (SM)", "Pdgfra")
+]
+```
+

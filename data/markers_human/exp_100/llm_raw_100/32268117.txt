@@ -1,0 +1,116 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Choroidal tissue", "Endothelial cell (EC)", "CD31")
+2. ("Mouse", "Choroidal tissue", "CNV-ECs", "Sparc")
+3. ("Mouse", "Choroidal tissue", "CNV-ECs", "Col18a1")
+
+These tuples are derived from the information given in the text, where specific markers are associated with distinct endothelial cell types within the choroidal tissue of mice. The marker "CD31" is used for enriching ECs during the preparation for scRNA-seq, and "Sparc" and "Col18a1" are mentioned as activation markers for CNV-ECs.
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("null", "null", "arterial ECs", "Pi16")
+2. ("null", "null", "activated arterial CEC", "activation markers and matricellular proteins")
+3. ("null", "null", "Capillary CEC phenotypes (outer choriocapillaries)", "genes involved in fenestration and VEGF signaling")
+4. ("null", "null", "Capillary CEC phenotypes (inner choriocapillaries)", "genes involved in fenestration and VEGF signaling")
+5. ("null", "null", "Venous subclusters (large caliber vessels)", "markers of large caliber vessels")
+6. ("null", "null", "Venous subclusters (venules)", "shear stress")
+7. ("null", "null", "post-capillary venules (pcvs)", "CEC signature of resident endothelial stem cells (ESCs)")
+
+Note: The document does not specify the species or the exact tissue type, hence "null" is used for those fields. For the "Marker" field, where the text refers to a group of genes or markers without specifying individual names, the general description is used.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "Lymphatic endothelial cell (LEC)", "Lyve-1")
+2. ("null", "null", "Lymphatic endothelial cell-like (LEC-like)", "Lyve-1")
+3. ("null", "null", "Tip endothelial cell (EC)", "Pgf")
+4. ("null", "null", "Arterial endothelial cell", "Gja4")
+5. ("null", "null", "Venous endothelial cell", "Nr2f2")
+6. ("null", "null", "Artery endothelial cell", "ELN")
+7. ("null", "null", "Arteriole endothelial cell", "CXCL12")
+8. ("null", "null", "Capillary endothelial cell", "VEGFR2")
+9. ("null", "null", "Venous endothelial cell", "VWF")
+10. ("null", "null", "Venous endothelial cell", "SELP")
+11. ("null", "null", "Immature endothelial cell", "APLNR")
+12. ("null", "null", "Tip endothelial cell (EC)", "PlGF")
+13. ("null", "null", "Tip endothelial cell (EC)", "LXN")
+14. ("null", "null", "Tip endothelial cell (EC)", "CXCR4")
+15. ("null", "null", "Pcv endothelial cell (EC)", "SPARCL1")
+
+The species and tissue type are not explicitly mentioned in the text for these markers, hence they are marked as "null". The document focuses mainly on the molecular and cellular characteristics of different types of endothelial cells, primarily within a context that suggests the study is related to vascular biology, but without specifying the exact species or tissue type.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "null", "Endothelial cell (EC)", "Aplnr")
+
+The document mentions that Aplnr is a congruent marker of CNV-ECs and TECs. The species is specified as murine, which indicates Mouse. The tissue type is not specifically mentioned for this marker, so it is filled with "null". The cell name is inferred to be Endothelial cells (ECs) based on the context.
+
+Since there are no other specific markers with all the required details, only one tuple is returned.
+
+none
+
+none
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Endothelial cell", "CD31")
+2. ("Human", "null", "Endothelial cell", "CD34")
+3. ("Human", "null", "Endothelial cell", "von Willebrand factor")
+4. ("Human", "null", "Endothelial cell", "Fli-1")
+5. ("Mouse", "null", "Venular endothelial cell", "DARC/ACKR1")
+6. ("Human", "null", "Tissue-resident endothelial stem cells", "CD157")
+
+The document does not provide specific tissue types for most of the markers, so "null" is used in the "Tissue Type" field where it's not specified.
+
+none
+
+none
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Choroid", "Endothelial cell", "CD31")
+2. ("Mouse", "Choroid", "Endothelial cell", "CD102")
+
+These markers are used to identify and sort choroidal endothelial cells (ECs) in the context of the experiments described. The other fields are filled as per the requirements. No other specific marker information is provided in the text.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "null", "Endothelial cell", "Pecam1")
+2. ("Mouse", "null", "Endothelial cell", "Cdh5")
+3. ("Mouse", "null", "Lymphatic endothelial cell", "Prox1")
+4. ("Mouse", "null", "Fibroblast", "Col1a1")
+5. ("Mouse", "null", "Leukocyte", "Ptprc")
+6. ("Mouse", "null", "Pericyte", "Pdgfrb")
+7. ("Mouse", "null", "Smooth muscle cell", "Acta2")
+
+The tissue type is not explicitly mentioned for these markers in the text, hence it is filled with "null". The species is specified as "Mouse" based on the context.
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+- The document mentions the use of RNAscope probes for Mm-Nr2f2 and Mm-Gja4. These are used in the context of hybridization and staining, suggesting they are markers for certain cells.
+- CD105 is also mentioned as a marker used for immunohistochemical staining.
+
+However, the document does not explicitly specify the species, tissue type, or specific cell names for these markers. Given the requirements, we will fill in "null" where the information is missing. Here are the tuples based on the available information:
+
+1. ("null", "null", "null", "Nr2f2")
+2. ("null", "null", "null", "Gja4")
+3. ("null", "null", "null", "CD105")
+
+If you have additional information about the species, tissue type, or cell name, please provide it so that I can update the tuples accordingly.
+
+Based on the provided text, the following cell markers have been identified:
+
+- ("Mouse", "null", "Endothelial cell", "CDH5")
+- ("Mouse", "null", "Endothelial cell", "PECAM1")
+
+The other mentioned genes (CD45, PDGFRB, COL1A1, ACTA2) are used to exclude certain cell types rather than to positively identify a specific cell type. Therefore, they are not included as markers for the endothelial cells in this context.
+

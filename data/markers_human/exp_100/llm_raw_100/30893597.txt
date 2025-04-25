@@ -1,0 +1,81 @@
+Based on the provided document, the following cell markers can be identified:
+
+- LAMB2, LAMC1, LAMB1, and LAMA2 are expressed in human cardiac muscle tissue (left heart ventricle).
+- LAMA5 and LAMA4 are also expressed in the left heart ventricle, but at a lower level.
+
+Thus, the relevant tuples for these markers are:
+
+```python
+[
+    ("Human", "Heart", "Cardiac muscle cell", "LAMB2"),
+    ("Human", "Heart", "Cardiac muscle cell", "LAMC1"),
+    ("Human", "Heart", "Cardiac muscle cell", "LAMB1"),
+    ("Human", "Heart", "Cardiac muscle cell", "LAMA2"),
+    ("Human", "Heart", "Cardiac muscle cell", "LAMA5"),
+    ("Human", "Heart", "Cardiac muscle cell", "LAMA4")
+]
+```
+
+These tuples reflect the expression of specific laminin genes in the cardiac muscle cells of the human heart.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "null", "Cardiomyocytes (CMs)", "TNNT2")
+2. ("Human", "null", "Cardiomyocytes (CMs)", "ACTC1")
+3. ("Human", "null", "Cardiomyocytes (CMs)", "MYH7")
+4. ("Human", "null", "Cardiomyocytes (CMs)", "SIRPA")
+
+These markers are specifically mentioned as mature cardiomyocyte (CM) markers in the context of human embryonic stem cell (hESC)-derived cardiomyocytes.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Heart", "Cardiomyocyte (CM)", "TNNI3")
+2. ("Human", "Heart", "Cardiomyocyte (CM)", "TNNT2")
+3. ("Human", "Heart", "Cardiomyocyte (CM)", "a-actinin")
+4. ("Human", "Heart", "Cardiomyocyte (CM)", "NKX2-5")
+5. ("Human", "Heart", "Cardiomyocyte (CM)", "MYH1")
+6. ("Human", "Heart", "Cardiac Progenitor (CVP)", "T (brachyury)")
+7. ("Human", "Heart", "Cardiac Progenitor (CVP)", "MESP1")
+8. ("Human", "Heart", "Cardiac Progenitor (CVP)", "ISL1")
+9. ("Human", "Heart", "Cardiac Progenitor (CVP)", "TBX5")
+10. ("Human", "Heart", "Cardiac Progenitor (CVP)", "MEF2C")
+11. ("Human", "Heart", "Cardiac Progenitor (CVP)", "NKX2-5")
+12. ("Human", "Heart", "Cardiac Progenitor (CVP)", "C-KIT")
+13. ("Human", "Heart", "Cardiac Progenitor (CVP)", "GATA3")
+
+These tuples are derived from the information about marker genes and proteins that were used to identify and characterize cardiomyocytes (CMs) and cardiac progenitor cells (CVPs) in human heart tissue.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "null", "CVPs sub-population", "TTN")
+2. ("null", "null", "CVPs sub-population", "LUM")
+3. ("null", "null", "CVPs sub-population", "EPCAM")
+4. ("null", "null", "CVPs", "ISL1")
+5. ("null", "null", "CVPs", "NKX2-5")
+6. ("null", "null", "CVPs", "FUT4")
+7. ("null", "null", "CVPs", "MESP1")
+8. ("null", "null", "CVPs", "KDR")
+9. ("null", "null", "CVPs", "SSEA-1")
+
+The document does not specify the species or tissue type for these markers, hence "null" is used in those fields. The term "CVPs" likely refers to a specific cell type being studied, but its full name is not provided, so it's kept as is in the "Cell Name" field.
+
+none
+
+Based on the information provided in the document, the following cell markers have been identified. The document does not specify a particular species or tissue type, so "null" is used for those fields where the information is not provided.
+
+1. ("null", "null", "Pluripotent hESCs", "POU5F1")
+2. ("null", "null", "Pluripotent hESCs", "Tra1-60")
+3. ("null", "null", "Cardiomyocytes (implied from context)", "TNNT2")
+4. ("null", "null", "Cardiomyocytes (implied from context)", "MYH1")
+5. ("null", "null", "Cardiomyocytes (implied from context)", "TNNI3")
+6. ("null", "null", "Cardiomyocytes (implied from context)", "NKX2-5")
+7. ("null", "null", "Cardiomyocytes (implied from context)", "a-actinin")
+
+These tuples are based on the markers used in flow cytometry and immunostaining as described in the document. The document implies that these markers are used to identify specific cell types, particularly pluripotent human embryonic stem cells (hESCs) and cardiomyocytes, but does not provide explicit details about the species or the exact tissue type.
+
+none
+
+none
+
+none
+

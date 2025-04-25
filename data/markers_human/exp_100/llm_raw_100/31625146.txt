@@ -1,0 +1,56 @@
+Based on the provided document, the information related to cell markers is as follows:
+
+- **Species:** Mouse and Human
+- **Tissue Type:** Retina
+- **Cell Name:** Müller glia
+- **Marker:** Clrn1 (mRNA) and CLRN1 (protein)
+
+From this, we can construct the following tuples:
+
+1. ("Mouse", "Retina", "Müller glia", "Clrn1")
+2. ("Human", "Retina", "Müller glia", "CLRN1")
+
+Thus, the final list of tuples is:
+
+```python
+[
+    ("Mouse", "Retina", "Müller glia", "Clrn1"),
+    ("Human", "Retina", "Müller glia", "CLRN1")
+]
+```
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+- ("Mouse", "Retina", "Müller glia", "Clrn1")
+- ("Human", "Retina", "Müller glia", "CLRN1")
+
+The document specifies that Clrn1 (in mouse) and CLRN1 (in human) are specifically expressed in Müller glia within the retina. No other specific cell markers for different cell types were mentioned.
+
+none
+
+Based on the provided document, the only cell-specific marker mentioned is Clrn1, which is expressed in Müller cells. The document does not specify the exact species for this expression, but it mentions that the pattern is consistent across "all three species" (which can be inferred to include at least mouse and human based on the figures). Since the tissue type is the retina, and the specific cell name is Müller cells, we can construct the following tuples:
+
+- ("Mouse", "Retina", "Müller cell", "Clrn1")
+- ("Human", "Retina", "Müller cell", "Clrn1")
+
+The other information in the document pertains to the localization of Clrn1 mRNA and the generation of a knock-in mouse model, but does not provide additional cell markers.
+
+Therefore, the final output is:
+```python
+[("Mouse", "Retina", "Müller cell", "Clrn1"), ("Human", "Retina", "Müller cell", "Clrn1")]
+```
+
+Based on the provided document, there is no explicit mention of specific cell markers (marker genes, signature genes, protein markers, or molecular markers) used to distinguish different cell types. The text does discuss Clrn1 expression in various retinal cell populations but does not list any other markers that are used to identify these cell types.
+
+Since the document does not provide any specific marker information, the appropriate response is:
+
+```none
+none
+```
+
+none
+
+none
+
+none
+

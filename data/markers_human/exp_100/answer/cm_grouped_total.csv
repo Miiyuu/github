@@ -1,0 +1,549 @@
+pmid,species,tissue_type,cell_name,markers
+30582448,Mouse,Heart,Macrophage,"['Plac8', 'Thbs', 'Ly6C2', 'Hp']"
+30760918,Mouse,Heart,Fibroblast,['CKAP4']
+30787185,Mouse,Eye,Endothelial cell,"['Notch1', 'Notch4', 'Dll4', 'Jag1']"
+30872492,Mouse,Heart,Pan-macrophage,"['CD68', 'CD31']"
+30872492,Mouse,Lung,Macrophage,"['MerTK', 'F4/80', 'CD64']"
+30872492,Mouse,Lung,Pan-macrophage,['CD68']
+30872492,Mouse,Lung,Pan–blood vessel cell,['CD31']
+30872492,Mouse,Skin,Pan-macrophage,['CD68']
+30872492,Mouse,Skin,Pan–blood vessel cell,['CD31']
+30893597,Human,Heart muscle,Cardiomyocyte,"['ACTC1', 'MYH7', 'SIRPA', 'TNNT2']"
+30893597,Human,Heart muscle,Neuron,['NPTX1']
+30958799,Human,Esophagus,Effector Th2 cell,['HPGDS']
+30958799,Human,Esophagus,Effector Th2-like cell,['GATA3']
+30958799,Human,Esophagus,Regulatory T(Treg) cell,"['CD4', 'IL-10', 'CD154', 'FOXP3', 'CTLA-4', 'MAF', 'IFNG', 'IL17A']"
+30958799,Human,Esophagus,T helper 2(Th2) cell,"['HPGDS', 'PTGDR2', 'IL1RL1', 'IL-17RB']"
+30988181,Mouse,Retina,Cholinergic amacrine cell,['Calretinin']
+30988181,Mouse,Retina,Horizontal cell,"['Neurofilament-H', 'Calbindin']"
+30988181,Mouse,Retina,Retinal ganglion cell(RGC) axon,['Neurofilament-H']
+31028265,Human,Heart,Endocardial cell,"['KLF2', 'CDH5', 'NOTCH4', 'ENG', 'PECAM']"
+31028265,Human,Heart,Endothelial cell,"['CDH5', 'ENG', 'NOTCH4', 'KLF2', 'PECAM']"
+31028265,Human,Heart,Hematopoietic cell,"['LATEXIN', 'CARBONIC-ANYDRASE', 'CX37', 'FICOLIN3', 'SOX8', 'CD55', 'CD40', 'HOXP1']"
+31028265,Human,Heart,Myofibroblast,['TGLN']
+31073041,Mouse,Embryonic heart,Early-born neuron,['CTIP2']
+31073041,Mouse,Embryonic heart,Late-born neuron,['BRN2']
+31170999,Mouse,Retina,Amacrine cell,"['Gad1', 'Pax6', 'Tfap2a']"
+31170999,Mouse,Retina,Astrocyte,"['Pax2', 'S100b']"
+31170999,Mouse,Retina,Bipolar cell,"['Grik1', 'Grm6', 'Vsx2']"
+31170999,Mouse,Retina,Cone photoreceptor cell,"['Arr3', 'Opn1mw']"
+31170999,Mouse,Retina,Endothelial cell,"['Tie1', 'Cldn5']"
+31170999,Mouse,Retina,Ganglion cell,"['Pou4f2', 'Thy1', 'Nefl']"
+31170999,Mouse,Retina,Horizontal cell,"['Calb1', 'Lhx1']"
+31170999,Mouse,Retina,Müller glial cell,"['Glul', 'Slc3a2', 'Vim', 'Rlbp1']"
+31170999,Mouse,Retina,Pericyte,"['Acta2', 'Tagln']"
+31170999,Mouse,Retina,Rod photoreceptor cell,"['Nr2e3', 'Nrl', 'Rho']"
+31216470,Mouse,Heart muscle,Cardiomyocyte,['Tnnt2']
+31216470,Mouse,Heart muscle,Epicardial cell,"['Bnc1', 'Anxa8', 'Krt19', 'Tcf21', 'Krt8', 'Tbx18', 'Upk1b', 'Gpm6a', 'Gata5', 'Myrf', '\xa0Wt1']"
+31216470,Mouse,Heart muscle,Fibroblast,['Col1a1']
+31216470,Mouse,Heart muscle,Macrophage,['Lys6c']
+31341279,Mouse,Ectoderm,Ectodermal cell,"['Sox2', 'Pou3f1']"
+31341279,Mouse,Endoderm,Endodermal cell,"['Foxa2', 'Epcam']"
+31341279,Mouse,Left ventricle,Left ventricular cell,"['Pln', 'Hand1']"
+31341279,Mouse,Outflow tract,Outflow tract(OFT) cell,['Tdgf1']
+31341279,Mouse,Posterior second heart field,Posterior second heart field(pSHF) cell,"['Hoxb1', 'Hoxa1']"
+31422913,Mouse,Stomach,Neck cell,['Muc6']
+31422913,Mouse,Stomach,Pit cell,['Muc5ac']
+31422913,Mouse,Stomach,Stem cell,"['Mist1', 'Bmi1', 'Lgr5', 'Lrig1', 'Runx1', 'Sox2', 'Troy']"
+31436334,Human,Retina,Amacrine cell,"['CALB1', 'CHAT', 'GAD1']"
+31436334,Human,Retina,Bipolar cell,"['OTX2', 'VSX2']"
+31436334,Human,Retina,Cone photoreceptor cell,"['PDE6C', 'GNAT2', 'CNBG3', 'PDE6H', 'GUCA1C', 'THRB', 'GRK7', 'GNGT2', 'RXRG', 'OPN1LW', 'ARR3']"
+31436334,Human,Retina,Horizontal cell,"['ONECUT1', 'ONECUT2']"
+31436334,Human,Retina,Microglial cell,"['HLA‐DPA1', 'HLA‐DRA', 'HLA‐DPB1']"
+31436334,Human,Retina,Müller glial cell,"['RLBP1', 'CRALBP']"
+31436334,Human,Retina,Retinal astrocyte,['GFAP']
+31436334,Human,Retina,Retinal ganglion cell,"['NEFL', 'SNCG', 'GAP43']"
+31436334,Human,Retina,Rod cell,"['CNGA1', 'PDE6A', 'RHO']"
+31543471,Human,Retina,Adult neural stem cell,"['GJA1', 'ATP1A2']"
+31543471,Human,Retina,Multipotent retinal progenitor cell,"['TGFβ2', 'LIN28B', 'IGFBP5', 'LIN28A', 'BMP7', 'PFN1', 'TMSB10', 'GJA1', 'ATP1A2', 'JAG1']"
+31543471,Human,Retina,Neurogenic retinal progenitor cell,"['NGN2', 'EFNB2', 'ASCL1', 'DCX', 'GPM6A', 'RUFY3', 'RTN4', 'ISLR2', 'GPM6B', 'FZD3']"
+31543471,Human,Retina,Neuron,"['DCX', 'SEMA5A', 'NRCAM', 'DCLK1']"
+31625146,Mouse,Retina,Amacrine cell,"['Pax6', 'Tfap2a', 'Gad1']"
+31625146,Mouse,Retina,Astrocyte,"['S100b', 'Pax2']"
+31625146,Mouse,Retina,Bipolar cell,"['Grik1', 'Grm6', 'Vsx2']"
+31625146,Mouse,Retina,Cone photoreceptor cell,"['Opn1mw', 'Arr3']"
+31625146,Mouse,Retina,Endothelial cell,"['Cldn5', 'Tie1']"
+31625146,Mouse,Retina,Ganglion cell,"['Nefl', 'Thy1', 'Pou4f2']"
+31625146,Mouse,Retina,Horizontal cell,"['Calb1', 'Lhx1']"
+31625146,Mouse,Retina,Müller glial cell,"['Vim', 'Rlbp1', 'Slc3a2', 'Glul']"
+31625146,Mouse,Retina,Pericyte,"['Tagln', 'Acta2']"
+31625146,Mouse,Retina,Retinal pigment epithelium,"['Lrat', 'RPE65']"
+31625146,Mouse,Retina,Rod photoreceptor cell,"['Nrl', 'Rho', 'Nr2e3']"
+31653841,Human,Retina,Amacrine cell,"['GAD1', 'C1QL2']"
+31653841,Human,Retina,Astrocyte,"['GLUL', 'ΑΡΟΕ', 'GFAP', 'CLU', 'SPARCL1']"
+31653841,Human,Retina,Bipolar cell,"['TMEM215', 'TRPM1', 'CAMK2B', 'GRM6']"
+31653841,Human,Retina,Cone cell,"['OPN1SW', 'OPN1MW', 'GNAT2', 'OPN1LW']"
+31653841,Human,Retina,Horizontal cell,"['ONECUT2', 'ONECUT1', 'LHX1']"
+31653841,Human,Retina,Macroglial cell,"['COL4A3', 'FOS', 'FTL']"
+31653841,Human,Retina,Microglial cell,"['CD163', 'TMEM119', 'C1QA', 'AIF1']"
+31653841,Human,Retina,Müller glial cell,"['GLUL', 'CLU', 'ΑΡΟΕ']"
+31653841,Human,Retina,Retinal ganglion cell,"['NEFL', 'NEFM', 'SLC17A6', 'SNCG']"
+31653841,Human,Retina,Rod cell,"['PPEF2', 'PDE6A', 'NR2E3']"
+31653841,Human,Retina,Vascular cell,"['RGS5', 'TM4SF1', 'CD34', 'ADAMTS9', 'CDH5']"
+31712411,Human,Choroid,Artery cell,"['SEMA3G', 'HEY1']"
+31712411,Human,Choroid,B cell,['CD79A']
+31712411,Human,Choroid,Choriocapillaris cell,"['PLVAP', 'CA4']"
+31712411,Human,Choroid,Endothelial cell,"['VWF', 'CD34', 'ICAM2']"
+31712411,Human,Choroid,Fibroblast,['FBLN1']
+31712411,Human,Choroid,Leukocyte,['PTPRC']
+31712411,Human,Choroid,Macrophage,['AIF1']
+31712411,Human,Choroid,Mast cell,['KIT']
+31712411,Human,Choroid,Melanocyte,"['DCT', 'MLANA', 'PMEL', 'TYRP1']"
+31712411,Human,Choroid,Myelinating schwann cell,"['MBP', 'MPZ']"
+31712411,Human,Choroid,Natural killer cell,['CD2']
+31712411,Human,Choroid,Nonmyelinating schwann cell,"['SCN7A', 'NGFR', 'L1CAM', 'NCAM1']"
+31712411,Human,Choroid,Pericyte,['RGS5']
+31712411,Human,Choroid,Retinal pigment epithelial cell,"['RPE65', 'BEST1']"
+31712411,Human,Choroid,Schwann cell,['PLP1']
+31712411,Human,Choroid,Smooth muscle cell,['RGS5']
+31712411,Human,Choroid,T cell,['CD2']
+31712411,Human,Choroid,Vein cell,"['MMRN1', 'DARC']"
+31775049,Mouse,Eye,Astrocyte,['Gfap']
+31775049,Mouse,Eye,Ganglion cell,['Pou4f1']
+31775049,Mouse,Eye,Microglial cell,['Tmem119']
+31848347,Human,Eye,Amacrine cell,['GAD1']
+31848347,Human,Eye,Bipolar cell,['NETO1']
+31848347,Human,Eye,Cone cell,['ARR3']
+31848347,Human,Eye,Horizontal cell,['SEP4']
+31848347,Human,Eye,Mueller glia cell,['SLC1A3']
+31848347,Human,Eye,Retinal ganglion cell,['RBPMS']
+31848347,Human,Eye,Rod cell,['PDE6A']
+31892341,Human,Esophagus,B cell,"['IGHD', 'CD27', 'TNFRSF13B', 'FCER2', 'CD19', 'TCL1A', 'CD79A']"
+31892341,Human,Esophagus,Basal epithelial cell,"['ITGA6', 'SCPEP1', 'KRT5']"
+31892341,Human,Esophagus,CD4+ T cell,"['CD8A', 'CD3E', 'CD4']"
+31892341,Human,Esophagus,CD8+ T cell,"['CD8A', 'CD3E', 'CD4']"
+31892341,Human,Esophagus,Conventional dendritic cell 2(cDC2),"['CLEC10A', 'CD1C']"
+31892341,Human,Esophagus,Cytotoxic T cell,"['GZMB', 'PRF1', 'GNLY']"
+31892341,Human,Esophagus,Dividing cell,['MKI67']
+31892341,Human,Esophagus,Endothelial cell,"['CLEC14A', 'PECAM1']"
+31892341,Human,Esophagus,Gland cell,"['TFF3', 'MUC5B']"
+31892341,Human,Esophagus,Gland ductal cell,"['KRT7', 'KRT23']"
+31892341,Human,Esophagus,Immune cell,['PTPRC']
+31892341,Human,Esophagus,Macrophage,['APOE']
+31892341,Human,Esophagus,Mast cell,['TPSB2']
+31892341,Human,Esophagus,Monocyte,"['VCAN', 'CD14', 'FCN1']"
+31892341,Human,Esophagus,Natural killer cell,"['NCR1', 'NCAM1']"
+31892341,Human,Esophagus,Stratified keratinocyte,['KRT4']
+31892341,Human,Esophagus,Stromal cell,"['COL1A2', 'DCN', 'FBLN1']"
+31892341,Human,Esophagus,Vascular cell,"['VWF', 'CCL21']"
+31892341,Human,Lung,Activated dendritic cell,['CCR7']
+31892341,Human,Lung,Alveolar cell Type 1,"['AGER', 'SFTPC', 'SLPI', 'EPCAM']"
+31892341,Human,Lung,Alveolar cell Type 2,"['AGER', 'SLPI', 'EPCAM', 'SFTPC']"
+31892341,Human,Lung,B cell,"['CD79A', 'CD19', 'MS4A1']"
+31892341,Human,Lung,CD4+ T cell,"['CD8A', 'CD4', 'CD3E']"
+31892341,Human,Lung,CD8+ T cell,"['CD4', 'CD8A', 'CD3E']"
+31892341,Human,Lung,Ciliated cell,"['FOXJ1', 'EPCAM', 'PIFO']"
+31892341,Human,Lung,Conventional dendritic cell 1(cDC1),"['CLEC9A', 'XCR1']"
+31892341,Human,Lung,Conventional dendritic cell 2(cDC2),"['CD1C', 'CLEC10A']"
+31892341,Human,Lung,Cytotoxic T cell,"['PRF1', 'GNLY', 'GZMB']"
+31892341,Human,Lung,Dividing cell,"['MKI67', 'CDK1']"
+31892341,Human,Lung,Fibroblast,"['PDGFRA', 'VCAN']"
+31892341,Human,Lung,Macrophage,"['CD5L', 'APOE', 'MARCO']"
+31892341,Human,Lung,Mast cell,['TPSB2']
+31892341,Human,Lung,Monocyte,"['FCN1', 'CD14', 'VCAN']"
+31892341,Human,Lung,Muscularis cell,"['TAGLN', 'ACTA2']"
+31892341,Human,Lung,Natural killer cell,"['CD160', 'NCR1', 'NCAM1']"
+31892341,Human,Lung,Plasma cell,"['XBP1', 'SDC1', 'JCHAIN']"
+31892341,Human,Lung,Plasmacytoid dendritic cell(pDC),"['IL3RC', 'CLEC4C']"
+31892341,Human,Lung,Regulatory T(Treg) cell,"['IL2RA', 'FOXP3']"
+31892341,Human,Lung,Vascular cell,"['VWF', 'CCL21', 'PECAM1']"
+31892341,Human,Spleen,Activated dendritic cell,['CCR7']
+31892341,Human,Spleen,B cell,"['CD19', 'MS4A1', 'CD79A']"
+31892341,Human,Spleen,CD34+ progenitor cell,"['CD34', 'HOXA9', 'PROM1']"
+31892341,Human,Spleen,CD4+ T cell,"['CD8A', 'CD4', 'CD3E']"
+31892341,Human,Spleen,CD8+ T cell,"['CD4', 'CD8A', 'CD3E']"
+31892341,Human,Spleen,Conventional dendritic cell 1(cDC1),"['XCR1', 'CLEC9A']"
+31892341,Human,Spleen,Conventional dendritic cell 2(cDC2),"['CLEC10A', 'CD1C']"
+31892341,Human,Spleen,Cytotoxic T cell,"['GZMB', 'PRF1', 'GNLY']"
+31892341,Human,Spleen,Dividing cell,"['H2AFZ', 'TUBB', 'MKI67', 'CDK1']"
+31892341,Human,Spleen,Follicular B cell,"['TCL1A', 'FCER2', 'IL4R', 'IGHD', 'YBX3']"
+31892341,Human,Spleen,Immune cell,['PTPRC']
+31892341,Human,Spleen,Innate lymphoid cell,"['KLRB1', 'TNFSF13B', 'IL7R', 'AREG']"
+31892341,Human,Spleen,Macrophage,"['CD5L', 'APOE']"
+31892341,Human,Spleen,Mait-like cell,"['KLRB1', 'SLC4A10']"
+31892341,Human,Spleen,Mantle B cell,"['TNFRSF13B', 'CD27']"
+31892341,Human,Spleen,Monocyte,"['FCN1', 'VCAN', 'CD14']"
+31892341,Human,Spleen,Natural killer cell,"['CD160', 'NCR1', 'NCAM1', 'FCGR3A']"
+31892341,Human,Spleen,Naïve cell,['LEFT']
+31892341,Human,Spleen,Plasma cell,"['IGHG1', 'IGHM', 'JCHAIN', 'XBP1', 'SDC1']"
+31892341,Human,Spleen,Plasmacytoid dendritic cell,"['CLEC4C', 'IL3RC']"
+31892341,Human,Spleen,Platelet,"['PF4', 'GP9']"
+31892341,Human,Spleen,Regulatory T(Treg) cell,"['FOXP3', 'IL2RA']"
+31892341,Human,Spleen,Somatic hypermutation B cell,['AICDA']
+31892341,Human,Spleen,T follicular helper(Tfh) cell,"['ICOS', 'PDCD1', 'CXCR5']"
+31892341,Human,Spleen,γ δ T cell,"['TRGV2', 'FCGR3A']"
+31980621,Human,Eye,CD8+ T cell,['LAG3']
+32023475,Human,Retina,Bipolar cell,"['VSX1', 'RCVRN', 'GRM6', 'OTX2']"
+32023475,Human,Retina,Forebrain cell,"['FOXG1+', 'SOX1']"
+32023475,Human,Retina,Ganglion cell,['SNCG']
+32023475,Human,Retina,Glial cell,"['SLC1A3', 'RLBP1']"
+32023475,Human,Retina,Later-stage progenitor cell,"['Rgs16', 'Fabp7']"
+32023475,Human,Retina,Neuron,"['OTX2', 'AP2A', 'NEFL', 'ONECUT2']"
+32023475,Human,Retina,Photoreceptor cell,"['OTX2', 'RCVRN']"
+32023475,Human,Retina,Progenitor cell,"['SOX2', 'VSX2']"
+32023475,Human,Retina,Rod cell,['NRL']
+32023475,Human,Retina,T helper 1(Th1) cell,['ATOH7']
+32060101,Human,Stomach,Antrum gastric epithelial cell,"['PDX1', 'GAST']"
+32060101,Human,Stomach,B cell,"['CD79', 'MS4A1', 'CD19']"
+32060101,Human,Stomach,CD8 T cell,"['CD8B', 'CD8A']"
+32060101,Human,Stomach,Cytotoxic cell,"['NKG7', 'GZMA', 'KLRD1', 'PRF1', 'GZMB', 'GZMH', 'KLRK1', 'CTSW', 'GNLY', 'KLRB1']"
+32060101,Human,Stomach,Dendritic cell,"['CLEC4C', 'CD83', 'IRF4', 'ID2', 'HLA-DQA2', 'IL3RA']"
+32060101,Human,Stomach,Endothelial cell,"['VWF', 'SELP', 'PECAM1', 'SELE', 'ENG']"
+32060101,Human,Stomach,Epithelial cell,"['MUC5AC', 'TFF2', 'TFF1', 'PGC', 'MUC6']"
+32060101,Human,Stomach,Fibroblast,"['THY1', 'DCN', 'LUM', 'COL1A1', 'COL14A1', 'CAV1']"
+32060101,Human,Stomach,Gastric neuroendocrine cell,"['GAST', 'CHGA', 'EPCAM', 'SST', 'TFF3']"
+32060101,Human,Stomach,Gastric parietal cell,['GIF']
+32060101,Human,Stomach,Gastric stem cell,"['LGR5', 'TROY']"
+32060101,Human,Stomach,Intestinal epithelial cell,['MUC2']
+32060101,Human,Stomach,Macrophage,"['CD14', 'CD68', 'CD163', 'FCGR3A']"
+32060101,Human,Stomach,Mast cell,"['CPA3', 'TPSAB1', 'MS4A2', 'TPSB2']"
+32060101,Human,Stomach,Monocyte,"['FCGR3A', 'CD14']"
+32060101,Human,Stomach,Myofibroblast,"['ACTA2', 'THY1', 'CAV1', 'DCN', 'COL14A1', 'COL1A1', 'LUM']"
+32060101,Human,Stomach,Natural killer cell,"['GNLY', 'NCR1', 'XCL2', 'NKG7']"
+32060101,Human,Stomach,Naïve or central memory  T cell,"['CCR7', 'SELL']"
+32060101,Human,Stomach,Pericyte,"['PDGFRB', 'RGS5']"
+32060101,Human,Stomach,Plasma cell,['SDC1']
+32060101,Human,Stomach,Regulatory T(Treg) cell,"['IL2RA', 'FOXP3']"
+32060101,Human,Stomach,Smooth muscle cell,['ACTA2']
+32060101,Human,Stomach,T cell,"['CD3D', 'CD3E', 'CD3G']"
+32060101,Human,Stomach,Tissue resident effector memory T cell,"['CD69', 'ITGAE', 'ITGA1']"
+32071204,Mouse,Retina,Ganglion cell,"['Zic1', 'Tfap2d', 'Rbpms2', 'Mapt', 'Irx3', 'Nefm']"
+32114394,Human,Blood,B cell,"['ADAM28', 'IGJ', 'CXCR4', 'FCER2', 'BANK1', 'TCF4', 'PMAIP1', 'CR1P1', 'VPREB3', 'TCL1A']"
+32114394,Human,Blood,CD4+ T cell,['TNFSF3']
+32114394,Human,Blood,Dendritic cell,['CLEC10A']
+32114394,Human,Blood,Myeloid cell,"['S100A8', 'PF4', 'FCN1', 'CLEC4C', 'CD14', 'MS4A6A', 'LST1', 'CDKN1C', 'FCGR3A', 'CST4', 'SERPINA1', 'MNDA']"
+32114394,Human,Blood,Plasmacytoid dendritic cell(pDC),"['MZB1', 'ITM2C', 'CLEC4C', 'LILRA4']"
+32114394,Human,Blood,T cell,"['CD247', 'GIMAP7', 'IFITM1', 'LCK']"
+32166394,Mouse,Blood,Stem cell,['Ly6a']
+32231223,Human,Retina,Epithelial cell,"['BEST-1', 'MITF', 'RPE65', 'TYR']"
+32231223,Human,Retina,Neuron,"['MAP2', 'TUBB3', 'POU5F1']"
+32251406,Human,Peripheral blood,Natural killer cell,"['CD16', 'KLRF1']"
+32268117,Mouse,Choroid,Endothelial cell,"['Pecam1', 'Cdh5']"
+32268117,Mouse,Choroid,Fibroblast,['Col1a1']
+32268117,Mouse,Choroid,Leukocyte,['Ptprc']
+32268117,Mouse,Choroid,Lymphatic endothelial cell,['Prox1']
+32268117,Mouse,Choroid,Pericyte,['Pdgfrb']
+32268117,Mouse,Choroid,Smooth muscle cell,['Acta2']
+32286271,Human,Blood,CD4+ T cell,"['LRRN3', 'CCR7', 'SELL']"
+32286271,Human,Blood,Central memory T cell,['PASK']
+32286271,Human,Blood,Effector memory T cell,"['GZMK', 'KLRB1', 'IL7R', 'TNFSF13B']"
+32286271,Human,Blood,Finally highly effector (TEMRA) memory T cell,"['GZMH', 'CST7', 'NKG7', 'GZMA', 'CCL5', 'CCL4', 'GNLY']"
+32286271,Human,Blood,Naive T(Th0) cell,"['CCR7', 'LRRN3', 'SELL', 'NPM1']"
+32286271,Human,Blood,Natural regulatory T cell,"['CTLA4', 'HLA-DPB1', 'CD74', 'ITGB1', 'ANXA2', 'HLA-DRB1.1', 'HLA-DRB1', 'LGALS3', 'IL2RA', 'VIM', 'LGALS1', 'FOXP3']"
+32286626,Human,Blood,B cell,['CD19']
+32286626,Human,Blood,Dendritic cell,['FCER1A']
+32286626,Human,Blood,Monocyte,"['LYZ', 'FCGR3A', 'CD14']"
+32286626,Human,Blood,Natural killer cell,['GNLY']
+32286626,Human,Blood,T cell,['IL7R']
+32341164,Human,Eye,Endothelial cell,"['CCL21', 'CD31', 'FLT4']"
+32345613,Human,Gastrointestinal tract,Stem cell,['SOX9']
+32345613,Human,Undefined,Cancer stem cell,"['CD133', 'CD49f', 'CD49f', 'CD133', 'HES1', 'ALDH1']"
+32345613,Human,Undefined,Epithelial cell,['EpCAM']
+32345613,Human,Undefined,Immune cell,['CD45']
+32345613,Human,Undefined,Macrophage,['CD163']
+32345613,Human,Undefined,Stromal cell,['vimentin']
+32351504,Human,Umbilical cord blood,CD4+ T cell,"['TIGIT', 'TNFRSF9', 'IKZF2', 'FOXP3']"
+32351704,Human,Blood,Central memory CD4+ T cell,"['CCR7', 'MAL', 'SELL', 'TSHZ2', 'LEF1', 'TCF7', 'MYC', 'NOSIP', 'SOCS3']"
+32351704,Human,Blood,Central memory CD8+ T cell,"['MYC', 'SELL', 'MAL', 'SOCS3', 'LEF1', 'NOSIP', 'RCAN3', 'TCF7', 'TSHZ2', 'CCR7']"
+32351704,Human,Blood,Conventional dendritic cell 2(cDC2),"['PPA1', 'FCER1A', 'HLA-DQA1', 'CD1C', 'HLA-DQB1']"
+32351704,Human,Blood,Effector memory CD8+ T cell,"['CD8A', 'CD52', 'CXCR3', 'CD8B', 'ITGA1']"
+32351704,Human,Blood,Effector memory T cell,"['TIMP1', 'LTB', 'TNFRSF4', 'CD52', 'AQP3', 'IL7R']"
+32351704,Human,Blood,Megakaryocyte,"['SPARC', 'PPBP', 'ITGA2B', 'TUBB1', 'PF4', 'NRGN', 'PIG6B', 'GNG11', 'CAVIN2', 'MYL9']"
+32351704,Human,Blood,Naive B cell,"['PLPP5', 'IGHD', 'APLP2', 'IGHM', 'CXCR4', 'TCL1A', 'IL4R', 'FCER2']"
+32351704,Human,Blood,Naive CD4 T cell,"['TCF7', 'MAL', 'CCR7', 'MYC', 'TSHZ2', 'NOSIP', 'SOCS3', 'SELL', 'LEF1']"
+32351704,Human,Blood,Naive CD8+ T cell,"['RCAN3', 'MAL', 'NOSIP', 'LEF1', 'SELL', 'TCF7', 'SOCS3', 'TSHZ2', 'MYC', 'CCR7']"
+32351704,Human,Blood,Plasma cell,"['JCHAIN', 'DPEP1', 'IGKC', 'IGHA2']"
+32351704,Human,Blood,Regulatory T(Treg) cell,"['CORO1B', 'FANK1', 'FOXP3', 'ARID5B', 'RTKN2', 'CTLA4', 'GBP2', 'IL2RA', 'ICA1']"
+32351704,Human,Liver,Central memory CD4+ T cell,"['MAL', 'SELL', 'CCR7', 'MYC', 'NOSIP', 'TCF7', 'LEF1', 'TSHZ2', 'SOCS3']"
+32351704,Human,Liver,Central memory CD8+ T cell,"['NOSIP', 'LEF1', 'SOCS3', 'MAL', 'TCF7', 'MYC', 'SELL', 'CCR7', 'RCAN3', 'TSHZ2']"
+32351704,Human,Liver,Conventional dendritic cell 1(cDC1),"['HIST1H4C', 'CLEC9A', 'PTTG1']"
+32351704,Human,Liver,Conventional dendritic cell 2(cDC2),"['PPA1', 'HLA-DQB1', 'HLA-DQA1', 'CD1C', 'FCER1A']"
+32351704,Human,Liver,Effector memory CD8+ T cell,"['CD8A', 'ITGA1', 'CXCR3', 'CD8B', 'CD52']"
+32351704,Human,Liver,Effector memory T cell,"['TNFRSF4', 'TIMP1', 'LTB', 'CD52', 'IL7R', 'AQP3']"
+32351704,Human,Liver,Macrophage,"['FABP4', 'SLC40A1', 'APOC1', 'FTL', 'FABP5', 'CD5L', 'MRC1', 'LGMN', 'APOE', 'MARCO', 'NUPR1', 'HMOX1', 'SELENOP']"
+32351704,Human,Liver,Naive B cell,"['PLPP5', 'CXCR4', 'TCL1A', 'IGHM', 'FCER2', 'APLP2', 'IL4R', 'IGHD']"
+32351704,Human,Liver,Naive CD4 T cell,"['CCR7', 'TCF7', 'SOCS3', 'MAL', 'MYC', 'NOSIP', 'LEF1', 'TSHZ2', 'SELL']"
+32351704,Human,Liver,Naive CD8+ T cell,"['SOCS3', 'LEF1', 'TSHZ2', 'RCAN3', 'NOSIP', 'SELL', 'MYC', 'CCR7', 'MAL', 'TCF7']"
+32351704,Human,Liver,Plasma cell,"['IGHA2', 'DPEP1', 'IGKC', 'JCHAIN']"
+32351704,Human,Liver,Plasmacytoid dendritic cell(pDC),"['BCL11A', 'IRF8', 'CCDC50', 'TCF4', 'SPIB', 'IRF7', 'ITM2C', 'C12orf75', 'LILRA4']"
+32351704,Human,Liver,Regulatory T(Treg) cell,"['FOXP3', 'CTLA4', 'GBP2', 'FANK1', 'ICA1', 'ARID5B', 'RTKN2', 'IL2RA', 'CORO1B']"
+32351704,Human,Liver,T follicular helper(Tfh) cell,"['CD40LG', 'GPR183', 'MALAT1', 'LTB', 'CXCR5']"
+32351704,Human,Spleen,B cell,['CD19']
+32351704,Human,Spleen,Central memory CD4+ T cell,"['CCR7', 'MYC', 'TSHZ2', 'LEF1', 'MAL', 'SOCS3', 'TCF7', 'NOSIP', 'SELL']"
+32351704,Human,Spleen,Central memory CD8+ T cell,"['MAL', 'RCAN3', 'NOSIP', 'CCR7', 'TSHZ2', 'SOCS3', 'SELL', 'TCF7', 'MYC', 'LEF1']"
+32351704,Human,Spleen,Conventional dendritic cell 1(cDC1),"['PTTG1', 'CLEC9A', 'HIST1H4C']"
+32351704,Human,Spleen,Conventional dendritic cell 2(cDC2),"['HLA-DQA1', 'HLA-DQB1', 'PPA1', 'FCER1A', 'CD1C']"
+32351704,Human,Spleen,Effector memory CD8+ T cell,"['ITGA1', 'CXCR3', 'CD8B', 'CD8A', 'CD52']"
+32351704,Human,Spleen,Effector memory T cell,"['TNFRSF4', 'CD52', 'TIMP1', 'AQP3', 'LTB', 'IL7R']"
+32351704,Human,Spleen,Macrophage,"['APOC1', 'NUPR1', 'FABP5', 'APOE', 'CD5L', 'MARCO', 'HMOX1', 'LGMN', 'SELENOP', 'MRC1', 'SLC40A1', 'FTL', 'FABP4']"
+32351704,Human,Spleen,Megakaryocyte,"['GNG11', 'PIG6B', 'NRGN', 'PPBP', 'MYL9', 'SPARC', 'CAVIN2', 'PF4', 'TUBB1', 'ITGA2B']"
+32351704,Human,Spleen,Monocyte,['CD14']
+32351704,Human,Spleen,Naive B cell,"['APLP2', 'IGHD', 'CXCR4', 'PLPP5', 'IL4R', 'IGHM', 'FCER2', 'TCL1A']"
+32351704,Human,Spleen,Naive CD4 T cell,"['NOSIP', 'SELL', 'MAL', 'MYC', 'CCR7', 'SOCS3', 'LEF1', 'TSHZ2', 'TCF7']"
+32351704,Human,Spleen,Naive CD8 T cell,"['TCF7', 'CCR7', 'MAL', 'TSHZ2', 'SELL', 'RCAN3', 'SOCS3', 'MYC', 'LEF1', 'NOSIP']"
+32351704,Human,Spleen,Natural killer cell,"['KLRF1', 'CXCR6', 'CXCR5', 'CXCR3', 'NCAM1', 'CCR7', 'CX3CR1']"
+32351704,Human,Spleen,Plasma cell,"['IGKC', 'IGHA2', 'DPEP1', 'JCHAIN', 'SDC1']"
+32351704,Human,Spleen,Plasmacytoid dendritic cell(pDC),"['LILRA4', 'CCDC50', 'BCL11A', 'ITM2C', 'IRF8', 'C12orf75', 'TCF4', 'IRF7', 'SPIB']"
+32351704,Human,Spleen,Regulatory T (Treg) cell,"['CORO1B', 'ICA1', 'ARID5B', 'FANK1', 'RTKN2', 'IL2RA', 'FOXP3', 'CTLA4', 'GBP2']"
+32351704,Human,Spleen,T cell,"['CXCR6', 'CXCR3', 'CX3CR1', 'CCR7', 'CD3D', 'CXCR5']"
+32351704,Human,Spleen,T follicular helper(Tfh) cell,"['LTB', 'CD40LG', 'GPR183', 'MALAT1', 'CXCR5']"
+32377375,Human,Blood,B cell,['CD19']
+32377375,Human,Blood,Myeloid cell,"['CD1C', 'FCGR3A', 'CD14']"
+32377375,Human,Blood,Natural killer cell,"['CD4', 'CD8A', 'CD3E', 'NCAM1']"
+32377375,Human,Blood,T cell,"['CD4', 'CD3E', 'CD8A', 'NCAM1']"
+32403085,Mouse,Peripheral blood,Conventional dendritic cell(cDC),"['CD1a', 'CD11c']"
+32405063,Human,Blood,Lymphocyte,"['CD79A', 'NKG7', 'CD3D']"
+32405063,Human,Blood,Myeloid cell,"['IL1B', 'CXCL8', 'CD14']"
+32405063,Human,Undefined,B cell,['CD79A']
+32405063,Human,Undefined,CD8+ T cell,"['CD3E', 'CD8A']"
+32405063,Human,Undefined,Natural killer cell,['NKG7']
+32439707,Human,Eye,Lymphatic endothelial cell,"['PECAM1', 'LYVE1', 'MMRN1', 'FLT4', 'PROX1']"
+32439707,Human,Eye,Trabecular meshwork cell,"['CHI3L1', 'MYOC', 'MGP', 'aquaporin-1']"
+32439707,Human,Eye,Vascular endothelial cell,"['KDR', 'VWF', 'EFNB2', 'DLL4', 'EFNB2', 'FLT1', 'DLL4', 'VWF', 'EPHB4', 'EPHB4', 'FLT1', 'KDR']"
+32532891,Human,Gastrointestinal tract,B cell,"['MS4A1', 'CD79A']"
+32532891,Human,Gastrointestinal tract,Endocrine cell,['CHGA']
+32532891,Human,Gastrointestinal tract,Endothelial cell,"['VWF', 'ENG']"
+32532891,Human,Gastrointestinal tract,Epithelial cell,"['EPCAM', 'KRT18', 'KRT8']"
+32532891,Human,Gastrointestinal tract,Fibroblast,"['ACTA2', 'COL1A2']"
+32532891,Human,Gastrointestinal tract,Macrophage,['CD14']
+32532891,Human,Gastrointestinal tract,Mast cell,['CPA3']
+32532891,Human,Gastrointestinal tract,Parietal cell,['ATP4A']
+32532891,Human,Gastrointestinal tract,T cell,"['CD3D', 'CD3E', 'CD2']"
+32614947,Human,Undefined,Endothelial cell,['CD144']
+32614947,Human,Undefined,Granulocyte,"['AZU1', 'PRNT3']"
+32614947,Human,Undefined,Hematopoietic stem cell,"['CD180', 'CD34', 'CD33', 'CD132', 'CD44', 'IL3RA', 'CD52']"
+32614947,Human,Undefined,Leukocyte,"['Mac-1', 'LFA-1', 'CD11a-d']"
+32614947,Human,Undefined,Macrophage,['25F9']
+32614947,Human,Undefined,Megakaryocyte,"['PF4', 'CD41', 'GP9']"
+32614947,Human,Undefined,Mesoderm cell,['FRZB']
+32614947,Human,Undefined,Multipotent progenitor cell,"['CD132', 'CD34', 'CD52', 'CD180', 'CD33', 'CD44', 'IL3RA']"
+32614947,Human,Undefined,Naive 1 progenitor cell,"['CD18', 'CD44']"
+32614947,Human,Undefined,Naive progenitor cell,"['ITGB2', 'CD44', 'CD33']"
+32614947,Human,Undefined,Primitive hematopoiesis cell,['HBE1']
+32614947,Human,Undefined,Progenitor cell,"['AZU1', 'CD18', 'GP9', 'CD44', 'KLF1', 'CD326', 'CD9', 'GATA2', 'ICAM2', 'KIT', 'PF4', 'GYPA', 'PRNT3']"
+32614947,Human,Undefined,Red blood cell (erythrocyte),"['MYC', 'KLF1', 'EPCAM', 'CD235a', 'GYPA']"
+32614947,Human,Yolk sac,Progenitor cell,['SPINK1']
+32709844,Mouse,Esophagus,Memory T cell,"['Tcf7', 'Il7r', 'Ccr7']"
+32712105,Human,Esophagus,Fibroblast,"['CTGF', 'SERPINE1', 'ACTA2', 'TAGLN', 'PLN', 'COL1A1']"
+32712105,Human,Esophagus,Myofibroblast,"['PLN', 'SERPINE1', 'CTGF', 'COL1A1', 'TAGLN', 'ACTA2']"
+32855417,Mouse,Esophagus,Mesoderm,"['Sfrp2', 'Wnt4', 'Nkx6-1']"
+32855417,Mouse,Heart,Mesoderm,"['Isl1', 'Mtus2']"
+32855417,Mouse,Lung,Mesoderm,"['Wnt2', 'Gata4', 'Nkx6-1']"
+32855417,Mouse,Pharynx,Mesoderm,"['Prrx1', 'Tbx1']"
+32855417,Mouse,Stomach,Mesoderm,"['Barx1', 'Hlx']"
+32855417,Mouse,Trachea,Mesoderm,"['Nkx6-1', 'Wnt2', 'Gata4']"
+33187533,Human,Retinal pigment epithelium,B cell,['CD79A']
+33187533,Human,Retinal pigment epithelium,Effector T(Teff) cell,"['CD2', 'NKG7', 'CD8B']"
+33187533,Human,Retinal pigment epithelium,Effector natural killer cell,"['CD2', 'NKG7', 'CD8B']"
+33187533,Human,Retinal pigment epithelium,Macrophage,"['AIF1', 'CD68', 'CD163', 'CD14']"
+33187533,Human,Retinal pigment epithelium,Mast cell,"['KIT', 'CPA3']"
+33293583,Human,Esophagus,Cancer cell,"['CD19', 'CD1C', 'IL3RA', 'KLRD1', 'IGHG1', 'CD3G', 'VCAN', 'CD68', 'CD163']"
+33307245,Human,Eye,Retinal pigment epithelial cell,"['RPE65', 'RBP1', 'CSTV', 'CRYAB', 'CRABP1', 'TIMP3', 'BEST1', 'RLBP1', 'CST3', 'ENPP2', 'VEGFA', 'RGR', 'HNRNPH1', 'SERPINF1', 'TYRP1', 'TYR', 'PMEL', 'PLTP', 'TTR']"
+33307245,Human,Retina,Retina cell,"['CPODXL', 'SPP1', 'STAC2', 'PCDH9']"
+33332284,Human,Head and neck,Conventional CD4 T cell,"['CD3E', 'CD3G', 'CD3D']"
+33513359,Human,Retinal organoid,Cone cell,"['ARR3', 'PDE6H']"
+33513359,Human,Retinal organoid,Photoreceptor cell,"['RCVRN', 'CRX']"
+33513359,Human,Retinal organoid,Rod cell,"['GNGT1', 'GNAT1']"
+33545035,Human,Esophagus,Conventional dendritic cell(cDC),"['FCER1A', 'HLA-DQA1']"
+33545035,Human,Esophagus,Langerhans cell,"['CD207', 'CD1A']"
+33545035,Human,Esophagus,Macrophage,['CD163']
+33545035,Human,Esophagus,Mast cell,['KIT']
+33545035,Human,Esophagus,Monocyte,"['CD68', 'CD16', 'CD14']"
+33545035,Human,Esophagus,Plasmacytoid dendritic cell(pDC),['LILRA4']
+33712461,Mouse,Eye,Neuron,"['RBPMS', 'ISL1', 'Brn3a', 'Brn3b']"
+33730555,Human,Lacrimal gland,Acinar cell,"['PRR27', 'HTN1', 'LTF', 'SCGB2A1']"
+33730555,Human,Lacrimal gland,Ductal cell,"['LCN2', 'WFDC2']"
+33730555,Human,Lacrimal gland,Endothelial cell,"['PECAM1', 'CDH5']"
+33730555,Human,Lacrimal gland,Epithelial cell,"['FOXC1', 'AQP5', 'PAX6']"
+33730555,Human,Lacrimal gland,Lymphocyte,"['PTPRC', 'CD2']"
+33730555,Human,Lacrimal gland,Myoepithelial cell,"['MYH11', 'TPM2', 'KRT5', 'ACTA2', 'MYLK']"
+33836603,Mouse,Retina,Microglial cell,"['Trem2', 'Aif1', 'Csf1r']"
+33882290,Human,Esophagus,Classical barrett’s esophagus cell,"['KRT20', 'KRT7', 'AGR2', 'VIL1', 'KRT8']"
+33882290,Mouse,Esophagus,Barrett’s esophagus cell,"['Vil1', 'Agr2']"
+33882290,Mouse,Esophagus,Columnar cell,"['Muc5ac', 'Tff1', 'Krt8', 'Krt18', 'Cldn18', 'Krt7']"
+33882290,Mouse,Esophagus,Squamous cell,"['Krt14', 'Krt5', 'Krt13', 'Trp63', 'Krt4']"
+33947861,Mouse,Airway epithelium,Epithelial cell,['H3K4me3']
+33958447,Human,Lateral ganglionic eminence,D1-MSN(medium spiny neuron),"['TAC1', 'ISL1', 'EBF1', 'hfb_G_000352']"
+33958447,Human,Lateral ganglionic eminence,D2-MSN(medium spiny neuron),"['GRIK3', 'SIX3', 'SP9', 'SIX3-AS1']"
+33958447,Human,Lateral ganglionic eminence,Early progenitor cell,['GSX2']
+33958447,Human,Lateral ganglionic eminence,GABAergic neuron,['GAD2']
+33958447,Human,Lateral ganglionic eminence,Intermediate progenitor cell,['ASCL1']
+33958447,Human,Lateral ganglionic eminence,LGE-lineage cell (lateral ganglionic eminence),['MEIS2']
+33958447,Human,Lateral ganglionic eminence,Mature MSN(medium spiny neuron),['CTIP2']
+33958447,Human,Lateral ganglionic eminence,Medium spiny neuron(MSN),['FOXP1']
+33958447,Human,Lateral ganglionic eminence,Neuron,['DCX']
+33958447,Human,Lateral ganglionic eminence,pre-MSN(medium spiny neuron),['OCT6']
+33972733,Mouse,Esophagus,Basal cell,"['Itgb1', 'Itga6', 'Krt14', 'KRT14']"
+33972733,Mouse,Esophagus,Basal progenitor cell,"['Itga6', 'Krt14', 'Itgb1']"
+33972733,Mouse,Esophagus,Fibroblast,"['Col1a1', 'Pdgfra', 'Fn1', 'Col1a2']"
+33972733,Mouse,Esophagus,Suprabasal cell,['KRT4']
+33984282,Mouse,Cornea,Corneal cell,"['Krt12', 'Slurp1']"
+33984282,Mouse,Eye,Basal cell,"['Itgb4', 'Itgb1', 'Ccnd1']"
+33984282,Mouse,Eye,Suprabasal cell,"['Cdkn1a', 'Dsg1a', 'Cld4']"
+34163487,Human,Blood,Memory B cell,"['TCRβ', 'TCRα']"
+34171432,Human,Gall bladder,Exhausted CD8+ T cell,"['PDCD1', 'LAG3', 'CTLA4']"
+34171432,Human,Gall bladder,M2 macrophage,"['CD206', 'CD163', 'IL10', 'CD163']"
+34171432,Human,Gall bladder,Regulatory T(Treg) cell,['FOXP3']
+34171432,Human,Gall bladder,Squamous cell,"['TP63', 'S100A7']"
+34183838,Human,Blood,B cell,['CD19']
+34183838,Human,Blood,Dendritic cell,['HLA-DR']
+34183838,Human,Blood,Memory CD4+ T cell,['CD45RO']
+34183838,Human,Blood,Monocyte,"['CD14', 'CD16']"
+34183838,Human,Blood,Natural killer cell,['CD56']
+34183838,Human,Blood,Regulatory CD4+ T cell,"['CD25', 'CD4']"
+34183838,Human,Blood,T cell,"['CD8', 'CD3']"
+34192657,Human,Esophagus,B cell,"['CD79A', 'IGKC']"
+34192657,Human,Esophagus,Cancer cell,"['KRT5', 'SOX2', 'EPCAM']"
+34192657,Human,Esophagus,Endothelial cell,"['RAMP2', 'VWF']"
+34192657,Human,Esophagus,Epithelial cell,"['SPRR3', 'KRT13']"
+34192657,Human,Esophagus,Fibroblast,"['DCN', 'COL1A1']"
+34192657,Human,Esophagus,Follicular B cell,['MS4A1']
+34192657,Human,Esophagus,Mast cell,"['TPSB2', 'CPA3']"
+34192657,Human,Esophagus,Myeloid cell,"['C1QB', 'LYZ']"
+34192657,Human,Esophagus,Naive T(Th0) cell,"['CCR7', 'LEF1', 'TCF7']"
+34192657,Human,Esophagus,Plasma cell,"['IGHG4', 'IGHG1']"
+34192657,Human,Esophagus,T cell,"['CD3D', 'CD3E']"
+34224783,Human,Peripheral blood,Monocyte,['CD14']
+34225455,Human,Serum,Cancer cell,"['HER2', 'MCAM', 'LNGFR', 'MCSP']"
+34262563,Human,Peripheral blood,Memory T cell,"['S100A4', 'IL32', 'S100A10', 'LGALS3', 'ALOX5AP', 'MYL12A', 'S100A6', 'LGALS1']"
+34262563,Human,Peripheral blood,Naive T(Th0) cell,"['FABP5', 'SELL', 'PTMA', 'NCL', 'HSPD1', 'NPM1', 'HSP90AB1', 'HMGA1']"
+34273276,Mouse,Retina,Capillary cell,"['Mfsd2a', 'Slc22a8']"
+34273276,Mouse,Retina,Myofibroblast,"['Tagln', 'Vim', 'Rock2']"
+34273276,Mouse,Retina,Superficial retinal vascular plexus (S-tip cell),"['Plvap', 'Esm1']"
+34273276,Mouse,Retina,Venous cell,"['Ptgis', 'Hmgn2']"
+34280556,Human,Artery,Endothelial cell,['CLDN5']
+34280556,Human,Choriocapillaris,Choriocapillaris cell,['CA4']
+34280556,Human,Choroid,Hematopoietic stem cell,['CD34']
+34280556,Human,Eye,Endothelial cell,"['CD31', 'VWF', 'GJA4', 'SEMA3G']"
+34280556,Human,Eye,Haematopoietic progenitor cell,['CD34']
+34282123,Human,Blood,Central memory CD8+ T cell,"['SELL', 'CD27', 'CCR7']"
+34282123,Human,Blood,Naive CD4+ T cell,"['TCF7', 'LEF1', 'SELL', 'CCR7']"
+34282123,Human,Blood,Naive CD8+ T cell,"['CCR7', 'SELL', 'TCF7', 'LEF1']"
+34282123,Human,Blood,Regulatory CD4+ T cell,"['IL2RA', 'TIGIT', 'CTLA4', 'FOXP3']"
+34282123,Human,Blood,Terminal effector CD8+ T cell,"['NKG7', 'GZMA', 'PRF1', 'GZMB']"
+34282123,Human,Blood,Transitional CD8+ T cell,['GZMK']
+34284135,Human,Blood,Yolk sac-derived myeloid-biased progenitor cell(YSMP),"['CD44', 'CD45', 'PTPRC', 'CD34', 'MYB']"
+34322127,Human,Blood,Effector regulatory T(eTreg) cell,"['GNLY', 'CD8+', 'PRF1', 'GZMH', 'GZMA']"
+34324441,Human,Peripheral blood,Activated CD4+ T cell,"['CD69', 'STAT3', 'SOCS3', 'ICOS']"
+34324441,Human,Peripheral blood,Activated CD8+ T cell,"['CD3E', 'CD8A', 'GZMB', 'NKG7', 'GZMH', 'CCL5']"
+34324441,Human,Peripheral blood,CD4+ T cell,"['RORA', 'LTB', 'TNFAIP3', 'CD4', 'IL7R']"
+34324441,Human,Peripheral blood,Gamma delta(γδ) T cell,"['TRDV2', 'GNLY', 'NKG7', 'TRGV9', 'CCL5']"
+34324441,Human,Peripheral blood,Immature B cell,"['HLA-DPB1', 'HLA-DRB1', 'HLA-DRA', 'CD79A', 'CD74', 'CD83']"
+34324441,Human,Peripheral blood,Mature B cell,"['LYN', 'CD37', 'CD74', 'HLA-DRA', 'CD79A', 'IGHM']"
+34324441,Human,Peripheral blood,Monocyte,"['PSAP', 'S100A6', 'TYROBP', 'CST3', 'OAZ1', 'LYZ']"
+34324441,Human,Peripheral blood,Natural killer cell,"['NKG7', 'CD7', 'GZMB', 'CD56', 'CCL5', 'GNLY']"
+34324441,Human,Peripheral blood,Regulatory T(Treg) cell,"['CTLA4', 'IL32', 'FOXP3', 'IL10RA', 'IL2RA']"
+34326311,Human,Blood,Natural killer cell,"['KLRC2', 'FGFBP2']"
+34385390,Human,Esophagus,Residual embryonic cell,"['KRT7', 'MUC4']"
+34385390,Human,Esophagus,Stem cell,['OLFM4']
+34385390,Human,Esophagus,Transitional basal progenitor cell,"['P63', 'KRT7', 'KRT5']"
+34385390,Human,Intestine,Stem cell,['OLFM4']
+34389613,Human,Esophagus,Duodenal epithelial cell,['PIGR']
+34389613,Human,Esophagus,Endothelial cell,['VWF']
+34389613,Human,Esophagus,Esophageal epithelial cell,['KRT5']
+34389613,Human,Esophagus,Fibroblast,['COL3A1']
+34389613,Human,Esophagus,Granulocyte,['CLC']
+34389613,Human,Esophagus,Mast cell,['CPA3']
+34389613,Human,Esophagus,Myeloid cell,['CSF1R']
+34389613,Human,Esophagus,Plasma cell,['IGHA1']
+34389613,Human,Esophagus,T cell,['TRBC2']
+34408142,Mouse,Tendon,Tenocyte,"['TNMD', 'Mkx', 'COL1A2', 'Scx', 'COL1A1', 'PAX1', 'FMOD']"
+34416169,Mouse,Retina,Neuron,"['Pea15a', 'Gad2', 'Calb2', 'Avpr1a', 'Sst', 'Gad1', 'Drd1', 'Dlk2', 'Syt10', 'C1q13', 'Calb1', 'Avp', 'Nms', 'Rgs16', 'Cck', 'Penk', 'Rorb', 'Vipr2', 'Lhx1', 'Vip', 'Slc32a1', 'Vgf', 'Scg2', 'Slc17a6', 'Prok2']"
+34416429,Human,Esophagus,Epithelial cell,"['EPCAM', 'CDH1', 'TFF3']"
+34416429,Human,Esophagus,Glandular Barrett's esophagus cell,['TFF3']
+34416429,Human,Esophagus,Goblet cell,"['TFF2', 'MUC5AC', 'TFF1', 'MUC2', 'TFF3']"
+34416429,Human,Esophagus,Stratified esophageal cell,['TP63']
+34487375,Mouse,Eye,Astrocyte,"['Gfap', 'Aqp4']"
+34487375,Mouse,Eye,Endothelial cell,"['Lum+', 'Dcn']"
+34487375,Mouse,Eye,Ependymocyte,"['Tctex1d4', 'Tmem212']"
+34487375,Mouse,Eye,Extra-SCN hypothalamic neuron,"['Sst', 'Gal']"
+34487375,Mouse,Eye,Microglial cell,"['Ly86', 'C1qa']"
+34487375,Mouse,Eye,Oligodendrocyte,"['Mog', 'Plp1']"
+34487375,Mouse,Eye,Putative SCN neuron,"['Avp', 'Nms']"
+34487375,Mouse,Eye,Radial glial cell,"['Ccnb1', 'Ube2c']"
+34487375,Mouse,Eye,Suprachiasmatic neuronal cell,"['GRP', 'VIP', 'CCK', 'AVP', 'C1ql3']"
+34488842,Human,Blood,B cell,['Cd79a']
+34488842,Human,Blood,Monocyte,['LYZ']
+34488842,Human,Blood,Platelet,['Tubb1']
+34489433,Human,Esophagus,B cell,"['MS4A1', 'CD79A', 'MZB1', 'JCHAIN', 'CD19']"
+34489433,Human,Esophagus,Endothelial cell,"['PECAM1', 'CDH5', 'ENG', 'VWF']"
+34489433,Human,Esophagus,Epithelial cell,"['SFN', 'EPCAM', 'KRT5', 'KRT14']"
+34489433,Human,Esophagus,Fibroblast,"['COL1A2', 'COL1A1', 'COL3A1', 'DCN', 'FN1', 'COL6A1']"
+34489433,Human,Esophagus,Fibroblastic reticular cell,"['PDPN', 'CCL21']"
+34489433,Human,Esophagus,Myeloid cell,"['IL3RA', 'LYZ', 'LAMP3', 'CLEC4C', 'CD14', 'TPSAB1', 'CD68']"
+34489433,Human,Esophagus,Pericyte,"['RGS5', 'ACTA2', 'MCAM']"
+34489433,Human,Esophagus,T cell,"['CD3E', 'CD3D', 'CD3G', 'CD2']"
+34552068,Human,Retina,T cell,"['TRAC', 'CD3D']"
+34584087,Human,Eye,Activated T cell,['CD69']
+34584087,Human,Eye,Amacrine cell,"['TFAP2B', 'GAD2']"
+34584087,Human,Eye,Bipolar cell,"['GRM6', 'PCP2']"
+34584087,Human,Eye,Ciliary body cell,['AQP1']
+34584087,Human,Eye,Cone cell,"['PDE5H', 'ARR3']"
+34584087,Human,Eye,Corneal epithelial cell,"['KRT12', 'KRT14', 'TGFBI']"
+34584087,Human,Eye,Fibroblast,"['MYOC', 'MGP']"
+34584087,Human,Eye,Iris puttative stem cell,"['ZIC2', 'LHX2', 'RAX']"
+34584087,Human,Eye,Melanocyte,"['MLANA', 'PMEL']"
+34584087,Human,Eye,Monocyte,"['CD74', 'CD14']"
+34584087,Human,Eye,Mueller glia cell,"['DKK3', 'CRABP1']"
+34584087,Human,Eye,Retina ganglion cell,"['POU4F1', 'SNCG']"
+34584087,Human,Eye,Retinal pigment epithelial cell,"['BEST1', 'RPE65']"
+34584087,Human,Eye,Rod cell,"['RHO', 'SAG', 'GNAT1']"
+34584087,Human,Eye,Schwann cell,"['CD9', 'PLP1', 'LGI4']"
+34584087,Human,Eye,Smooth muscle cell,"['MYH11', 'MYL9']"
+34783307,Human,Eye,CD4+ T cell,"['CD4', 'CD3G']"
+34783307,Human,Eye,CD8+ T cell,"['CD8A', 'TRBC2']"
+34783307,Human,Eye,Classical dendritic cell a(cDCa),"['ITGAX', 'AXL']"
+34783307,Human,Eye,Classical dendritic cell b(cDCb),"['MRC1', 'CLEC10A']"
+34783307,Human,Eye,Gamma delta(γδ) T cell,"['TRDC', 'NKG7']"
+34783307,Human,Eye,Granulocyte,"['CD33', 'S100A12']"
+34783307,Human,Eye,Mature dendritic cell,"['CD83', 'LAMP3']"
+34783307,Human,Eye,Myeloid cell,"['S100A8', 'CCL2']"
+34783307,Human,Eye,Naive B cell,['MS4A1']
+34783307,Human,Eye,Natural killer cell,"['GNLY', 'IL7R']"
+34783307,Human,Eye,Plasma cell,['IGHG1']
+34783307,Human,Eye,Plasmacytoid dendritic cell(pDC),"['CLEC4C', 'IL3RA']"
+34783307,Human,Eye,Regulatory T(Treg) cell,"['IL2RA', 'FOXP3']"
+34783308,Mouse,Retina,Dilator muscle cell,['OTX']
+34783308,Mouse,Retina,Endothelial cell,['ERG']
+34783308,Mouse,Retina,Muscle cell,['SOX10']
+34783308,Mouse,Retina,Sphincter 1 cell,"['Ttn', 'NeuN', 'Nptx2', 'Ctnna3', 'Rbfox3', 'Ckm']"
+34783308,Mouse,Retina,Stroma 1 cell,['SOX10']
+34783308,Mouse,Retina,Stroma 2 cell,['TFAP2B']
+34912329,Mouse,Eye,Lymphocyte,"['Cds1', 'Cxcl13', 'Tap1', 'Serpinb9', 'Tmsb10', 'C1qa']"
+34928015,Mouse,Retina,Bipolar cell,['PKC-α']
+34928015,Mouse,Retina,Ganglion cell,['RBPMS']
+34928015,Mouse,Retina,Photoreceptor cell,['Recoverin']
+34938292,Human,Esophagus,Cancer cell,['PD-L1']
+35020946,Human,Gall bladder,Cancer cell,['APOBEC3A']
+35030321,Human,Retinal pigment epithelium,Epithelial cell,"['RPE65', 'BEST1', 'TYR', 'RLBP1', 'CRX', 'RAX']"
+35075189,Mouse,Esophagus,Epithelial cell,"['Trp63', 'Krt1541', 'Sox2']"
+35075189,Mouse,Salivary gland,Epithelial cell,"['Sox9', 'Vim29', 'Trp63', 'Irf628']"
+35075189,Mouse,Thymus,Epithelial cell,"['Grhl3', 'Cldn4', 'Cldn3']"
+35108658,Human,Esophagus,Basal cell,"['CD104', 'SOC2', 'CD73']"
+35141048,Human,Corneal endothelium,Endothelial cell,"['SLC4A11', 'AQP1', 'TJP1', 'CDH2', 'ATP1A1', 'COL8A1']"
+35191836,Mouse,Retina,Amacrine cell,"['Tfap2b', 'Tfap2a']"
+35191836,Mouse,Retina,Anterior segment cell,"['Mgp', 'Bgn']"
+35191836,Mouse,Retina,Cone photoreceptor cell,"['Otx2', 'Crx']"
+35191836,Mouse,Retina,Microglial cell,"['P2ry12', 'C1qa']"
+35191836,Mouse,Retina,Retinal ganglion cell,"['Rbpms', 'Slc17a6']"
+35242144,Human,Eye,Effector memory T cell,"['PDL-1', 'TNFR1', 'PD-1', 'CTLA-4', 'RIPK3', 'RIPK1']"
+35280984,Human,Cornea,T cell,"['CD3D', 'LCK', 'CD3E']"
+35303421,Human,Gut,Regulatory T(Treg) cell,"['IL10', 'IL23R', 'IL1R1']"
+35309305,Mouse,Retina,Antigen-presenting cell,['MHC-II']
+35309305,Mouse,Retina,M1 macrophage,"['TNF-α', 'CD86', 'IL-1β', 'IL-6', 'CD32']"
+35309305,Mouse,Retina,M2 macrophage,"['Ym1', 'Arg1', 'TGF-β', 'IL-10', 'CD206', 'IGF-1']"
+35309305,Mouse,Retina,Microglial cell,"['TMEM119\xa0', 'P2RY12']"
+35361907,Mouse,Conjunctiva,B cell,"['Ebf1', 'H2-Ab1', 'Cd74', 'Cd79a', 'Igkc']"
+35361907,Mouse,Conjunctiva,Conjunctival cell,"['Marcksl1', 'H2-Ab1', 'Cd74']"
+35361907,Mouse,Conjunctiva,Conventional dendritic cell(cDC),"['Naaa', 'Cd74', 'Ifi205', 'H2-Ab1', 'Cst3']"
+35361907,Mouse,Conjunctiva,Gamma delta(γδ) T cell,"['Cxcr6', 'Icos', 'Trdc', 'II17a']"
+35361907,Mouse,Conjunctiva,Lymphocyte,"['IL-13', 'IL-5']"
+35361907,Mouse,Conjunctiva,Lymphoid cell,"['Cxcr6', 'Areg', 'Gata3', 'II5']"
+35361907,Mouse,Conjunctiva,Macrophage,"['MHCII', 'H2-Ab1', 'Cd209a', 'CD209a', 'Cd74', 'Lyz2']"
+35361907,Mouse,Conjunctiva,Mast cell,"['Egr1', 'Fos', 'Mcpt4', 'Cma1', 'Apoe', 'Cpa3']"
+35361907,Mouse,Conjunctiva,Migratory dendritic cell,"['CCR7', 'FASCIN1', 'Ccl22', 'Tbc1d4', 'Ccl5', 'Cd74', 'Ccr7', 'Marcksl1', 'H2-Ab1', 'Cst3']"
+35361907,Mouse,Conjunctiva,Monocyte,"['Mafb', 'Cd74', 'APOE', 'H2-Ab1', 'Apoe', 'Lyz2', 'CSF1R']"
+35361907,Mouse,Conjunctiva,Myeloid cell,"['CD11b', 'Ccr2', 'CD11c']"
+35361907,Mouse,Conjunctiva,Natural killer cell,"['AZW112010', 'Gzma', 'Ccl5']"
+35361907,Mouse,Conjunctiva,T cell,"['Icos', 'Cd28', 'Ctla4']"
+35443762,Mouse,Esophagus,Basal cell,"['Krt15', 'Trp63', 'Sox2']"

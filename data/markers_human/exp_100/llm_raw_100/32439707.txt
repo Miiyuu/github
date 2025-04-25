@@ -1,0 +1,132 @@
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Trabecular meshwork", "TM cells", "CHI3L1")
+2. ("Human", "Trabecular meshwork", "TM cells", "MGP")
+3. ("Human", "Trabecular meshwork", "TM cells", "AQP1")
+4. ("Human", "Trabecular meshwork", "TM cells", "MYOC")
+5. ("Human", "Trabecular meshwork", "Schwann cell-like clusters", "AQP7P1")
+6. ("Human", "Trabecular meshwork", "Schwann cell-like clusters", "SCN7A")
+7. ("Human", "Trabecular meshwork", "TM1 fibroblast cell cluster", "DCN")
+8. ("Human", "Trabecular meshwork", "TM1 fibroblast cell cluster", "PDGFRA")
+9. ("Human", "Ciliary muscle", "Smooth muscle cluster", "MYH11")
+10. ("Human", "Trabecular meshwork", "TM2 and smooth muscle cluster", "TAGLN")
+11. ("Human", "Trabecular meshwork", "Lymphatic-like endothelial cell cluster", "LYVE1")
+12. ("Human", "Trabecular meshwork", "Lymphatic-like endothelial cell cluster", "C1QB")
+13. ("Human", "Trabecular meshwork", "Lymphatic-like endothelial cell cluster", "TYROBP")
+
+These tuples reflect the specific markers mentioned in the document for different cell types within the human trabecular meshwork and related tissues.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "Lymphatic-like endothelial cell", "FLT4")
+2. ("null", "null", "Lymphatic-like endothelial cell", "FN1")
+3. ("null", "null", "Lymphatic-like endothelial cell", "FLT1")
+4. ("null", "null", "Vascular endothelial cell", "FLT4")
+5. ("null", "null", "Vascular endothelial cell", "FN1")
+6. ("null", "null", "Vascular endothelial cell", "FLT1")
+7. ("null", "null", "TM1", "MYOC")
+8. ("null", "null", "TM2", "MYOC")
+9. ("null", "null", "Smooth muscle cell", "MYOC")
+10. ("null", "null", "TM1", "ANGPTL7")
+11. ("null", "null", "TM2", "ANGPTL7")
+12. ("null", "null", "Lymphatic-like endothelial cell", "CAV1")
+13. ("null", "null", "Lymphatic-like endothelial cell", "CAV2")
+14. ("null", "null", "Vascular endothelial cell", "CAV1")
+15. ("null", "null", "Vascular endothelial cell", "CAV2")
+16. ("null", "null", "Pericyte", "CAV1")
+17. ("null", "null", "Pericyte", "CAV2")
+18. ("null", "null", "Smooth muscle cell", "CAV1")
+19. ("null", "null", "Smooth muscle cell", "CAV2")
+20. ("null", "null", "Myelinating Schwann cell", "CAV1")
+21. ("null", "null", "Myelinating Schwann cell", "CAV2")
+22. ("null", "null", "Melanocyte", "CAV1")
+23. ("null", "null", "Melanocyte", "CAV2")
+24. ("null", "null", "Epithelial cell", "CAV1")
+25. ("null", "null", "Epithelial cell", "CAV2")
+26. ("null", "null", "Schwann cell-like", "ENPP2")
+27. ("null", "null", "Melanocyte", "ENPP2")
+28. ("null", "null", "TM1 fibroblast-like cell", "DCN")
+29. ("null", "null", "TM1 fibroblast-like cell", "PDGFRA")
+
+The document does not specify the species or tissue type for these markers, so those fields are filled with "null".
+
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("Human", "Conventional outflow tract", "TM2 and TM1 cell clusters", "CHI3L1")
+2. ("Human", "Conventional outflow tract", "All cell clusters (more preference for TM1 and TM2)", "MGP")
+3. ("Human", "Conventional outflow tract", "TM2 and smooth muscle cell clusters", "AQP1")
+4. ("Human", "Conventional outflow tract", "All cell clusters (more preference for Schwann cell-like, TM2, smooth muscle cell, melanocyte, and myelinating Schwann cell clusters)", "CRYAB")
+5. ("Human", "Conventional outflow tract", "Lymphatic-like and vascular endothelial and Schwann cell-like cell clusters, with some TM1 and TM2 expression", "PLAT")
+6. ("Human", "Conventional outflow tract", "TM1 and TM2 cell clusters", "PDPN (D2-40)")
+7. ("Human", "Conventional outflow tract", "TM cells", "Angpt1")
+8. ("Human", "Conventional outflow tract", "Lymphatic-like and vascular endothelial cell clusters", "Tek (Tie2), Angpt2")
+9. ("Human", "Conventional outflow tract", "TM", "Myocilin")
+10. ("Human", "Conventional outflow tract", "SC", "PECAM1 (CD31)")
+
+These tuples are derived directly from the content of the given text, adhering to the specified format and requirements.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Eye", "TM1 and TM2 cells (with preference for JCT (TM1 cells))", "RSPO2")
+2. ("Human", "Eye", "Schlemm's canal (SC) and neighboring endothelial-lined vessels", "LYVE1")
+
+The document mentions RSPO2 as a marker that labels both TM1 and TM2 cells with a preference for JCT (TM1 cells). It also indicates that LYVE1 is a marker that stains some cells in the TM, particularly around the SC lumen and lymphatic vessels. Other mentioned markers like endothelial nitric oxide synthase, VEGF receptor-3, trefoil factor-3, TMEM88, and PLP were not specific or negative, so they are not included.
+
+Based on the provided document, here are the identified cell markers in the requested format:
+
+1. ("Human", "Eye", "Ciliary muscle", "MYH11")
+2. ("Human", "Eye", "Macrophages", "LYVE1")
+3. ("Human", "Eye", "Macrophages", "C1QB")
+4. ("Human", "Eye", "Lymphatic endothelial cells", "FLT4")
+5. ("Human", "Eye", "Vascular endothelial cells", "FN1")
+6. ("Human", "Eye", "Lymphatic endothelial cells", "MMRN1")
+7. ("Human", "Eye", "Vascular endothelial cells", "VWF")
+8. ("Human", "Eye", "Vascular endothelial cells", "FLT1")
+9. ("Human", "Eye", "Trabecular meshwork", "MYOC")
+10. ("Human", "Eye", "Junctional region and Schlemm's canal", "ANGPTL7")
+
+These tuples summarize the specific cell markers for different cell types within human eye tissues as described in the document.
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "CAV1")
+2. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "CAV2")
+3. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "NOS3")
+4. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "ANGPT1")
+5. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "ANGPT2")
+6. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "TEK")
+7. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "CRYAB")
+8. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "CHI3L1")
+9. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "PDPN")
+10. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "AQP1")
+11. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "MGP")
+12. ("Human", "Eye", "Scleral spur and ciliary muscle cells", "PLAT")
+13. ("Human", "Eye", "TM2-myofibroblast cell cluster", "RSPO2")
+14. ("Human", "Eye", "TM2-myofibroblast cell cluster", "RSPO4")
+15. ("Human", "Eye", "TM1-fibroblast cell cluster", "DCN")
+16. ("Human", "Eye", "TM1-fibroblast cell cluster", "PDGFRA")
+17. ("Human", "Eye", "Lymphatic-like endothelial cell cluster", "FN1")
+
+These tuples reflect the markers mentioned in the document that are associated with specific cell types within the human eye.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Eye", "TM1 and TM2 cell clusters", "MYOC")
+2. ("Human", "Eye", "TM1 and TM2 cell clusters", "ANGPTL7")
+3. ("Human", "Eye", "TM1 and TM2 cell clusters", "PDPN")
+4. ("Human", "Eye", "TM1 and TM2 cell clusters", "CHI3L1")
+5. ("Human", "Eye", "TM1 and TM2 cell clusters", "ANGPT1")
+6. ("Human", "Eye", "Lymphatic-like and vascular endothelial cell clusters (i.e., SC)", "CAV1")
+7. ("Human", "Eye", "Lymphatic-like and vascular endothelial cell clusters (i.e., SC)", "CAV2")
+8. ("Human", "Eye", "Lymphatic-like and vascular endothelial cell clusters (i.e., SC)", "NOS3")
+9. ("Human", "Eye", "Lymphatic-like and vascular endothelial cell clusters (i.e., SC)", "TEK")
+10. ("Human", "Eye", "Lymphatic-like and vascular endothelial cell clusters (i.e., SC)", "PLAT")
+11. ("Human", "Eye", "Lymphatic-like and vascular endothelial cell clusters (i.e., SC)", "ANGPT2")
+12. ("Human", "Eye", "Macrophages", "LYVE1")
+13. ("Human", "Eye", "Macrophages", "C1QB")
+14. ("Human", "Eye", "Macrophages", "TYROBP")
+15. ("Human", "Eye", "Vascular endothelial cells", "PECAM1")
+16. ("Human", "Eye", "TM2 cell cluster", "R-spondin-2")
+
+Each tuple contains a marker that is specifically mentioned in the document as being expressed in or characteristic of a particular cell type within the context of human eye tissue.
+

@@ -1,0 +1,211 @@
+none
+
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Ganglion cells", "Pou4f2")
+2. ("Mouse", "Retina", "Ganglion cells", "Thy1")
+3. ("Mouse", "Retina", "Ganglion cells", "Nefl")
+4. ("Mouse", "Retina", "Amacrine cells", "Tfap2a")
+5. ("Mouse", "Retina", "Amacrine cells", "Pax6")
+6. ("Mouse", "Retina", "Amacrine cells", "Gad1")
+7. ("Mouse", "Retina", "Bipolar cells", "Vsx2")
+8. ("Mouse", "Retina", "Bipolar cells", "Grm6")
+9. ("Mouse", "Retina", "Bipolar cells", "Grik1")
+10. ("Mouse", "Retina", "Horizontal cells", "Calb1")
+11. ("Mouse", "Retina", "Horizontal cells", "Lhx1")
+12. ("Mouse", "Retina", "Rod photoreceptors", "Rho")
+13. ("Mouse", "Retina", "Rod photoreceptors", "Nrl")
+14. ("Mouse", "Retina", "Rod photoreceptors", "Nr2e3")
+15. ("Mouse", "Retina", "Cone photoreceptors", "Opn1mw")
+16. ("Mouse", "Retina", "Cone photoreceptors", "Arr3")
+17. ("Mouse", "Retina", "Astrocytes", "Pax2")
+18. ("Mouse", "Retina", "Astrocytes", "S100b")
+19. ("Mouse", "Retina", "Müller glia", "Vim")
+20. ("Mouse", "Retina", "Müller glia", "Slc3a2")
+21. ("Mouse", "Retina", "Müller glia", "Glul")
+22. ("Mouse", "Retina", "Müller glia", "Rlbp1")
+23. ("Mouse", "Retina", "Pericytes", "Tagln")
+24. ("Mouse", "Retina", "Pericytes", "Acta2")
+25. ("Mouse", "Retina", "Endothelial cells", "Tie1")
+26. ("Mouse", "Retina", "Endothelial cells", "Cldn5")
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Microglia", "Iba1")
+2. ("Mouse", "Retina", "Microglia", "F4/80")
+3. ("Mouse", "Retina", "Microglia", "TSPO")
+4. ("Mouse", "Retina", "Müller glia", "TSPO") - Note: TSPO is upregulated in both microglia and Müller glia.
+5. ("Mouse", "Retina", "Microglia", "Dbi") - Note: Dbi is specifically upregulated in microglia and downregulated in Müller glia.
+6. ("Mouse", "Retina", "Ganglion cells", "Pax6")
+7. ("Mouse", "Retina", "Ganglion cells", "Calretinin")
+
+These tuples represent the cell markers as described in the text, with the species assumed to be "Mouse" based on the context of the study, and the tissue type specified as "Retina".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Müller glia", "Vim")
+2. ("Mouse", "Retina", "Müller glia", "Lhx2")
+3. ("Mouse", "Retina", "Müller glia", "Sox9")
+4. ("Mouse", "Retina", "Müller glia", "Rlbp1")
+5. ("Mouse", "Retina", "Müller glia", "Slc1a3")
+6. ("Mouse", "Retina", "Astrocytes", "S100β")
+7. ("Mouse", "Retina", "Astrocytes", "Pax2")
+8. ("Mouse", "Retina", "Bipolar cells", "Vsx2")
+9. ("Mouse", "Retina", "Bipolar cells", "Otx2")
+10. ("Mouse", "Retina", "Bipolar cells", "Lhx3")
+11. ("Mouse", "Retina", "Bipolar cells", "Grm6")
+12. ("Mouse", "Retina", "Bipolar cells", "Grik1")
+13. ("Mouse", "Retina", "Endothelial cells", "Tie1")
+14. ("Mouse", "Retina", "Endothelial cells", "Cldn5")
+15. ("Mouse", "Retina", "Microglia", "Rgs1")
+16. ("Mouse", "Retina", "Microglia", "Ccl3")
+17. ("Mouse", "Retina", "Microglia", "Ccl6")
+18. ("Mouse", "Retina", "Microglia", "C1qa")
+19. ("Mouse", "Retina", "Microglia", "C1qb")
+20. ("Mouse", "Retina", "Microglia", "C1qc")
+21. ("Mouse", "Retina", "Microglia", "Trem2")
+22. ("Mouse", "Retina", "Microglia", "Csf1r")
+
+These tuples represent the specific markers for each cell type as described in the document.
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Mouse", "Retina", "Endothelial cell", "Tnfrsfr1a")
+2. ("Mouse", "Retina", "Pericyte", "Tnfrsfr1a")
+3. ("Mouse", "Retina", "Astrocyte", "Tnfrsfr1a")
+4. ("Mouse", "Retina", "Müller glia", "Tnfrsfr1a")
+5. ("Mouse", "Retina", "Müller glia", "Tnfsfr12a")
+6. ("Mouse", "Retina", "Microglia", "Tnfrsfr1a")
+7. ("Mouse", "Retina", "Microglia", "Tnfsfr12a")
+8. ("Mouse", "Retina", "Müller glia", "Tnfrsfr21")
+9. ("Mouse", "Retina", "Microglia", "Tnfrsfr21")
+10. ("Mouse", "Retina", "Microglia", "Tnfrsfr1b")
+11. ("Mouse", "Retina", "Microglia", "Tnfrsfr11a")
+12. ("Mouse", "Retina", "Microglia", "Tnfrsfr13b")
+13. ("Mouse", "Retina", "Astrocyte", "Il1r1")
+14. ("Mouse", "Retina", "Endothelial cell", "Il1r1")
+15. ("Mouse", "Retina", "OFF bipolar cell", "Il1r1")
+16. ("Mouse", "Retina", "Müller glia", "Il1r1")
+17. ("Mouse", "Retina", "Müller glia", "Tlr2")
+18. ("Mouse", "Retina", "Müller glia", "Tlr3")
+19. ("Mouse", "Retina", "Microglia", "Tlr1")
+20. ("Mouse", "Retina", "Microglia", "Tlr2")
+21. ("Mouse", "Retina", "Microglia", "Tlr3")
+22. ("Mouse", "Retina", "Microglia", "Tlr4")
+23. ("Mouse", "Retina", "Microglia", "Tlr7")
+24. ("Mouse", "Retina", "Microglia", "Tlr13")
+
+These tuples reflect the specific markers mentioned for each cell type within the mouse retina tissue as described in the document.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Endothelial cell", "CD31")
+2. ("Mouse", "Retina", "Astrocyte", "Sox9")
+3. ("Mouse", "Retina", "Astrocyte", "S100β")
+4. ("Mouse", "Retina", "Müller glia", "Sox9")
+5. ("Mouse", "Retina", "Bipolar cell", "Vsx2")
+6. ("Mouse", "Retina", "Bipolar cell", "Otx2")
+7. ("Mouse", "Retina", "Microglia", "Iba1")
+8. ("Mouse", "Retina", "Microglia", "F4/80")
+
+These tuples are derived from the information given in the text, where specific markers are mentioned for various cell types within the retina of a mouse.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Microglia", "Iba1")
+2. ("Mouse", "Retina", "Ganglion cells", "Pax6")
+3. ("Mouse", "Retina", "Ganglion cells", "Calretinin")
+4. ("Mouse", "Retina", "Microglia", "F4/80")
+5. ("Mouse", "Retina", "Microglia", "Ki67")
+
+These markers are used to identify and distinguish specific cell types within the retina of mice.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Microglia", "Iba1")
+2. ("Mouse", "Retina", "Microglia", "F4/80")
+3. ("Mouse", "Retina", "Microglia", "Rgs1")
+4. ("Mouse", "Retina", "Microglia", "Trem2")
+5. ("Mouse", "Retina", "Microglia", "Ccl3")
+6. ("Mouse", "Retina", "Microglia", "Ccl4")
+7. ("Mouse", "Retina", "Microglia", "C1qa")
+8. ("Mouse", "Retina", "Microglia", "C1qb")
+9. ("Mouse", "Retina", "Microglia", "C1qc")
+10. ("Mouse", "Retina", "Microglia", "Csf1r")
+11. ("Mouse", "Retina", "Müller glia", "Lhx2")
+12. ("Mouse", "Retina", "Müller glia", "Sox9")
+13. ("Mouse", "Retina", "Müller glia", "Rlbp1")
+14. ("Mouse", "Retina", "Müller glia", "Slc1a3")
+
+These tuples are derived from the information given in the text, where specific genes or proteins are used to identify and distinguish different cell types within the retina of a mouse.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. The document mentions `CD31` as a marker for endothelial cells in the context of labeling with antibodies.
+2. `S100β` is mentioned as a marker for astrocytes, also in the context of antibody labeling.
+3. `Otx2` and `Sox9` are discussed in relation to bipolar cells and Müller glia, though not explicitly stated as markers, their use in labeling these cells suggests they may serve as such.
+4. `Vsx2` is associated with bipolar cells.
+5. `IL-1R1` (or `Il1r1`) is noted to be expressed in several cell types, including endothelial cells, astrocytes, OFF bipolar cells, and Müller glia, but it's specifically restored in astrocytes in the GFAPCre-IL-1R1r/r mice model.
+
+Given the requirement that the "Marker" field must not be empty and all information should come from the provided document, we can construct the following tuples:
+
+- ("Mouse", "Retina", "Endothelial cell", "CD31")
+- ("Mouse", "Retina", "Astrocyte", "S100β")
+- ("Mouse", "Retina", "Bipolar cell", "Otx2")
+- ("Mouse", "Retina", "Müller glia", "Sox9")
+- ("Mouse", "Retina", "Bipolar cell", "Vsx2")
+- ("Mouse", "Retina", "Astrocyte", "IL-1R1")
+
+Please note that the species "Mouse" is inferred from the mention of mouse models, and the tissue type "Retina" is clearly specified in the document.
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+- **F4/80** is a marker for microglia.
+- **Iba1** is also a marker for microglia.
+
+Since the species and tissue type are not explicitly mentioned in the text, we will fill in "null" for those fields. The cell name is "microglia."
+
+Here are the tuples with the identified markers:
+
+```python
+[
+    ("null", "null", "Microglia", "F4/80"),
+    ("null", "null", "Microglia", "Iba1")
+]
+```
+
+The other proteins and markers mentioned (e.g., TUNEL, DRAQ5, tomato lectin, Ki67, calretinin) are not specifically linked to a particular cell type in the context of the provided text, so they are not included as cell markers.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Microglia", "Tnfα")
+2. ("Human", "Brain", "Microglia/Macrophage", "Tnfα")
+3. ("Mouse", "Retina", "Microglia", "Iba1")
+
+The document does not provide specific marker information for other cell types or species beyond these, so no additional tuples are included.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("null", "Retina", "Astrocytes", "IL-1R1")
+2. ("null", "Retina", "Microglia", "Rgs1")
+3. ("null", "Retina", "Microglia", "Trem2")
+4. ("null", "Retina", "Microglia", "Ccl3")
+5. ("null", "Retina", "Microglia", "Ccl4")
+6. ("null", "Retina", "Microglia", "C1qa")
+7. ("null", "Retina", "Microglia", "C1qb")
+8. ("null", "Retina", "Microglia", "C1qc")
+9. ("null", "Retina", "Microglia", "Tlr1")
+10. ("null", "Retina", "Microglia", "Tlr4")
+11. ("null", "Retina", "Microglia", "Tlr7")
+12. ("null", "Retina", "Microglia", "Tlr13")
+13. ("null", "Retina", "Microglia", "Tlr2")
+14. ("null", "Retina", "Microglia", "Tlr3")
+15. ("null", "Retina", "Müller glia", "Tspo")
+16. ("null", "Retina", "Müller glia", "Dbi")
+
+The species is not specified in the document, so it is filled with "null" for all tuples. The tissue type is the retina, and the cell names along with their respective markers are extracted from the given text.
+
+none
+

@@ -1,0 +1,313 @@
+none
+
+Based on the provided document, the following cell markers can be identified. The information is derived from the context and the listed genes that are known to be associated with specific cell types. Here are the tuples as per your format:
+
+1. ("Human", "Tumor", "T cell", "CTLA4")
+2. ("Human", "Tumor", "T cell", "TIGIT")
+3. ("Human", "Tumor", "B cell", "MS4A1")
+4. ("Human", "Tumor", "B cell", "CD79A")
+5. ("Human", "Tumor", "B cell", "BANK1")
+6. ("Human", "Tumor", "Plasma cell", "IGHG1")
+7. ("Human", "Tumor", "Plasma cell", "IGKV4-1")
+8. ("Human", "Tumor", "Plasma cell", "IGLV2-14")
+9. ("Human", "Tumor", "NK cell", "TRDC")
+10. ("Human", "Tumor", "NK cell", "KLRD1")
+11. ("Human", "Tumor", "NK cell", "GNLY")
+12. ("Human", "Tumor", "Monocyte/Macrophage", "LAMP3")
+13. ("Human", "Tumor", "Monocyte/Macrophage", "PPA1")
+14. ("Human", "Tumor", "Monocyte/Macrophage", "CST3")
+15. ("Human", "Tumor", "Monocyte/Macrophage", "LYZ")
+16. ("Human", "Tumor", "Monocyte/Macrophage", "APOE")
+17. ("Human", "Tumor", "Monocyte/Macrophage", "S100A8")
+18. ("Human", "Tumor", "mDC (myeloid dendritic cell)", "IL1RA4")
+19. ("Human", "Tumor", "pDC (plasmacytoid dendritic cell)", "PTGDS")
+20. ("Human", "Tumor", "Mast cell", "CPA3")
+21. ("Human", "Tumor", "Mast cell", "TPSB2")
+22. ("Human", "Tumor", "Mast cell", "TPSAB1")
+
+These tuples represent the different cell types along with their corresponding marker genes, as mentioned in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "CD4 T cell (naïve)", "TCF7")
+2. ("Human", "null", "CD4 T cell (naïve)", "CCR7")
+3. ("Human", "null", "CD4 T cell (naïve)", "LEF1")
+4. ("Human", "null", "CD4 T cell (naïve)", "SELL")
+5. ("Human", "null", "CD4 T cell (Treg)", "FOXP3")
+6. ("Human", "null", "CD4 T cell (Treg)", "IKZF2")
+7. ("Human", "null", "CD4 T cell (Treg)", "IL2RA")
+8. ("Human", "null", "CD4 T cell (Treg)", "CTLA-4")
+9. ("Human", "null", "CD4 T cell (Treg)", "CD28")
+10. ("Human", "null", "CD4 T cell (Treg)", "ICOS")
+11. ("Human", "null", "CD4 T cell (Treg)", "TNFRSF9")
+12. ("Human", "null", "CD4 T cell (Treg)", "TNFRSF14")
+13. ("Human", "null", "CD4 T cell (STMN1)", "CD38")
+14. ("Human", "null", "CD4 T cell (STMN1)", "ENTPD1")
+15. ("Human", "null", "CD4 T cell (STMN1)", "TNF")
+16. ("Human", "null", "CD4 T cell (STMN1)", "HIF1A")
+17. ("Human", "null", "CD8 T cell (exhausted)", "PDCD1")
+18. ("Human", "null", "CD8 T cell (exhausted)", "TIGIT")
+19. ("Human", "null", "CD8 T cell (exhausted)", "CTLA-4")
+20. ("Human", "null", "CD8 T cell (exhausted)", "HAVCR2")
+21. ("Human", "null", "CD8 T cell (exhausted)", "LAG-3")
+22. ("Human", "null", "CD8 T cell (exhausted)", "CD38")
+23. ("Human", "null", "CD8 T cell (exhausted)", "ENTPD1")
+24. ("Human", "null", "CD8 T cell (exhausted)", "ITGAE")
+25. ("Human", "null", "CD8 T cell (exhausted)", "IFNG")
+26. ("Human", "null", "CD8 T cell (exhausted)", "GZMB")
+27. ("Human", "null", "CD8 T cell (effector)", "NKG7")
+28. ("Human", "null", "CD8 T cell (GZMK)", "EOMES")
+29. ("Human", "null", "CD8 T cell (GZMK)", "GZMK")
+
+The species is assumed to be Human based on the context of the study. The tissue type is not specified in the text, so it is marked as "null".
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "CD8 T cells (exhausted)", "PDCD1")
+2. ("Human", "null", "CD8 T cells (exhausted)", "EOMES")
+3. ("Human", "null", "CD8 T cells (exhausted)", "TOX")
+4. ("Human", "null", "CD8 T cells (exhausted)", "NFATC2")
+5. ("Human", "null", "CD4 T cells (Treg)", "FOXP3")
+6. ("Human", "null", "CD4 T cells (Treg)", "IL2RA")
+7. ("Human", "null", "CD4 T cells (Treg)", "CTLA4")
+8. ("Human", "null", "CD4 T cells (exhausted)", "TNFRSF9")
+9. ("Human", "null", "CD4 T cells (exhausted)", "CSF1")
+10. ("Human", "null", "CD4 T cells (exhausted)", "TIGIT")
+11. ("Human", "null", "CD4 T cells (exhausted)", "CCL5")
+12. ("Human", "null", "CD4 T cells (exhausted)", "CCL4")
+13. ("Human", "null", "CD4 T cells (exhausted)", "IFI6")
+14. ("Human", "null", "CD4 T cells (exhausted)", "TOX")
+15. ("Human", "null", "CD4 T cells (exhausted)", "PDCD1")
+16. ("Human", "null", "CD4 T cells (exhausted)", "CXCL13")
+17. ("Human", "null", "CD4 T cells (exhausted)", "IFNG")
+18. ("Human", "null", "CD4 T cells (exhausted)", "ID2")
+19. ("Human", "null", "CD8 T cells (cytotoxic and exhausted)", "GNLY")
+20. ("Human", "null", "CD8 T cells (cytotoxic and exhausted)", "GZMH")
+21. ("Human", "null", "CD8 T cells (exhausted)", "IFNG")
+22. ("Human", "null", "CD8 T cells (bystanders)", "CD39") 
+
+The document does not specify a particular tissue type for these T cells, hence "null" is used in the "Tissue Type" field. The species is assumed to be "Human" based on the context of the study related to ESCC (Esophageal Squamous Cell Carcinoma), which is typically studied in humans.
+
+Based on the provided document, several markers are mentioned for different T cell types in human esophageal squamous cell carcinoma (ESCC). The document does not specify a particular tissue type other than referring to the general context of ESCC, so "null" is used for the "Tissue Type" field. Here are the identified cell markers:
+
+1. ("Human", "null", "CD4 T cells", "CCR7")
+2. ("Human", "null", "CD4 T cells", "TCF7")
+3. ("Human", "null", "CD4 T cells", "CD40LG")
+4. ("Human", "null", "CD4 T cells", "IFIT3")
+5. ("Human", "null", "CD4 T cells", "STMN1")
+6. ("Human", "null", "CD4 T cells", "FOXP3")
+7. ("Human", "null", "CD8 T cells", "NKG7")
+8. ("Human", "null", "CD8 T cells", "HSPA1A")
+9. ("Human", "null", "CD8 T cells", "GZMK")
+10. ("Human", "null", "CD8 T cells", "ZNF683")
+11. ("Human", "null", "CD8 T cells", "CCL5")
+12. ("Human", "null", "CD8 T cells", "STMN1")
+13. ("Human", "null", "CD8 T cells", "TIGIT")
+14. ("Human", "null", "CD4 and CD8 negative T cells", "null")  # No specific marker given
+15. ("Human", "null", "NK cells", "null")  # No specific marker given
+
+The last two entries do not have specific markers listed, so they are included as placeholders but would be removed if strictly following the requirement that the "Marker" field must not be empty. Thus, the final list without these entries is:
+
+1. ("Human", "null", "CD4 T cells", "CCR7")
+2. ("Human", "null", "CD4 T cells", "TCF7")
+3. ("Human", "null", "CD4 T cells", "CD40LG")
+4. ("Human", "null", "CD4 T cells", "IFIT3")
+5. ("Human", "null", "CD4 T cells", "STMN1")
+6. ("Human", "null", "CD4 T cells", "FOXP3")
+7. ("Human", "null", "CD8 T cells", "NKG7")
+8. ("Human", "null", "CD8 T cells", "HSPA1A")
+9. ("Human", "null", "CD8 T cells", "GZMK")
+10. ("Human", "null", "CD8 T cells", "ZNF683")
+11. ("Human", "null", "CD8 T cells", "CCL5")
+12. ("Human", "null", "CD8 T cells", "STMN1")
+13. ("Human", "null", "CD8 T cells", "TIGIT")
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "null", "Treg", "FOXP3")
+2. ("Human", "null", "Exhausted CD4 T cells", "STMN1")
+3. ("Human", "null", "Exhausted CD8 T cells", "PD1")
+4. ("Human", "null", "Cytotoxic CD8 T cell", "NKG7")
+5. ("Human", "null", "NK-C1-NCR3", "NCR3")
+6. ("Human", "null", "NK-C1-NCR3", "CD266")
+7. ("Human", "null", "NK-C1-NCR3", "NKG7")
+8. ("Human", "null", "NK-C1-NCR3", "LAMP1")
+9. ("Human", "null", "NK-C3-KLRC1", "KLRC1")
+10. ("Human", "null", "NK-C3-KLRC1", "ITGA1")
+11. ("Human", "null", "NK-C2-STMN1", "KLRC1")
+12. ("Human", "null", "NK-C2-STMN1", "ITGA1")
+
+The species is inferred to be Human as the context suggests human ESCC (Esophageal Squamous Cell Carcinoma) studies. The tissue type is not explicitly mentioned in the text for these markers, hence it is marked as "null".
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "Monocyte", "VCAN")
+2. ("null", "null", "M1 Macrophage", "IL6")
+3. ("null", "null", "M2 Macrophage", "CSF1")
+4. ("null", "null", "Tissue Resident Macrophages (TRM)", "LILRB2")
+5. ("null", "null", "MDSC", "C1QC")
+6. ("null", "null", "MDSC", "APOE")
+7. ("null", "null", "Monocyte", "IL1B")
+
+The species and tissue type were not specified in the text for these markers, hence they are marked as "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "M2 macrophage", "MITF")
+2. ("null", "null", "M2 macrophage", "BHLHE40")
+3. ("null", "null", "M2 macrophage", "ATF3")
+4. ("null", "null", "M2 macrophage", "USF2")
+5. ("null", "null", "M1 macrophage", "IRF1")
+6. ("null", "null", "M1 macrophage", "IRF7")
+7. ("null", "null", "M1 macrophage", "IRF2")
+8. ("null", "null", "M1 macrophage", "IRF5")
+9. ("null", "null", "M1 macrophage", "PRDM1")
+10. ("null", "null", "Monocyte", "RARA")
+11. ("null", "null", "Monocyte", "FOSB")
+12. ("null", "null", "Monocyte", "NFKB2")
+13. ("null", "null", "cDC1 (Dendritic Cell)", "CLEC9A")
+14. ("null", "null", "cDC2 (Dendritic Cell)", "CD1C")
+15. ("null", "null", "cDC2 (Dendritic Cell)", "CLEC10A")
+16. ("null", "null", "Monocyte-derived DC (Dendritic Cell)", "FCER1A")
+17. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "LAMP3")
+18. ("null", "null", "pDC (Dendritic Cell)", "CLEC4C")
+19. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "IDO1")
+20. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "EBI3")
+21. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "CD274")
+22. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "IL10")
+23. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "CD83")
+24. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "CCR7")
+25. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "PDL1")
+26. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "RELB")
+27. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "IRF1")
+28. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "FOXO1")
+29. ("null", "null", "LAMP3+ DC (Dendritic Cell)", "ETS1")
+30. ("null", "null", "cDC2 (Dendritic Cell)", "CEBPD")
+31. ("null", "null", "cDC2 (Dendritic Cell)", "ETS2")
+32. ("null", "null", "cDC2 (Dendritic Cell)", "CEBPB")
+33. ("null", "null", "cDC2 (Dendritic Cell)", "CREB5")
+34. ("null", "null", "cDC1 (Dendritic Cell)", "BCL6")
+35. ("null", "null", "cDC1 (Dendritic Cell)", "BACH1")
+36. ("null", "null", "cDC1 (Dendritic Cell)", "FLI1")
+37. ("null", "null", "cDC1 (Dendritic Cell)", "RUNX1")
+38. ("null", "null", "pDC (Dendritic Cell)", "SPIB")
+39. ("null", "null", "pDC (Dendritic Cell)", "IRF7")
+40. ("null", "null", "pDC (Dendritic Cell)", "NR3C1")
+
+The species and tissue type are not specified in the document, hence they are filled with "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "ESCC (Esophageal Squamous Cell Carcinoma) Tissue", "CD4+CD25hiFOXP3+ Tregs", "FOXP3")
+2. ("Human", "ESCC (Esophageal Squamous Cell Carcinoma) Tissue", "CD8 T cells", "PD1")
+3. ("Human", "ESCC (Esophageal Squamous Cell Carcinoma) Tissue", "NK cells", "NKG2A")
+4. ("Human", "ESCC (Esophageal Squamous Cell Carcinoma) Tissue", "Tregs", "TNFSF1B")
+5. ("Human", "ESCC (Esophageal Squamous Cell Carcinoma) Tissue", "Tregs", "CCR8")
+6. ("Human", "ESCC (Esophageal Squamous Cell Carcinoma) Tissue", "Tregs", "IL1R2")
+
+These tuples represent the species, tissue type, cell name, and marker as described in the document.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. The document mentions that Tregs (regulatory T cells) express IL1R2, and this expression is higher in Tregs isolated from tumors compared to adjacent tissues. This suggests that IL1R2 could be a marker for Tregs, specifically in the context of ESCC (esophageal squamous cell carcinoma).
+2. Tregs are also noted to express high levels of HLA-A, HLA-B, and HLA-C, indicating these as potential markers for Tregs.
+3. For macrophages, it's mentioned that LILRB1 expression increases in macrophages within ESCC compared to adjacent tissues, suggesting LILRB1 as a marker for macrophages, particularly those associated with ESCC.
+4. Macrophages, when influenced by Tregs, are described to express M2 markers, including CD163 and PDL1, implying these as markers for M2 macrophages.
+
+Given the information, we can summarize the findings into the required format, but since the species and tissue type are not explicitly stated beyond "ESCC" and the focus being on human cancer, I will use "Human" for the species and "Esophageal tissue" for the tissue type where applicable, and fill in "null" for any unspecified fields:
+
+- ("Human", "Esophageal tissue", "Treg", "IL1R2")
+- ("Human", "Esophageal tissue", "Treg", "HLA-A")
+- ("Human", "Esophageal tissue", "Treg", "HLA-B")
+- ("Human", "Esophageal tissue", "Treg", "HLA-C")
+- ("Human", "Esophageal tissue", "Macrophage", "LILRB1")
+- ("Human", "Esophageal tissue", "M2 macrophage", "CD163")
+- ("Human", "Esophageal tissue", "M2 macrophage", "PDL1")
+
+Each tuple represents a specific cell type and its corresponding marker based on the document.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "null", "Exhausted CD8 T cells", "TIGIT")
+2. ("null", "null", "Pre-exhausted CD8 T cells", "CCL5")
+3. ("null", "null", "Pre-exhausted CD8 T cells", "STMN1")
+4. ("null", "null", "NK cells", "NKG2A")
+5. ("null", "null", "NK cells", "CD49d")
+6. ("null", "null", "Cytotoxic CD8 T cells", "NKG7")
+
+The species and tissue type are not explicitly mentioned in the document, hence they are filled with "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Hepatocellular carcinoma", "Macrophage (M4-C1-THBS1)", "THBS1")
+2. ("Human", "Hepatocellular carcinoma", "MDSC (MDSC-C1-C1QC)", "C1QC")
+3. ("Human", "Hepatocellular carcinoma", "MDSC (MDSC-C2-APOE)", "APOE")
+4. ("Human", "Hepatocellular carcinoma", "Macrophage (M4-C2-C1QA)", "C1QA")
+5. ("Human", "Esophageal squamous cell carcinoma (ESCC)", "Macrophage (Macro-C3-CSF1)", "CSF1")
+
+These tuples represent the cell markers as described in the text, with the species, tissue type, cell name, and specific marker.
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Human", "Tumor microenvironment (TME)", "cDC1", "CLEC9A")
+2. ("Human", "Tumor microenvironment (TME)", "cDC2", "CLEC10A")
+3. ("Human", "Tumor microenvironment (TME)", "Lamp3+ DC", "LAMP3")
+4. ("Human", "Tumor microenvironment (TME)", "Monocyte-derived DC", "FCER1A")
+5. ("Human", "Tumor microenvironment (TME)", "Tregs", "IL1R2")
+6. ("Human", "Tumor microenvironment (TME)", "TAMs", "LILRB1")
+
+These tuples are derived directly from the information given in the document, where specific markers are associated with distinct cell types within the tumor microenvironment.
+
+Based on the provided text, the following cell markers can be identified:
+
+- ("null", "null", "NK cells", "KLRC1")
+- ("null", "null", "NK cells", "KLRD1")
+- ("null", "null", "T cells", "CD3G")
+- ("null", "null", "T cells", "CD3D")
+- ("null", "null", "T cells", "CD3E")
+- ("null", "null", "T cells", "CD2")
+- ("null", "null", "monocytes/macrophages", "CD14")
+- ("null", "null", "monocytes/macrophages", "VCAN")
+- ("null", "null", "monocytes/macrophages", "FCGR2A")
+- ("null", "null", "monocytes/macrophages", "CSF1R")
+- ("null", "null", "B cells", "CD19")
+- ("null", "null", "B cells", "CD79A")
+
+The document does not specify the species or the tissue type, so those fields are filled with "null". The cell types and their corresponding markers are clearly stated in the text.
+
+Based on the provided document, I have identified several cell markers. The information is presented in the requested format as tuples:
+
+1. ("null", "null", "B cells", "CD1C")
+2. ("null", "null", "mDC (myeloid dendritic cells)", "FCER1A")
+3. ("null", "null", "pDC (plasmacytoid dendritic cells)", "CLEC4C")
+4. ("null", "null", "plasma cells", "IGKC")
+5. ("null", "null", "mast cells", "TPSB2, CPA3")
+6. ("null", "null", "basal cells/ﬁbroblasts", "KRT19, IGFBP4, CTSB")
+7. ("null", "null", "DC-C1", "CLEC9A")
+8. ("null", "null", "DC-C2", "CLEC10A")
+9. ("null", "null", "DC-C3", "LAMP3")
+10. ("null", "null", "DC-C4", "FCER1A")
+11. ("null", "null", "DC-C5", "CLEC4C")
+
+The species and tissue type are not specified for these markers in the given text, hence they are filled with "null". If there's any other specific part of the document or additional details you need, please let me know!
+
+Based on the provided document, there is no explicit mention of specific cell markers (marker genes, signature genes, protein markers, or molecular markers) for different cell types. The document primarily discusses experimental procedures and some analysis but does not list any specific markers. Therefore, the appropriate response is:
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "ESCC tumor and adjacent tissues", "DC cells", "LAMP3")
+2. ("Human", "ESCC tumor and adjacent tissues", "DC cells", "PDL1")
+3. ("Human", "ESCC tumor and adjacent tissues", "DC cells", "CCR7")
+4. ("Human", "ESCC tumor and adjacent tissues", "DC cells", "CD83")
+5. ("Human", "ESCC tumor and adjacent tissues", "DC cells", "CD11C")
+6. ("Human", "ESCC tumor and adjacent tissues", "DC cells", "IDO1")
+7. ("Human", "ESCC tumor and adjacent tissues", "Treg cells", "FOXP3")
+8. ("Human", "ESCC tumor and adjacent tissues", "Macrophages", "CD68")
+9. ("Human", "ESCC tumor and adjacent tissues", "Macrophages", "LILRB1")
+
+These tuples are derived from the information about the expression of specific markers in different cell types within ESCC (esophageal squamous cell carcinoma) and adjacent tissues. The document mentions various markers used to identify and characterize these cells, including LAMP3, PDL1, CCR7, CD83, CD11C, IDO1, FOXP3, CD68, and LILRB1.
+

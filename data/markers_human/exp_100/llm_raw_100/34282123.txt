@@ -1,0 +1,122 @@
+none
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Human", "null", "CD4+ T cells (naïve)", "SELL")
+2. ("Human", "null", "CD4+ T cells (naïve)", "CCR7")
+3. ("Human", "null", "CD4+ T cells (naïve)", "TCF7")
+4. ("Human", "null", "CD4+ T cells (naïve)", "LEF1")
+5. ("Human", "null", "CD4+ T cells (cytotoxic)", "GZMA")
+6. ("Human", "null", "CD4+ T cells (cytotoxic)", "GZMB")
+7. ("Human", "null", "CD4+ T cells (cytotoxic)", "PRF1")
+8. ("Human", "null", "CD4+ T cells (cytotoxic)", "NKG7")
+9. ("Human", "null", "Regulatory CD4+ T cells", "FOXP3")
+10. ("Human", "null", "Regulatory CD4+ T cells", "CTLA4")
+11. ("Human", "null", "Regulatory CD4+ T cells", "TIGIT")
+12. ("Human", "null", "Regulatory CD4+ T cells", "IL2RA")
+13. ("Human", "null", "CD8+ T cells (naïve)", "SELL")
+14. ("Human", "null", "CD8+ T cells (naïve)", "CCR7")
+15. ("Human", "null", "CD8+ T cells (naïve)", "TCF7")
+16. ("Human", "null", "CD8+ T cells (naïve)", "LEF1")
+17. ("Human", "null", "CD8+ T cells (terminal effector)", "GZMA")
+18. ("Human", "null", "CD8+ T cells (terminal effector)", "GZMB")
+19. ("Human", "null", "CD8+ T cells (terminal effector)", "PRF1")
+20. ("Human", "null", "CD8+ T cells (terminal effector)", "NKG7")
+21. ("Human", "null", "CD8+ T cells (transitional)", "GZMK")
+22. ("Human", "null", "CD8+ T cells (central memory)", "CD27")
+23. ("Human", "null", "CD8+ T cells (central memory)", "SELL")
+24. ("Human", "null", "CD8+ T cells (central memory)", "CCR7")
+25. ("Human", "null", "Vd2 gamma delta T cells", "TRDV2")
+26. ("Human", "null", "Vd2 gamma delta T cells", "TRGV9")
+
+Note: The species is inferred to be Human based on the context of the study, but it's not explicitly mentioned in the text. If the species is not Human, you should replace "Human" with the correct species name.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Blood", "CD8+ T cell", "CD8")
+2. ("Human", "Blood", "CD4+ T cell", "CD4")
+3. ("Human", "Blood", "MAIT cell", "TRAV1-2")
+4. ("Human", "Blood", "MAIT cell", "TRAJ33")
+
+The document specifies that CD8 and CD4 are used to distinguish CD8+ and CD4+ T cells, respectively. Additionally, for MAIT cells, the recombination of TRAV1-2 and TRAJ33 gene segments in the TCRα chain is a distinguishing feature.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "CD8+ T cells (central memory)", "GZMH")
+2. ("null", "null", "CD8+ T cells (central memory)", "PRF1")
+3. ("null", "null", "CD8+ T cells (central memory)", "FGFBP2")
+4. ("null", "null", "CD8+ T cells (central memory)", "CX3CR1")
+5. ("null", "null", "CD8+ T cells (central memory)", "ADGRG1")
+6. ("null", "null", "CD8+ T cells (terminal effector, C6 cluster)", "ITGAM")
+7. ("null", "null", "CD8+ T cells (terminal effector, C6 cluster)", "ITGB1")
+8. ("null", "null", "CD8+ T cells (terminal effector, C6 cluster)", "ZNF683")
+9. ("null", "null", "CD8+ T cells (terminal effector, C6 cluster)", "CD226")
+10. ("null", "null", "CD8+ T cells (terminal effector, C6 cluster)", "S100A4")
+11. ("null", "null", "CD8+ T cells (terminal effector, C6 cluster)", "CD52")
+12. ("null", "null", "CD8+ T cells (terminal effector, C6 cluster)", "S100A6")
+13. ("null", "null", "CD8+ T cells (terminal effector, C11 cluster)", "KLRC3")
+14. ("null", "null", "CD8+ T cells (terminal effector, C11 cluster)", "KLRF1")
+15. ("null", "null", "CD8+ T cells (terminal effector, C11 cluster)", "KLRB1")
+16. ("null", "null", "CD8+ T cells (terminal effector, C11 cluster)", "KIR3DL1")
+17. ("null", "null", "CD8+ T cells (terminal effector, C11 cluster)", "KIR3DL2")
+18. ("null", "null", "CD8+ T cells (terminal effector, C11 cluster)", "KIR2DL3")
+
+The document does not specify the species or the tissue type, so those fields are filled with "null". The cell types and their associated markers are derived from the text, focusing on the differentiation and functional characteristics of CD8+ T cells.
+
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("Human", "Blood", "Cytotoxic CD4+ T cells (CD4 CTL, C13 cluster)", "GZMA")
+2. ("Human", "Blood", "Cytotoxic CD4+ T cells (CD4 CTL, C13 cluster)", "GZMB")
+3. ("Human", "Blood", "Cytotoxic CD4+ T cells (CD4 CTL, C13 cluster)", "GZMH")
+4. ("Human", "Blood", "Cytotoxic CD4+ T cells (CD4 CTL, C13 cluster)", "NKG7")
+
+The document does not provide specific marker details for other cell types or clusters mentioned. Therefore, the above tuples are based on the cytotoxic genes that were highlighted as being significantly higher in expression within the CD4 CTLs (C13 cluster) of human blood.
+
+none
+
+none
+
+none
+
+Based on the provided text, the following cell markers have been identified. The information has been structured into tuples as requested:
+
+1. ("Human", "Brain vessels", "CD8+ T cells", "VLA-4")
+2. ("Human", "Brain vessels", "CD8+ T cells", "LFA-1")
+3. ("Human", "Brain vessels", "CD8+ T cells", "Mac-1")
+4. ("Human", "Brain vessels", "CD8+ T cells", "CCL4")
+5. ("Human", "Brain vessels", "CD8+ T cells", "CCL5")
+6. ("Human", "Brain vessels", "CD8+ T cells", "CX3CR1")
+7. ("Human", "Brain vessels", "CD8+ T cells", "CD99")
+8. ("Human", "Brain vessels", "CD8+ T cells", "SELPLG")
+9. ("Human", "Brain vessels", "CD4 CTLs", "VLA-4")
+10. ("Human", "Brain vessels", "CD4 CTLs", "LFA-1")
+11. ("Human", "Brain vessels", "CD4 CTLs", "Mac-1")
+12. ("Human", "Brain vessels", "CD4 CTLs", "CCL4")
+13. ("Human", "Brain vessels", "CD4 CTLs", "CCL5")
+14. ("Human", "Brain vessels", "CD4 CTLs", "CX3CR1")
+15. ("Human", "Brain vessels", "CD4 CTLs", "CD99")
+16. ("Human", "Brain vessels", "CD4 CTLs", "SELPLG")
+17. ("Human", "Brain vessels", "Central memory CD8+ T cells", "ITGAM")
+18. ("Human", "Brain vessels", "Central memory CD8+ T cells", "ITGB1")
+19. ("Human", "Brain vessels", "Central memory CD8+ T cells", "PRSS23")
+20. ("Human", "Brain vessels", "Central memory CD8+ T cells", "SPON2")
+21. ("Human", "Brain vessels", "Central memory CD8+ T cells", "ZNF683")
+
+The species is specified as "Human" based on the context of the study involving patients with Parkinson's disease (PD). The tissue type is inferred to be "Brain vessels" since the discussion involves the blood-brain barrier (BBB) and the recruitment of immune cells in brain-related diseases. The cell names and their corresponding markers are directly extracted from the text, where specific genes or proteins are mentioned in relation to particular cell types.
+
+none
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+- ("Human", "Peripheral blood", "Naïve CD4+ T cell", "SELL")
+- ("Human", "Peripheral blood", "Naïve CD4+ T cell", "CCR7")
+- ("Human", "Peripheral blood", "Naïve CD4+ T cell", "TCF7")
+- ("Human", "Peripheral blood", "Naïve CD4+ T cell", "LEF1")
+- ("Human", "Peripheral blood", "CD3+ T cell", "CD3")
+- ("Human", "Peripheral blood", "CD8 CTL", "CD8")
+- ("Human", "Peripheral blood", "CD4 CTL", "CD4")
+
+These tuples are derived from the details given about the expression of specific genes or proteins that help in identifying different types of T cells.
+
+none
+

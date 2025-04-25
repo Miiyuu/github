@@ -1,0 +1,145 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Lacrimal gland", "Ductal cell progenitors", "Krt5")
+2. ("null", "Lacrimal gland", "Epithelial cells", "Pax6")
+3. ("null", "Lacrimal gland", "Acinar cells", "Aqp5")
+4. ("Mouse", "Lacrimal gland", "Ducts", "Ltf")
+5. ("null", "Lacrimal gland", "Luminal cells", "Lcn2")
+
+These tuples are based on the information provided in the text, where specific markers are associated with particular cell types within the lacrimal gland.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Lacrimal gland", "Stem cell", "Lgr5")
+2. ("Mouse", "Lacrimal gland", "Stem cell", "Axin2")
+3. ("Mouse", "Lacrimal gland", "Stem cell", "Tnfrsf19")
+4. ("Mouse", "Lacrimal gland", "Stem cell", "Krt5")
+5. ("Mouse", "Lacrimal gland", "Myoepithelial cell", "Acta2")
+6. ("Mouse", "Lacrimal gland", "Myoepithelial cell", "Myl9")
+7. ("Mouse", "Lacrimal gland", "Ductal cell", "Pigr")
+8. ("Mouse", "Lacrimal gland", "Ductal cell", "C3")
+9. ("Mouse", "Lacrimal gland", "Ductal cell", "Lcn2")
+10. ("Mouse", "Lacrimal gland", "Ductal cell", "Ltf")
+11. ("Mouse", "Lacrimal gland", "Ductal cell", "Sftpd")
+12. ("Mouse", "Lacrimal gland", "Ductal cell", "Serpinb2")
+13. ("Mouse", "Lacrimal gland", "Ductal cell", "Serpinb5")
+14. ("Mouse", "Lacrimal gland", "Ductal cell", "Cstb")
+15. ("Mouse", "Lacrimal gland", "Ductal cell", "Cst6")
+16. ("Mouse", "Lacrimal gland", "Ductal cell", "Aqp5")
+
+These markers are specifically mentioned in the context of their differential expression in various conditions (EM vs. DM) and cell types within the lacrimal gland organoids.
+
+none
+
+The provided text does not contain specific information about cell markers used to distinguish different cell types. The document discusses the effects of Pax6 knockout on gene expression and organoid functionality but does not mention any specific marker genes, signature genes, protein markers, or molecular markers that are used to identify particular cell types. Therefore, no tuples can be generated based on the given requirements.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Lacrimal gland", "Epithelial cell", "PAX6")
+2. ("Human", "Lacrimal gland", "Epithelial cell", "FOXC1")
+3. ("Human", "Lacrimal gland", "Epithelial cell", "AQP5")
+4. ("Human", "Lacrimal gland", "Myoepithelial cell", "ACTA2")
+5. ("Human", "Lacrimal gland", "Myoepithelial cell", "MYH11")
+6. ("Human", "Lacrimal gland", "Myoepithelial cell", "MYLK")
+7. ("Human", "Lacrimal gland", "Myoepithelial cell", "TPM2")
+8. ("Human", "Lacrimal gland", "Endothelial cell", "CDH5")
+9. ("Human", "Lacrimal gland", "Endothelial cell", "PECAM1")
+10. ("Human", "Lacrimal gland", "Lymphocyte", "PTPRC")
+11. ("Human", "Lacrimal gland", "Lymphocyte", "CD2")
+12. ("Human", "Lacrimal gland", "Basal cell", "TP63")
+13. ("Human", "Lacrimal gland", "Acinar cell", "LTF")
+14. ("Human", "Lacrimal gland", "Acinar cell", "LCN1")
+15. ("Human", "Lacrimal gland", "Acinar cell", "LYZ")
+
+These tuples are derived from the document and follow the specified format.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Lacrimal gland", "Acinar cell", "PRR27")
+2. ("Human", "Lacrimal gland", "Acinar cell", "LACRT")
+3. ("Human", "Lacrimal gland", "Acinar cell", "SCGB1D1")
+4. ("Human", "Lacrimal gland", "Acinar cell", "SCGB2A1")
+5. ("Human", "Lacrimal gland", "Acinar cell", "CST1")
+6. ("Human", "Lacrimal gland", "Acinar cell", "CST4")
+7. ("Human", "Lacrimal gland", "Acinar cell", "HTN1")
+8. ("Human", "Lacrimal gland", "Acinar cell", "SMR3A")
+9. ("Human", "Lacrimal gland", "Acinar cell", "SMR3B")
+10. ("Human", "Lacrimal gland", "Ductal cell", "LCN2")
+11. ("Human", "Lacrimal gland", "Ductal cell", "WFDC2")
+12. ("Human", "Lacrimal gland", "Ductal cell", "C3")
+
+These tuples represent the specific markers that are differentially expressed in various cell types within the human lacrimal gland, as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Lacrimal gland tissue", "Acinar cell", "LTF")
+2. ("Human", "Lacrimal gland tissue", "Acinar cell", "PRR27")
+3. ("Human", "Lacrimal gland tissue", "Acinar cell", "SCGB2A1")
+4. ("Human", "Lacrimal gland tissue", "Acinar cell", "HTN1")
+5. ("Human", "Lacrimal gland tissue", "Ductal cell", "LCN2")
+6. ("Human", "Lacrimal gland tissue", "Ductal cell", "WFDC2")
+7. ("Human", "Lacrimal gland organoid", "Basal cell", "KRT5")
+8. ("Human", "Lacrimal gland organoid", "Basal cell", "KRT14")
+9. ("Human", "Lacrimal gland organoid", "Basal cell", "NGFR")
+10. ("Human", "Lacrimal gland organoid", "Basal cell", "TP63")
+11. ("Human", "Lacrimal gland organoid", "Acinar cell", "BPIFA1")
+12. ("Human", "Lacrimal gland organoid", "Differentiated cell", "AQP5")
+13. ("Human", "Lacrimal gland organoid", "Differentiated cell", "F3")
+14. ("Human", "Lacrimal gland organoid", "Differentiated cell", "MUC16")
+15. ("Human", "Lacrimal gland organoid", "Differentiated cell", "MUC5AC")
+16. ("Human", "Lacrimal gland organoid", "Differentiated cell", "PIGR")
+
+These tuples represent the cell markers as described in the text, with the species, tissue type, cell name, and specific marker for each.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Lacrimal gland", "Ductal cell", "LCN2")
+2. ("Human", "Lacrimal gland", "Ductal cell", "WFDC2")
+3. ("Human", "Lacrimal gland", "Acinar cell", "CHRM1")
+4. ("Human", "Lacrimal gland", "Ductal and acinar cells", "VIPR1")
+5. ("Human", "Lacrimal gland", "null", "CFTR")
+6. ("Human", "Lacrimal gland", "null", "CLCN3")
+7. ("Human", "Lacrimal gland", "null", "SLC12A4")
+8. ("Human", "Lacrimal gland", "null", "LRRC26")
+
+The document does not specify which exact cell types express CFTR, CLCN3, SLC12A4, and LRRC26, but it indicates that these are expressed in lacrimal gland organoid and tissue cells, so "null" is used for the "Cell Name" field in those cases.
+
+none
+
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "Lacrimal gland", "Acinar cell", "LYZ")
+2. ("Human", "Lacrimal gland", "Acinar cell", "LTF")
+3. ("Human", "Lacrimal gland", "Acinar cell", "LCN1")
+4. ("Human", "Lacrimal gland", "Ductal cell", "LCN2")
+5. ("Human", "Lacrimal gland", "Ductal cell", "C3")
+6. ("Human", "Lacrimal gland", "Ductal cell", "WFDC2")
+7. ("Human", "Lacrimal gland", "Ductal progenitor", "KRT5")
+8. ("Human", "Lacrimal gland", "Acinar cell", "BPIFA1") 
+9. ("Mouse", "Lacrimal gland", "Ductal progenitor", "KRT5")
+
+These markers are derived from the discussion about the expression of specific genes or proteins in different cell types within the lacrimal gland, as well as their presence in organoids and their role in tear component production.
+
+Based on the provided document, several markers are mentioned in the context of immunohistochemistry and imaging. Here are the identified cell markers formatted as requested:
+
+1. ("null", "null", "null", "PAX6")
+2. ("null", "null", "null", "AQP5")
+3. ("null", "null", "null", "LTF")
+4. ("null", "null", "null", "KRT5")
+5. ("null", "null", "null", "KI67")
+6. ("null", "null", "null", "ACTA2")
+7. ("null", "null", "null", "LYZ")
+8. ("null", "null", "null", "LCN2")
+9. ("null", "null", "null", "BPIFA1")
+10. ("null", "null", "null", "PRR27")
+11. ("null", "null", "null", "WFDC2")
+12. ("null", "null", "null", "SCGB2A1")
+13. ("null", "null", "null", "HTN1")
+14. ("null", "null", "null", "LCN1")
+
+The document does not specify the species, tissue type, or specific cell names for these markers, so those fields are filled with "null".
+
+none
+

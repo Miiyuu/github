@@ -1,0 +1,114 @@
+Based on the provided document, here are the cell markers identified in the format specified:
+
+1. ("Human", "Retinal organoid", "Retinal progenitor cell (RPC)", "VSX2")
+2. ("Human", "Retinal organoid", "Retinal progenitor cell (RPC)", "PAX6")
+3. ("Human", "Retinal organoid", "Retinal ganglion cell (RGC)", "ELAVL3/4")
+4. ("Human", "Retinal organoid", "Photoreceptor precursor", "BLIMP1")
+5. ("Human", "Retinal organoid", "Retinal ganglion cell (RGC)", "ATOH7")
+6. ("Human", "Retinal organoid", "Retinal ganglion cell (RGC)", "POU4F2")
+7. ("Human", "Retinal organoid", "Interneuron", "ONECUT1")
+8. ("Human", "Retinal organoid", "Interneuron", "PROX1")
+9. ("Human", "Retinal organoid", "Photoreceptor", "NEUROD1")
+10. ("Human", "Retinal organoid", "Photoreceptor", "PRDM1")
+
+These tuples reflect the specific cell markers used to distinguish different cell types within human 3D retinal organoids as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "ASCL1")
+2. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "NGN2")
+3. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "INSM1")
+4. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "BHLHE22")
+5. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "ISLR2")
+6. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "CCND1")
+
+These markers are used to distinguish or characterize retinal progenitor cells (RPCs) in human retinal organoids, particularly in the context of neurogenesis and RPC commitment.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ISLET1 is a marker for neuronal cells.
+2. BLIMP1 is a marker for photoreceptor precursors.
+3. ASCL1 is associated with retinal progenitor cells (RPCs) and possibly with neurogenesis.
+
+Given that the species and tissue type are not explicitly mentioned but the context suggests human retinal tissue, and assuming "null" for any unspecified fields, we can construct the following tuples:
+
+- ("Human", "Retina", "Neuronal cell", "ISLET1")
+- ("Human", "Retina", "Photoreceptor precursor", "BLIMP1")
+- ("Human", "Retina", "Retinal progenitor cell (RPC)", "ASCL1")
+
+Thus, the final answer is:
+```python
+[
+    ("Human", "Retina", "Neuronal cell", "ISLET1"),
+    ("Human", "Retina", "Photoreceptor precursor", "BLIMP1"),
+    ("Human", "Retina", "Retinal progenitor cell (RPC)", "ASCL1")
+]
+```
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "ASCL1")
+2. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "RTN4")
+3. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "GPM6A")
+4. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "EFNB2")
+5. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "GPM6B")
+6. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "FZD3")
+7. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "RUFY3")
+8. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "ISLR2")
+9. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "DCX")
+10. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "ISLET1")
+11. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "NEUROD1")
+12. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "BLIMP1")
+13. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "DCLK1")
+14. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "SEMA5A")
+15. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "NRCAM")
+16. ("Human", "Retinal organoids", "Neurogenic retinal progenitor cells (RPCs)", "NGN2")
+17. ("Human", "Retinal organoids", "Multipotent retinal progenitor cells (RPCs)", "JAG1")
+18. ("Human", "Retinal organoids", "Multipotent retinal progenitor cells (RPCs)", "GJA1")
+19. ("Human", "Retinal organoids", "Quiescent neural stem cells (NSCs)", "GJA1")
+20. ("Human", "Retinal organoids", "Quiescent neural stem cells (NSCs)", "ATP1A2")
+21. ("Human", "Retinal organoids", "Quiescent neural stem cells (NSCs)", "PCDH9")
+22. ("Human", "Retinal organoids", "Quiescent neural stem cells (NSCs)", "PFN1")
+23. ("Human", "Retinal organoids", "Quiescent neural stem cells (NSCs)", "TMSB10")
+24. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "LIN28A")
+25. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "LIN28B")
+26. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "JAG1")
+27. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "BMP7")
+28. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "TGFb2")
+29. ("Human", "Retinal organoids", "Retinal progenitor cells (RPCs)", "IGFBP5")
+
+These tuples represent the cell markers as described in the document, with each field filled according to the specified format.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "Retina", "Multipotent RPCs", "JAG1")
+2. ("Human", "Retina", "Multipotent RPCs", "GJA1")
+3. ("Human", "Retina", "Neurogenic RPCs", "DCX")
+4. ("Human", "Retina", "Neurogenic RPCs", "ASCL1")
+
+These tuples represent the species, tissue type, cell name, and marker as described in the text. The document does not provide specific information for other fields that would require them to be filled with "null", and all markers listed have associated non-empty fields.
+
+Based on the provided text, the following cell markers have been identified. The information is presented in the requested tuple format:
+
+1. ("null", "null", "Retinal Progenitor Cell (RPC)", "GJA1")
+2. ("null", "null", "Retinal Progenitor Cell (RPC)", "JAG1")
+3. ("null", "null", "Neurogenic RPC", "ASCL1")
+4. ("null", "null", "Neurogenic RPC", "NGN2")
+5. ("null", "null", "Neurogenic RPC", "DCX")
+
+The document does not specify the species or tissue type, so those fields are filled with "null". The markers GJA1 and JAG1 are associated with multipotent RPCs, while ASCL1, NGN2, and DCX are mentioned as markers for neurogenic RPCs.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "Retinal Progenitor Cells (RPCs)", "HES1")
+2. ("null", "null", "Retinal Progenitor Cells (RPCs)", "HES5")
+3. ("null", "null", "Terminally differentiated neurons", "HES6")
+4. ("null", "null", "Retinal Progenitor Cells (RPCs)", "ASCL1")
+5. ("Mouse", "null", "Retinal Progenitor Cells (RPCs)", "CCND1")
+6. ("null", "null", "Retinal Progenitor Cells (RPCs)", "LHX2")
+7. ("null", "null", "Retinal Progenitor Cells (RPCs)", "NR2E1")
+
+The species and tissue type were not explicitly mentioned for most of the entries, hence "null" has been used to fill in those fields. The information about CCND1 being a marker in mouse RPCs is derived from the context of the cited study involving Ccnd1 knockout mice, which implies the species as "Mouse".
+
+none
+

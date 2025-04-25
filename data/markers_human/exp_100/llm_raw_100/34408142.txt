@@ -1,0 +1,84 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "null", "tenocyte-like cells", "Scx")
+2. ("Mouse", "null", "tenocyte-like cells", "Mkx")
+3. ("Human", "null", "iPSC-derived tenocytes", "SCX")
+4. ("Human", "null", "iPSC-derived tenocytes", "MKX")
+5. ("Human", "null", "iPSC-derived tenocytes", "TNMD")
+6. ("Human", "null", "iPSC-derived tenocytes", "COL1A1")
+7. ("Human", "null", "iPSC-derived tenocytes", "COL1A2")
+8. ("Human", "null", "iPSC-derived tenocytes", "FMOD")
+
+These tuples reflect the species, tissue type (if specified), cell name, and the corresponding marker as described in the text. The tissue type is marked as "null" where it is not explicitly stated in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "iPSCs", "NANOG")
+2. ("Human", "null", "iPSCs", "OCT3/4")
+3. ("Human", "null", "PSM", "TBX6")
+4. ("Human", "null", "PSM", "HES7")
+5. ("Human", "null", "Somites", "PAX3")
+6. ("Human", "null", "Somites", "MEOX1")
+7. ("Human", "null", "Sclerotome", "PAX1")
+8. ("Human", "null", "Sclerotome", "UNCX")
+9. ("Human", "null", "Syndetome", "SCX")
+10. ("Human", "null", "Syndetome", "COL1A2")
+11. ("Human", "null", "PSM", "DLL3")
+12. ("Human", "null", "Sclerotome", "CRABP1")
+13. ("Human", "null", "Syndetome", "COL9A3")
+14. ("Human", "null", "Syndetome", "COL3A1")
+15. ("Human", "null", "Syndetome", "COL12A1")
+16. ("Human", "null", "Syndetome", "POSTN")
+17. ("Human", "null", "Tenocytes", "SCX")
+18. ("Human", "null", "Tenocytes", "COL1A2")
+19. ("Human", "null", "Tenocytes", "COL3A1")
+20. ("Human", "null", "Tenocytes", "DCN")
+
+The tissue type is not explicitly mentioned in the text, hence it is filled with "null" as per the requirements. The species is assumed to be "Human" based on the context of the study, particularly the mention of "primary human tenocytes."
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Sclerotome", "PAX1")
+2. ("Human", "null", "Syndetome", "SCX")
+3. ("Human", "null", "Syndetome", "MKX")
+4. ("Human", "null", "Syndetome", "TNMD")
+5. ("Human", "null", "Syndetome", "COL1A1")
+6. ("Human", "null", "Syndetome", "COL1A2")
+7. ("Human", "null", "Syndetome", "FMOD")
+
+The tissue type is not explicitly mentioned for these markers in the text, so it's filled with "null". The species is clearly stated as human (iPSCs).
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "iPSCs", "NANOG")
+2. ("null", "null", "iPSCs", "OCT3/4")
+3. ("null", "null", "presomitic mesoderm", "TBX6")
+4. ("null", "null", "presomitic mesoderm", "HES7")
+5. ("null", "null", "somites", "PAX3")
+6. ("null", "null", "somites", "MEOX1")
+7. ("null", "null", "sclerotome", "PAX1")
+8. ("null", "null", "sclerotome", "UNCX")
+9. ("null", "null", "syndetome", "SCX")
+10. ("null", "null", "syndetome", "COL1A2")
+
+The document does not provide specific details about the species or the tissue type for these markers, hence those fields are filled with "null".
+
+none
+
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+- SCX is mentioned as a pivotal gene for tenocyte development.
+- COL1A1 and COL1A2 are discussed in the context of their expression during the differentiation process, but they are not specifically stated as unique or exclusive markers for any particular cell type. However, given their relevance to the discussion, they can be considered as markers in the context of the study.
+
+Given the requirements, the relevant tuples extracted from the document are:
+
+1. ("null", "null", "Tenocyte", "SCX")
+
+Since the species and tissue type are not explicitly mentioned for the tenocytes in the provided text, they are filled with "null". 
+
+COL1A1 and COL1A2 are not listed as they are not clearly indicated as specific markers for a particular cell type in the given text, but rather as genes that are expressed at different stages of differentiation. If you want to include them, they would follow a similar format, but it's important to note that they do not strictly meet the criteria as defined by the task (i.e., being used to distinguish different cell types).
+
+none
+

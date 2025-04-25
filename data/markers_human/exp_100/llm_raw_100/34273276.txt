@@ -1,0 +1,123 @@
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("null", "null", "Endothelial tip cell", "DLL4")
+2. ("null", "null", "Endothelial tip cell", "VEGFR2")
+3. ("null", "null", "Endothelial tip cell", "UNC5B")
+4. ("null", "null", "Endothelial tip cell", "ESM1")
+5. ("null", "Retina", "Venous ECs", "Hmgn2")
+6. ("null", "Retina", "Venous ECs", "Ptgisi")
+7. ("null", "Retina", "Proliferative ECs", "Mki67")
+8. ("null", "Retina", "Proliferative ECs", "Birc5")
+9. ("null", "Retina", "Capillary ECs", "Mfsd2a")
+10. ("null", "Retina", "Capillary ECs", "Slc22a8")
+11. ("null", "Retina", "Arterial ECs", "Unc5b")
+12. ("null", "Retina", "Arterial ECs", "Bmx")
+13. ("null", "Retina", "Tip cell ECs", "Kcne3")
+14. ("null", "Retina", "Tip cell ECs", "Angpt2")
+
+The species is not specified in the document, so "null" is used for the "Species" field where it's not explicitly stated. The tissue type is set to "Retina" when the context clearly indicates the retinal cells, and "null" otherwise.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Tip cell (superficial or S-tip cell cluster)", "Esm1")
+2. ("Mouse", "Retina", "Tip cell (diving or D-tip cell cluster)", "Apod")
+3. ("Mouse", "Retina", "S-tip cell", "Angpt2")
+4. ("Mouse", "Retina", "S-tip cell", "Plvap")
+5. ("Mouse", "Retina", "D-tip cell", "Cldn5")
+6. ("Mouse", "Retina", "D-tip cell", "Mfsd2a")
+7. ("Mouse", "Retina", "Arterial ECs", "Cldn5")
+8. ("Mouse", "Retina", "Venous ECs", "Cldn5")
+9. ("Mouse", "Retina", "Capillary ECs", "Cldn5")
+10. ("Mouse", "Retina", "Arterial ECs", "Spock2")
+11. ("Mouse", "Retina", "Venous ECs", "Spock2")
+12. ("Mouse", "Retina", "Capillary ECs", "Spock2")
+13. ("Mouse", "Retina", "Arterial ECs", "Lef1")
+14. ("Mouse", "Retina", "Venous ECs", "Lef1")
+15. ("Mouse", "Retina", "Capillary ECs", "Lef1")
+16. ("Mouse", "Retina", "Arterial ECs", "Adgra2")
+17. ("Mouse", "Retina", "Venous ECs", "Adgra2")
+18. ("Mouse", "Retina", "Capillary ECs", "Adgra2")
+19. ("Mouse", "Retina", "Tip cell (superficial or S-tip cell cluster)", "Mcam")
+20. ("Mouse", "Retina", "Tip cell (superficial or S-tip cell cluster)", "Chst1")
+21. ("Mouse", "Retina", "Tip cell (superficial or S-tip cell cluster)", "Nid2")
+22. ("Mouse", "Retina", "Tip cell (superficial or S-tip cell cluster)", "Rhoc")
+
+Each of these tuples represents a specific marker for differentiating various cell types within the mouse retina, as detailed in the document.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "D-tip cell", "Pmepa1")
+2. ("Mouse", "Retina", "D-tip cell", "Cdh2")
+3. ("Mouse", "Retina", "D-tip cell", "Fn1")
+4. ("Mouse", "Retina", "D-tip cell", "Cdkn1a")
+5. ("Mouse", "Retina", "D-tip cell", "Cdh11")
+6. ("Mouse", "Retina", "Immune cells", "Tgfβ1")
+7. ("Mouse", "Retina", "Astrocytes, bipolar cells, and Müller glial cells", "Tgfβ2")
+8. ("Mouse", "Retina", "Müller glial cells and pericytes", "Tgfβ3")
+9. ("Mouse", "Retina", "Endothelial cells (ECs)", "Tgfβr2")
+10. ("Mouse", "Retina", "Endothelial cells (ECs)", "Alk5")
+
+The information is extracted based on the differential expression or specific expression of these genes in the mentioned cell types within the context of the mouse retina.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Endothelial cell", "Pecam1")
+2. ("Mouse", "Retina", "Endothelial cell", "Cdh5")
+3. ("Mouse", "Retina", "D-tip cell", "Apod")
+4. ("Mouse", "Retina", "D-tip cell", "Pmepa1")
+5. ("Mouse", "Retina", "S-tip cell", "Esm1")
+6. ("Mouse", "Retina", "S-tip cell", "Plvap")
+7. ("Mouse", "Retina", "D-tip cell", "CLDN5") 
+8. ("Mouse", "Retina", "Pericyte", "Acta2")
+9. ("Mouse", "Retina", "Pericyte", "Vim")
+10. ("Mouse", "Retina", "Pericyte", "Tagln")
+11. ("Mouse", "Retina", "Pericyte", "Rock2")
+
+These tuples are based on the information about different cell types and their corresponding marker genes or proteins as described in the text.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Endothelial cell", "Cdh5")
+2. ("Mouse", "Retina", "Pericyte", "α-SMA (Acta2)")
+3. ("Mouse", "Retina", "Pericyte", "pMLC2")
+
+These markers are derived from the context in which they are mentioned in the text, specifically in relation to endothelial cells and pericytes within the retina of mice.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Endothelial cell", "Pecam1")
+2. ("Mouse", "Retina", "Endothelial cell", "Cdh5")
+3. ("Mouse", "Retina", "Tip cell", "Clec1a")
+4. ("Mouse", "Retina", "Tip cell", "Chst1")
+5. ("Mouse", "Retina", "Tip cell", "Esm1")
+6. ("Mouse", "Retina", "Tip cell", "Mfsd2a")
+
+The document mentions these markers in the context of distinguishing different cell types within the retina, particularly focusing on endothelial cells and tip cells.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "S-tip cell", "Cdh5") - The presence of S-like tip cells is confirmed by a negative control (presumably for Cdh5, as it's a known marker for endothelial cells and tip cells).
+2. ("Mouse", "Retina", "D-tip cell", "CLDN5")
+3. ("Mouse", "Retina", "D-tip cell", "MFSD2A")
+
+These markers are used to distinguish between different types of tip cells in the mouse retina, with CLDN5 and MFSD2A specifically upregulated in D-tip cells, which are involved in the formation of the blood-retinal barrier (BRB).
+
+Based on the provided text, there is no explicit mention of cell markers in the format requested. The document discusses various genes and proteins but does not clearly specify them as markers for distinguishing different cell types. Therefore, the response is:
+
+none
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+- ("null", "null", "EC", "Cldn5")
+- ("null", "null", "EC", "Pecam1")
+
+The document specifies that EC (endothelial cell) clusters were identified by the presence of Cldn5 and Pecam1 expression. The species and tissue type are not explicitly mentioned in the given text, hence they are marked as "null".
+
+none
+
+The provided text does not contain any specific information about cell markers used to distinguish different cell types. The text describes methods and materials for immunoblotting and immunostaining, including a list of antibodies, but it does not specify which of these are used as markers to identify particular cell types in a given species or tissue. Therefore, no tuples can be formed based on the given requirements.
+
+none
+

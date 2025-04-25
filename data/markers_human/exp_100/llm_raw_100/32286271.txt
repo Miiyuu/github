@@ -1,0 +1,135 @@
+none
+
+none
+
+none
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+1. ("Human", "null", "Th1 cell", "GZMA")
+2. ("Human", "null", "Th1 cell", "GZMB")
+3. ("Human", "null", "Th1 cell", "IFIT1")
+4. ("Human", "null", "Th1 cell", "IFI44L")
+5. ("Human", "null", "Th1 cell", "IFI44")
+6. ("Human", "null", "Th1 cell", "IFIT3")
+7. ("Human", "null", "Th1 cell", "IFIT5")
+8. ("Human", "null", "Th1 cell", "OAS3")
+9. ("Human", "null", "Th1 cell", "OAS2")
+10. ("Human", "null", "Th1 cell", "MX1")
+11. ("Human", "null", "Th1 cell", "MX2")
+12. ("Human", "null", "Th1 cell", "PRF1")
+13. ("Human", "null", "Th1 cell", "GBP1")
+14. ("Human", "null", "Th1 cell", "GBP4")
+15. ("Human", "null", "Th1 cell", "SMAD9")
+16. ("Human", "null", "Th1 cell", "CD96")
+17. ("Human", "null", "Th1 cell", "CD38")
+18. ("Human", "null", "Th1 cell", "AHR")
+19. ("Human", "null", "Th1 cell", "CCL5")
+20. ("Human", "null", "Th1 cell", "BASP1")
+21. ("Human", "null", "Th1 cell", "RUNX1")
+22. ("Human", "null", "Th1 cell", "ITGA4")
+23. ("Human", "null", "Th1 cell", "CXCR4")
+24. ("Human", "null", "Th1 cell", "BACH2")
+25. ("Human", "null", "Th1 cell", "RRAS")
+26. ("Human", "null", "Th1 cell", "FOXP4")
+27. ("Human", "null", "Th1 cell", "PTK2")
+28. ("Human", "null", "Th1 cell", "PRG4")
+29. ("Human", "null", "Th1 cell", "CD70")
+30. ("Human", "null", "Th1 cell", "TDRD7")
+31. ("Human", "null", "Th1 cell", "TRIP10")
+32. ("Human", "null", "Th1 cell", "RASGRP4")
+33. ("Human", "null", "Th1 cell", "SEMA7A")
+34. ("Human", "null", "Th1 cell", "LMNA")
+35. ("Human", "null", "Th1 cell", "NCKAP1")
+36. ("Human", "null", "Th1 cell", "ETHE1")
+37. ("Human", "null", "Th1 cell", "LSR")
+38. ("Human", "null", "Th1 cell", "TNFSF14")
+39. ("Human", "null", "Th2 cell", "GATA3")
+40. ("Human", "null", "Th1 cell", "TBX21")
+41. ("Human", "null", "iTreg cell", "FOXP3")
+42. ("Human", "null", "Th1 cell", "ANXA3")
+43. ("Human", "null", "Th2 cell", "MAOA")
+44. ("Human", "null", "Th2 cell", "LIMA1")
+45. ("Human", "null", "Th2 cell", "MRPS26")
+46. ("Human", "null", "Th17 cell", "TNFRSF8")
+47. ("Human", "null", "Th17 cell", "RUNX1")
+48. ("Human", "null", "Th17 cell", "PALLD")
+49. ("Human", "null", "iTreg cell", "LMCD1")
+50. ("Human", "null", "iTreg cell", "LGALS3")
+51. ("Human", "null", "iTreg cell", "CCL5")
+
+The species is assumed to be "Human" based on the context of the research and the typical use of these cytokine-induced T helper cell types in human studies. The tissue type is not specified in the text, hence it is marked as "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "TEMRA cells", "PRF1")
+2. ("Human", "null", "TEMRA cells", "CCL4")
+3. ("Human", "null", "TEMRA cells", "GZMA")
+4. ("Human", "null", "TEMRA cells", "GZMH")
+5. ("Human", "null", "TN (Naive T cells)", "SELL")
+6. ("Human", "null", "TN (Naive T cells)", "CCR7")
+7. ("Human", "null", "TN (Naive T cells)", "LRRN3")
+8. ("Human", "null", "Memory T cells (end of trajectory)", "GZMA")
+9. ("Human", "null", "Memory T cells (end of trajectory)", "GZMB")
+10. ("Human", "null", "Memory T cells (end of trajectory)", "PRF1")
+11. ("Human", "null", "Memory T cells (end of trajectory)", "IL32")
+12. ("Human", "null", "Memory T cells (end of trajectory)", "CCL4")
+13. ("Human", "null", "Memory T cells (end of trajectory)", "CCL5")
+
+The tissue type is not specified in the document, hence it's filled with "null". The species is inferred to be "Human" based on the context of the study.
+
+none
+
+none
+
+The provided text does not contain explicit information about specific cell markers associated with particular cell types, species, or tissue types as required. The document mentions several genes and proteins (e.g., CCL4, GZMB, SELL, CCR7) in the context of T cell activation and differentiation, but it does not provide a clear association of these with a specific "Species", "Tissue Type", or "Cell Name" in the format requested. Therefore, no tuples can be generated based on the given requirements.
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("null", "null", "nTreg cells", "FOXP3")
+2. ("null", "null", "nTreg cells", "CTLA4")
+3. ("null", "null", "nTreg cells", "TNFRSF8")
+4. ("null", "null", "Th0-stimulated TN and TM cells", "IL2")
+5. ("null", "null", "Th0-stimulated TN and TM cells", "DUSP2")
+6. ("null", "null", "Th0-stimulated TN and TM cells", "REL")
+7. ("null", "null", "Th0-stimulated TN and TM cells", "TNF")
+8. ("null", "null", "iTreg-stimulated TN cells", "CTLA4")
+9. ("null", "null", "Th17-stimulated TN and TM cells", "IL17F")
+10. ("null", "null", "Th17-stimulated TN cells", "RORA")
+
+The information about species and tissue type was not explicitly mentioned in the given text, hence, these fields are filled with "null".
+
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "null", "TN (Naive T cells)", "FOXP3")
+2. ("Human", "null", "TN (Naive T cells)", "CTLA4")
+3. ("Human", "null", "TM (Memory T cells)", "IL17F")
+4. ("Human", "null", "TN (Naive T cells) and TM (Memory T cells)", "OAS2")
+5. ("Human", "null", "TN (Naive T cells) and TM (Memory T cells)", "OAS3")
+6. ("Human", "null", "TN (Naive T cells) and TM (Memory T cells)", "MX1")
+7. ("Human", "null", "TN (Naive T cells) and TM (Memory T cells)", "MX2")
+8. ("Human", "null", "TN (Naive T cells) and TM (Memory T cells)", "GZMA")
+9. ("Human", "null", "TN (Naive T cells) and TM (Memory T cells)", "GZMB")
+
+The species is assumed to be "Human" based on the context of the document, which discusses human CD4+ T cells. The tissue type is not specified in the given text, so it is marked as "null".
+
+Based on the provided text, there is no explicit mention of cell markers in the format requested. The document discusses T cell subsets and their responses to stimuli but does not directly list marker genes or proteins for specific cell types. Therefore, the appropriate response is:
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Peripheral blood", "CD4+ T cells", "CD4")
+2. ("Human", "Peripheral blood", "TN (T Naive) cells", "CCR7+CD45RA+")
+3. ("Human", "Peripheral blood", "TCM (T Central Memory) cells", "CCR7+CD45RA-")
+4. ("Human", "Peripheral blood", "TEM (T Effector Memory) cells", "CCR7-CD45RA-")
+5. ("Human", "Peripheral blood", "Treg (Regulatory T) cells", "FOXP3")
+
+These tuples are derived from the descriptions of CD4+ T cell subpopulations and their specific marker expressions as described in the document.
+
+none
+
+The provided text does not contain specific information about cell markers used to distinguish different cell types in the context of species, tissue type, and cell name as required. The document discusses TCR (T-cell receptor) clonotypes and mentions a list of genes associated with effectorness, but it does not provide the necessary details to form the tuples as specified.
+

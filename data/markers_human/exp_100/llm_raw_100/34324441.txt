@@ -1,0 +1,142 @@
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Peripheral blood", "Treg", "CD4+CD25+CD127lo/–")
+2. ("Human", "Peripheral blood", "non-Treg", "CD4+CD25loCD127hi CD45RO+")
+3. ("Human", "Peripheral blood", "non-Treg", "CD45RO+CD62Llo")
+4. ("Human", "Peripheral blood", "non-Treg", "CD45RO+CD62Lhi")
+5. ("Human", "Peripheral blood", "Treg", "FOXP3")
+6. ("Human", "Peripheral blood", "Treg", "CD27")
+7. ("Human", "Peripheral blood", "Treg", "CTLA-4")
+8. ("Human", "Peripheral blood", "Treg", "HLA-DR")
+
+These tuples represent the cell markers mentioned in the text for distinguishing different cell types, specifically Tregs and non-Tregs, within the context of the study described.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Treg", "FOXP3")
+2. ("Human", "null", "Treg", "CD27")
+3. ("Human", "null", "Treg", "CTLA-4")
+4. ("Human", "null", "Treg", "HLA-DR")
+5. ("Human", "null", "NK cells", "null") - This tuple is invalid due to the empty marker field and should be discarded.
+6. ("Human", "null", "B cells", "null") - This tuple is invalid due to the empty marker field and should be discarded.
+7. ("Human", "null", "CD4 cells", "null") - This tuple is invalid due to the empty marker field and should be discarded.
+8. ("Human", "null", "CD8 cells", "null") - This tuple is invalid due to the empty marker field and should be discarded.
+9. ("Human", "null", "Dendritic cells/macrophages", "null") - This tuple is invalid due to the empty marker field and should be discarded.
+10. ("Human", "null", "GZMB-activated cells", "GZMB")
+11. ("Human", "null", "PRF1-activated cells", "PRF1")
+
+After discarding the invalid tuples, the valid cell markers are:
+
+1. ("Human", "null", "Treg", "FOXP3")
+2. ("Human", "null", "Treg", "CD27")
+3. ("Human", "null", "Treg", "CTLA-4")
+4. ("Human", "null", "Treg", "HLA-DR")
+5. ("Human", "null", "GZMB-activated cells", "GZMB")
+6. ("Human", "null", "PRF1-activated cells", "PRF1")
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Human", "null", "Treg cell", "FOXP3")
+2. ("Human", "null", "Treg cell", "TNFRSF18")
+3. ("Human", "null", "Treg cell", "LRRC32")
+4. ("Human", "null", "Treg cell", "IKZF1")
+5. ("Human", "null", "Treg cell", "HLA-DRA")
+6. ("Human", "null", "Treg cell", "IL2RA")
+7. ("Human", "null", "Treg cell", "CISH")
+8. ("Human", "null", "Treg cell", "SOCS2")
+9. ("Human", "null", "Treg cell", "BCL2")
+10. ("Human", "null", "Treg cell", "PRDM1")
+11. ("Human", "null", "Treg cell", "HLA-DR")
+12. ("Human", "null", "Treg cell", "CD27")
+13. ("Human", "null", "Activated Treg cell", "CD44")
+14. ("Human", "null", "Activated Treg cell", "CCR7")
+15. ("Human", "null", "Memory Treg cell", "CD25")
+16. ("Human", "null", "Memory Treg cell", "BCL2")
+17. ("Human", "null", "Memory Treg cell", "CTLA4")
+18. ("Human", "null", "Memory Treg cell", "ICOS")
+19. ("Human", "null", "Memory Treg cell", "CD27")
+20. ("Human", "null", "Memory Treg cell", "SELL")
+21. ("Human", "null", "Memory Treg cell", "MKI67")
+22. ("Human", "null", "Conventional T cell", "ICOS")
+23. ("Human", "null", "Conventional T cell", "CTLA4")
+24. ("Human", "null", "Proliferating Treg cell", "MKI67")
+
+Note: The "Tissue Type" is marked as "null" because specific tissue types are not mentioned in the text for these markers.
+
+none
+
+The provided text does not contain specific information about cell markers that are differentially expressed in various cell types, as defined by the requirements. The document discusses changes in immune cell populations and their phenotypes following treatment but does not list any specific marker genes, signature genes, protein markers, or molecular markers for distinguishing cell types.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "MAIT cell", "PRF1")
+2. ("Human", "null", "MAIT cell", "CD69")
+3. ("Human", "null", "MAIT cell", "GZMA")
+4. ("Human", "null", "MAIT cell", "CXCR4")
+5. ("Human", "null", "MAIT cell", "Killer cell lectin like receptor B1")
+6. ("Human", "null", "NK cell", "GZMB")
+
+The species is specified as "Human" since the context of the document discusses human patients and their immune cells. The tissue type is not explicitly mentioned for these markers, hence it is filled with "null".
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Human", "null", "CD8+ T cell", "PRF1")
+2. ("Human", "null", "CD8+ T cell", "GZMB")
+3. ("Human", "null", "CD8+ T cell", "CD69")
+4. ("Human", "null", "CD8+ T cell", "HLA-DRA")
+5. ("Human", "null", "Treg", "TCRα")
+6. ("Human", "null", "Treg", "TCRβ")
+
+These markers are used to distinguish different cell types or states within the context of the described study. The species is identified as Human based on the clinical and patient-based nature of the study. Since the tissue type is not explicitly mentioned, it has been filled with "null".
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "null", "CD8+ T cell", "PRF1")
+2. ("Human", "null", "CD8+ T cell", "GZMB")
+3. ("Human", "null", "CD8+ T cell", "CD8")
+4. ("Human", "null", "NK cell", "GZMB")
+5. ("Human", "null", "Treg cell", "FOXP3")
+
+The species is inferred as "Human" since the document discusses clinical trials (TILT and Treg-T1D) which are typically conducted in humans. The tissue type is not specified, so it is filled with "null". The cell names and their respective markers are clearly stated in the text.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Treg cell", "CD25")
+2. ("Human", "null", "Treg cell", "GITR")
+3. ("Human", "null", "Treg cell", "CD27")
+4. ("Human", "null", "Treg cell", "HLA-DRA")
+5. ("Human", "null", "Treg cell", "GARP")
+
+These markers are noted to be upregulated in Treg cells after low-dose IL-2 (ld-IL-2) treatment, as indicated by the analysis using CyTOF, flow cytometry, and single-cell RNA-Seq data from patients with Type 1 Diabetes (T1D). The tissue type is not specified, hence it's filled as "null".
+
+none
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "null", "Treg ( Regulatory T cell )", "FOXP3")
+2. ("Human", "null", "Treg ( Regulatory T cell )", "CD25")
+3. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD19")
+4. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD45RA")
+5. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "HLA-DR")
+6. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD8")
+7. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD127")
+8. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD27")
+9. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD4")
+10. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CRO")  # Note: CRO is likely a typo or abbreviation that needs clarification, but it's included as per the text.
+11. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD40")
+12. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD56")
+13. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD38")
+14. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD3")
+15. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD14")
+16. ("Human", "PBMCs (Peripheral Blood Mononuclear Cells)", "null", "CD45")
+
+These tuples are derived from the phenotypic and flow cytometry analysis sections of the document, where specific markers for identifying and characterizing different cell types, particularly within PBMCs, are mentioned.
+
+none
+

@@ -1,0 +1,23 @@
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "PBMCs", "B cells", "CD19")
+2. ("Human", "PBMCs", "T cells", "IL7R")
+3. ("Human", "PBMCs", "Monocytes", "LYZ")
+4. ("Human", "PBMCs", "Monocytes", "FCGR3A")
+5. ("Human", "PBMCs", "Monocytes", "CD14")
+6. ("Human", "PBMCs", "Dendritic cells", "FCER1A")
+7. ("Human", "PBMCs", "NK cells", "GNLY")
+
+These tuples are derived from the section discussing the classification of major cell types in human peripheral blood mononuclear cells (PBMCs) using marker gene expression.
+
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+- ("Human", "null", "CD4+ T cells", "IL7R")
+- ("Human", "null", "Monocytes", "CD14")
+
+The document mentions these markers in the context of classifying peripheral blood mononuclear cells (PBMCs) based on mRNA expression. No other specific markers for different cell types or species are mentioned.
+

@@ -1,0 +1,210 @@
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "Tregs (APB)", "CCL5")
+2. ("Human", "null", "Tregs (APB)", "GZMK")
+3. ("Human", "null", "Tregs (APB)", "CXCR3")
+4. ("Human", "null", "Tregs (APB)", "LYAR")
+5. ("Human", "null", "Tregs (APB)", "NKG7")
+6. ("Human", "null", "Tregs (CB and APB)", "FOXP3")
+7. ("Human", "null", "Tregs (CB and APB)", "IKZF2")
+8. ("Human", "null", "Tregs (CB)", "TIGIT")
+
+The document does not specify a particular tissue type for these T cells, hence "null" is used for the "Tissue Type" field. The markers are associated with human Tregs from either adult peripheral blood (APB) or umbilical cord blood (CB).
+
+Based on the provided document, the following cell markers have been identified:
+
+- ("Human", "null", "Treg", "CD4")
+- ("Human", "null", "Treg", "CD25hi")
+- ("Human", "null", "Treg", "CD127lo")
+- ("Human", "null", "Tconv", "CD4")
+- ("Human", "null", "Tconv", "CD127+")
+- ("Human", "null", "Treg", "CXCR3")
+
+The species is assumed to be "Human" based on the context of the document, which discusses human immune cells and diseases. The tissue type is not specified in the document, hence it is marked as "null". The cell names and their respective markers are derived from the FACS sorting and flow cytometry sections of the text.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Tregs (APB and CB)", "FOXP3")
+2. ("Human", "null", "Tregs (APB and CB)", "IKZF2")
+3. ("Human", "null", "Tregs (APB and CB)", "CCL5")
+4. ("Human", "null", "Tregs (APB and CB)", "GZMK")
+5. ("Human", "null", "Tregs (APB and CB)", "CXCR3")
+6. ("Human", "null", "Tregs (APB and CB)", "LYAR")
+7. ("Human", "null", "Tregs (APB and CB)", "NKG7")
+
+These markers are used to distinguish different clusters of Treg cells, particularly in identifying a TH1/TH17-like contaminant cluster (C06) within APB and CB Tregs. The tissue type is not explicitly mentioned for these cells, so it is marked as "null".
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+1. ("Human", "null", "Treg", "FOXP3")
+2. ("Human", "null", "Treg", "IKZF2")
+3. ("Human", "null", "TH1/17 cells", "CCL5")
+4. ("Human", "null", "TH1/17 cells", "GZMK")
+5. ("Human", "null", "TH1/17 cells", "CXCR3")
+6. ("Human", "null", "TH1/17 cells", "LYAR")
+7. ("Human", "null", "TH1/17 cells", "NKG7")
+8. ("Human", "null", "TH1/17 cells", "BHLHE40")
+9. ("Human", "null", "TH1/17 cells", "IFNG")
+10. ("Human", "null", "TH1/17 cells", "TBX21")
+11. ("Human", "null", "TH1/17 cells", "KLRB1 (CD161)")
+12. ("Human", "null", "TH1/17 cells", "TGFB1")
+13. ("Human", "null", "TH1/17 cells", "IL12RB2")
+
+The document does not specify the tissue type, so "null" is used for the "Tissue Type" field. The species is assumed to be Human based on the context of the study, which discusses Tregs and TH1/17 cells in a human sample.
+
+Based on the provided text, here are the cell markers identified in the format specified:
+
+1. ("Human", "null", "Treg (Cluster 1 and 2)", "JUNB")
+2. ("Human", "null", "Treg (Cluster 1 and 2)", "DUSP2")
+3. ("Human", "null", "Treg (Cluster 1 and 2)", "ITGB1")
+4. ("Human", "null", "Treg (Cluster 2)", "IDI1")
+5. ("Human", "null", "Treg (Cluster 2)", "FCRL3")
+6. ("Human", "null", "Treg (Cluster 2)", "ID3")
+7. ("Human", "null", "Treg (Cluster 3)", "S100A4")
+8. ("Human", "null", "Treg (Cluster 3)", "S100A10")
+9. ("Human", "null", "Treg (Cluster 3)", "DUSP4")
+10. ("Human", "null", "Treg (Cluster 3)", "LGALS1")
+11. ("Human", "null", "Treg (Cluster 3)", "LGALS3")
+12. ("Human", "null", "Treg (Cluster 3)", "TNFRSF4")
+13. ("Human", "null", "Treg (Cluster 3)", "TNFRSF18")
+14. ("Human", "null", "Treg (Cluster 3)", "PRDM1")
+15. ("Human", "null", "Treg (Cluster 4)", "CCR4")
+16. ("Human", "null", "Treg (Cluster 6)", "FOXP3")
+17. ("Human", "null", "Treg (Cluster 6)", "IKZF2")
+18. ("Human", "null", "Treg (Cluster 8)", "KLRB1")
+19. ("Human", "null", "Treg (Cluster 8)", "IFNG")
+20. ("Human", "null", "Treg (Cluster 8)", "CD40LG")
+21. ("Human", "null", "Treg (Cluster 8)", "GZMA")
+22. ("Human", "null", "Treg (Cluster 8)", "GZMB")
+23. ("Human", "null", "Treg (Cluster 8)", "CCR6")
+24. ("Human", "null", "Treg (Cluster 8)", "RORC")
+
+The species is identified as Human based on the context of the document, which discusses Tregs from adult peripheral blood (APB) and cord blood (CB). The tissue type is not explicitly mentioned, so it's filled with "null". The specific names of the cells (clusters) and their corresponding markers are derived directly from the given text.
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "CB Treg", "LGALS3")
+2. ("Human", "null", "CB Treg", "LGMN")
+3. ("Human", "null", "CB Treg", "HES1")
+4. ("Human", "null", "CB Tconv", "IKZF2")
+5. ("Human", "null", "CB Tconv", "TIGIT")
+6. ("Human", "null", "CB Tconv", "TNFRSF9")
+7. ("Human", "null", "CB Tconv", "SOX4")
+8. ("Human", "null", "APB Treg", "GBP1")
+9. ("Human", "null", "APB Treg", "STAT1")
+10. ("Human", "null", "CB Treg", "GPR55")
+11. ("Human", "null", "CB Treg", "DST")
+12. ("Human", "null", "CB Treg", "TCF4")
+13. ("Human", "null", "CB Treg", "THEMIS")
+14. ("Human", "null", "CB Treg", "FOXP3")
+15. ("Human", "null", "CB Treg", "CTLA4")
+16. ("Human", "null", "CB Treg", "TIGIT")
+17. ("Human", "null", "CB Tconv", "FOXP3")
+
+The tissue type is not explicitly mentioned in the document, so it is set to "null" for all tuples. The species is specified as "Human" based on the context of the study.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "CB Tregs", "CD226")
+2. ("Human", "null", "CB Tregs", "CD73")
+3. ("Human", "null", "CB Tregs", "CD95L")
+4. ("Human", "null", "APB Tregs", "CD28")
+5. ("Human", "null", "CB Tregs", "CD28")
+6. ("Human", "null", "APB Tregs", "HLA-DR")
+7. ("Human", "null", "CB Tregs", "HLA-DR")
+8. ("Human", "null", "APB Tregs", "TIGIT")
+9. ("Human", "null", "CB Tregs", "TIGIT")
+10. ("Human", "null", "APB Tregs", "CD95")
+11. ("Human", "null", "CB Tregs", "CD95")
+12. ("Human", "null", "APB Tregs", "CD197")
+13. ("Human", "null", "CB Tregs", "CD197")
+14. ("Human", "null", "APB Tregs", "CD194")
+15. ("Human", "null", "CB Tregs", "CD194")
+
+The species is inferred to be "Human" based on the context of the study (human Tregs and Tconv cells). The tissue type is not explicitly mentioned, so it is filled with "null".
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "Tregs (APB)", "CCL5")
+2. ("Human", "null", "Tregs (APB)", "CXCR3")
+3. ("Human", "null", "Tregs (APB)", "BHLHE40")
+4. ("Human", "null", "Tregs (APB)", "NKG7")
+5. ("Human", "null", "Tregs (APB)", "IFNG")
+6. ("Human", "null", "Tregs (APB)", "TBX21")
+7. ("Human", "null", "Tregs (APB)", "KLRB1")
+8. ("Human", "null", "Tregs (APB)", "TGFB1")
+9. ("Human", "null", "Tregs (APB)", "IL12RB2")
+10. ("Human", "null", "Tregs (APB)", "CCR6")
+11. ("Human", "null", "Tregs (APB)", "RORC")
+12. ("Human", "null", "Tregs (APB)", "GZMK")
+13. ("Human", "null", "Tregs (APB)", "LYAR")
+
+The species is specified as "Human" based on the context of the document, and the tissue type is not explicitly mentioned, hence it is filled with "null". The cell name is specified as "Tregs (APB)" since the markers are associated with this cell type.
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Human", "null", "Treg", "FOXP3")
+2. ("Human", "null", "Treg", "IKZF2")
+3. ("Human", "null", "Treg", "IFNG")
+4. ("Human", "null", "Treg", "CCL5")
+5. ("Human", "null", "Treg", "CXCR3")
+6. ("Human", "null", "Treg", "S100A4")
+7. ("Human", "null", "Treg", "DUSP4")
+8. ("Human", "null", "Treg", "S100A10")
+9. ("Human", "null", "Treg", "LGALS1")
+10. ("Human", "null", "Treg", "LGALS3")
+11. ("Human", "null", "Treg", "JUNB")
+12. ("Human", "null", "Treg", "DUSP2")
+13. ("Human", "null", "Treg", "ITGB1")
+14. ("Human", "null", "Treg", "IDI1")
+15. ("Human", "null", "Treg", "FCRL3")
+16. ("Human", "null", "Treg", "ID3")
+17. ("Human", "null", "Treg", "GZMK")
+18. ("Human", "null", "Treg", "LYAR")
+19. ("Human", "null", "Treg", "NKG7")
+
+The document does not specify the exact tissue type for these Tregs, so "null" is used for the "Tissue Type" field. The species discussed in the context of these Tregs is human, hence "Human" is specified for the "Species" field.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "null", "APB Tregs", "FOXP3")
+2. ("Human", "null", "APB Tregs", "IKZF2")
+3. ("Human", "null", "APB Tregs", "TIGIT")
+4. ("Human", "null", "APB Tregs", "TNFRSF9")
+5. ("Human", "null", "APB Tconv", "GZMA")
+6. ("Human", "null", "APB Tconv", "GZMB")
+7. ("Human", "null", "APB Tconv", "GNLY")
+8. ("Human", "null", "APB Tconv", "IL7R")
+9. ("Human", "null", "APB Tconv", "IL18RAP")
+10. ("Human", "null", "CB Tregs", "LGALS3")
+11. ("Human", "null", "CB Tregs", "LGMN")
+12. ("Human", "null", "CB Tregs", "HES1")
+13. ("Human", "null", "CB Tconv", "IKZF2")
+14. ("Human", "null", "CB Tconv", "SOX4")
+15. ("Human", "null", "CB Tconv", "TIGIT")
+16. ("Human", "null", "CB Tconv", "TNFRSF9")
+17. ("Human", "null", "APB Tregs", "GBP1")
+18. ("Human", "null", "APB Tregs", "STAT1")
+19. ("Human", "null", "CB Tregs", "GPR55")
+20. ("Human", "null", "CB Tregs", "DST")
+21. ("Human", "null", "CB Tregs", "TCF4")
+22. ("Human", "null", "CB Tregs", "THEMIS")
+
+The document does not specify a particular tissue type, so "null" is used for the "Tissue Type" field. The species discussed in the text is Human.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "Tregs", "TIGIT")
+2. ("Human", "null", "Tregs", "CD69")
+3. ("Human", "null", "Tregs", "PD-1")
+4. ("Human", "null", "Tregs", "HLA-DR")
+5. ("Human", "null", "Tregs", "CD28")
+6. ("Human", "null", "Tregs", "CD226")
+7. ("Human", "null", "Tregs", "CD73")
+8. ("Human", "null", "Tregs", "CD95L")
+9. ("Human", "null", "Tregs", "CXCR3")
+
+The species is inferred as "Human" based on the context, particularly the mention of "HLA-DR," which is a human leukocyte antigen. The tissue type is not specified in the document, so it is filled with "null".
+

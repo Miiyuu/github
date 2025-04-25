@@ -1,0 +1,108 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "null", "Dendritic cell", "CD1a")
+2. ("Mouse", "null", "Dendritic cell", "CD11c")
+3. ("Mouse", "null", "Dendritic cell", "MHC class II")
+
+These markers are used to identify and characterize dendritic cells (DCs) in the context of the study. The species is specified as Mouse based on the mention of "hapten-sensitized mice" in the text, while the tissue type is not specifically mentioned, hence it's marked as "null".
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+- ("Human", "null", "Dendritic cell", "CD1a")
+- ("Human", "null", "Dendritic cell", "CD11c")
+- ("Human", "null", "Monocyte", "CD14")
+- ("Human", "null", "Dendritic cell", "CD83")
+- ("Human", "null", "Dendritic cell", "HLA-DR")
+
+These markers are used to identify and differentiate dendritic cells and monocytes in human samples. The tissue type is not specifically mentioned for these markers, hence it's marked as "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Dendritic cell (DC)", "CD1A")
+2. ("Human", "null", "Dendritic cell (DC)", "CD1B")
+3. ("Human", "null", "Dendritic cell (DC)", "CD1C")
+4. ("Human", "null", "Dendritic cell (DC)", "CD11c")
+5. ("Human", "null", "Monocyte", "CD14")
+
+These markers are used to distinguish different cell types, such as dendritic cells and monocytes, in the context of the studies described.
+
+Based on the provided text, the following cell markers can be identified:
+
+- CD1a is used as a marker for dendritic cells (DCs), specifically Langerhans cells.
+- CD11c is also mentioned as a marker for DCs.
+- CD83 and HLA-DR are described as markers for DC maturation.
+
+Since the document does not specify the species, tissue type, or cell name in all instances, we will use "null" where this information is missing. The relevant tuples based on the given requirements are:
+
+1. ("null", "null", "Dendritic cell", "CD1a")
+2. ("null", "null", "Dendritic cell", "CD11c")
+3. ("null", "null", "Dendritic cell", "CD83")
+4. ("null", "null", "Dendritic cell", "HLA-DR")
+
+These tuples are derived from the context of the document, which discusses the expression of these markers in dendritic cells, particularly in the context of differentiation and maturation.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Skin", "Dermal DCs", "ITGAX (CD11c)")
+2. ("Human", "Skin", "CD1a+ cells", "CD1a")
+
+These tuples are derived from the text mentioning specific markers for different cell types within human skin. The species is inferred as human due to the context of the study. If there's an assumption that the species or tissue type should be explicitly stated in the text, then these fields would need to be set to "null" as per the requirements. However, given the context, it's reasonable to infer "Human" and "Skin" for both entries.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "CD14+ cells", "CSF1R")
+2. ("Human", "null", "CD14+ cells", "CSF2RA")
+3. ("Human", "null", "CD14+ cells", "CSF2RB")
+4. ("Human", "null", "CD14+ cells", "CSF3R")
+5. ("Human", "null", "CD14+ cells", "CD14")
+6. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "CD1A")
+7. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "CD1B")
+8. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "CD1C")
+9. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "CD1E")
+10. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "HLA-DRA")
+11. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "HLA-DPB1")
+12. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "HLA-DQA1")
+13. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "CD83")
+14. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "CD86")
+15. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "CD206")
+16. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "CD208")
+17. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "cathepsin C")
+18. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "CLEC4A")
+19. ("Human", "null", "MoDC (Monocyte-derived Dendritic Cells)", "Fc epsilon receptor")
+
+The species is inferred as Human based on the context of the study, and since the tissue type is not explicitly mentioned in the text, it is filled with "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Skin", "Dendritic cell (CD1a+)", "CD1a")
+2. ("Human", "Skin", "Dendritic cell (ITGAX+)", "ITGAX")
+3. ("Human", "null", "Dendritic cell (CD11c+)", "CD11c")
+
+The document mentions CD1a and ITGAX as markers for identifying dendritic cells in human skin, and CD11c is mentioned in the context of assessing the differentiation of monocytes into dendritic cells. Since the specific tissue type for CD11c is not explicitly stated in the text, it is marked as "null" for that field.
+
+Based on the provided text, the following cell markers can be identified:
+
+- CD14 is a marker for monocytes.
+- CD1a and CD11c are markers for dendritic cells (MoDCs).
+- CD1A, CD1B, CD1C, HLA-DRA, HLA-DPB1, and HLA-DQA1 are genes associated with MoDC differentiation.
+
+However, the document does not specify the species, tissue type, or cell name in a clear format for all instances. Given the context, it appears to be human monocyte-derived dendritic cells (MoDCs) and monocytes (CD14+). Here are the tuples based on the information provided:
+
+1. ("Human", "null", "Monocyte", "CD14")
+2. ("Human", "null", "Dendritic cell", "CD1a")
+3. ("Human", "null", "Dendritic cell", "CD11c")
+4. ("Human", "null", "Dendritic cell", "CD1A")
+5. ("Human", "null", "Dendritic cell", "CD1B")
+6. ("Human", "null", "Dendritic cell", "CD1C")
+7. ("Human", "null", "Dendritic cell", "HLA-DRA")
+8. ("Human", "null", "Dendritic cell", "HLA-DPB1")
+9. ("Human", "null", "Dendritic cell", "HLA-DQA1")
+
+These tuples follow the required format, and the "Tissue Type" field is filled with "null" as it is not specified in the document.
+
+none
+
+none
+

@@ -1,0 +1,275 @@
+Based on the provided document, here are the cell markers identified in the format of tuples:
+
+1. ("Human", "Trabecular meshwork and associated structures", "Beam A cells", "FABP4")
+2. ("Human", "Trabecular meshwork and associated structures", "Beam B cells", "TMEFF2")
+3. ("Human", "Trabecular meshwork and associated structures", "Junctional cells (JCT)", "CHI3L1")
+4. ("Human", "Trabecular meshwork and associated structures", "Junctional cells (JCT)", "ANGPTL7")
+5. ("Human", "Trabecular meshwork and associated structures", "Schwalbe line cells", "AQP1")
+6. ("Human", "Trabecular meshwork and associated structures", "Trabecular meshwork cells", "MYOC")
+7. ("Human", "Trabecular meshwork and associated structures", "Trabecular meshwork cells", "MGP")
+8. ("Human", "Trabecular meshwork and associated structures", "Trabecular meshwork cells", "PDPN")
+9. ("Human", "Trabecular meshwork and associated structures", "Trabecular meshwork cells", "RARRES1")
+
+These tuples capture the cell types, their specific markers, and the context within which they were identified from the given text.
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Human", "Conventional outflow pathway", "Vascular endothelium", "PECAM1")
+2. ("Human", "Conventional outflow pathway", "Vascular endothelium", "CDH5")
+3. ("Human", "Conventional outflow pathway", "Vascular endothelium", "CLDN5")
+4. ("Human", "Conventional outflow pathway", "Vascular endothelium", "VWF")
+5. ("Human", "Conventional outflow pathway", "Vascular endothelium", "PLAT")
+6. ("Human", "Conventional outflow pathway", "Schlemm's canal (SC) endothelium", "CCL21")
+7. ("Human", "Conventional outflow pathway", "Schlemm's canal (SC) endothelium", "FLT4")
+8. ("Human", "Conventional outflow pathway", "Schlemm's canal (SC) endothelium", "PROX1")
+9. ("Human", "Conventional outflow pathway", "Schlemm's canal (SC) endothelium", "LYVE1")
+10. ("Human", "Conventional outflow pathway", "Schlemm's canal (SC) endothelium", "POSTN")
+11. ("Human", "Conventional outflow pathway", "Schlemm's canal (SC) endothelium", "TFF3")
+12. ("Human", "Conventional outflow pathway", "Trabecular meshwork (TM) cells", "PDPN")
+13. ("Human", "Conventional outflow pathway", "Trabecular meshwork (TM) cells", "RARRES1")
+14. ("Human", "Conventional outflow pathway", "Beam cells", "TMEFF2")
+15. ("Human", "Conventional outflow pathway", "Beam cells", "PPP1R1B")
+16. ("Human", "Conventional outflow pathway", "Junctional cells of the TM (JCT)", "ANGPTL7")
+17. ("Human", "Conventional outflow pathway", "Junctional cells of the TM (JCT)", "CHI3L1")
+18. ("Human", "Conventional outflow pathway", "Corneoscleral rim, scleral fibroblasts", "ADH1B")
+19. ("Human", "Conventional outflow pathway", "Schwalbe line cells", "AQP1")
+
+Each tuple represents a specific marker for a given cell type within the human conventional outflow pathway tissue, based on the information extracted from the document.
+
+Based on the provided text, here are the identified cell markers in the required format:
+
+1. ("null", "null", "Endothelial cell", "PECAM-1 (CD31)")
+2. ("null", "null", "Endothelial cell", "ALPL")
+3. ("null", "null", "Endothelium of the CCs", "ACKR1 (DARC)")
+4. ("null", "null", "CC cells", "SELE")
+5. ("null", "null", "CC cells", "SELP")
+6. ("null", "null", "CC cells", "COL15A1")
+7. ("null", "null", "Matrix fibroblasts", "ADH1B")
+8. ("null", "null", "Matrix fibroblasts", "FBLN2")
+9. ("null", "null", "Matrix fibroblasts", "TIMP2")
+10. ("null", "null", "Matrix fibroblasts", "TNXB")
+11. ("null", "null", "Matrix fibroblasts", "COL1A2")
+12. ("null", "null", "Matrix fibroblasts", "COL6A1")
+13. ("null", "null", "Matrix fibroblasts", "COL6A2")
+14. ("null", "null", "Matrix fibroblasts", "COL6A3")
+15. ("null", "null", "Matrix fibroblasts", "COL14A1")
+16. ("null", "null", "Corneal epithelium", "AQP3")
+17. ("null", "null", "Corneal epithelium", "AQP5")
+18. ("null", "null", "Corneal epithelium", "KRT5")
+19. ("null", "null", "CM cells", "DES")
+20. ("null", "null", "CM cells", "CNN1")
+21. ("null", "null", "CM cells", "MYH11")
+22. ("null", "null", "CM cells", "MYLK")
+23. ("null", "null", "CM cells", "ACTC1")
+24. ("null", "null", "CM cells", "ATP2A1/SERCA1")
+25. ("null", "null", "Vascular endothelium (C12)", "ALPL")
+26. ("null", "null", "Contractile pericytes (C11)", "null")  # This tuple is deleted as the marker field is empty.
+
+The final list of tuples after removing the one with an empty "Marker" field:
+```python
+[
+    ("null", "null", "Endothelial cell", "PECAM-1 (CD31)"),
+    ("null", "null", "Endothelial cell", "ALPL"),
+    ("null", "null", "Endothelium of the CCs", "ACKR1 (DARC)"),
+    ("null", "null", "CC cells", "SELE"),
+    ("null", "null", "CC cells", "SELP"),
+    ("null", "null", "CC cells", "COL15A1"),
+    ("null", "null", "Matrix fibroblasts", "ADH1B"),
+    ("null", "null", "Matrix fibroblasts", "FBLN2"),
+    ("null", "null", "Matrix fibroblasts", "TIMP2"),
+    ("null", "null", "Matrix fibroblasts", "TNXB"),
+    ("null", "null", "Matrix fibroblasts", "COL1A2"),
+    ("null", "null", "Matrix fibroblasts", "COL6A1"),
+    ("null", "null", "Matrix fibroblasts", "COL6A2"),
+    ("null", "null", "Matrix fibroblasts", "COL6A3"),
+    ("null", "null", "Matrix fibroblasts", "COL14A1"),
+    ("null", "null", "Corneal epithelium", "AQP3"),
+    ("null", "null", "Corneal epithelium", "AQP5"),
+    ("null", "null", "Corneal epithelium", "KRT5"),
+    ("null", "null", "CM cells", "DES"),
+    ("null", "null", "CM cells", "CNN1"),
+    ("null", "null", "CM cells", "MYH11"),
+    ("null", "null", "CM cells", "MYLK"),
+    ("null", "null", "CM cells", "ACTC1"),
+    ("null", "null", "CM cells", "ATP2A1/SERCA1"),
+    ("null", "null", "Vascular endothelium (C12)", "ALPL")
+]
+```
+
+Based on the provided text, here are the identified cell markers in the required format:
+
+1. ("Human", "null", "Schwann cells (nonmyelinating)", "CDH19")
+2. ("Human", "null", "Schwann cells (myelinating)", "MBP")
+3. ("Human", "null", "Schwann cells (myelinating)", "MPZ")
+4. ("Human", "null", "Schwann cells (myelinating)", "PMP2")
+5. ("Human", "null", "Melanocytes", "MLANA")
+6. ("Human", "null", "Melanocytes", "PMEL")
+7. ("Human", "null", "Melanocytes", "MITF")
+8. ("Human", "null", "Melanocytes", "TRPM1")
+9. ("Human", "null", "Melanocytes", "TYR")
+10. ("Human", "null", "Macrophages", "LYVE1")
+11. ("Human", "null", "Macrophages", "CD68")
+12. ("Human", "null", "Macrophages", "CXCL8")
+13. ("Human", "null", "Macrophages", "IL1B")
+14. ("Human", "null", "Macrophages", "TREM2")
+15. ("Human", "null", "Macrophages", "IL1RL1")
+16. ("Human", "null", "Neurons", "CALB2")
+17. ("Human", "null", "Neurons", "ELAVL4")
+18. ("Human", "null", "Neurons", "CHRNA3")
+19. ("Human", "null", "Neurons", "UCHL1")
+20. ("Human", "null", "Neurons", "SCG2")
+21. ("Human", "null", "Neurons", "GAP43")
+
+Since the tissue type is not explicitly mentioned for each marker, "null" has been used to fill in that field.
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Human", "null", "Mast cells", "IL1RL1")
+2. ("Human", "null", "Mast cells", "CPA3")
+3. ("Human", "null", "Mast cells", "RGS13")
+4. ("Human", "null", "Mast cells", "KIT")
+5. ("Human", "null", "B cells", "CD27")
+6. ("Human", "null", "B cells", "CD79A")
+7. ("Human", "null", "B cells", "IGHM")
+8. ("Human", "null", "B cells", "IGKC")
+9. ("Human", "null", "B cells", "MZB1")
+10. ("Human", "null", "B cells", "JCHAIN")
+11. ("Human", "null", "NK/T cells", "CD2")
+12. ("Human", "null", "NK/T cells", "CD3D")
+13. ("Human", "null", "NK/T cells", "IL7R")
+14. ("Human", "null", "NK/T cells", "TRAC")
+15. ("Human", "null", "NK/T cells", "GZMA")
+16. ("Human", "null", "NK/T cells", "GZMB")
+17. ("Human", "null", "NK/T cells", "NKG7")
+
+The species is specified as "Human" based on the context of the document, which discusses human tissues and diseases. The tissue type is not explicitly mentioned for each marker, so it is filled with "null".
+
+Based on the provided document, the following cell markers can be identified and formatted as requested:
+
+1. ("Human", "Retina", "RGCs", "POU6F2")
+2. ("Human", "Corneal endothelium", "Schwalbe line cells", "POU6F2")
+3. ("Human", "Trabecular meshwork", "Beam cells and JCT", "LOXL1")
+4. ("Human", "Retina", "RGCs", "CACNA1A")
+
+The document does not specify the species for all cases, but it is inferred to be "Human" based on the context. The tissue type and cell names are directly mentioned or can be inferred from the text. Each marker gene is associated with a specific cell type as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("M. mulatta", "null", "Beam Cell A", "BMP5")
+2. ("M. mulatta", "null", "Beam Cell A", "EDN3")
+3. ("M. mulatta", "null", "JCT", "ANGPTL7")
+4. ("M. mulatta", "null", "JCT", "CHI3L1")
+5. ("M. mulatta", "null", "Beam Cell X", "CYP1B1")
+6. ("M. mulatta", "null", "Beam Cell X", "MGARP")
+7. ("M. fascicularis", "null", "mfC2 (Beam Cell A)", "BMP5")
+8. ("M. fascicularis", "null", "mfC2 (Beam Cell A)", "EDN3")
+9. ("M. fascicularis", "null", "mfC6", "MYOC")
+10. ("M. fascicularis", "null", "mfC6", "MGP")
+11. ("M. fascicularis", "null", "mfC6", "ANGPTL7")
+12. ("M. fascicularis", "null", "mfC6", "FMOD")
+13. ("M. fascicularis", "null", "mfC6", "CEMIP")
+14. ("M. fascicularis", "null", "mfC15", "ANGPTL5")
+15. ("M. fascicularis", "null", "mfC15", "COL6A3")
+16. ("M. fascicularis", "null", "mfC15", "AQP1")
+17. ("M. fascicularis", "null", "mfC15", "POU3F3")
+
+Note: The tissue type is not explicitly mentioned in the text, so it's filled with "null" as per the instructions.
+
+Based on the provided document, here are the identified cell markers in the required format:
+
+1. ("Human", "null", "Beam Cell A", "SFRP4")
+2. ("Human", "null", "Beam Cell A", "TMEFF2")
+3. ("Human", "null", "Beam Cell A", "PON1")
+4. ("Human", "null", "Beam Cell A", "FMO1")
+5. ("Human", "null", "Beam Cell A", "RARRES1")
+6. ("Human", "null", "JCT", "CCN3")
+7. ("Human", "null", "JCT", "FMO3")
+8. ("Human", "null", "JCT", "CEMIP")
+9. ("Human", "null", "JCT", "BMP3")
+10. ("Human", "null", "TM cells", "PDPN")
+11. ("Human", "null", "TM clusters", "CYP1B1")
+12. ("Human", "null", "TM clusters", "MGP")
+13. ("Human", "null", "TM clusters", "CFH")
+14. ("Human", "null", "TM clusters", "NR2F1")
+15. ("Mouse", "null", "Schlemm canal endothelium", "CCL21")
+16. ("Mouse", "null", "Schlemm canal endothelium", "PROX1")
+17. ("Mouse", "null", "Schlemm canal endothelium", "LYVE1")
+18. ("Mouse", "null", "CM cluster (ssC16)", "DES")
+19. ("Mouse", "null", "CM cluster (ssC16)", "ACTA2")
+20. ("Mouse", "null", "TM clusters (mC6, mC9, mC14)", "Myoc")
+21. ("Mouse", "null", "TM clusters (mC6, mC9, mC14)", "Mgp")
+22. ("Mouse", "null", "TM clusters (mC6, mC9, mC14)", "Pdpn")
+23. ("Mouse", "null", "TM clusters (mC6, mC9, mC14)", "Chil1")
+24. ("Mouse", "null", "JCT cluster", "Nell2")
+25. ("Mouse", "null", "JCT cluster", "Chad")
+26. ("Mouse", "null", "JCT cluster", "Tnmd")
+27. ("Mouse", "null", "Beam Cell Y (mC9)", "Sfrp4")
+28. ("Mouse", "null", "Beam Cell Y (mC9)", "Tmeff2")
+29. ("Mouse", "null", "Beam Cell Y (mC9)", "Fmo2")
+30. ("Mouse", "null", "SC endothelium (mC19)", "Postn")
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "TM", "FOXC1")
+2. ("Human", "null", "TM", "PITX2")
+3. ("Human", "null", "TM", "MYOC")
+4. ("Human", "null", "CM", "MYOC")
+5. ("Human", "null", "Schwalbe line cells", "MYOC")
+6. ("Human", "null", "TM", "LOXL1")
+7. ("Human", "null", "CM", "KALRN")
+8. ("Human", "null", "TM", "CYP1B1")
+9. ("Macaque", "null", "TM", "FOXC1")
+10. ("Macaque", "null", "TM", "PITX2")
+11. ("Macaque", "null", "TM", "MYOC")
+12. ("Macaque", "null", "CM", "MYOC")
+13. ("Macaque", "null", "TM", "KALRN")
+14. ("Pig", "null", "TM", "FOXC1")
+15. ("Pig", "null", "TM", "PITX2")
+16. ("Pig", "null", "TM", "MYOC")
+17. ("Pig", "null", "TM", "LOXL1")
+18. ("Pig", "null", "TM", "CYP1B1")
+19. ("Mouse", "null", "TM", "FOXC1")
+20. ("Mouse", "null", "TM", "PITX2")
+21. ("Mouse", "null", "TM", "MYOC")
+22. ("Mouse", "null", "CM", "KALRN")
+23. ("Mouse", "null", "TM", "Chil1")  # Note: Chil1 is the ortholog to CHI3L1 in humans
+24. ("Mouse", "null", "SC and JCT cells", "Postn")
+25. ("Mouse", "null", "vascular endothelial clusters", "Pecam1")
+
+The tissue type is not explicitly mentioned for most of the entries, hence it is filled with "null". The markers are identified based on their differential expression or specific presence in the described cell types across different species.
+
+Based on the provided text, here are the identified cell markers in the specified format:
+
+1. ("Human", "Trabecular meshwork", "TM cell types (C3, C5, and C8)", "PDPN")
+2. ("Human", "Conventional pathway cells", "null", "CCL2")
+3. ("Human", "Conventional pathway cells", "null", "VCAM1")
+4. ("Human", "Schlemm's canal", "null", "CCL21")
+5. ("Human", "Schlemm's canal", "null", "FLT4/VEGFR3")
+6. ("Human", "Collector channels", "null", "ACKR1")
+7. ("null", "Vascular endothelium", "null", "PECAM1")
+8. ("null", "Vascular endothelium", "null", "TIE1")
+9. ("null", "Macrophages", "null", "LYVE1")
+10. ("null", "Macrophages", "null", "CD163")
+11. ("null", "Macrophages", "null", "CD68")
+
+The document did not specify the exact tissue type or cell name for some of the markers, so "null" is used where specific information was missing.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "Beam and/or JCT cells", "PDPN")
+2. ("Human", "null", "Beam and/or JCT cells", "RARRES1")
+3. ("Human", "null", "Beam and/or JCT cells", "CHI3L1")
+4. ("Human", "null", "Beam and/or JCT cells", "ANGPTL7")
+5. ("null", "null", "null", "MYOC")  # This marker is conserved across species but specific cell types are not mentioned.
+6. ("null", "null", "null", "EDN3")  # This marker is conserved across species but specific cell types are not mentioned.
+7. ("null", "null", "null", "RBP4")  # This marker is conserved across species but specific cell types are not mentioned.
+8. ("null", "Trabecular meshwork", "TM cell types", "CYP1B1")
+9. ("null", "Trabecular meshwork", "TM cell types", "EFEMP1")
+10. ("null", "Trabecular meshwork and uveoscleral pathway", "Cells of the uveoscleral pathway", "MYOC")
+11. ("null", "Trabecular meshwork and uveoscleral pathway", "Cells of the uveoscleral pathway", "PITX2")
+12. ("null", "Trabecular meshwork and uveoscleral pathway", "Cells of the uveoscleral pathway", "FOXC1")
+13. ("null", "Uveoscleral pathway", "Cells of the uveoscleral pathway", "KALRN")
+14. ("null", "Trabecular meshwork and Retinal ganglion cells", "Retinal ganglion cells (RGCs)", "TMCO1")
+
+Note: For some entries, the species or tissue type is marked as "null" because the information was not explicitly provided in the text.
+

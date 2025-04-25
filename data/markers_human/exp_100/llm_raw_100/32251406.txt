@@ -1,0 +1,71 @@
+none
+
+none
+
+none
+
+Based on the provided text, there is no explicit mention of specific cell markers in the format requested. The document discusses gene expression programs and pathways but does not provide clear marker genes, signature genes, protein markers, or molecular markers for specific cell types. Therefore, the appropriate response is:
+
+none
+
+none
+
+none
+
+Based on the provided text, several markers are mentioned in the context of different cell types. Here are the identified cell markers formatted as requested:
+
+1. ("Human", "null", "CD4+ T cells", "GZMB")
+2. ("Human", "null", "CD4+ T cells", "PRF1")
+3. ("Human", "null", "CD4+ T cells", "GNLY")
+4. ("Human", "null", "CD4+ T cells", "CCL5")
+5. ("Human", "null", "CTLs (CD8+ T cells)", "GZMB")
+6. ("Human", "null", "CTLs (CD8+ T cells)", "PRF1")
+7. ("Human", "null", "NK cells", "GZMB")
+8. ("Human", "null", "NK cells", "PRF1")
+9. ("Human", "null", "NK cells", "GNLY")
+10. ("Human", "null", "Monocytes", "FCGR3A")
+11. ("Human", "null", "Monocytes", "XCL2")
+12. ("Human", "null", "Monocytes", "KLRF1")
+13. ("Human", "null", "Monocytes", "TRDC")
+14. ("Human", "null", "Monocytes", "GZMK")
+15. ("Human", "null", "Monocytes", "CD27")
+16. ("Human", "null", "Monocytes", "ISG20")
+17. ("Human", "null", "Monocytes", "CCR7")
+18. ("Human", "null", "Monocytes", "TOP2A")
+19. ("Human", "null", "Monocytes", "PCNA")
+20. ("Human", "null", "Monocytes", "HIST1H4C")
+
+These tuples capture the markers and their associated cell types as described in the document. The tissue type is not specified in the text, so it is filled with "null".
+
+none
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Human", "null", "NK cell", "CD16 (FCRG3A)")
+2. ("Human", "null", "NK cell", "KLRF1")
+3. ("Human", "null", "Cytotoxic T cell", "CD3 (CD3D, CD3E, CD3G)")
+
+The document does not provide specific tissue types, so "Tissue Type" is filled with "null". Additionally, the species mentioned is "Human". The document discusses NK cells and cytotoxic T cells, indicating that NK cells are marked by the expression of CD16 (FCRG3A) and KLRF1, while lacking the expression of CD3 (which includes CD3D, CD3E, CD3G). Cytotoxic T cells, on the other hand, express CD3.
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+1. ("Human", "null", "NK cells", "TRDC")
+2. ("Human", "null", "NK cells", "FCGR3A")
+3. ("Human", "null", "T cells", "CD3D")
+4. ("Human", "null", "T cells", "CD3G")
+
+The species is specified as "Human" since the context of the study involves human samples. The tissue type is not explicitly mentioned for these markers, hence it is filled with "null". The cell names and their corresponding markers are clearly stated or inferred from the differential expression analysis.
+
+none
+
+Based on the provided text, there is a mention of a cell marker for a specific cell type. The document indicates that "Non-Classical (CD16+/FCGR3A) monocytes" are characterized by the expression of CD16 and FCGR3A. However, the species and tissue type are not explicitly stated in the text. Given the context, we can infer that this is likely referring to human monocytes, but since the tissue type is not specified, we will use "null" for that field.
+
+Here is the tuple based on the information provided:
+
+- ("Human", "null", "Non-Classical monocyte", "CD16")
+- ("Human", "null", "Non-Classical monocyte", "FCGR3A")
+
+Since no other specific markers are mentioned, these are the only tuples we can generate from the given text.
+
+none
+

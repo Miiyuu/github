@@ -1,0 +1,61 @@
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Human", "SMG", "Duct cells, oncocytes, mucous cells, myoepithelial cells", "CDH1")
+2. ("Human", "SMG", "Duct cells, oncocytes, mucous cells, myoepithelial cells", "KRT5")
+3. ("Human", "SMG", "Duct cells, oncocytes, mucous cells, myoepithelial cells", "KRT8")
+4. ("Human", "SMG", "Duct cells, oncocytes, mucous cells, myoepithelial cells", "KRT7")
+5. ("Human", "SMG", "Transitional basal progenitors", "P63")
+6. ("Human", "SMG", "Transitional basal progenitors", "KRT5")
+7. ("Human", "SMG", "Transitional basal progenitors", "KRT7")
+8. ("Human", "SMG", "Epithelial cells", "MUC5B")
+9. ("Human", "SMG", "Epithelial cells", "KRT23")
+10. ("Human", "SMG", "Epithelial cells", "AGR2")
+11. ("Human", "SMG", "Quiescent cells", "MKI67")
+12. ("Human", "N-SCJ", "Transitional basal cells (C1 and C2)", "P63")
+13. ("Human", "N-SCJ", "Transitional basal cells (C1 and C2)", "KRT5")
+14. ("Human", "N-SCJ", "Transitional basal cells (C1 and C2)", "KRT7")
+15. ("Human", "N-SCJ", "Residual embryonic cells (C3)", "KRT7")
+16. ("Human", "N-SCJ", "Residual embryonic cells (C3)", "MUC4")
+17. ("Human", "N-SCJ", "MUC5Bhigh cell type (C4)", "MUC5B")
+
+Each tuple represents a specific marker for distinguishing different cell types within the described tissues of human SMG and N-SCJ, adhering to the specified format and requirements.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Submandibular gland (SMG)", "Intercalated and main duct cells", "P63")
+2. ("Human", "Submandibular gland (SMG)", "Intercalated and main duct cells", "KRT5")
+3. ("Human", "Submandibular gland (SMG)", "Intercalated and main duct cells", "KRT7")
+4. ("Human", "Barrett's esophagus (BE)", "Columnar cells", "MUC5AC")
+5. ("Human", "Barrett's esophagus (BE)", "Columnar cells", "KRT20")
+6. ("Human", "Barrett's esophagus (BE)", "Goblet cells", "MUC2")
+7. ("Human", "Barrett's esophagus (BE)", "Goblet cells", "TFF3")
+8. ("Human", "Barrett's esophagus (BE)", "Enteroendocrine-like cells", "NEUROG3")
+9. ("Human", "Barrett's esophagus (BE)", "Enteroendocrine-like cells", "CHGA")
+10. ("Human", "Barrett's esophagus (BE)", "Undifferentiated cells", "OLFM4")
+
+These tuples are based on the specific mentions of cell types and their corresponding marker genes or proteins within the given document.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. c-MYC is a marker for BE (Barrett's Esophagus) cells and is expressed in the bottom of the crypts.
+2. HNF4A is another marker for BE cells, with its expression present in the top two-thirds of the BE crypts.
+
+Given the information, the tuples based on the document are as follows:
+
+- ("Human", "Esophagus", "Barrett's Esophagus cell", "c-MYC")
+- ("Human", "Esophagus", "Barrett's Esophagus cell", "HNF4A")
+
+The species is inferred to be "Human" because the document discusses human biopsies and clinical features. The tissue type is "Esophagus" as the discussion revolves around Barrett's Esophagus, which is a condition affecting the esophagus. The cell name is specified as "Barrett's Esophagus cell" since the markers c-MYC and HNF4A are described in the context of BE cells.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "null", "BE cells", "MYC")
+2. ("Human", "null", "BE cells", "HNF4A")
+3. ("Human", "null", "Epithelial cells", "KRT7")
+4. ("Human", "null", "Epithelial cells", "MUC5B")
+5. ("Human", "null", "Epithelial cells", "P63")
+
+The document does not specify the exact tissue type for these markers, hence "null" is used for the "Tissue Type" field. The species is clearly mentioned as human in the context.
+
+none
+

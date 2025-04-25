@@ -1,0 +1,144 @@
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Head and neck cancer, cervical cancer, and ovarian cancer", "CD4 Tumor-infiltrating lymphocyte (TIL)", "PD-1")
+2. ("Human", "Head and neck cancer, cervical cancer, and ovarian cancer", "CD4 Tumor-infiltrating lymphocyte (TIL)", "CD39")
+3. ("Human", "Head and neck cancer, cervical cancer, and ovarian cancer", "CD4 Tumor-infiltrating lymphocyte (TIL)", "TOX")
+4. ("Human", "Head and neck cancer, cervical cancer, and ovarian cancer", "CD4 Tumor-infiltrating lymphocyte (TIL)", "CXCL13")
+5. ("Human", "Head and neck cancer, cervical cancer, and ovarian cancer", "CD4 Tumor-infiltrating lymphocyte (TIL)", "TIGIT")
+6. ("Human", "Head and neck cancer, cervical cancer, and ovarian cancer", "CD4 Tumor-infiltrating lymphocyte (TIL)", "CTLA-4")
+7. ("Human", "Head and neck cancer, cervical cancer, and ovarian cancer", "CD4 Tumor-infiltrating lymphocyte (TIL)", "TIM-3")
+
+These tuples are based on the markers that were described in the document as being expressed by CD4 TILs in various cancers.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Tumor", "CD8 TILs", "TIM-3")
+2. ("Human", "Tumor", "CD8 TILs", "PD-1")
+3. ("Human", "Tumor", "CD8 TILs", "TIGIT")
+4. ("Human", "Tumor", "CD8 TILs", "CTLA-4")
+5. ("Human", "Tumor", "CD8 TILs", "CD39")
+6. ("Human", "Tumor", "CD4 Tconv TILs", "TIM-3")
+7. ("Human", "Tumor", "CD4 Tconv TILs", "PD-1")
+8. ("Human", "Tumor", "CD4 Tconv TILs", "TIGIT")
+9. ("Human", "Tumor", "CD4 Tconv TILs", "CTLA-4")
+10. ("Human", "Tumor", "CD4 Tconv TILs", "CD39")
+
+These tuples are derived from the context where specific markers (like TIM-3, PD-1, TIGIT, CTLA-4, and CD39) are discussed in relation to different subtypes of tumor-infiltrating lymphocytes (TILs), such as CD4 and CD8 T cells. The species is inferred to be human based on the typical use of these markers in human studies, though it's not explicitly stated. The tissue type is specified as tumor, as the discussion revolves around tumor-infiltrating lymphocytes.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "Head and neck tumor", "CD4 Tconv TILs", "PD-1")
+2. ("Human", "Head and neck tumor", "CD4 Tconv TILs", "CD39")
+3. ("Human", "Head and neck tumor", "CD4 Tconv TILs", "TIM-3")
+4. ("Human", "Head and neck tumor", "CD4 Tconv TILs", "TIGIT")
+5. ("Human", "Head and neck tumor", "CD4 Tconv TILs", "CTLA-4")
+
+These markers are used to characterize different states of CD4+ conventional T cells (Tconvs) in the context of tumor-infiltrating lymphocytes (TILs), with a particular focus on identifying subpopulations associated with exhaustion and functional status.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Tumor", "Conventional FOXP3- CD4 T cells (Tconvs)", "ENTPD1 (CD39)")
+2. ("Human", "Tumor", "Conventional FOXP3- CD4 T cells (Tconvs)", "CTLA4")
+3. ("Human", "Tumor", "Conventional FOXP3- CD4 T cells (Tconvs)", "HAVCR2 (TIM-3)")
+4. ("Human", "Tumor", "Conventional FOXP3- CD4 T cells (Tconvs)", "LAG3")
+5. ("Human", "Tumor", "Conventional FOXP3- CD4 T cells (Tconvs)", "PD-1")
+6. ("Human", "Tumor", "Conventional FOXP3- CD4 T cells (Tconvs)", "TOX")
+
+The species is inferred as Human based on the context of the study involving tumor-infiltrating lymphocytes and the use of human-specific terms such as "TILs" and the reference to human immune cell markers.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "ENTPD1")
+2. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "CTLA4")
+3. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "HAVCR2")
+4. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "LAG3")
+5. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "IL2RA")
+6. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "MHC class II presentation pathway genes")
+7. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "Metabolic pathway genes")
+8. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1-)", "CCR7")
+9. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1-)", "TCF7 (TCF-1)")
+10. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "S1PR1 (downmodulated)")
+11. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "CXCR6")
+12. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "SOX4")
+13. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "CXCL13")
+14. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "TOX")
+15. ("Human", "Head and neck cancer", "CD4 Tconvs (ENTPD1+)", "CD69")
+
+Note: The specific names of all the genes in the MHC class II presentation pathway and metabolic pathway genes are not explicitly mentioned, so they are listed as a group. If more detailed information is needed for these categories, further data would be required.
+
+Based on the provided document, the following cell markers are identified for distinguishing different subsets of CD4 T cells in human ovarian cancer (OC):
+
+- ("Human", "Ovarian cancer", "CD4 Tconv TILs", "PD-1")
+- ("Human", "Ovarian cancer", "CD4 Tconv TILs", "CD39")
+
+These markers are used to define different phenotypes of tumor-infiltrating lymphocytes (TILs) within the CD4 T conventional (Tconv) subset. Specifically, PD-1 and CD39 expression levels help to categorize these cells into different functional states, including exhausted and non-exhausted phenotypes.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "CD4 T cells", "PD-1")
+2. ("Human", "null", "CD4 T cells", "CD39")
+3. ("Human", "null", "CD8 T cells", "PD-1")
+4. ("Human", "null", "CD8 T cells", "TIM-3")
+5. ("Human", "null", "CD8 T cells", "TIGIT")
+6. ("Human", "null", "CD8 T cells", "CTLA-4")
+
+The species is specified as Human based on the context of the text, which discusses human cancers and immune responses. The tissue type is not specifically mentioned in the text for these markers, hence it is marked as "null". The cell names and their respective markers are clearly indicated within the document.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Tumor", "CD8 TILs", "PD-1")
+2. ("Human", "Tumor", "CD8 TILs", "CD39")
+3. ("Human", "Tumor", "CD8 TILs", "TIM-3")
+4. ("Human", "Tumor", "CD4 TILs", "PD-1")
+5. ("Human", "Tumor", "CD4 TILs", "CD39")
+6. ("Human", "Tumor", "CD4 TILs", "TIM-3")
+7. ("Human", "Tumor", "CD8 TILs", "TOX")
+8. ("Human", "Tumor", "CD8 TILs", "SOX-4")
+9. ("Human", "Tumor", "CD8 TILs", "CXCL13")
+10. ("Human", "Tumor", "CD4 TILs", "TOX")
+11. ("Human", "Tumor", "CD4 TILs", "SOX-4")
+12. ("Human", "Tumor", "CD4 TILs", "CXCL13")
+13. ("Human", "Tumor", "CD8 TILs", "CD103")
+14. ("Human", "Tumor", "CD8 TILs", "CD69")
+15. ("Human", "Tumor", "CD8 TILs", "CD49a")
+16. ("Human", "Tumor", "CD4 TILs", "CD69")
+17. ("Human", "Tumor", "CD4 TILs", "CXCR6")
+18. ("Human", "Tumor", "CD4 TILs", "S1PR1")
+
+These tuples are based on the information about differentially expressed markers in CD4 and CD8 Tumor-Infiltrating Lymphocytes (TILs) as described in the text.
+
+none
+
+Based on the provided document, several markers are mentioned for different cell types, primarily T cells. The species is human, and the tissue type can be inferred as tumor tissue based on the context. Here are the identified cell markers in the required format:
+
+1. ("Human", "Tumor", "CD4+ T cell", "CD4")
+2. ("Human", "Tumor", "CD8+ T cell", "CD8")
+3. ("Human", "Tumor", "T cell", "CD3")
+4. ("Human", "Tumor", "T cell", "CD45RA")
+5. ("Human", "Tumor", "T cell", "PD-1")
+6. ("Human", "Tumor", "T cell", "TIGIT")
+7. ("Human", "Tumor", "T cell", "TIM-3")
+8. ("Human", "Tumor", "T cell", "CD103")
+9. ("Human", "Tumor", "T cell", "CD49a")
+10. ("Human", "Tumor", "T cell", "CD69")
+11. ("Human", "Tumor", "T cell", "CD39")
+12. ("Human", "Tumor", "T cell", "CTLA-4")
+13. ("Human", "Tumor", "T cell", "FOXP3")
+14. ("Human", "Tumor", "T cell", "TOX")
+15. ("Human", "Tumor", "CD4+ TILs", "CD25")
+16. ("Human", "Tumor", "CD4+ TILs", "CD127")
+
+These markers are used to distinguish and characterize various subsets of T cells within the tumor microenvironment.
+
+none
+
+The provided text does not contain explicit information about marker genes, signature genes, protein markers, or molecular markers that are used to distinguish different cell types. The document primarily describes experimental methods and protocols for characterizing and assessing the function of T cells, but it does not specify any unique markers for particular cell types in the required format.
+
+none
+
+none
+

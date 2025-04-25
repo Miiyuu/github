@@ -1,0 +1,180 @@
+Based on the information provided in the document, the following cell markers have been identified for human retinal pigment epithelial (RPE) cells:
+
+1. ("Human", "Retina", "Retinal pigment epithelial cell", "CD140b")
+2. ("Human", "Retina", "Retinal pigment epithelial cell", "CD56")
+3. ("Human", "Retina", "Retinal pigment epithelial cell", "GD2")
+4. ("Human", "Retina", "Retinal pigment epithelial cell", "CD184")
+
+These markers were identified as being useful for evaluating the differentiation efficiency of hPSPC into RPE cells and for enriching RPE cells during and after the differentiation process.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Optic vesicle", "RPE cells", "CD140b") - CD140b (recognizing PDGFRB) is a marker that appears at the optic vesicle stage and remains highly expressed in more mature hPSC-RPE cells.
+2. ("Human", "Optic vesicle", "RPE cells", "CD104") - CD104 (recognizing integrin β4 chain) specifically labels more mature and pure hPSC-RPE cells but is not significantly present in early optical vesicle stages.
+3. ("Human", "Optic vesicle", "Alternative lineages", "GD2") - GD2 (recognizing Disialoganglioside GD2) labels a large fraction of cells at the optic vesicle stage but is absent at later stages, suggesting it may label alternative lineages.
+4. ("Human", "Optic vesicle", "Alternative lineages", "CD184") - CD184 (recognizing C–X–C motif chemokine receptor 4) also labels a large fraction of cells at the optic vesicle stage and is absent at later stages, indicating it might be marking alternative lineages.
+
+The document does not provide specific information about the expression of these markers in undifferentiated human embryonic stem cells (hESC) other than mentioning that CD59, which is not unique to RPE cells, is expressed in both RPE and hESC. Therefore, no tuple is created for CD59 as per the requirement.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "hPSC-RPE cell", "CD140b")
+2. ("Human", "Retina", "hPSC-RPE cell", "BEST-1")
+3. ("Human", "Retina", "hPSC-RPE cell", "TYR")
+4. ("Human", "Retina", "hPSC-RPE cell", "RPE65")
+5. ("Human", "Retina", "hPSC-RPE cell", "POU5F1") - Note: This is mentioned as a pluripotency marker with lower expression in hPSC-RPE cells.
+6. ("Human", "Retina", "hPSC-RPE cell", "MAP2") - Note: This is mentioned as a neuronal marker with lower expression in hPSC-RPE cells.
+7. ("Human", "Retina", "hPSC-RPE cell", "TUBB3") - Note: This is mentioned as a neuronal marker with lower expression in hPSC-RPE cells.
+8. ("Human", "Retina", "hPSC-RPE cell", "MITF")
+
+These markers are specifically associated with human retinal pigment epithelial (RPE) cells derived from human pluripotent stem cells (hPSCs). The document highlights the use of these markers to identify and characterize RPE cells during differentiation and in culture.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Embryoid bodies", "Pigmented cells", "CD140b")
+2. ("Human", "Embryoid bodies", "Pigmented cells", "GD2")
+3. ("Human", "Embryoid bodies", "Pigmented cells", "CD184")
+4. ("Human", "hPSC-RPE", "hPSC-RPE cells", "BEST-1")
+5. ("Human", "hPSC-RPE", "hPSC-RPE cells", "CD140b")
+
+These markers are used to distinguish between different cell types within the context of human embryonic stem cell (hESC) differentiation into retinal pigment epithelial (RPE) cells and other related cell populations.
+
+Based on the provided document, the following cell markers have been identified for human retinal pigment epithelial (RPE) cells:
+
+1. ("Human", "Retina", "RPE cell", "CD140b")
+2. ("Human", "Retina", "RPE cell", "BEST-1")
+3. ("Human", "Retina", "RPE cell", "MITF")
+4. ("Human", "Retina", "RPE cell", "CRALBP")
+5. ("Human", "Retina", "RPE cell", "RPE65")
+
+These markers are used to identify and characterize RPE cells during the differentiation of human pluripotent stem cells (hPSCs).
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Eye-field progenitors", "NCAM1/CD56")
+2. ("Human", "Retina", "RPE (Retinal Pigment Epithelium)", "MITF")
+3. ("Human", "Retina", "RPE (Retinal Pigment Epithelium)", "CRALBP")
+4. ("Human", "Retina", "RPE (Retinal Pigment Epithelium)", "PMEL")
+5. ("Human", "Retina", "RPE (Retinal Pigment Epithelium)", "TYR")
+6. ("Human", "Retina", "RPE (Retinal Pigment Epithelium)", "RPE65")
+7. ("Human", "Retina", "RPE (Retinal Pigment Epithelium)", "BEST-1")
+
+These tuples are derived from the specific mentions in the text where these markers are associated with different cell types within the human retina.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelial) cells", "CD140b")
+2. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelial) cells", "CD56")
+3. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelial) cells", "TRA-1-60")
+4. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelial) cells", "GD2")
+5. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelial) cells", "CD184")
+6. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelial) cells", "MITF")
+7. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelial) cells", "BEST-1")
+8. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelial) cells", "PMEL")
+9. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelial) cells", "RPE65")
+10. ("Human", "null", "mature hPSC-RPE (Retinal Pigment Epithelial) cells", "CD104")
+
+These tuples indicate the species, tissue type (if applicable, here it is not specifically mentioned so marked as "null"), cell name, and marker based on the information provided in the document.
+
+none
+
+The provided text does not contain specific information about cell markers in the required format, including species, tissue type, and cell name alongside a marker. The document discusses RPE (Retinal Pigment Epithelium) cells and mentions CD140b (PDGFRB) as a marker for these cells during differentiation, but it lacks the detailed context of species and tissue type necessary to form a complete tuple as per the instructions. Therefore, based on the given requirements, the response is "none".
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Retinal Pigment Epithelial (RPE) cell", "CD140b")
+2. ("Human", "Retina", "Retinal Pigment Epithelial (RPE) cell", "BEST-1")
+3. ("Human", "Retina", "Retinal Pigment Epithelial (RPE) cell", "MITF")
+4. ("Human", "Retina", "Retinal Pigment Epithelial (RPE) cell", "CRALBP")
+5. ("Human", "Pluripotent Stem Cell", "Undifferentiated cell", "TRA-1-60")
+6. ("Human", "Eye-field Progenitor", "Progenitor cell", "SIX3/6")
+7. ("Human", "Eye-field Progenitor", "Progenitor cell", "PAX6")
+8. ("Human", "Eye-field Progenitor", "Progenitor cell", "LHX2")
+9. ("Human", "Eye-field Progenitor", "Progenitor cell", "OTX2")
+
+These tuples reflect the specific markers mentioned for different cell types within the context of the document.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "null", "Eye-field progenitors or immature RPE cells", "NCAM1/CD56")
+2. ("Human", "null", "Eye-field progenitors or immature RPE cells", "CD140b")
+3. ("Human", "null", "RPE cells", "MITF")
+4. ("Human", "null", "RPE cells", "BEST-1")
+5. ("Human", "null", "RPE cells", "RLBP1")
+6. ("Human", "null", "RPE cells", "PMEL")
+7. ("Human", "null", "RPE cells", "TYR")
+8. ("Human", "null", "RPE cells", "RPE65")
+9. ("Human", "null", "Mesoderm lineage cells", "MYOD1")
+
+The tissue type is not explicitly mentioned in the document, so it's filled with "null" as per the instructions.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "hPSC-RPE (Retinal Pigment Epithelium) cells", "MITF")
+2. ("Human", "Retina", "hPSC-RPE (Retinal Pigment Epithelium) cells", "BEST-1")
+3. ("Human", "Retina", "hPSC-RPE (Retinal Pigment Epithelium) cells", "RLBP1")
+4. ("Human", "Retina", "hPSC-RPE (Retinal Pigment Epithelium) cells", "PMEL")
+5. ("Human", "Retina", "hPSC-RPE (Retinal Pigment Epithelium) cells", "TYR")
+6. ("Human", "Retina", "hPSC-RPE (Retinal Pigment Epithelium) cells", "RPE65")
+7. ("Human", "Retina", "Eye-field progenitors", "SIX6")
+8. ("Human", "Retina", "Eye-field progenitors", "VSX2")
+9. ("Human", "Retina", "Eye-field progenitors", "PAX6")
+10. ("Human", "Retina", "Eye-field progenitors", "OTX2")
+11. ("Human", "Retina", "Eye-field progenitors", "SIX3")
+12. ("Human", "Retina", "Eye-field progenitors", "LHX2")
+13. ("Human", "Retina", "Eye-field progenitors", "RAX")
+14. ("Human", "Retina", "Eye-field progenitors", "ZIC1")
+15. ("Human", "Retina", "Myogenic lineage cells", "MYOZ2")
+16. ("Human", "Retina", "Myogenic lineage cells", "CASQ2")
+17. ("Human", "Retina", "Myogenic lineage cells", "MYOD1")
+18. ("Human", "Retina", "Myogenic lineage cells", "KLHL41")
+19. ("Human", "Retina", "hPSC-RPE (Retinal Pigment Epithelium) cells", "CD56 (NCAM1)")
+20. ("Human", "Retina", "hPSC-RPE (Retinal Pigment Epithelium) cells", "CD140b")
+21. ("Human", "Retina", "hPSC-RPE (Retinal Pigment Epithelium) cells", "CD104")
+22. ("Human", "Retina", "hPSC-RPE (Retinal Pigment Epithelium) cells", "CD184")
+23. ("Human", "Retina", "hPSC-RPE (Retinal Pigment Epithelium) cells", "GD2")
+
+These tuples reflect the markers and their associated cell types as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "hPSC-RPE", "CD140b")
+2. ("Human", "null", "hPSC-RPE", "CD56")
+3. ("Human", "null", "hPSC-RPE", "TRA-1-60")
+4. ("Human", "null", "hPSC-RPE", "CD184")
+5. ("Human", "null", "hPSC-RPE", "GD2")
+6. ("Human", "null", "hPSC-RPE", "CD104")
+
+The tissue type is not explicitly mentioned in the text, hence it is marked as "null". The cell name hPSC-RPE (human pluripotent stem cell-derived retinal pigment epithelial cells) was inferred from the context.
+
+Based on the provided document, several markers are mentioned in the context of immunofluorescence and immunostaining. However, the document does not specify the species, tissue type, or cell name for these markers. Therefore, we will fill in "null" for the "Species," "Tissue Type," and "Cell Name" fields.
+
+Here are the tuples with the identified markers:
+
+1. ("null", "null", "null", "PAX6")
+2. ("null", "null", "null", "NANOG")
+3. ("null", "null", "null", "BEST-1")
+4. ("null", "null", "null", "MITF")
+5. ("null", "null", "null", "ZO-1")
+6. ("null", "null", "null", "CRALBP")
+7. ("null", "null", "null", "PDGFRB")
+8. ("null", "null", "null", "CD56")
+9. ("null", "null", "null", "CXCR4")
+10. ("null", "null", "null", "ganglioside GD2")
+11. ("null", "null", "null", "NuMA")
+12. ("null", "null", "null", "CD140b/PDGFRB")
+13. ("null", "null", "null", "CD56/NCAM1")
+
+These tuples list the markers as described in the document, with the other fields filled with "null" due to the lack of specific information.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelium) cells", "CD140b/PDGFRB")
+2. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelium) cells", "CD184")
+3. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelium) cells", "BEST-1")
+4. ("Human", "null", "hPSC-RPE (Retinal Pigment Epithelium) cells", "CD56/NCAM1")
+
+The species is specified as Human because hPSC (human pluripotent stem cell) is mentioned, and the tissue type is not explicitly stated in the text, so it is filled with "null". The cell name is inferred from the context of the experiments involving hPSC-derived RPE cells.
+
+none
+

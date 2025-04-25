@@ -1,0 +1,311 @@
+none
+
+Based on the information provided in the document, the following cell markers have been identified. The data has been formatted into tuples as per the specified requirements:
+
+1. ("Human", "Liver", "T cell", "CD3D")
+2. ("Human", "Liver", "NK cell", "KLRF1")
+3. ("Human", "Liver", "B cell", "CD19")
+4. ("Human", "Liver", "Plasma cell", "SDC1")
+5. ("Human", "Liver", "Monocyte", "CD14")
+6. ("Human", "Liver", "Myeloid cell", "FCGR3A")
+7. ("Human", "Liver", "Liver-derived lymphocytes", "MT2A")
+8. ("Human", "Liver", "Liver-derived lymphocytes", "MT1X")
+9. ("Human", "Liver", "Liver-derived lymphocytes", "GZMA")
+10. ("Human", "Liver", "Liver-derived lymphocytes", "NKG7")
+11. ("Human", "Liver", "Liver-derived lymphocytes", "CCL4")
+12. ("Human", "Liver", "Liver-derived lymphocytes", "KLRB1")
+13. ("Human", "Liver", "Liver-derived lymphocytes", "IER2")
+
+These tuples contain the species, tissue type, cell name, and marker as described in the document.
+
+Based on the provided text, here are the cell markers identified:
+
+1. ("Human", "Liver", "Tissue-resident NK (TrNK) cells", "CD69")
+2. ("Human", "Liver", "Tissue-resident NK (TrNK) cells", "CXCR6")
+3. ("Human", "Liver", "CD8+ tissue-resident memory T (Trm) cells", "CD69")
+4. ("Human", "Liver", "CD8+ tissue-resident memory T (Trm) cells", "CXCR6")
+5. ("Human", "Liver", "Mucosal-associated invariant T (MAIT) cells", "CD69")
+6. ("Human", "Liver", "Mucosal-associated invariant T (MAIT) cells", "CXCR6")
+7. ("Human", "Liver", "γδ T cells", "CD69")
+8. ("Human", "Liver", "γδ T cells", "CXCR6")
+9. ("Human", "Liver", "Immune cells", "MT2A")
+
+The document mentions a 31-gene core signature for CD69+ Trm cells, but does not list all of these genes, so they are not included in the above tuples. The gene MT2A is specifically noted as being expressed in liver-derived immune cells, which is why it's included.
+
+Based on the provided document, here are the identified cell markers in the requested format:
+
+1. ("Human", "Liver", "Trm cell", "XCL2")
+2. ("Human", "Liver", "Trm cell", "CCL3")
+3. ("Human", "Liver", "Trm cell", "CCL4")
+4. ("Human", "Liver", "Trm cell", "ICAM1")
+5. ("Human", "Liver", "Trm cell", "VCAM1")
+6. ("Human", "Liver", "Trm cell", "ITGAD")
+7. ("Human", "Liver", "Trm cell", "EOMES")
+8. ("Human", "Liver", "Trm cell", "IKZF2")
+9. ("Human", "Liver", "MAIT cell", "SLC4A10")
+10. ("Human", "Liver", "MAIT cell", "KLRB1")
+11. ("Human", "Liver", "MAIT cell", "CXCR6")
+12. ("Human", "Liver", "MAIT cell", "CCR5")
+13. ("Human", "Liver", "MAIT cell", "CCR6")
+14. ("Human", "Liver", "MAIT cell", "ZBTB16")
+15. ("Human", "Liver", "TrNK cell", "KLRB1")
+16. ("Human", "Liver", "TrNK cell", "GZMK")
+17. ("Human", "Liver", "TrNK cell", "CD160")
+18. ("Human", "Liver", "TrNK cell", "CXCR6")
+19. ("Human", "Liver", "TrNK cell", "EOMES")
+20. ("Human", "Liver", "T and NK cells (cycling)", "MKI67")
+21. ("Human", "Liver", "C7-cycling subset (NK-like)", "NCAM1")
+22. ("Human", "Liver", "C7-cycling subset (NK-like)", "KLRF1")
+23. ("Human", "Liver", "C7-cycling subset (NK-like)", "CCR7")
+24. ("Human", "Liver", "C7-cycling subset (NK-like)", "SELL")
+25. ("Human", "Liver", "C7-cycling subset (NK-like)", "IL7R")
+26. ("Human", "Liver", "C7-cycling subset (NK-like)", "IL18RAP")
+27. ("Human", "Liver", "C7-cycling subset (NK-like)", "TNFRSF18")
+28. ("Human", "Liver", "TrNK cell", "CXCR6")
+29. ("Human", "Liver", "TrNK cell", "CD69")
+
+These tuples represent the markers associated with different cell types within the liver tissue as described in the document.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "null", "Naïve/CM CD4+ T cells", "CCR7")
+2. ("null", "null", "Memory CD4+ T cells", "CXCR3")
+3. ("null", "null", "Follicular CD4+ T cells", "CXCR5")
+4. ("null", "null", "MAIT cells", "CXCR6")
+5. ("null", "null", "CD8+ Trm cells", "CXCR6")
+6. ("null", "null", "γδ T cells", "CXCR6")
+7. ("null", "null", "TrNK cells", "CXCR6")
+8. ("null", "null", "GZMB+ CD8+ Tc cells", "CX3CR1")
+9. ("null", "null", "cNK cells", "CX3CR1")
+
+The species and tissue type are not specified in the document, so they are marked as "null". The cell names and their corresponding markers (chemokine receptors) are clearly stated, allowing for the creation of these tuples.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Liver", "LrT and LrNK cells", "CXCR6")
+2. ("Human", "Liver", "MAIT, CXCR6+ CD8+ Trm cells, γδ T cells and CXCR6+ TrNK cells", "CXCR6")
+3. ("Human", "Liver", "Naive/CM T cells", "CCR7")
+4. ("Human", "Liver", "Tc and NK cells", "GZMB")
+5. ("Human", "Liver", "Trm and TrNK cells", "GZMK")
+6. ("Human", "Liver", "Classic CD14+ monocytes", "CD14")
+7. ("Human", "Liver", "Tissue-derived CD14+ monocyte subset", "CD14")
+8. ("Human", "Liver", "CD16+ monocytes", "CD16")
+9. ("Human", "Liver", "Macrophages", "null")  # The specific marker for macrophages is not mentioned in the text.
+10. ("Human", "Liver", "Megakaryocytes", "null")  # The specific marker for megakaryocytes is not mentioned in the text.
+11. ("Human", "Liver", "cDC1, cDC2, and pDC", "null")  # The specific markers for these DC subsets are not mentioned in the text.
+
+Since the requirement specifies that the "Marker" field must not be empty, the tuples with "null" as the marker will be removed. Therefore, the final list of valid tuples is:
+
+- ("Human", "Liver", "LrT and LrNK cells", "CXCR6")
+- ("Human", "Liver", "MAIT, CXCR6+ CD8+ Trm cells, γδ T cells and CXCR6+ TrNK cells", "CXCR6")
+- ("Human", "Liver", "Naive/CM T cells", "CCR7")
+- ("Human", "Liver", "Tc and NK cells", "GZMB")
+- ("Human", "Liver", "Trm and TrNK cells", "GZMK")
+- ("Human", "Liver", "Classic CD14+ monocytes", "CD14")
+- ("Human", "Liver", "Tissue-derived CD14+ monocyte subset", "CD14")
+- ("Human", "Liver", "CD16+ monocytes", "CD16")
+
+Based on the provided document, I have identified the following cell markers. Each is presented in the required tuple format:
+
+1. ("Human", "Blood, Spleen, and LP", "NK cell subsets (CXCR6+CD16−, CXCR6−CD16−, CXCR6−CD16+)", "ki67")
+2. ("Human", "Blood, Spleen, and LP", "CD14+ monocytes", "null") - This tuple is not included because it does not specify a marker.
+3. ("Human", "Spleen and LP", "CD16+ monocytes, especially MerTK+, CD206+ (MRC1) monocyte and macrophage", "MerTK, CD206 (MRC1)")
+4. ("Human", "Blood, Spleen, and LP", "Naïve B-cell subset (C1)", "null") - This tuple is not included because it does not specify a marker.
+5. ("Human", "Spleen", "Marginal zone B (MZB) cells (C2)", "null") - This tuple is not included because it does not specify a marker.
+6. ("Human", "Blood, Spleen, and LP", "Classical memory B (cMBC) cells (C3)", "TXNIP, COCH, SSPN")
+7. ("Human", "Blood, Spleen, and LP", "Age-associated B cells (ABCs) (C4)", "ITGAX")
+8. ("Human", "Blood, Spleen, and LP", "Germinal center B (GCB) cells (C5)", "null") - This tuple is not included because it does not specify a marker.
+9. ("Human", "Blood, Spleen, and LP", "ISG+ B cells (C6)", "Interferon stimulated genes (ISG)")
+10. ("Human", "Blood, Spleen, and LP", "ZBTB32+ B cells (C7)", "ZBTB32")
+
+After applying the requirement to exclude tuples with an empty "Marker" field, the final list of tuples is:
+
+- ("Human", "Blood, Spleen, and LP", "NK cell subsets (CXCR6+CD16−, CXCR6−CD16−, CXCR6−CD16+)", "ki67")
+- ("Human", "Spleen and LP", "CD16+ monocytes, especially MerTK+, CD206+ (MRC1) monocyte and macrophage", "MerTK, CD206 (MRC1)")
+- ("Human", "Blood, Spleen, and LP", "Classical memory B (cMBC) cells (C3)", "TXNIP, COCH, SSPN")
+- ("Human", "Blood, Spleen, and LP", "Age-associated B cells (ABCs) (C4)", "ITGAX")
+- ("Human", "Blood, Spleen, and LP", "ISG+ B cells (C6)", "Interferon stimulated genes (ISG)")
+- ("Human", "Blood, Spleen, and LP", "ZBTB32+ B cells (C7)", "ZBTB32")
+
+Based on the provided text, there is no explicit mention of specific cell markers (genes or proteins) that are used to distinguish different cell types. The document discusses various B and T cell subsets and their functional characteristics, but it does not provide clear marker information in the format required. Therefore, the appropriate response is:
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "Plasmablasts (PBs)", "PRDM1")
+2. ("Human", "null", "Plasmablasts (PBs)", "IRF4")
+3. ("Human", "null", "Plasma cells (PCs)", "PRDM1")
+4. ("Human", "null", "Plasma cells (PCs)", "IRF4")
+5. ("Human", "null", "B cells", "BCL11A")
+6. ("Human", "null", "B cells", "PAX5")
+7. ("Human", "null", "B cells", "MS4A1")
+8. ("Human", "null", "B cells", "CD79B")
+9. ("Human", "null", "Antibody-secreting cells (ASCs)", "TNFRSF17")
+10. ("Human", "null", "Antibody-secreting cells (ASCs)", "CD38")
+11. ("Human", "null", "Antibody-secreting cells (ASCs)", "XBP1")
+12. ("Human", "null", "CD8+ T cells (Tnaive and Tcm)", "CCR7")
+13. ("Human", "null", "CD8+ T cells (circulating Tem)", "CXCR3")
+14. ("Human", "null", "CD8+ T cells (MAIT, Trm, and γδ T cells)", "CXCR6")
+15. ("Human", "null", "CD8+ T cells (GZMB+ Tc cells)", "CX3CR1")
+
+The tissue type is not specified in the document for these markers, hence "null" is used.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Liver", "T resident memory (Trm) cells", "CXCR6")
+2. ("Human", "Liver", "Cytotoxic T cells (Tc)", "CX3CR1")
+3. ("Human", "Liver", "Liver-resident NK (LrNK) cells", "CXCR6")
+4. ("Human", "Liver", "Conventional NK (cNK) cells", "CX3CR1")
+
+These markers are used to define specific subtypes of T and NK cells within the human liver tissue, as described in the document.
+
+Based on the provided text, I have identified the following cell markers:
+
+1. ("Human", "null", "Classical monocyte", "CD14highCD16−")
+2. ("Human", "null", "Intermediate monocyte", "CD14highCD16+")
+3. ("Human", "null", "Nonclassical monocyte", "CD14lowCD16+")
+4. ("Human", "Liver and Spleen", "Tissue-CD14+ monocytes", "CD14+")
+5. ("Human", "Liver and Spleen", "CD16+ monocytes", "CD16+")
+
+These tuples are based on the information about different types of monocytes and their specific markers as described in the document. If you need more detailed or additional information, please let me know!
+
+Based on the provided document, here are the cell markers identified in the format requested:
+
+1. ("Human", "Blood, spleen, liver", "CD4 T Naive/CM", "SELL, CCR7, SOCS3, MYC, LEF1, TSHZ2, MAL, NOSIP, TCF7")
+2. ("Human", "Blood, spleen, liver", "CD4 T Tem", "LTB, IL7R, CD52, TNFRSF4, AQP3, TIMP1")
+3. ("Human", "Spleen, liver", "CD4 T TFH", "GPR183, LTB, CD40LG, CXCR5, MALAT1")
+4. ("Human", "Blood, spleen, liver", "CD4 T Treg", "FOXP3, RTKN2, CTLA4, FANK1, IL2RA, ICA1, ARID5B, CORO1B, GBP2")
+5. ("Human", "Blood, spleen, liver", "CD8 T Naive/CM", "SELL, CCR7, MYC, LEF1, TSHZ2, MAL, NOSIP, TCF7, RCAN3,SOCS3")
+6. ("Human", "Blood, spleen, liver", "CD8 T Tem", "CD8A/CD8B, CXCR3, CD52, ITGA1")
+7. ("Human", "Liver, spleen", "CD8 T Trm", "KLRG1, CXCR6, KLRD1, CCL4, CCL5, XCL2, GZMK, CMC1")
+8. ("Human", "Liver, spleen", "CD8 T MAIT", "KLRB1, KLRG1, NCR3, SLC4A10, CXCR6, JAML, IL7R, CD160")
+9. ("Human", "Blood, spleen, liver", "CD8 T Tc", "CX3CR1, LGALS1, FGFBP2, GNLY, GZMB, PTGDS, SPON2, PRF1, ZNF683, NKG7")
+10. ("Human", "Liver, spleen", "γδ T", "CD8A/B-, TRDC/TRGC2+,CMC1, ITGAD")
+11. ("Human", "Liver, spleen", "ILC TrNK", "XCL1, XCL2, CCL3, KLRC1, CD160, IL2RB, GSTP1, FCER1G, TYROBP, CXCR6, GZMK")
+12. ("Human", "Blood, spleen, liver", "ILC cNK", "CX3CR1, LGALS1, FGFBP2, GNLY, GZMB, PTGDS, SPON2, PRF1, TYROBP, NKG7, FCGR3A, PRF1")
+13. ("Human", "Spleen, liver", "ILC", "LST1, FXYD5, OTUD5, SPINK2, IL1R1, ALDOC, IL4I1, TNFRSF4, IL7R, TNFSF13B")
+14. ("Human", "Liver, spleen", "Cycling NK & T", "STMN1, HIST1H4C, HMGB2, TUBA1B, TUBB, TYMS, PCLAF, PCNA, MKI67, RRM2, DUT")
+15. ("Human", "Blood, spleen, liver", "Myeloid cells CD14+ Mo", "LGALS2, VIM, CLEC4E, CRIP1, S100A8, S100A9, S100A12, RNASE2, PLBD1, CLU, RETN, VCAN, MNDA, LYZ")
+16. ("Human", "Liver, spleen", "Myeloid cells tissue-CD14+ Mo", "MT1X, MT1E, MT1G, VCAN, FOLR3, IER2")
+17. ("Human", "Blood, spleen, liver", "Myeloid cells CD16+ Mo", "HLA-DPB1, HLA-DPA1, CD74, HLA-DRB1, MS4A7, C1QA, C1QB, C1QC, FCGR3A, RHOC, SMIM25, CSF1R")
+18. ("Human", "Liver, spleen", "Myeloid cells Macrophage", "FTL, SELENOP, HMOX1, FABP5, CD5L, APOE, APOC1, FABP4, NUPR1, MARCO, LGMN, SLC40A1, MRC1")
+19. ("Human", "Blood, spleen", "Megakaryocyte", "PPBP, PF4, GNG11, CAVIN2, NRGN, MYL9, SPARC, TUBB1, ITGA2B, PIG6B")
+20. ("Human", "Spleen, liver", "cDC1", "CLEC9A, PTTG1, HIST1H4C")
+21. ("Human", "null", "cDC2", "null")
+
+The last tuple was removed because the "Marker" field is empty.
+
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("Human", "Blood, spleen, liver", "pDC", "HLA-DQA1")
+2. ("Human", "Blood, spleen, liver", "pDC", "HLA-DQB1")
+3. ("Human", "Blood, spleen, liver", "pDC", "CD1C")
+4. ("Human", "Blood, spleen, liver", "pDC", "PPA1")
+5. ("Human", "Blood, spleen, liver", "pDC", "FCER1A")
+6. ("Human", "Spleen, liver", "B cells", "LILRA4")
+7. ("Human", "Spleen, liver", "B cells", "TCF4")
+8. ("Human", "Spleen, liver", "B cells", "CCDC50")
+9. ("Human", "Spleen, liver", "B cells", "IRF8")
+10. ("Human", "Spleen, liver", "B cells", "BCL11A")
+11. ("Human", "Spleen, liver", "B cells", "ITM2C")
+12. ("Human", "Spleen, liver", "B cells", "C12orf75")
+13. ("Human", "Spleen, liver", "B cells", "IRF7")
+14. ("Human", "Spleen, liver", "B cells", "SPIB")
+15. ("Human", "Blood, spleen, liver", "Naïve B", "TCL1A")
+16. ("Human", "Blood, spleen, liver", "Naïve B", "IGHD")
+17. ("Human", "Blood, spleen, liver", "Naïve B", "IGHM")
+18. ("Human", "Blood, spleen, liver", "Naïve B", "FCER2")
+19. ("Human", "Blood, spleen, liver", "Naïve B", "CXCR4")
+20. ("Human", "Blood, spleen, liver", "Naïve B", "APLP2")
+21. ("Human", "Blood, spleen, liver", "Naïve B", "PLPP5")
+22. ("Human", "Blood, spleen, liver", "Naïve B", "IL4R")
+23. ("Human", "Spleen", "MZB", "SMIM14")
+24. ("Human", "Spleen", "MZB", "CD27")
+25. ("Human", "Spleen", "MZB", "CR2")
+26. ("Human", "Spleen", "MZB", "KLK1")
+27. ("Human", "Spleen", "MZB", "ITM2C")
+28. ("Human", "Spleen", "MZB", "DNASE1L3")
+29. ("Human", "Spleen", "MZB", "HES4")
+30. ("Human", "Spleen", "MZB", "ABI3")
+31. ("Human", "Spleen", "MZB", "CHI3L2")
+32. ("Human", "Blood, spleen, liver", "cMBC", "TSC22D3")
+33. ("Human", "Blood, spleen, liver", "cMBC", "CRIP1")
+34. ("Human", "Blood, spleen, liver", "cMBC", "COCH")
+35. ("Human", "Blood, spleen, liver", "cMBC", "CD27")
+36. ("Human", "Blood, spleen, liver", "cMBC", "ITGB1")
+37. ("Human", "Blood, spleen, liver", "cMBC", "ANXA2")
+38. ("Human", "Blood, spleen, liver", "cMBC", "IGHA2")
+39. ("Human", "Spleen, liver", "CD11c+ ABC", "FGR")
+40. ("Human", "Spleen, liver", "CD11c+ ABC", "FCRL5")
+41. ("Human", "Spleen, liver", "CD11c+ ABC", "MPP6")
+42. ("Human", "Spleen, liver", "CD11c+ ABC", "FCRL3")
+43. ("Human", "Spleen, liver", "CD11c+ ABC", "MACROD2")
+44. ("Human", "Spleen, liver", "CD11c+ ABC", "HSPB1")
+45. ("Human", "Spleen, liver", "CD11c+ ABC", "CELC2D")
+46. ("Human", "Spleen, liver", "CD11c+ ABC", "CD72")
+47. ("Human", "Spleen, liver", "GCB", "EGR3")
+48. ("Human", "Spleen, liver", "GCB", "CD83")
+49. ("Human", "Spleen, liver", "GCB", "DUSP2")
+50. ("Human", "Spleen, liver", "GCB", "EGR2")
+51. ("Human", "Spleen, liver", "GCB", "NR4A1")
+52. ("Human", "Spleen, liver", "GCB", "MYC")
+53. ("Human", "Spleen, liver", "GCB", "TNF")
+54. ("Human", "Spleen, liver", "GCB", "NFKBID")
+55. ("Human", "Spleen, liver", "GCB", "NFKBIA")
+56. ("Human", "Spleen, liver", "GCB", "CD69")
+57. ("Human", "Spleen, liver", "ISG+ B", "ISG15")
+58. ("Human", "Spleen, liver", "ISG+ B", "IFI6")
+59. ("Human", "Spleen, liver", "ISG+ B", "IFIT3")
+60. ("Human", "Spleen, liver", "ISG+ B", "IFIT1")
+61. ("Human", "Spleen, liver", "ISG+ B", "IFI44L")
+62. ("Human", "Spleen, liver", "ISG+ B", "MX1")
+63. ("Human", "Spleen, liver", "ISG+ B", "ISG20")
+64. ("Human", "Spleen, liver", "ISG+ B", "IRF7")
+65. ("Human", "Spleen, liver", "ISG+ B", "SAMD9L")
+66. ("Human", "Spleen, liver", "ISG+ B", "IFI44")
+67. ("Human", "Spleen, liver", "ZBTB32+ B", "ARPC1B")
+68. ("Human", "Spleen, liver", "ZBTB32+ B", "CD1C")
+69. ("Human", "Spleen, liver", "ZBTB32+ B", "PCLAF")
+70. ("Human", "Spleen, liver", "ZBTB32+ B", "ZBTB32")
+71. ("Human", "Spleen, liver", "ZBTB32+ B", "STAC3")
+72. ("Human", "Spleen, liver", "ZBTB32+ B", "DUS2")
+73. ("Human", "Spleen, liver", "ZBTB32+ B", "PTPN1")
+74. ("Human", "Spleen, liver", "ZBTB32+ B", "CPNE5")
+75. ("Human", "Spleen, liver", "Plasma cells", "UBE2C")
+76. ("Human", "Spleen, liver", "Plasma cells", "TOP2A")
+77. ("Human", "Spleen, liver", "Plasma cells", "CKS2")
+78. ("Human", "Spleen, liver", "Plasma cells", "KPNA2")
+79. ("Human", "Spleen, liver", "Plasma cells", "CDC20")
+80. ("Human", "Spleen, liver", "Plasma cells", "UBE2S")
+81. ("Human", "Spleen, liver", "Plasma cells", "TUBB4B")
+82. ("Human", "Spleen, liver", "Plasma cells", "PTTG1")
+83. ("Human", "Spleen, liver", "Plasma cells", "HIST1H4C")
+84. ("Human", "Spleen, liver", "Plasma cells", "RRM2")
+85. ("Human", "Spleen, liver", "Plasma cells", "PCLAF")
+86. ("Human", "Spleen, liver", "Plasma cells", "DUT")
+87. ("Human", "Spleen, liver", "Plasma cells", "MKI67")
+88. ("Human", "Blood, spleen, liver", "PB", "JCHAIN")
+89. ("Human", "Blood, spleen, liver", "PB", "DPEP1")
+90. ("Human", "Blood, spleen, liver", "PB", "IGHA2")
+91. ("Human", "Blood, spleen, liver", "PB", "IGKC")
+92. ("Human", "Blood, spleen, liver", "C3-PC", "HERPUD1")
+93. ("Human", "Blood, spleen, liver", "C3-PC", "SLC3A2")
+94. ("Human", "Blood, spleen, liver", "C3-PC", "PSAT1")
+95. ("Human", "Blood, spleen, liver", "C3-PC", "SLC1A5")
+96. ("Human", "Blood, spleen, liver", "C3-PC", "EIF1")
+97. ("Human", "Blood, spleen, liver", "C3-PC", "MTHFD2")
+98. ("Human", "Blood, spleen, liver", "C3-PC", "WARS")
+99. ("Human", "Blood, spleen, liver", "C3-PC", "EIF4EBP1")
+100. ("Human", "Blood, spleen, liver", "C3-PC", "HSPA5")
+101. ("Human", "Spleen, liver", "C4-PC", "IGLL5")
+102. ("Human", "Spleen, liver", "C4-PC", "IGLL1")
+103. ("Human", "Spleen, liver", "C4-PC", "SSR4")
+104. ("Human", "Spleen, liver", "C4-PC", "SDC1")
+
+Each tuple contains the species, tissue type, cell name, and marker as specified.
+
+none
+
+none
+

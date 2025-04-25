@@ -1,0 +1,104 @@
+Based on the provided text, the following cell markers have been identified:
+
+- ("Human", "Uveal melanoma", "CD8+ T cells", "LAG3")
+
+The document mentions that CD8+ T cells predominantly express the checkpoint marker LAG3. No other specific cell markers are explicitly named in the given text.
+
+none
+
+none
+
+none
+
+Based on the provided document, I have identified the following cell markers. The information has been structured into tuples as per your instructions:
+
+1. ("null", "null", "M2 macrophages", "CD163")
+2. ("null", "null", "M2 macrophages", "CD14")
+3. ("null", "null", "M2 macrophages", "CSF1R")
+4. ("null", "null", "M2 macrophages", "CLEC10A")
+5. ("null", "null", "M2 macrophages", "MMP9")
+6. ("null", "null", "M2 macrophages", "IL10")
+7. ("null", "null", "M2 macrophages", "TNF")
+8. ("null", "null", "M2 macrophages", "MARCO")
+9. ("null", "null", "M2 macrophages", "S100A12")
+10. ("null", "null", "Plasma cells", "IGHG1")
+11. ("null", "null", "Plasma cells", "MZB1")
+12. ("null", "null", "Naive T cells", "PD1")
+13. ("null", "null", "Naive T cells", "CTLA4")
+14. ("null", "null", "Naive T cells", "HAVCR2 (TIM3)")
+15. ("null", "null", "Naive T cells", "TNFRSF9")
+16. ("null", "null", "Naive T cells", "LAG3")
+17. ("null", "null", "CD8+ T effector memory cells", "PD1")
+18. ("null", "null", "CD8+ T effector memory cells", "CTLA4")
+19. ("null", "null", "CD8+ T effector memory cells", "LAG3")
+20. ("null", "null", "CD8+ cytotoxic T cells", "PD1")
+21. ("null", "null", "CD8+ cytotoxic T cells", "CTLA4")
+22. ("null", "null", "CD8+ cytotoxic T cells", "LAG3")
+23. ("null", "null", "NK cells", "LAG3")
+24. ("null", "null", "CD4+ regulatory T cells", "LAG3")
+25. ("null", "null", "CD4+ regulatory T cells", "FOXP3")
+26. ("null", "null", "Macrophage/monocytes", "LAG3")
+
+The species and tissue type are not explicitly mentioned for these markers in the given text, hence they are filled with "null".
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Uveal melanoma", "CD8+ T cells", "LAG3")
+2. ("Human", "Uveal melanoma", "CD8+ T cells", "TIGIT")
+3. ("Human", "Uveal melanoma", "CD8+ T cells", "PD1")
+4. ("Human", "Uveal melanoma", "CD8+ T cells", "CTLA4")
+5. ("Human", "Uveal melanoma", "CD8+ T cells", "TIM3")
+6. ("Human", "Uveal melanoma", "CD8+ T cells", "TNFRSF9")
+7. ("Human", "Uveal melanoma", "T regulatory cells", "FOXP3")
+8. ("Human", "Uveal melanoma", "T regulatory cells", "TNFRSF4")
+9. ("Human", "Uveal melanoma", "T regulatory cells", "IKZF2")
+10. ("Human", "Uveal melanoma", "T regulatory cells", "IL2RA")
+11. ("Human", "Uveal melanoma", "Follicular T cells", "CD200")
+12. ("Human", "Uveal melanoma", "Follicular T cells", "GNG4")
+13. ("Human", "Uveal melanoma", "Follicular T cells", "CHN1")
+14. ("Human", "Uveal melanoma", "Follicular T cells", "IGFL2")
+15. ("Human", "Uveal melanoma", "Follicular T cells", "ITM2A")
+16. ("Human", "Uveal melanoma", "Follicular T cells", "CPM")
+17. ("Human", "Uveal melanoma", "Follicular T cells", "NR3C1")
+18. ("Human", "Uveal melanoma", "Naive T cells", "IL7R")
+19. ("Human", "Uveal melanoma", "CD8+ T effector memory cells", "CD8A")
+20. ("Human", "Uveal melanoma", "CD8+ T effector memory cells", "ZNF683")
+21. ("Human", "Uveal melanoma", "CD8+ resident memory cells", "KLRK1")
+22. ("Human", "Uveal melanoma", "CD8+ resident memory cells", "ITGAE [CD103]")
+23. ("Human", "Uveal melanoma", "Cytotoxic CD8+ T cells", "PRF1")
+24. ("Human", "Uveal melanoma", "Cytotoxic CD8+ T cells", "GZMA")
+25. ("Human", "Uveal melanoma", "Cytotoxic CD8+ T cells", "GZMK")
+26. ("Human", "Uveal melanoma", "Cytotoxic CD8+ T cells", "NKG7")
+
+These tuples reflect the cell markers and their associated cell types, tissue, and species as described in the document.
+
+Based on the information provided in the document, the following cell markers can be identified. Since the species and tissue type are not explicitly mentioned, I will use "null" for those fields:
+
+1. ("null", "null", "CD8+ T cells", "CTLA4")
+2. ("null", "null", "CD8+ T cells", "TIGIT")
+3. ("null", "null", "CD8+ T cells", "HAVCR2 [TIM3]")
+4. ("null", "null", "CD8+ T cells", "TNFRSF9 [4-1BB]")
+5. ("null", "null", "CD8+ gamma delta T cells", "TRDC")
+6. ("null", "null", "CD8+ gamma delta T cells", "TRDG2")
+7. ("null", "null", "Mitotic CD8+ T cells", "MKI67")
+8. ("null", "null", "Mitotic CD8+ T cells", "STMN1")
+9. ("null", "null", "Mitotic CD8+ T cells", "HMGB2")
+10. ("null", "null", "Mitotic CD8+ T cells", "TUBB")
+11. ("null", "null", "Mitotic CD8+ T cells", "TUBA1B")
+12. ("null", "null", "Dendritic cells", "CD1C")
+13. ("null", "null", "Monocytes", "S100A12")
+14. ("null", "null", "Monocytes", "CLEC10A")
+15. ("null", "null", "M2 macrophages", "CD163")
+16. ("null", "null", "M2 macrophages", "C1QA")
+17. ("null", "null", "M2 macrophages", "C1QB")
+18. ("null", "null", "M2 macrophages", "C1QC")
+19. ("null", "null", "M2 macrophages", "IL10")
+20. ("null", "null", "M1 macrophages", "C1QA")
+21. ("null", "null", "M1 macrophages", "C1QB")
+22. ("null", "null", "M1 macrophages", "C1QC")
+23. ("null", "null", "Mitotic macrophages", "MKI67")
+
+These tuples represent the markers for different cell types as described in the document.
+
+none
+

@@ -1,0 +1,138 @@
+none
+
+The provided text does not contain specific information about cell markers (marker genes, signature genes, protein markers, or molecular markers) that are used to distinguish different cell types. The document primarily discusses the roles of CCR2+ and CCR2- macrophages in the context of myocardial injury but does not provide explicit marker information for these or other cell types. Therefore, based on the requirements, the response is "none".
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Myocardium", "Monocyte-derived macrophages", "CCR2")
+2. ("null", "Myocardium", "Tissue-resident cardiac macrophages (embryonic lineage)", "CCR2-")
+3. ("null", "Myocardium", "Tissue-resident cardiac macrophages (adult hematopoietic lineage)", "CCR2+")
+
+The document does not provide specific species information for the CCR2- and CCR2+ tissue-resident cardiac macrophages, so "null" is used in the "Species" field for these entries.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Myocardium", "Monocytes", "CCR2+Ly6Chigh")
+2. ("Mouse", "Myocardium", "Macrophages", "CCR2+MHC-IIhigh")
+
+The document does not provide explicit species information for all instances, but given the context and the mention of mouse models, it is inferred that the species is "Mouse". The tissue type is specified as the myocardium (heart). The cell types are monocytes and macrophages, with their respective markers being CCR2+Ly6Chigh for monocytes and CCR2+MHC-IIhigh for macrophages.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Heart", "Macrophage (tissue-resident)", "CD68")
+2. ("Mouse", "Heart", "Macrophage (recruited)", "CCR2")
+3. ("Mouse", "Heart", "Monocyte (recruited)", "Ly6Chigh")
+4. ("Mouse", "Heart", "Macrophage (tissue-resident CCR2-)", "CD64+Ly6ClowCCR2-tdTomato+")
+5. ("Mouse", "Heart", "Macrophage (tissue-resident CCR2+)", "CD64+Ly6ClowCCR2+tdTomato+")
+6. ("Mouse", "Heart", "Macrophage (recruited CCR2+)", "CD64+Ly6ClowCCR2+tdTomato-")
+7. ("Mouse", "Heart", "Monocyte (recruited)", "CD64intLy6ChighCCR2+tdTomato-")
+
+These tuples are based on the information regarding the differentiation and identification of various macrophage and monocyte populations in the heart tissue of mice after an ischemic injury.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Cxcl1")
+2. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Cxcl2")
+3. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Ccl2")
+4. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Ccl7")
+5. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Ccl9")
+6. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Il1β")
+7. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Il10")
+8. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Areg")
+9. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Ereg")
+10. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Gdf3")
+11. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Arg1")
+12. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Mrc1")
+13. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "Hif1α")
+14. ("Mouse", "Heart", "Tissue-resident CCR2+ macrophages", "Type I IFN stimulated genes")
+15. ("Mouse", "Heart", "Tissue-resident CCR2- macrophages", "Igf1")
+16. ("Mouse", "Heart", "Tissue-resident CCR2- macrophages", "Pdgfc")
+17. ("Mouse", "Heart", "Tissue-resident CCR2- macrophages", "Hbegf")
+18. ("Mouse", "Heart", "Tissue-resident CCR2- macrophages", "Cyr61")
+
+These tuples are based on the differential expression of specific genes or proteins in different types of macrophages within the heart tissue of mice as described in the text.
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Heart", "Monocytes and Macrophages", "CCR2")
+2. ("Mouse", "Heart", "Tissue-resident macrophages", "CD169")
+
+These tuples are based on the information that CCR2 is used to identify monocytes and a subset of macrophages, while CD169 is mentioned as a marker for another subset of tissue-resident macrophages in the context of heart transplantation studies.
+
+none
+
+none
+
+Based on the provided document, I have identified the following cell markers:
+
+1. ("Mouse", "Myocardial tissue", "Monocyte", "Ly6C2")
+2. ("Mouse", "Myocardial tissue", "Monocyte", "Hp (haptoglobin)")
+3. ("Mouse", "Myocardial tissue", "Monocyte", "Plac8 (placenta-specific 8)")
+4. ("Mouse", "Myocardial tissue", "Monocyte", "Thbs (thrombospondin)")
+5. ("Mouse", "Myocardial tissue", "Macrophage", "Tnip3 (TNFAIP3-interacting protein 3)")
+6. ("Mouse", "Myocardial tissue", "Macrophage", "Itgb7 (integrin subunit β7)")
+
+These markers were used to distinguish between monocytes and macrophages in the myocardial tissue of mice, based on their differential expression.
+
+Based on the provided document, here are the cell markers identified in the format of tuples:
+
+1. ("null", "Heart", "Macrophage", "LYVE1")
+2. ("null", "Heart", "Macrophage", "IFIT3")
+3. ("null", "Heart", "Macrophage", "ARG1")
+4. ("null", "Heart", "Macrophage", "ITGB7")
+5. ("null", "Heart", "Macrophage", "ANPEP")
+6. ("null", "Heart", "Macrophage", "CCRL2")
+7. ("null", "Heart", "Macrophage", "CCR2")
+
+These markers are used to identify different subsets of macrophages within the heart tissue, specifically in the context of myocardial infarction and reperfusion injury.
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Heart", "Tissue-resident CCR2+ macrophages", "CCR2")
+2. ("Mouse", "Heart", "Tissue-resident CCR2- macrophages", "CCR2")
+
+The document does not provide explicit information about species, but it can be inferred that the research is conducted on mice, as it discusses the use of a syngeneic heart transplantation model, which is commonly used in murine studies. The tissue type is specified as the heart, and the cells are described as tissue-resident macrophages with or without CCR2 expression. The marker CCR2 (C-C chemokine receptor 2) is mentioned as a distinguishing feature between these two types of macrophages. Other terms like Ifit3, Lyve1, NF-κB, STAT, and MYD88 are discussed in the context of pathways or proteins but are not directly linked to specific cell types as markers in this text.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Heart", "Monocytes and macrophages", "CCR2")
+2. ("Mouse", "Heart", "Macrophages", "CD64")
+3. ("Mouse", "Heart", "Macrophages", "tdTomato") - This is a reporter gene used to track cells but can be considered as a marker in this context.
+4. ("Mouse", "Heart", "Macrophages", "CD68")
+
+The species is specified as "Mouse" since the experiments described involve mouse models. The tissue type is "Heart" as the studies are focused on cardiac monocytes and macrophages. The specific cell names are given for each marker based on the context in which they are mentioned.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Heart", "Tissue-resident CCR2+ macrophages", "CCR2")
+2. ("Mouse", "Heart", "Recruited CCR2+ macrophages", "CCR2")
+3. ("Mouse", "Heart", "Monocytes", "CCR2")
+4. ("Mouse", "Heart", "Monocytes", "Ly6C")
+5. ("Mouse", "Heart", "Macrophages", "CD45")
+6. ("Mouse", "Heart", "Macrophages", "CD64")
+7. ("Mouse", "Heart", "Monocytes and macrophages", "CD45.1")
+8. ("Mouse", "Heart", "Monocytes and macrophages", "MHC-II")
+
+These tuples are based on the information given in the document about different cell types and their markers within the heart tissue of mice.
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified for macrophages in the context of ischemia-reperfusion injury in hearts. The species is not explicitly mentioned, but given the use of CCR2-DTR and CD169-DTR models, it can be inferred to be a mouse model. Since the tissue type is heart and the specific cell name is macrophage, the tuples are as follows:
+
+- ("Mouse", "Heart", "Macrophage", "IFIT3")
+- ("Mouse", "Heart", "Macrophage", "ARG1")
+- ("Mouse", "Heart", "Macrophage", "LYVE1")
+
+Therefore, the formatted output is:
+```python
+[("Mouse", "Heart", "Macrophage", "IFIT3"), 
+ ("Mouse", "Heart", "Macrophage", "ARG1"), 
+ ("Mouse", "Heart", "Macrophage", "LYVE1")]
+```
+

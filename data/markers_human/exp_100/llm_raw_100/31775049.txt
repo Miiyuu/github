@@ -1,0 +1,134 @@
+Based on the provided document, the following cell markers can be identified for mouse retinal cells:
+
+1. ("Mouse", "Retina", "Müller cells", "c1s")
+2. ("Mouse", "Retina", "Müller cells", "c3")
+3. ("Mouse", "Retina", "Müller cells", "c4")
+4. ("Mouse", "Retina", "Müller cells", "cfb")
+5. ("Mouse", "Retina", "Retinal pigment epithelium (RPE)", "cfh")
+6. ("Mouse", "Retina", "Neurons", "cfi")
+7. ("Mouse", "Retina", "Neurons", "cfp")
+
+These tuples are derived from the information in the text that specifies which complement genes (markers) are predominantly expressed by different types of retinal cells in mice.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Müller cells/astrocytes", "gfap")
+2. ("Mouse", "Retina", "Bipolar cells", "cfi")
+3. ("Mouse", "Retina", "Microglia/macrophages", "tmem119")
+
+The document does not provide specific marker information for other cell types or additional markers for the ones listed above, so these are the only tuples that can be generated from the given text.
+
+Based on the provided document, here are the identified cell markers in the specified format:
+
+1. ("Mouse", "Retina", "Müller cells", "C1s")
+2. ("Mouse", "Retina", "Müller cells", "CFB")
+3. ("Mouse", "Retina", "Müller cells", "CFP")
+4. ("Mouse", "Retina", "Müller cells", "CFD")
+5. ("Mouse", "Retina", "Müller cells", "CFI")
+6. ("Mouse", "Retina", "Müller cells", "C6")
+7. ("Mouse", "Retina", "Müller cells", "C7")
+8. ("Mouse", "Retina", "Neurons", "C1s")
+9. ("Mouse", "Retina", "Neurons", "CFB")
+10. ("Mouse", "Retina", "Neurons", "CFP")
+11. ("Mouse", "Retina", "Neurons", "C3")
+12. ("Mouse", "Retina", "Neurons", "CFH")
+13. ("Mouse", "Retina", "Neurons", "CFI")
+14. ("Mouse", "Retina", "Neurons", "C6")
+15. ("Mouse", "Retina", "Neurons", "C7")
+16. ("Mouse", "Retina", "RPE", "C1s")
+17. ("Mouse", "Retina", "RPE", "CFB")
+18. ("Mouse", "Retina", "RPE", "CFP")
+19. ("Mouse", "Retina", "RPE", "C3")
+20. ("Mouse", "Retina", "RPE", "CFH")
+21. ("Mouse", "Retina", "RPE", "CFI")
+22. ("Mouse", "Retina", "RPE", "CFD")
+23. ("Mouse", "Retina", "Microglia", "C1s")
+24. ("Mouse", "Retina", "Microglia", "CFB")
+25. ("Mouse", "Retina", "Microglia", "CFP")
+26. ("Mouse", "Retina", "Microglia", "CFH")
+27. ("Mouse", "Retina", "Microglia", "CFI")
+28. ("Mouse", "Retina", "Vascular cells", "C1s")
+29. ("Mouse", "Retina", "Vascular cells", "CFB")
+30. ("Mouse", "Retina", "Vascular cells", "CFP")
+
+These tuples represent the various complement proteins (markers) expressed in different retinal cell types of mice as described in the document.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "RPE cells", "cfh")
+2. ("Mouse", "Retina", "Neurons (specifically rod bipolar cells)", "cfi")
+3. ("Mouse", "Retina", "Microglia", "cfi")
+4. ("Mouse", "Retina", "Müller glia", "cfh")
+5. ("Mouse", "Retina", "Müller glia", "cfi")
+6. ("Mouse", "Retina", "RPE cells", "c1s")
+7. ("Mouse", "Retina", "RPE cells", "c3")
+8. ("Mouse", "Retina", "RPE cells", "cfb")
+9. ("Mouse", "Retina", "RPE cells", "cfp")
+
+Each of these tuples represents a specific marker gene that is differentially expressed in various cell types within the retina of mice, as described in the document.
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Müller cells", "c1s")
+2. ("Mouse", "Retina", "Müller cells", "c3")
+3. ("Mouse", "Retina", "Microglia", "cfp")
+4. ("Mouse", "Retina", "Vascular cells", "cfp")
+5. ("Mouse", "Retina", "RPE cells", "cfd")
+6. ("Mouse", "Retina", "RPE cells", "c5-c9")
+7. ("Mouse", "Retina", "RPE cells", "cfh") - Note: cfh expression decreases with age.
+8. ("Mouse", "Retina", "RPE cells", "rpe65") - Note: rpe65 expression is used as an indicator of RPE dysfunction and/or degeneration.
+
+These tuples are based on the information given in the document about the specific markers that help to distinguish different cell types within the mouse retina.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Microglia", "c3")
+2. ("Mouse", "Retina", "Microglia", "cfb")
+3. ("Mouse", "Retina", "Müller cells", "C1q")
+4. ("Mouse", "Retina", "Müller cells", "C5a-receptor")
+5. ("Mouse", "Retina", "Neurons", "null")  // This tuple is included because neurons are mentioned as providing a substantial proportion of retinal complement transcripts, but no specific marker is given.
+6. ("Mouse", "Retina", "Rod bipolar cells", "cfi")
+7. ("Mouse", "Retina", "Vascular cells", "cfh")
+8. ("Mouse", "Retina", "RPE cells", "cfh")
+
+However, since the requirement specifies that the "Marker" field must not be empty, the fifth tuple should be removed. Thus, the final list of tuples is:
+
+1. ("Mouse", "Retina", "Microglia", "c3")
+2. ("Mouse", "Retina", "Microglia", "cfb")
+3. ("Mouse", "Retina", "Müller cells", "C1q")
+4. ("Mouse", "Retina", "Müller cells", "C5a-receptor")
+5. ("Mouse", "Retina", "Rod bipolar cells", "cfi")
+6. ("Mouse", "Retina", "Vascular cells", "cfh")
+7. ("Mouse", "Retina", "RPE cells", "cfh")
+
+Based on the provided text, the following cell markers have been identified and formatted as requested:
+
+1. ("null", "Retina", "Microglial cells", "CD11b")
+2. ("null", "Retina", "Vascular cells", "CD31")
+3. ("null", "Retina", "Müller glia", "CD29")
+
+The document does not specify a particular species, so "null" is used for the "Species" field. The tissue type is specified as the retina, and the specific cell types with their corresponding markers are listed.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Microglia", "Iba1")
+2. ("Mouse", "Retina", "Astrocyte", "gfap")
+3. ("Mouse", "Retina", "Bipolar cell", "gsg1")
+4. ("Mouse", "Retina", "Müller cell", "Glul")
+5. ("Mouse", "RPE/Choroid", "RPE", "Rpe65")
+
+These tuples are based on the specific mentions of markers used to identify or characterize different cell types in the mouse retina and RPE/choroid as described in the text.
+
+Based on the provided document, the following cell markers can be identified:
+
+- ("Mouse", "Retina", "Microglia", "Iba1")
+- ("Mouse", "Retina", "Müller cell", "GLUL")
+
+The marker Iba1 is used to label microglia in the retina, and GLUL (glutamine synthetase) is used as a Müller cell marker. The rest of the document does not provide specific cell markers but discusses complement components and their expression in various retinal cell types.
+
+none
+
+The provided document lists various antibodies and their sources but does not provide information on cell markers in the context of specific cell types, tissues, or species. Therefore, no tuples can be formed based on the given requirements.
+

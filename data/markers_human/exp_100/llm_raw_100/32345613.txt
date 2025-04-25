@@ -1,0 +1,118 @@
+none
+
+The provided document does not contain specific information about cell markers (marker genes, signature genes, protein markers, or molecular markers) that are used to distinguish different cell types with the differential expression in different cell types. The text discusses YAP1 as a gene that is highly expressed in peritoneal carcinomatosis (PC) malignant cells and its role in conferring cancer stem cell (CSC) properties, but it does not provide details on markers for distinguishing specific cell types within a tissue. Therefore, based on the given requirements, the correct response is "none".
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "null", "Tumor cell", "YAP1")
+2. ("Human", "null", "Tumor cell", "EpCAM")
+3. ("Human", "null", "Immune cell", "CD45")
+4. ("Human", "null", "Stromal cell", "Vimentin")
+5. ("Human", "null", "Macrophage", "CD163")
+6. ("Human", "null", "Epithelial cell", "Cytokeratin")
+
+The document does not specify the exact tissue type, so "null" is used for the "Tissue Type" field where it's not explicitly mentioned.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Tumor cell", "YAP1")
+2. ("Human", "null", "Tumor cell", "EpCAM")
+3. ("Human", "null", "Cancer stem cell", "ALDH1A1")
+4. ("Human", "null", "Cancer stem cell", "ITGA6 (CD49f)")
+5. ("Human", "null", "Cancer stem cell", "PROM1 (CD133)")
+6. ("Human", "null", "Cancer stem cell", "CD44")
+7. ("Human", "null", "Cancer stem cell", "SOX9")
+8. ("Human", "null", "Cancer stem cell", "HES1")
+
+The species is specified as Human based on the context of the study, and the tissue type is not specifically mentioned in the text for these markers, hence it is filled with "null". The cell names are derived from the context where each marker is discussed.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "null", "Pancreatic cancer cells", "EpCAM")
+2. ("Human", "null", "Pancreatic cancer cells", "YAP1")
+3. ("Human", "null", "Cancer stem cells (CSCs)", "ALDH1")
+4. ("Human", "null", "Pancreatic cancer cells", "SOX9")
+5. ("Human", "null", "Pancreatic cancer cells", "HES1")
+6. ("Human", "null", "Pancreatic cancer cells", "EGR3")
+7. ("Human", "null", "Pancreatic cancer cells", "ALDH3A1")
+8. ("Human", "null", "Pancreatic cancer cells", "CDH11")
+9. ("Human", "null", "Pancreatic cancer cells", "DKK1")
+10. ("Human", "null", "Pancreatic cancer cells", "MFAP5")
+11. ("Human", "null", "Pancreatic cancer cells", "IGFBP2")
+12. ("Human", "null", "Pancreatic cancer cells", "IGFBP3")
+
+These tuples are derived from the information about differentially expressed genes and proteins that were used to distinguish or characterize specific cell types in the context of pancreatic cancer. The tissue type is not explicitly mentioned for these markers, hence it's marked as "null".
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Gastric cancer", "Cancer stem cells (CSCs)", "YAP1")
+2. ("Human", "Gastric cancer", "Cancer stem cells (CSCs)", "SOX9")
+3. ("Human", "Gastric cancer", "Cancer stem cells (CSCs)", "ALDH1")
+
+These markers are associated with cancer stem cells in gastric cancer and their expression is linked to poor survival and tumor aggressiveness.
+
+none
+
+none
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. The document mentions that YAP1 is highly expressed in malignant pancreatic cancer (PC) cells and is associated with cancer stem cell (CSC) properties. It also discusses the use of epithelial and nonepithelial markers for identifying PC cell composition.
+   
+   - **EpCAM** and **cytokeratin** are used as epithelial markers.
+   - **Vimentin** and **CD3** are used as nonepithelial markers.
+
+2. Additionally, the document describes the co-staining of YAP1 with other markers to identify specific cell types:
+   - **YAP1** and **EpCAM** (epithelial tumor marker)
+   - **YAP1** and **CD45** (immune marker)
+   - **YAP1** and **CD163** (macrophage marker)
+   - **YAP1** and **vimentin** (stromal marker)
+
+Given this information, the tuples can be constructed as follows:
+
+- ("Human", "Pancreatic cancer tissue", "Malignant PC cell", "YAP1")
+- ("Human", "Pancreatic cancer tissue", "Epithelial cell", "EpCAM")
+- ("Human", "Pancreatic cancer tissue", "Epithelial cell", "Cytokeratin")
+- ("Human", "Pancreatic cancer tissue", "Nonepithelial cell", "Vimentin")
+- ("Human", "Pancreatic cancer tissue", "T lymphocyte", "CD3")
+- ("Human", "Pancreatic cancer tissue", "Epithelial tumor cell", "EpCAM")
+- ("Human", "Pancreatic cancer tissue", "Immune cell", "CD45")
+- ("Human", "Pancreatic cancer tissue", "Macrophage", "CD163")
+- ("Human", "Pancreatic cancer tissue", "Stromal cell", "Vimentin")
+
+Here are the tuples:
+
+```python
+[
+    ("Human", "Pancreatic cancer tissue", "Malignant PC cell", "YAP1"),
+    ("Human", "Pancreatic cancer tissue", "Epithelial cell", "EpCAM"),
+    ("Human", "Pancreatic cancer tissue", "Epithelial cell", "Cytokeratin"),
+    ("Human", "Pancreatic cancer tissue", "Nonepithelial cell", "Vimentin"),
+    ("Human", "Pancreatic cancer tissue", "T lymphocyte", "CD3"),
+    ("Human", "Pancreatic cancer tissue", "Epithelial tumor cell", "EpCAM"),
+    ("Human", "Pancreatic cancer tissue", "Immune cell", "CD45"),
+    ("Human", "Pancreatic cancer tissue", "Macrophage", "CD163"),
+    ("Human", "Pancreatic cancer tissue", "Stromal cell", "Vimentin")
+]
+```
+
+These tuples represent the cell markers identified from the document, with each field filled according to the specified format.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Pancreatic cancer cells", "YAP1")
+2. ("Human", "null", "Pancreatic cancer cells", "EpCAM")
+3. ("Human", "null", "Cancer stem cells (CSC)", "SOX9")
+4. ("Human", "null", "Cancer stem cells (CSC)", "HES1")
+5. ("Human", "null", "Cancer stem cells (CSC)", "CD133")
+6. ("Human", "null", "Cancer stem cells (CSC)", "CD49f")
+7. ("Human", "null", "Cancer stem cells (CSC)", "ALDH1")
+
+The species is Human, and the tissue type is not specifically mentioned beyond being related to pancreatic cancer (PC), so "null" is used for Tissue Type where it's not explicitly stated. The cell names are derived from the context in which the markers are discussed.
+
+none
+
+none
+

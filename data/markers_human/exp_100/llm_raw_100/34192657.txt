@@ -1,0 +1,126 @@
+Based on the provided document, the following cell markers have been identified. The information has been structured as per the given format:
+
+1. ("Human", "null", "Tumor cells", "LAG3")
+2. ("Human", "null", "Tumor cells", "HAVCR2")
+3. ("Human", "null", "Epithelial cells", "EPCAM")
+4. ("Human", "null", "Immune cells", "CD45")
+5. ("Human", "null", "Keratinocytes", "KRT5")
+
+The species is consistently "Human" across all entries, as the context of the research involves human esophageal squamous cell carcinoma (ESCC). Tissue type is not specifically mentioned for each marker, hence it is filled with "null". The cell names and their corresponding markers are derived directly from the text.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Esophageal tissue", "Epithelial cells", "KRT13")
+2. ("Human", "Esophageal tissue", "Epithelial cells", "SPRR3")
+3. ("Human", "Esophageal tissue", "Mast cells", "TPSB2")
+4. ("Human", "Esophageal tissue", "Mast cells", "CPA3")
+5. ("Human", "Esophageal tissue", "Endothelial cells", "VWF")
+6. ("Human", "Esophageal tissue", "Endothelial cells", "RAMP2")
+7. ("Human", "Esophageal tissue", "Fibroblasts", "DCN")
+8. ("Human", "Esophageal tissue", "Fibroblasts", "COL1A1")
+9. ("Human", "Esophageal tissue", "T cells", "CD3D")
+10. ("Human", "Esophageal tissue", "T cells", "CD3E")
+11. ("Human", "Esophageal tissue", "Myeloid cells", "LYZ")
+12. ("Human", "Esophageal tissue", "Myeloid cells", "C1QB")
+13. ("Human", "Esophageal tissue", "B cells", "CD79A")
+14. ("Human", "Esophageal tissue", "B cells", "IGKC")
+15. ("Human", "Esophageal tissue", "Cancer cells", "EPCAM")
+16. ("Human", "Esophageal tissue", "Cancer cells", "SOX2")
+
+These tuples represent the cell markers for different cell types within esophageal tissue, as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "non-malignant epithelial cells", "SPRR3")
+2. ("null", "null", "non-malignant epithelial cells", "KRT13")
+3. ("null", "null", "cancer cells", "EPCAM")
+4. ("null", "null", "cancer cells", "SOX2")
+5. ("null", "null", "cancer cells", "IGFBP2")
+6. ("null", "null", "cancer cells", "IGFBP3")
+7. ("null", "null", "cancer cells", "ODC1")
+8. ("null", "null", "cancer cells", "SOX4")
+9. ("null", "null", "non-malignant epithelial cells", "CRCT1")
+10. ("null", "null", "non-malignant epithelial cells", "CRNN")
+11. ("null", "null", "non-malignant epithelial cells", "SPINK5")
+12. ("null", "null", "non-malignant epithelial cells", "CSTB")
+13. ("null", "null", "cancer cells", "KRT5")
+
+The species and tissue type are not explicitly mentioned in the text, so they are filled with "null". The document primarily discusses esophageal squamous cell carcinoma (ESCC) and distinguishes between non-malignant and malignant (cancer) epithelial cells, providing several markers for each.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "Myofibroblasts", "ACTA2")
+2. ("Human", "null", "Plasma B cells", "IGHG1")
+3. ("Human", "null", "Plasma B cells", "IGHG4")
+4. ("Human", "null", "Follicular B cells", "MS4A1")
+
+The species is inferred to be "Human" given the context of the study (esophageal squamous cell carcinoma, ESCC), and since no specific tissue type was mentioned for these cell types, "null" is used for the "Tissue Type".
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Esophageal tissue", "Plasma B cell", "MZB1")
+2. ("Human", "Esophageal tissue", "Plasma B cell", "FKBP11")
+3. ("Human", "Esophageal tissue", "Plasma B cell", "IGHG3")
+4. ("Human", "Esophageal tissue", "Follicular B cell (Cluster 2)", "CD74")
+5. ("Human", "Esophageal tissue", "Follicular B cell (Cluster 2)", "S100A8")
+6. ("Human", "Esophageal tissue", "Follicular B cell (Cluster 2)", "CXCR4")
+7. ("Human", "Esophageal tissue", "Follicular B cell (Cluster 3)", "HLA-DQA2")
+8. ("Human", "Esophageal tissue", "Follicular B cell (Cluster 3)", "CCR7")
+9. ("Human", "Esophageal tissue", "Follicular B cell (Cluster 3)", "JUND")
+10. ("Human", "Esophageal tissue", "Macrophage", "CXCR4")
+11. ("Human", "Esophageal tissue", "Macrophage", "TGFB1")
+12. ("Human", "Esophageal tissue", "Macrophage", "HAVCR2")
+13. ("Human", "Esophageal tissue", "Dendritic cell (DC)", "CD274")
+14. ("Human", "Esophageal tissue", "Macrophage", "CD276")
+
+These tuples represent the species, tissue type, cell name, and specific marker as described in the document.
+
+Based on the provided text, here are the cell markers identified in the form of tuples:
+
+1. ("Human", "Esophageal tissue", "NKT/CD8+ T cells", "GZMB")
+2. ("Human", "Esophageal tissue", "NKT/CD8+ T cells", "NKG7")
+3. ("Human", "Esophageal tissue", "NKT/CD8+ T cells", "GNLY")
+4. ("Human", "Esophageal tissue", "Regulated/CD4+ T cells", "CD4")
+5. ("Human", "Esophageal tissue", "Regulated/CD4+ T cells", "IL2RA")
+6. ("Human", "Esophageal tissue", "Regulated/CD4+ T cells", "FOXP3")
+7. ("Human", "Esophageal tissue", "T follicular helper cells", "MAF")
+8. ("Human", "Esophageal tissue", "T follicular helper cells", "ICOS")
+9. ("Human", "Esophageal tissue", "T follicular helper cells", "BTAF")
+10. ("Human", "Esophageal tissue", "Macrophages (Phase 3)", "HLA-DQA2")
+11. ("Human", "Esophageal tissue", "Macrophages (Phase 3)", "HLA-DPB1")
+12. ("Human", "Esophageal tissue", "Macrophages (Phase 3)", "HLA-DRB5")
+13. ("Human", "Esophageal tissue", "NKT/CD8+ T cells", "LAG3")
+14. ("Human", "Esophageal tissue", "NKT/CD8+ T cells", "PDCD1")
+15. ("Human", "Esophageal tissue", "NKT/CD8+ T cells", "HAVCR2")
+
+These tuples reflect the specific cell markers mentioned for different cell types within the context of esophageal squamous cell carcinoma (ESCC).
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Naïve T cell", "CCR7")
+2. ("Human", "null", "Naïve T cell", "TCF7")
+3. ("Human", "null", "Naïve T cell", "LEF1")
+4. ("Human", "null", "T cell (inhibitory status)", "TIGIT")
+5. ("Human", "null", "T cell (inhibitory status)", "CTLA4")
+6. ("Human", "null", "T cell (inhibitory status)", "HAVCR2")
+7. ("Human", "null", "T cell (cytotoxic status)", "GNLY")
+8. ("Human", "null", "T cell (cytotoxic status)", "GZMB")
+9. ("Human", "null", "T cell (cytotoxic status)", "PRF1")
+10. ("Human", "null", "NKT/CD8+ T cell (cluster 1)", "IL2")
+11. ("Human", "null", "NKT/CD8+ T cell (cluster 1)", "IL17A")
+12. ("Human", "null", "NKT/CD8+ T cell (cluster 1)", "GZMK")
+13. ("Human", "null", "NKT/CD8+ T cell (cluster 1)", "IFNG")
+14. ("Human", "null", "NKT/CD8+ T cell (cluster 1)", "NKG7")
+15. ("Human", "null", "NKT/CD8+ T cell (phase 2)", "SA100A9")
+16. ("Human", "null", "Immune cell", "MIF")
+17. ("Human", "null", "Immune cell", "ALCAM")
+18. ("Human", "null", "Immune cell", "COPA")
+19. ("Human", "null", "Tumor cell", "CD74")
+20. ("Human", "null", "NKT/CD8+ T C4 cluster", "LGALS9")
+21. ("Human", "null", "NKT/CD8+ T C4 cluster", "NECTIN2")
+22. ("Human", "null", "T cell", "HAVCR2")
+
+The species is specified as "Human" based on the context of the document, and the tissue type is not explicitly mentioned, so it is marked as "null".
+
+none
+

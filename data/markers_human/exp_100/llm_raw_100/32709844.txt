@@ -1,0 +1,119 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Esophagus", "T cells", "CD45")
+2. ("Mouse", "Esophagus", "B cells", "CD45")
+3. ("Mouse", "Esophagus", "Myeloid cells", "CD45")
+4. ("Mouse", "Esophagus", "Natural killer cells", "CD45")
+5. ("Mouse", "Esophagus", "Epithelial cells", "Epcam")  // Although not explicitly stated, Epcam is a common marker for epithelial cells.
+6. ("Mouse", "Esophagus", "Fibroblasts", "null")  // No specific marker is mentioned in the text, but based on the context of non-immune cell classification.
+7. ("Mouse", "Esophagus", "Endothelial cells", "Cdh5")  // Cdh5 (VE-cadherin) is a well-known endothelial cell marker, though not directly stated in the text.
+8. ("Mouse", "Esophagus", "Myocytes", "null")  // No specific marker is mentioned in the text, but based on the context of non-immune cell classification.
+
+However, since the requirement specifies that the "Marker" field must not be empty and should be sourced from the provided document, tuples 5, 6, and 7, which include inferred or commonly known markers not directly cited in the text, need to be excluded. Thus, the final list includes only those with markers explicitly mentioned in the document, leading to:
+
+- ("Mouse", "Esophagus", "T cells", "CD45")
+- ("Mouse", "Esophagus", "B cells", "CD45")
+- ("Mouse", "Esophagus", "Myeloid cells", "CD45")
+- ("Mouse", "Esophagus", "Natural killer cells", "CD45")
+
+For the epithelial subtypes, the document provides gene expression patterns that can serve as markers, but they are not specifically labeled as canonical markers. Therefore, if we consider these as valid markers for the purpose of this task, we can add:
+
+- ("Mouse", "Esophagus", "EpiC 1", "Birc5")
+- ("Mouse", "Esophagus", "EpiC 1", "Mki67")
+- ("Mouse", "Esophagus", "EpiC 1", "Top2a")
+- ("Mouse", "Esophagus", "EpiC 1", "Ube2c")
+- ("Mouse", "Esophagus", "EpiC 2", "Gstm1")
+- ("Mouse", "Esophagus", "EpiC 2", "Gstm2")
+- ("Mouse", "Esophagus", "EpiC 2", "Adh7")
+- ("Mouse", "Esophagus", "EpiC 2", "Aldh3a1")
+- ("Mouse", "Esophagus", "EpiC 3", "Jun")
+- ("Mouse", "Esophagus", "EpiC 3", "Junb")
+- ("Mouse", "Esophagus", "EpiC 3", "Zfp36")
+- ("Mouse", "Esophagus", "EpiC 3", "Atf3")
+- ("Mouse", "Esophagus", "EpiC 4", "Krt4")
+- ("Mouse", "Esophagus", "EpiC 4", "Krt13")
+- ("Mouse", "Esophagus", "EpiC 4", "S100a8")
+- ("Mouse", "Esophagus", "EpiC 4", "S100a9")
+- ("Mouse", "Esophagus", "EpiC 5", "Mmp13")
+- ("Mouse", "Esophagus", "EpiC 5", "Itga6")
+- ("Mouse", "Esophagus", "EpiC 5", "Vegfa")
+
+This list includes all the markers derived from the document, adhering to the specified format and requirements.
+
+Based on the provided document, the following cell markers have been identified. The information is structured according to the specified format:
+
+1. ("Mouse", "Esophageal tissue", "Epithelial cells (EpiC 3, EpiC 4, EpiC 6)", "Aldh3a1")
+2. ("Mouse", "Esophageal tissue", "Epithelial cells (EpiC 3, EpiC 4, EpiC 6)", "Atf3")
+3. ("Mouse", "Esophageal tissue", "Epithelial cells (EpiC 3, EpiC 4, EpiC 6)", "S100a8")
+4. ("Mouse", "Esophageal tissue", "Epithelial cells (EpiC 3, EpiC 4, EpiC 6)", "Itga6")
+5. ("Mouse", "Esophageal tissue", "Epithelial cells (EpiC 3, EpiC 4, EpiC 6)", "Mmp14")
+
+These markers are differentially expressed across various stages of esophageal squamous cell carcinoma (ESCC) in mice.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Esophagus", "EpiC 1-4 (non-malignant epithelial cells)", "Nqo1")
+2. ("Mouse", "Esophagus", "EpiC 1-4 (non-malignant epithelial cells)", "Aldh3a1")
+3. ("Mouse", "Esophagus", "EpiC 1-4 (non-malignant epithelial cells)", "Gstp1")
+4. ("Mouse", "Esophagus", "EpiC 3", "Junb")
+5. ("Mouse", "Esophagus", "EpiC 3", "Fos")
+6. ("Mouse", "Esophagus", "EpiC 5", "Cxcl1")
+7. ("Mouse", "Esophagus", "EpiC 5", "Il6")
+8. ("Mouse", "Esophagus", "EpiC 5", "Tnf")
+9. ("Mouse", "Esophagus", "EpiC 5", "Csf3")
+10. ("Mouse", "Esophagus", "EpiC 5", "Hif1a")
+11. ("Mouse", "Esophagus", "EpiC 6 (malignant cells)", "Bcl2")
+12. ("Mouse", "Esophagus", "EpiC 6 (malignant cells)", "Xiap")
+
+These tuples are derived from the differential expression of specific genes in different epithelial cell clusters (EpiCs) as described in the document.
+
+Based on the provided document, I have identified several cell markers for different fibroblast clusters. The species and tissue type are not explicitly mentioned in the text, so they will be filled with "null" where necessary. Here are the tuples:
+
+1. ("null", "null", "FibC 3", "Ccl7")
+2. ("null", "null", "FibC 6", "Ccl7")
+3. ("null", "null", "FibC 8", "Cxcl12")
+
+These markers are derived from the specific mentions of gene expressions that distinguish these fibroblast clusters. For example, Ccl7 is noted as a chemokine-related gene with significantly elevated expression in FibC 6, and Cxcl12 is noted for its elevated expression in FibC 8. No other clear marker genes or proteins were directly specified for the other fibroblast clusters.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "null", "CD8+ T cells (memory T cells)", "Pdcd1")
+2. ("Human", "null", "CD8+ T cells (memory T cells)", "Lag3")
+3. ("Human", "null", "CD8+ T cells (memory T cells)", "Gzmk")
+4. ("Human", "null", "CD8+ T cells (memory T cells)", "Gzmb")
+5. ("Human", "null", "CD8+ T cells (memory T cells)", "Prf1")
+6. ("Human", "null", "CD4-Th1-like cells", "Tbx21")
+7. ("Human", "null", "CD4-Th1-like cells", "Gzmb")
+8. ("Human", "null", "CD4-Th1-like cells", "Ifng")
+9. ("Human", "null", "CD4-Th1-like cells", "Iftm1")
+10. ("Human", "null", "CD4-Th1-like cells", "Iftm2")
+11. ("Human", "null", "CD4-Th1-like cells", "Rora")
+12. ("Human", "null", "CD4-Th2 cells", "Uncertain marker genes mentioned, but not specified")
+13. ("Human", "null", "CD4-Th17 cells", "Il22")
+14. ("Human", "null", "CD4-Th17 cells", "Il17a")
+15. ("Human", "null", "CD4-Th17 cells", "Rorc")
+
+Note: For the 12th tuple, since the specific marker for CD4-Th2 cells was not clearly defined in the text other than it being different from CD4-Th1-like cells, I included a note about the uncertainty. If you require only those with explicitly named markers, this entry should be excluded.
+
+Based on the information provided in the document, several markers for different cell types are identified. Here are the tuples with the required format:
+
+1. ("null", "null", "Mo/Mφ-C 3", "Il10")
+2. ("null", "null", "tDC", "Cd274")
+3. ("null", "null", "tDC", "Pdcd1lg2")
+4. ("null", "null", "tDC", "Ido1")
+5. ("null", "null", "Mo/Mφ-C 3", "Arg1")
+6. ("null", "null", "Mo/Mφ-C 3", "Adora2b")
+7. ("null", "null", "cDC2-C 1", "Icosl")
+8. ("null", "null", "Neutrophils", "Mmp9")
+9. ("null", "null", "Neutrophils", "Prok2")
+10. ("null", "null", "Neutrophils", "Vegfa")
+11. ("null", "null", "Neutrophils", "Nos2")
+
+These tuples are derived from the text where specific genes or proteins are mentioned as being highly expressed or associated with particular cell clusters, indicating their use as markers to distinguish these cells. The species and tissue type are not specified in the document, hence they are filled with "null".
+
+none
+
+none
+
+none
+

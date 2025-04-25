@@ -1,0 +1,130 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "RGCs", "Thy1/CD90")
+2. ("Mouse", "Retina", "RGCs", "L1cam")
+3. ("Mouse", "Retina", "RGCs", "Rbpms")
+4. ("Mouse", "Retina", "RGCs", "Slc17a6")
+5. ("Mouse", "Retina", "Amacrine cells", "Tfap2a")
+6. ("Mouse", "Retina", "Amacrine cells", "Tfap2b")
+7. ("Mouse", "Retina", "Cone photoreceptors", "Otx2")
+8. ("Mouse", "Retina", "Cone photoreceptors", "Crx")
+9. ("Mouse", "Retina", "Microglia", "P2ry12")
+10. ("Mouse", "Retina", "Microglia", "C1qa")
+11. ("Mouse", "Retina", "Anterior segment cells", "Mgp")
+12. ("Mouse", "Retina", "Anterior segment cells", "Bgn")
+13. ("Mouse", "Retina", "RPCs (Primary)", "Mki67")
+14. ("Mouse", "Retina", "RPCs (Primary)", "Ccnd5")
+15. ("Mouse", "Retina", "RPCs (Primary)", "Birc5")
+16. ("Mouse", "Retina", "RPCs (Primary)", "Sfrp2")
+17. ("Mouse", "Retina", "RPCs (Primary)", "Vsx2")
+18. ("Mouse", "Retina", "RPCs (Primary)", "Fgf15")
+19. ("Mouse", "Retina", "RPCs (Neurogenic)", "Hes6")
+20. ("Mouse", "Retina", "RPCs (Neurogenic)", "Ascl1")
+21. ("Mouse", "Retina", "RPCs (Neurogenic)", "Neurog2")
+
+The species is inferred to be "Mouse" as the document discusses retinal ganglion cells (RGCs) and other retinal cell types, which are commonly studied in mouse models. The tissue type is specified as "Retina" based on the context of the research described.
+
+Based on the provided document, the following cell markers have been identified. The information is organized into tuples as per the instructions:
+
+1. ("Mouse", "Retina", "Retinal progenitor cells (RPC)", "L1cam")
+2. ("Mouse", "Retina", "Retinal progenitor cells (RPC)", "Thy1")
+3. ("Mouse", "Retina", "F-RGC types", "Foxp2")
+4. ("Mouse", "Retina", "T-RGC types", "Tbr1")
+5. ("Mouse", "Retina", "Eomes/Tbr2 types", "Eomes")
+6. ("Mouse", "Retina", "Eomes/Tbr2 types", "Tbx20")
+7. ("Mouse", "Retina", "Eomes/Tbr2 types", "Dmrbt1")
+8. ("Mouse", "Retina", "Neurod2 types", "Neurod2")
+9. ("Mouse", "Retina", "Neurod2 types", "Satb2")
+10. ("Mouse", "Retina", "Irx3 types", "Irx3")
+11. ("Mouse", "Retina", "Mafb types", "Mafb")
+12. ("Mouse", "Retina", "Tfap2d types", "Tfap2d")
+13. ("Mouse", "Retina", "Bnc2 types", "Bnc2")
+
+These tuples reflect the specific markers associated with different cell types in the retina of mice, as described in the given text.
+
+none
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Mouse", "Retina", "Ipsilateral retinal ganglion cells (I-RGCs)", "Zic2")
+2. ("Mouse", "Retina", "Contralateral retinal ganglion cells (C-RGCs)", "Isl2")
+3. ("Mouse", "Retina", "Ipsilateral retinal ganglion cells (I-RGCs)", "Igfbp5")
+4. ("Mouse", "Retina", "Contralateral retinal ganglion cells (C-RGCs)", "Igf1")
+5. ("Mouse", "Retina", "Ipsilateral retinal ganglion cells (I-RGCs)", "Igfbpl1")
+6. ("Mouse", "Retina", "Ipsilateral retinal ganglion cells (I-RGCs)", "Pou3f1")
+7. ("Mouse", "Retina", "Ipsilateral retinal ganglion cells (I-RGCs)", "Cntn2")
+8. ("Mouse", "Retina", "Contralateral retinal ganglion cells (C-RGCs)", "Lmo2")
+9. ("Mouse", "Retina", "Contralateral retinal ganglion cells (C-RGCs)", "Pcsk1n")
+10. ("Mouse", "Retina", "Contralateral retinal ganglion cells (C-RGCs)", "Syt4")
+
+These tuples are based on the differential expression of the genes in the context of distinguishing between ipsilateral and contralateral retinal ganglion cells in the mouse retina.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Ipsilaterally projecting retinal ganglion cells (I-RGCs)", "Zic2")
+2. ("Mouse", "Retina", "Contralaterally projecting retinal ganglion cells (C-RGCs)", "Isl2")
+3. ("Mouse", "Retina", "Ipsilaterally projecting retinal ganglion cells (I-RGCs)", "Igfbp5")
+4. ("Mouse", "Retina", "Adult RGCs (I-RGC enriched)", "Tbr1")
+5. ("Mouse", "Retina", "Adult RGCs (I-RGC enriched)", "Mafb")
+6. ("Mouse", "Retina", "Adult RGCs (I-RGC enriched)", "Foxp2")
+7. ("Mouse", "Retina", "Adult RGCs (I-RGC enriched)", "Neurod2")
+8. ("Mouse", "Retina", "Adult RGCs (I-RGC poor)", "Eomes")
+9. ("Mouse", "Retina", "Adult RGCs (I-RGC poor)", "Irx3")
+10. ("Mouse", "Retina", "Adult RGCs (I-RGC poor)", "Tfap2d")
+
+The document specifies that these markers are used to distinguish between different types of retinal ganglion cells in mice, particularly focusing on ipsilaterally and contralaterally projecting RGCs as well as their distribution across adult RGC subtypes.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "ipRGCs", "Eomes")
+2. ("Mouse", "Retina", "Contralaterally projecting RGCs", "Isl2")
+3. ("Mouse", "Retina", "Ipsilaterally projecting RGCs", "Zic2")
+4. ("null", "null", "RGCs", "Rbpms")
+
+The document does not specify the species for Rbpms, but it is mentioned in the context of mouse studies, so I have included it with "null" for species and tissue type where it's not explicitly stated. If you prefer to exclude this entry due to the lack of explicit specification, please let me know.
+
+Based on the provided document, the following cell markers are identified:
+
+- ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "Thy1 (CD90)")
+- ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "L1CAM")
+
+These markers were used to enrich RGCs from dissociated retinal cells. Thy1 (also known as CD90) and L1CAM were used as specific markers for sorting viable RGCs.
+
+Based on the provided document, the following cell markers can be identified:
+
+- ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "Rbpms")
+- ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "Slc17a6")
+- ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "Sncg")
+- ("Mouse", "Retina", "RGCs (Retinal Ganglion Cells)", "Nefl")
+- ("Mouse", "Retina", "Microglia", "P2ry12")
+- ("Mouse", "Retina", "Microglia", "C1qa-c")
+- ("Mouse", "Retina", "Microglia", "Tmem119")
+- ("Mouse", "Retina", "Photoreceptors", "Otx2")
+- ("Mouse", "Retina", "Photoreceptors", "Gngt2")
+- ("Mouse", "Retina", "Photoreceptors", "Gnb3")
+- ("Mouse", "Retina", "Amacrine cells", "Tfap2a")
+- ("Mouse", "Retina", "Amacrine cells", "Tfap2b")
+- ("Mouse", "Retina", "Amacrine cells", "Onecut2")
+- ("Mouse", "Retina", "Anterior segment cells", "Mgp")
+- ("Mouse", "Retina", "Anterior segment cells", "Col3a1")
+- ("Mouse", "Retina", "Anterior segment cells", "Igfbp7")
+- ("Mouse", "Retina", "Cycling progenitors", "Ccnd1")
+- ("Mouse", "Retina", "Cycling progenitors", "Fgf15")
+- ("Mouse", "Retina", "Cycling progenitors", "Hes5")
+
+These tuples are derived from the specific cell types and their corresponding marker genes as indicated in the text.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "null", "RGC precursors", "Rbpms")
+2. ("null", "null", "RGC precursors", "Slc17a6")
+3. ("null", "null", "RGC precursors", "Sncg")
+4. ("null", "null", "RGC precursors", "Nefl")
+5. ("null", "null", "non-RGC cells", "P2ry12")
+6. ("null", "null", "non-RGC cells", "Tfap2b")
+7. ("null", "null", "ACs", "Tfap2b")
+8. ("null", "null", "RPCs", "Fgf15")
+9. ("null", "null", "RPCs", "Gngt2")
+
+The species and tissue type are not explicitly mentioned in the document, so they are filled with "null".
+

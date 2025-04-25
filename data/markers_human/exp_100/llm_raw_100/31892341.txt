@@ -1,0 +1,26 @@
+Based on the provided document, there are no explicit mentions of specific cell markers (marker genes, signature genes, protein markers, or molecular markers) for the different cell types in the spleen. The document primarily discusses the proportions and types of cells identified but does not list specific markers used to identify these cell types.
+
+Therefore, the appropriate response is:
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("null", "Esophagus", "Stromal cells", "FLNA")
+2. ("null", "Esophagus", "Stromal cells", "MYH11")
+3. ("null", "Esophagus", "Keratinocytes", "KRT4")
+4. ("null", "Esophagus", "Keratinocytes", "KRT5")
+5. ("null", "Spleen", "Macrophages", "APOE")
+6. ("null", "Spleen", "Macrophages", "CD5L")
+7. ("null", "Spleen", "Macrophages", "VCAM1")
+8. ("null", "Spleen", "Macrophages", "HMOX1")
+9. ("null", "Spleen", "Macrophages", "C1QA")
+10. ("null", "Spleen", "Macrophages", "C1QC")
+11. ("null", "Spleen", "Plasma cells", "JCHAIN")
+12. ("null", "Spleen", "Plasma cells", "IGHA1")
+13. ("null", "Spleen", "Plasma cells", "IGLC3")
+
+The species is not specified in the text, so it is filled with "null". The tissue types and cell names are directly mentioned or inferred from the context.
+
+none
+

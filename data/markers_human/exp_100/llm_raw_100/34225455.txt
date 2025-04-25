@@ -1,0 +1,44 @@
+Based on the provided document, the following cell markers are identified:
+
+1. ("Human", "null", "Circulating tumor cell (CTC)", "MCSP")
+2. ("Human", "null", "Circulating tumor cell (CTC)", "MCAM")
+3. ("Human", "null", "Circulating tumor cell (CTC)", "LNGFR")
+4. ("Human", "null", "Circulating tumor cell (CTC)", "BRAFV600E")
+
+The species is specified as Human since the document discusses the analysis of CTCs from melanoma patients. The tissue type is not explicitly mentioned, and hence it is filled with "null". The cell name is given as Circulating tumor cell (CTC), and the markers MCSP, MCAM, LNGFR, and BRAFV600E are used to identify these cells.
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Human", "null", "Melanoma cell", "MCSP")
+2. ("Human", "null", "Melanoma cell", "MCAM")
+3. ("Human", "null", "Melanoma cell", "LNGFR")
+4. ("Human", "null", "CTC (Circulating Tumor Cell)", "BRAF")
+
+The species is inferred to be "Human" based on the context of the document, which discusses patient samples and melanoma, a type of cancer commonly studied in human subjects. The tissue type is not specifically mentioned for these markers, so it is filled with "null". The cell names are directly stated or implied by the context (e.g., CTCs, melanoma cells). Each marker is associated with its respective cell type as described in the document.
+
+none
+
+none
+
+The provided text does not contain specific information about cell markers in the format required (i.e., marker genes, signature genes, protein markers, or molecular markers that are used to distinguish different cell types with differential expression). The document discusses the use of SERS (Surface-Enhanced Raman Scattering) for detecting the expression levels of certain proteins (MCSP, MCAM, and LNGFR) on SK-MEL-28 cells, but it does not provide a clear indication of these being used as cell markers to distinguish different cell types. Therefore, based on the given requirements, no valid tuples can be formed, and the response is "none".
+
+Based on the provided document, the markers MCSP, MCAM, and LNGFR are discussed in the context of SK-MEL-28 melanoma cells. However, the document does not specify the species or tissue type. Given the requirements, I will fill in "null" for the unspecified fields. The relevant tuples based on the information provided are:
+
+1. ("null", "null", "SK-MEL-28 melanoma cell", "MCSP")
+2. ("null", "null", "SK-MEL-28 melanoma cell", "MCAM")
+3. ("null", "null", "SK-MEL-28 melanoma cell", "LNGFR")
+
+These markers (MCSP, MCAM, and LNGFR) are used to assess the response of the cancer cells to a BRAF inhibitor drug treatment.
+
+Based on the provided text, the species is not explicitly mentioned, but since it discusses treatment with BRAF and MEK inhibitors, which are typically used in human melanoma, we can infer that the species is "Human". The tissue type is not specifically mentioned, but the discussion is about circulating tumor cells (CTCs) which are found in the bloodstream. The cell name is "Circulating Tumor Cell" (CTC). The markers discussed are MCSP, MCAM, and LNGFR. Therefore, the tuples based on the information given would be:
+
+1. ("Human", "Blood", "Circulating Tumor Cell", "MCSP")
+2. ("Human", "Blood", "Circulating Tumor Cell", "MCAM")
+3. ("Human", "Blood", "Circulating Tumor Cell", "LNGFR")
+
+none
+
+none
+
+none
+

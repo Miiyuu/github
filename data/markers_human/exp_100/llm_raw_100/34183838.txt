@@ -1,0 +1,115 @@
+none
+
+none
+
+none
+
+Based on the provided document, there are no specific cell markers (marker genes, signature genes, protein markers, or molecular markers) that are explicitly mentioned for distinguishing different cell types. The document discusses various immune cell types and their characteristics but does not provide specific markers in the format required. Therefore, the correct response is:
+
+none
+
+none
+
+Based on the provided text, there are no explicit mentions of cell markers in the format requested. The document primarily discusses gene expression and protein levels (such as RORγT, ICOS ligand, PD-L2) in the context of specific conditions or treatments, but it does not directly provide information about marker genes, signature genes, or protein markers used to distinguish different cell types. Therefore, the response is:
+
+none
+
+none
+
+none
+
+none
+
+none
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+Based on the provided document, the following cell markers have been identified. The information is presented in the requested format:
+
+1. ("Human", "null", "T cell", "PD-1")
+2. ("Human", "null", "T cell", "CD3")
+3. ("Human", "null", "B cell", "CD19")
+4. ("Human", "null", "B cell", "PD-L1")
+5. ("Human", "null", "B cell", "PD-L2")
+
+The species is inferred as "Human" based on the context (use of human-specific reagents and cell lines like HuT78 and Raji). The tissue type is not specified in the document, hence it is marked as "null". The cell names are derived from the context of the markers being used, such as T cells for PD-1 and CD3, and B cells for CD19, PD-L1, and PD-L2.
+
+none
+
+none
+
+none
+
+Based on the provided document, several cell markers are used for identifying different cell types through flow cytometry. The document does not specify the species, but it can be inferred that the study is conducted on human cells since it uses human-specific antibodies and a human inflammation panel. The tissue type is not explicitly mentioned, but the use of PBMCs (Peripheral Blood Mononuclear Cells) suggests that the cells are from blood.
+
+Here are the identified cell markers in the required format:
+
+1. ("Human", "Blood", "T cell", "CD3")
+2. ("Human", "Blood", "T helper cell", "CD4")
+3. ("Human", "Blood", "Cytotoxic T cell", "CD8a")
+4. ("Human", "Blood", "B cell", "CD20")
+5. ("Human", "Blood", "γδ T cell", "γδTCR")
+6. ("Human", "Blood", "Vδ2 T cell", "Vδ2-TCR")
+7. ("Human", "Blood", "Mucosal-associated invariant T cell (MAIT cell)", "Vα7.2 TCR")
+8. ("Human", "Blood", "Invariant natural killer T cell (iNKT cell)", "Vα24-Jα18")
+9. ("Human", "Blood", "Natural killer cell", "CD56")
+10. ("Human", "Blood", "T cell", "PD-1")
+
+These markers are used to identify and distinguish various cell types within the PBMC population.
+
+none
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+none
+
+none
+
+none
+
+Based on the provided document, the following cell markers can be identified and formatted into tuples as requested. The document provides information about different cell types defined by surface marker expression levels. Here are the extracted cell markers:
+
+1. ("Human", "null", "CD14+ monocyte", "CD14")
+2. ("Human", "null", "CD16+ monocyte", "CD16")
+3. ("Human", "null", "Dendritic cell (DC)", "HLA-DR")
+4. ("Human", "null", "B cell", "CD19")
+5. ("Human", "null", "Natural Killer (NK) cell", "CD56")
+6. ("Human", "null", "T cell", "CD3")
+7. ("Human", "null", "CD8+ T cell", "CD8")
+8. ("Human", "null", "Double Negative (DN) T cell", "CD4-CD8-")
+9. ("Human", "null", "CD4+ Treg cell", "CD4+CD25+CD127lo")
+10. ("Human", "null", "CD4+ Naive T cell", "CCR7+CD45RO-CD45RA+")
+11. ("Human", "null", "CD4+ Memory T cell", "CD45RO+CD45RA-")
+
+These tuples represent the species (Human), with the tissue type set to "null" since it's not specified in the document, the specific cell name, and the corresponding marker or combination of markers that define these cells.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+

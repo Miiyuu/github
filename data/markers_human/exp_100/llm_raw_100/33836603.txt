@@ -1,0 +1,88 @@
+Based on the provided text, the following cell markers have been identified:
+
+- ("Mouse", "Retina", "Microglia", "Aif1")
+- ("Mouse", "Retina", "Microglia", "Trem2")
+- ("Mouse", "Retina", "Microglia", "Csf1r")
+
+These markers are used to identify microglia in the retinal tissue of mice.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Microglia (MG0 cluster)", "Cx3cr1")
+2. ("Mouse", "Retina", "Microglia (MG0 cluster)", "Tmem119")
+3. ("Mouse", "Retina", "Microglia (MG0 cluster)", "Siglech")
+4. ("Mouse", "Retina", "Microglia (MG0 cluster)", "P2ry12")
+5. ("Mouse", "Retina", "Microglia (LcMG cluster)", "Cx3cr1")
+6. ("Mouse", "Retina", "Microglia (LcMG cluster)", "Tmem119")
+7. ("Mouse", "Retina", "Microglia (LcMG cluster)", "Siglech")
+8. ("Mouse", "Retina", "Microglia (LcMG cluster)", "P2ry12")
+9. ("Mouse", "Retina", "Myeloid cells", "Mrc1")
+10. ("Mouse", "Retina", "Myeloid cells", "CD163")
+11. ("Mouse", "Retina", "Myeloid cells", "Ccr2")
+12. ("Mouse", "Retina", "Monocyte-derived macrophages", "Cfp")
+13. ("Mouse", "Retina", "Monocyte-derived macrophages", "Ifitm3")
+14. ("Mouse", "Retina", "Monocyte-derived macrophages", "Ccr2")
+15. ("Mouse", "Retina", "Monocyte-derived macrophages", "Mrc1")
+16. ("Mouse", "Retina", "Monocyte-derived macrophages", "CD163")
+17. ("Mouse", "Retina", "Perivascular macrophages", "Cfp")
+18. ("Mouse", "Retina", "Perivascular macrophages", "Ifitm3")
+19. ("Mouse", "Retina", "Perivascular macrophages", "Ccr2")
+20. ("Mouse", "Retina", "Perivascular macrophages", "Mrc1")
+21. ("Mouse", "Retina", "Perivascular macrophages", "CD163")
+22. ("Mouse", "Retina", "Microglia (sMG1 cluster)", "Snca")
+23. ("Mouse", "Retina", "Microglia (sMG1 cluster)", "Ube2l6")
+24. ("Mouse", "Retina", "Microglia (sMG2 cluster)", "Mif")
+25. ("Mouse", "Retina", "Microglia (sMG2 cluster)", "Hmox1")
+26. ("Mouse", "Retina", "Microglia (sMG2 cluster)", "Prdx1")
+27. ("Mouse", "Retina", "Microglia (sMG2 cluster)", "Igf1")
+28. ("Mouse", "Retina", "Microglia (sMG2 cluster)", "Lpl")
+29. ("Mouse", "Retina", "Microglia (sMG2 cluster)", "Fabp5")
+30. ("Mouse", "Retina", "Microglia (sMG2 cluster)", "Lgals3")
+31. ("Mouse", "Retina", "Microglia (sMG2 cluster)", "Ccl3")
+32. ("Mouse", "Retina", "Microglia (sMG2 cluster)", "Ccl2")
+33. ("Mouse", "Retina", "Microglia (sMG2 cluster)", "Rip3")
+34. ("Mouse", "Retina", "Microglia (sMG2 cluster)", "Mlkl")
+
+These tuples represent the species, tissue type, cell name, and specific marker genes or proteins as described in the text.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Microglia", "Iba-1")
+2. ("Mouse", "Retina", "Microglia", "RIP1")
+3. ("Mouse", "Retina", "Microglia", "RIP3")
+4. ("Mouse", "Retina", "sMG2 cells", "RIP1")
+5. ("Mouse", "Retina", "sMG2 cells", "RIP3")
+6. ("Mouse", "Retina", "Vascular endothelial cells", "CD31")
+
+The document does not provide explicit species information for some parts, but given the context and the use of a mouse model (e.g., Rip3fl/fl;Cx3cr1-CRE mice), it is reasonable to assume that the species is "Mouse" for all the markers. The tissue type is consistently "Retina" throughout the document.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Necroptotic microglia", "RIP3")
+2. ("Mouse", "Retina", "Necroptotic microglia", "MLKL")
+3. ("Mouse", "Retina", "Microglia", "Iba-1")
+
+These markers are used to distinguish different subtypes of microglia in the context of retinal angiogenesis, particularly in response to hypoxic conditions.
+
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+1. **FGF2** is a marker for RIP3+CD11b+ necroptotic microglia in the retina of OIR (oxygen-induced retinopathy) mice.
+2. **Iba-1** is another marker for microglia, and it is used in conjunction with FGF2 to identify FGF2+Iba-1+ microglia.
+
+From this, we can form the following tuples:
+
+- ("Mouse", "Retina", "Necroptotic microglia", "FGF2")
+- ("Mouse", "Retina", "Microglia", "Iba-1")
+
+These markers are specifically mentioned in the context of identifying and characterizing microglia in the retina under conditions of oxygen-induced retinopathy.
+
+none
+
+none
+
+none
+
+The provided document does not contain specific information about cell markers used to distinguish different cell types. The text primarily discusses the role of FGF2 in angiogenesis and its regulation, particularly in the context of hypoxia and necroptosis in microglial cells, but it does not mention any marker genes, signature genes, protein markers, or other molecular markers that are specifically used to identify or differentiate cell types.
+

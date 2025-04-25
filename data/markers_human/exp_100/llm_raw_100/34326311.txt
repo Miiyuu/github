@@ -1,0 +1,79 @@
+Based on the provided text, here are the identified cell markers in the specified format:
+
+1. ("Human", "null", "Classical monocyte", "LYZ")
+2. ("Human", "null", "Classical monocyte", "CD14")
+3. ("Human", "null", "Classical monocyte", "FCGR3A-")
+4. ("Human", "null", "Non-classical monocyte", "LYZ")
+5. ("Human", "null", "Non-classical monocyte", "FCGR3A")
+6. ("Human", "null", "Intermediate monocyte", "CD14")
+7. ("Human", "null", "Intermediate monocyte", "FCGR3A")
+8. ("Human", "null", "NK cell", "GNLY")
+9. ("Human", "null", "NK cell", "NKG7")
+10. ("Human", "null", "Myeloid DC", "CD1C")
+11. ("Human", "null", "pDC dendritic cell", "CLEC4C")
+12. ("Human", "null", "T cell", "CD3E")
+13. ("Human", "null", "Naive CD4 T cell", "CD4")
+14. ("Human", "null", "Naive CD8 T cell", "CD8A")
+15. ("Human", "null", "Naive CD8 T cell", "CCR7")
+16. ("Human", "null", "CD8 cytotoxic lymphocyte", "CD8A")
+17. ("Human", "null", "CD8 cytotoxic lymphocyte", "GZMA")
+18. ("Human", "null", "Treg", "SELL")
+19. ("Human", "null", "Effector memory CD8 T cell", "GZMB")
+20. ("Human", "null", "Effector memory CD8 T cell", "PRF1")
+21. ("Human", "null", "MAIT", "TRAV1-2")
+22. ("Human", "null", "γδ T cell", "TRGV9")
+23. ("Human", "null", "γδ T cell", "TRDV2")
+24. ("Human", "null", "Proliferative T lymphocyte", "MKI67")
+25. ("Human", "null", "NKT cell", "NKG7")
+26. ("Human", "null", "B cell", "CD79A")
+27. ("Human", "null", "Naive B cell", "MS4A1")
+28. ("Human", "null", "Naive B cell", "CCR7")
+29. ("Human", "null", "Naive B cell", "SELL")
+30. ("Human", "null", "Memory B cell", "MS4A1")
+31. ("Human", "null", "Plasma cell", "MZB1")
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "CD8 CTLs", "CD3D")
+2. ("Human", "null", "CD8 CTLs", "PTPRC")
+3. ("Human", "null", "CD8 CTLs", "LCK")
+4. ("Human", "null", "CD8 CTLs", "CSK")
+5. ("Human", "null", "NK cells", "KLRC2/NKG2C")
+6. ("Human", "null", "NK cells", "FGFBP2/Ksp37")
+7. ("Human", "null", "NK cells", "LAG3")
+8. ("Human", "null", "NK cells", "GZMB")
+9. ("Human", "null", "NK cells", "CD38")
+10. ("Human", "null", "NK cells", "CXCR4")
+
+These tuples represent the species, tissue type (which is not specified in the text and hence marked as "null"), the cell name, and the marker gene or protein that characterizes the specific cell type as described in the document.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Blood", "NKT cell", "CXCR4")
+2. ("Human", "Blood", "MAIT cell", "IFNGR1")
+3. ("Human", "Blood", "MAIT cell", "STAT1")
+4. ("Human", "Blood", "MAIT cell", "TNFRSF1B")
+5. ("Human", "Blood", "MAIT cell", "TNFAIP3")
+6. ("Human", "Blood", "MAIT cell", "TNFSF8")
+7. ("Human", "Blood", "Monocyte", "CD83")
+8. ("Human", "Blood", "Monocyte", "FCGR1A")
+9. ("Human", "Blood", "Monocyte", "HLA-DRA")
+10. ("Human", "Blood", "Monocyte", "HLA-DPB1")
+11. ("Human", "Blood", "Monocyte", "HLA-DMA")
+12. ("Human", "Blood", "Non-classical monocyte", "FCGR3A")
+
+These tuples represent the species, tissue type, cell name, and marker as per your instructions.
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "null", "NK cell", "CD38")
+2. ("Human", "null", "NK cell", "CXCR4")
+3. ("Human", "null", "NKT cell", "CXCR4")
+4. ("Human", "null", "MAIT cell", "CXCR4")
+
+The species is identified as "Human" based on the context of the study. The tissue type is not specified in the document, so it is marked as "null". The cell names and their corresponding markers are extracted from the text, specifically where the document mentions the expression of these markers in the respective cell types.
+
+none
+

@@ -1,0 +1,77 @@
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("null", "Retina", "Endothelial cell", "GS-lectin")
+2. ("null", "Retina", "Muller cell", "Aquaporin-4")
+3. ("null", "Retina", "Rod bipolar cell", "PKC-alpha")
+4. ("null", "Retina", "Horizontal cell", "Neurofilament-H")
+5. ("null", "Retina", "Horizontal cell", "Calbindin")
+6. ("null", "Retina", "RGC axons", "Neurofilament-H")
+7. ("null", "Retina", "Cholinergic amacrine cells", "Calretinin")
+8. ("null", "Retina", "Amacrine and RGC subsets", "Calretinin")
+9. ("null", "Retina", "Glutamatergic synapses (presynaptic)", "Vesicular glutamate transporter-1")
+10. ("null", "Retina", "Postsynaptic density", "Postsynaptic density protein 95")
+
+These tuples are constructed based on the information given in the document where specific proteins or genes are used to mark or identify particular cell types within the retina.
+
+Based on the provided text, the following cell markers can be identified:
+
+- Bnip3 is up-regulated in all INL (Inner Nuclear Layer) cells.
+- Bsg (Basigin/CD147) is up-regulated in INL cells but down-regulated in ECs (Endothelial Cells).
+
+Since the species and tissue type are not explicitly mentioned in the document, we will use "null" for those fields. The information about the cell types and their respective markers can be used to form the tuples.
+
+The resulting tuples are:
+- ("null", "null", "INL cell", "Bnip3")
+- ("null", "null", "INL cell", "Bsg")
+- ("null", "null", "EC", "Bsg")
+
+Here's the formatted output:
+
+```python
+[
+    ("null", "null", "INL cell", "Bnip3"),
+    ("null", "null", "INL cell", "Bsg"),
+    ("null", "null", "EC", "Bsg")
+]
+```
+
+none
+
+Based on the provided document, there is no explicit mention of specific cell markers associated with particular cell types in a format that allows for the creation of tuples as specified. The text discusses various genes and their expression patterns but does not directly link these to specific cell types as markers. For instance, it mentions several genes (like Abca8a, Aqp4, Car2, etc.) and cell types (like Amacrine cells, Astrocytes, Cone bipolar cells, etc.), but it does not specify which genes are markers for which cell types.
+
+Therefore, based on the requirements, the appropriate response is:
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Muller glia", "Vegfa")
+2. ("Mouse", "Retina", "Muller glia", "Ndufa4l2")
+3. ("Mouse", "Retina", "Muller glia", "Bsg")
+4. ("Mouse", "Retina", "Muller glia", "Mt1")
+5. ("Mouse", "Retina", "Muller glia", "Hes1")
+6. ("Mouse", "Retina", "Muller glia", "Nupr1")
+7. ("Mouse", "Retina", "Muller glia", "Vim")
+8. ("Mouse", "Retina", "Muller glia", "Gfap")
+
+These markers are specifically mentioned as being up- or down-regulated in Muller glia cells within the NdpKO retina, indicating their potential use as cell markers for this cell type.
+
+none
+
+Based on the provided document, there is no explicit mention of specific markers for the cell types listed. The document discusses gene expression changes and patterns in various cell types under different conditions but does not directly state which genes are used as markers to identify these cells. Therefore, based on the given requirements, the answer is:
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Cortical tissue", "Endothelial cell", "Pecam1")
+2. ("Mouse", "Cortical tissue", "Tip cell", "Apln")
+3. ("Mouse", "Cortical tissue", "Tip cell", "Angpt2")
+4. ("Mouse", "Cortical tissue", "Arterial cell", "Fbln5")
+5. ("Mouse", "Cortical tissue", "Venous cell", "Nrp2")
+6. ("Mouse", "Cortical tissue", "Capillary cell", "Ddc")
+
+These tuples are based on the information given in the document about specific endothelial cell types and their corresponding markers.
+

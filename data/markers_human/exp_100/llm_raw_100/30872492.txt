@@ -1,0 +1,262 @@
+Based on the provided document, the following cell markers are identified:
+
+1. ("Mouse", "Multiple tissues (heart, fat, dermis, etc.)", "MRTMs (Lyve1loMHCIIhiCX3CR1hi)", "Lyve1, MHCII, CX3CR1")
+2. ("Mouse", "Multiple tissues (heart, fat, dermis, etc.)", "MRTMs (Lyve1hiMHCIIlo)", "Lyve1, MHCII")
+3. ("Human", "Lung and omental and subcutaneous fat tissues", "MRTMs (Lyve1loMHCIIhiCX3CR1hi)", "Lyve1, MHCII, CX3CR1")
+4. ("Human", "Lung and omental and subcutaneous fat tissues", "MRTMs (Lyve1hiMHCIIlo)", "Lyve1, MHCII")
+
+These tuples capture the species, tissue type, cell name, and specific markers as described in the document.
+
+Based on the provided document, the following cell markers have been identified for different cell types within murine tissues:
+
+1. ("Mouse", "Lung", "Interstitial Macrophage (Lyve1loMHCIIhiCX3CR1hi)", "Lyve1loMHCIIhiCX3CR1hi")
+2. ("Mouse", "Lung", "Interstitial Macrophage (Lyve1hiMHCIIloCX3CR1lo)", "Lyve1hiMHCIIloCX3CR1lo")
+3. ("Mouse", "Fat", "Interstitial Macrophage (Lyve1loMHCIIhiCX3CR1hi)", "Lyve1loMHCIIhiCX3CR1hi")
+4. ("Mouse", "Fat", "Interstitial Macrophage (Lyve1hiMHCIIloCX3CR1lo)", "Lyve1hiMHCIIloCX3CR1lo")
+5. ("Mouse", "Heart", "Interstitial Macrophage (Lyve1loMHCIIhiCX3CR1hi)", "Lyve1loMHCIIhiCX3CR1hi")
+6. ("Mouse", "Heart", "Interstitial Macrophage (Lyve1hiMHCIIloCX3CR1lo)", "Lyve1hiMHCIIloCX3CR1lo")
+7. ("Mouse", "Dermis", "Interstitial Macrophage (Lyve1loMHCIIhiCX3CR1hi)", "Lyve1loMHCIIhiCX3CR1hi")
+8. ("Mouse", "Dermis", "Interstitial Macrophage (Lyve1hiMHCIIloCX3CR1lo)", "Lyve1hiMHCIIloCX3CR1lo")
+
+These markers are used to distinguish between two distinct subpopulations of interstitial macrophages across multiple tissue types in mice.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "H2-Aa")
+2. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "H2-Ab1")
+3. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "H2-DMb1")
+4. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "H2-Eb1")
+5. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Cx3cr1")
+6. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII-", "Lyve1")
+7. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII-", "Cd38")
+8. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Ccr2")
+9. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Cd63")
+10. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Maf")
+11. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Fcgrt")
+12. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Cd36")
+13. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Marco")
+14. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Ccr2")
+15. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Ceacam1")
+16. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Ly6e")
+17. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Cx3cr1")
+18. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Cd38")
+19. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "Cd163")
+20. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "S1pr1")
+21. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "CX3CR1")
+22. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "CD44")
+23. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "CLEC7A")
+24. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII+", "CD72")
+25. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII-", "CD36")
+26. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII-", "CD38")
+27. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII-", "C5AR1 (CD88)")
+28. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII-", "CD169")
+29. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII-", "Lyve1")
+30. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII-", "Mrc1 (CD206)")
+31. ("Mouse", "Lung", "IM (Interstitial Macrophage) MHCII-", "MafB")
+
+These tuples are based on the differential expression of specific markers in interstitial macrophages (IMs) within the lung tissue of mice, as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Lung", "Dendritic cell", "ZBTB46")
+2. ("Mouse", "Lung", "Macrophage", "Lyve1")
+3. ("Mouse", "Lung", "Macrophage", "MHCII")
+4. ("Mouse", "Lung", "Monocyte", "S100a4")
+5. ("Mouse", "Lung", "Alveolar macrophage", "S100a4")
+6. ("Mouse", "Lung", "Monocyte", "Cd45.1")
+7. ("Mouse", "Lung", "Monocyte", "Cd45.2")
+8. ("Mouse", "Lung", "Monocyte", "Ccr2")
+9. ("Mouse", "Lung", "Monocyte", "Ly6C")
+
+These tuples are derived from the text where specific markers are mentioned in the context of distinguishing different cell types within the mouse lung tissue.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Lung", "Lyve1loMHCIIhi macrophages", "CX3CR1")
+2. ("Mouse", "Lung", "Lyve1hiMHCIIlo macrophages", "CX3CR1")
+3. ("Mouse", "Lung", "Tissue macrophages", "Slco2b1")
+4. ("Mouse", "Lung", "AMs and IMs", "MerTK")
+5. ("Mouse", "Lung", "AMs and IMs", "CD64")
+
+These tuples are based on the information given in the text, where specific markers are associated with particular cell types within the mouse lung tissue.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "CX3CR1-")
+2. ("Mouse", "Lung", "Lyve1hiMHCIIlo IMs", "CX3CR1+")
+3. ("Mouse", "Brown adipose tissue", "ATMs", "CX3CR1-")
+4. ("Mouse", "Brown adipose tissue", "ATMs", "CX3CR1+")
+5. ("Mouse", "Heart", "AVMs", "CX3CR1+")
+6. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "H2-Eb1")
+7. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "Cd74")
+8. ("Mouse", "Lung", "Lyve1hiMHCIIlo IMs", "Lyve1")
+9. ("Mouse", "Lung", "Lyve1hiMHCIIlo IMs", "Mrc1")
+
+These tuples reflect the specific marker genes or proteins associated with different cell types in various tissues as described in the text.
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Mouse", "Lung", "Lyve1hiMHCIIlo IMs", "Lyve1")
+2. ("Mouse", "Lung", "Lyve1hiMHCIIlo IMs", "Timd4")
+3. ("Mouse", "Lung", "Lyve1hiMHCIIlo IMs", "Cd5l")
+4. ("Mouse", "Lung", "Lyve1hiMHCIIlo IMs", "Fcna")
+5. ("Mouse", "Lung", "Lyve1hiMHCIIlo IMs", "Vsig4")
+6. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "Axl")
+7. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "Ccr2")
+8. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "Cx3cr1")
+9. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "H2-DMa")
+10. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "H2-Aa")
+11. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "H2-Eb1")
+12. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "H2-Ab1")
+13. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "Cd74")
+14. ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "H2-K1")
+
+The document mentions these markers in the context of distinguishing between Lyve1hiMHCIIlo and Lyve1loMHCIIhi interstitial macrophage (IM) subsets across different tissues, with a specific focus on the lung tissue. The species is explicitly stated as mouse, and the tissue type is specified as the lung.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Lung", "Lyve1loMHCIIhi hIMs", "CXCR4")
+2. ("Human", "Lung", "Lyve1loMHCIIhi hIMs", "CLEC10A")
+3. ("Human", "Lung", "Lyve1loMHCIIhi hIMs", "CCL17")
+4. ("Human", "Lung", "Lyve1hiMHCIIlo hIMs", "MARCO")
+5. ("Human", "Lung", "Lyve1hiMHCIIlo hIMs", "APOE")
+6. ("Human", "Lung", "Lyve1hiMHCIIlo hIMs", "CD163")
+7. ("Human", "Lung", "CD45+CD11b+CD14+CD16−human lung macrophages (CD64+)", "CD11b")
+8. ("Human", "Lung", "CD45+CD11b+CD14+CD16−human lung macrophages (CD64+)", "CD169")
+9. ("Human", "Lung", "CD45+CD11b+CD14+CD16−human lung macrophages (CD64+)", "CD206")
+10. ("Human", "Lung", "CD45+CD11b+CD14+CD16−human lung macrophages (CD64+)", "Lyve1")
+11. ("Human", "Lung", "Lyve1+ cells", "HLA-DR")
+12. ("Human", "Lung", "Lyve1+ cells", "CX3CR1")
+
+These tuples are based on the specific mentions of cell types and their associated markers in the document.
+
+Based on the provided text, there is no explicit mention of specific marker genes, signature genes, protein markers, or molecular markers that are used to distinguish different cell types. The document discusses different populations of macrophages (Lyve1loMHCIIhi and Lyve1hiMHCIIlo) and their characteristics, but it does not provide specific markers in the format required.
+
+Therefore, the response is:
+
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Brown adipose tissue", "Sympathetic neuron–associated macrophages", "CX3CR1")
+2. ("Human", "null", "Macrophages", "Lyve1")
+3. ("Mouse", "null", "Macrophages", "Lyve1")
+4. ("Mouse", "Arterial", "Macrophages", "Lyve1")
+
+The text does not specify a particular tissue type for the human and mouse Lyve1+ macrophages, so "null" is used for the "Tissue Type" in those cases. Additionally, the arterial macrophages are described as being associated with blood vessels, but since no specific tissue other than "arterial" is mentioned, "Arterial" is used for the "Tissue Type" in that case.
+
+Based on the provided text, the following cell markers can be identified and formatted as requested:
+
+1. ("Mouse", "Lung", "Macrophage (blood vessel associated)", "Lyve1hiMHCIIlo")
+2. ("Mouse", "Skin", "Macrophage (blood vessel associated)", "Lyve1hiMHCIIlo")
+3. ("Mouse", "Heart", "Macrophage (blood vessel associated)", "Lyve1hiMHCIIlo")
+4. ("Mouse", "Lung", "Macrophage (nerve associated)", "Lyve1loMHCIIhi")
+5. ("Mouse", "Skin", "Macrophage (nerve associated)", "Lyve1loMHCIIhi")
+6. ("Mouse", "Heart", "Macrophage (nerve associated)", "Lyve1loMHCIIhi")
+7. ("Mouse", "Lung", "Macrophage", "CD68")
+8. ("Mouse", "Skin", "Macrophage", "CD68")
+9. ("Mouse", "Heart", "Macrophage", "CD68")
+10. ("Mouse", "Lung", "Blood vessel", "CD31")
+11. ("Mouse", "Skin", "Blood vessel", "CD31")
+12. ("Mouse", "Heart", "Blood vessel", "CD31")
+13. ("Mouse", "Lung", "Nerve", "TUBB3")
+14. ("Mouse", "Skin", "Nerve", "TUBB3")
+15. ("Mouse", "Heart", "Nerve", "TUBB3")
+16. ("Mouse", "null", "Macrophage (nerve associated)", "CX3CR1")
+
+Each tuple represents a specific marker for a particular cell type within a tissue from the species mentioned. The document does not specify all tissue types for some markers, hence "null" is used in those cases.
+
+请求失败，状态码: 429, 错误信息: Requests rate limit exceeded, please try again later.
+
+Based on the provided text, the following cell markers can be identified:
+
+- ("Mouse", "Lung", "Lyve1hiMHCIIlo IMs", "Lyve1")
+- ("Mouse", "Lung", "Lyve1loMHCIIhi IMs", "MHCII")
+- ("Mouse", "Heart", "Lyve1hiMHCIIlo IMs", "Lyve1")
+- ("Mouse", "Fat", "Lyve1hiMHCIIlo IMs", "Lyve1")
+
+These tuples are based on the differential expression of Lyve1 and MHCII in different populations of immune cells (IMs) across various tissues. The species is consistently "Mouse" as per the context, and the tissue types and cell names are directly mentioned or inferred from the experimental conditions described.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Lung", "IM (Interstitial Macrophage)", "Lyve1hiMHCIIlo")
+2. ("Mouse", "Lung", "IM (Interstitial Macrophage)", "Lyve1loMHCIIhi")
+
+These markers are used to distinguish between two subpopulations of interstitial macrophages in the lung tissue of mice.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Lung", "Lyve1hiMHCIIlo IM (Interstitial Macrophage)", "Lyve1")
+2. ("Mouse", "Lung", "Lyve1hiMHCIIlo IM (Interstitial Macrophage)", "MHCII")
+3. ("Mouse", "Lung", "Inflammatory cells", "SiglecF-")
+4. ("Mouse", "Lung", "Inflammatory cells", "MerTK+")
+5. ("Mouse", "Lung", "Inflammatory cells", "CD64+")
+6. ("Mouse", "Lung", "Macrophages", "F4/80")
+7. ("Mouse", "Lung", "Macrophages", "CD64")
+8. ("Mouse", "Lung", "Macrophages", "MerTK")
+
+These tuples are based on the information that the document provides about different cell types and their associated markers in the context of the mouse lung tissue.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "null", "MRTMs (Macrophage-Related Tissue Macrophages)", "Lyve1")
+2. ("Mouse", "null", "MRTMs (Macrophage-Related Tissue Macrophages)", "MHCII")
+
+These markers are used to distinguish between two subpopulations of MRTMs: Lyve1hiMHCIIlo and Lyve1loMHCIIhi. The document does not specify a single tissue type for these markers but mentions that they are found across various tissues including fat, heart, bladder, mammary gland, muscle, pancreas, uterus, skin, brown adipose tissue, diaphragm, ganglia, trachea, tongue, testis, and meninges. Since no specific tissue is consistently associated with these markers in the context provided, "null" is used for the "Tissue Type" field.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Lung", "MRTMs (Macrophage-like cells)", "Lyve1")
+2. ("Mouse", "Lung", "MRTMs (Macrophage-like cells)", "MHCII")
+3. ("Mouse", "Lung", "Monocytes", "Cd45.1")
+4. ("Mouse", "Lung", "Monocytes", "CD115")
+5. ("Mouse", "Lung", "Monocytes", "CD11b")
+6. ("Mouse", "Lung", "Monocytes", "Ly6C")
+7. ("Mouse", "Lung", "Macrophages", "CD68")
+8. ("Mouse", "Lung", "Endothelial cells", "CD31")
+
+These tuples are derived from the context where specific markers are used to identify or distinguish certain cell types within the mouse lung tissue.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Ear tissue", "Endothelial cell", "CD31")
+2. ("Mouse", "Ear tissue", "Lymphatic endothelial cell", "LYVE-1")
+3. ("Mouse", "Ear tissue", "Macrophage", "CD68")
+4. ("Mouse", "null", "Monocyte-derived macrophages", "CX3CR1")
+5. ("Mouse", "Adipose tissue", "Macrophage", "LYVE-1")
+
+The information has been extracted from the methods and results sections where specific markers were used to identify different cell types in various tissues.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "null", "Classical dendritic cells and their committed progenitors", "Zbtb46")
+2. ("Human and Mouse", "Mucosal tissue", "CD11b+ dendritic cells", "IRF4")
+3. ("Human", "null", "CD141hi cross-presenting dendritic cells", "CD141")
+4. ("Mouse", "null", "Nonlymphoid dendritic cells", "CD103")
+5. ("Mouse", "Lymphatic endothelial cells", "Lymphatic endothelial cells", "Sphingosine kinase")
+6. ("null", "Yolk sac", "Definitive hemogenic endothelium", "LYVE1")
+7. ("Mouse", "null", "Tissue macrophages", "Multiple genes (profiles and pathways)")
+8. ("null", "Arterial", "Macrophages", "LYVE-1")
+
+Please note that for some entries, the "Species" or "Tissue Type" fields were not explicitly stated in the text, so "null" was used as a placeholder. Additionally, in the case of mouse tissue macrophages, specific marker genes were not listed, only that gene-expression profiles and transcriptional regulatory pathways underlie their identity, hence "Multiple genes (profiles and pathways)" is indicated.
+
+Based on the provided document, I have identified the following cell markers. However, the document does not provide complete information for all fields in some cases. I will fill in "null" where specific information is missing.
+
+1. ("Mouse", "null", "Endothelial cell", "Cdh5") - This marker is mentioned in the context of a novel endothelial-specific membrane protein, which is referenced but not explicitly named as Cdh5 in the given text. The reference to M. G. Lampugnani et al., 1992, suggests it, but the direct association with Cdh5 is inferred.
+   
+2. ("null", "null", "Lymphatic endothelial cells", "Ephrin-B2") - Ephrin-B2 is noted as controlling VEGF-induced angiogenesis and lymphangiogenesis, indicating its role as a marker for lymphatic endothelial cells (Wang et al., 2010).
+
+3. ("null", "null", "Dendritic cells (cDC1 and cDC2)", "null") - This entry is incomplete because while the document mentions the identification of cDC1- and cDC2-committed DC progenitors, it does not specify a particular marker gene or protein (Schlitzer et al., 2015).
+
+4. ("null", "null", "Regulatory T cells (Tregs)", "Foxp3") - The document refers to the induction of Foxp3+ regulatory T cells, suggesting Foxp3 as a marker for these cells (Onodera et al., 2015).
+
+Since the third tuple has an empty "Marker" field, it should be excluded according to the instructions. Therefore, the final list of tuples is:
+
+- ("Mouse", "null", "Endothelial cell", "Cdh5")
+- ("null", "null", "Lymphatic endothelial cells", "Ephrin-B2")
+- ("null", "null", "Regulatory T cells (Tregs)", "Foxp3")
+
+If the document did not contain any clear marker information, the response would be "none". In this case, there are valid entries, so we do not return "none".
+
+none
+

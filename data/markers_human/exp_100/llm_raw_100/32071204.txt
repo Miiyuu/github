@@ -1,0 +1,109 @@
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Amacrine and horizontal cells", "Ptf1a")
+2. ("Mouse", "Retina", "Amacrine and horizontal cells", "Tfap2a")
+3. ("Mouse", "Retina", "Amacrine and horizontal cells", "Tfap2b")
+4. ("Mouse", "Retina", "Amacrine and horizontal cells", "Prox1")
+5. ("Mouse", "Retina", "Amacrine and horizontal cells", "Lhx9")
+6. ("Mouse", "Retina", "Photoreceptor cells", "Otx2")
+7. ("Mouse", "Retina", "Photoreceptor cells", "Crx")
+8. ("Mouse", "Retina", "Photoreceptor cells", "Nrl")
+9. ("Mouse", "Retina", "Photoreceptor cells", "Prdm1")
+10. ("Mouse", "Retina", "Photoreceptor cells", "Rxrg")
+11. ("Mouse", "Retina", "Photoreceptor cells", "Pdc")
+12. ("Mouse", "Retina", "Photoreceptor cells", "Gnat2")
+13. ("Mouse", "Retina", "Photoreceptor cells", "Gnb3")
+14. ("Mouse", "Retina", "Photoreceptor cells", "Abca4")
+15. ("Mouse", "Retina", "RPCs (early-born cell types including RGCs, amacrine, and horizontal cells)", "Ikzf1")
+16. ("Mouse", "Retina", "RPCs (mid/late-born cell types including rod and bipolar cells)", "Casz1")
+
+These tuples are derived from the text, where specific genes or proteins are associated with particular cell types in the mouse retina.
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Retina", "Photoreceptor cell", "Rxrg")
+2. ("Mouse", "Retina", "Photoreceptor cell", "Nr2e3")
+3. ("Mouse", "Retina", "Retinal ganglion cell", "Pou4f3")
+4. ("Mouse", "Retina", "Retinal ganglion cell", "Ebf3")
+5. ("Mouse", "Retina", "Retinal ganglion cell", "Irx2")
+6. ("Mouse", "Retina", "Retinal ganglion cell", "Tfap2d")
+7. ("Mouse", "Retina", "Retinal ganglion cell", "Gap43")
+8. ("Mouse", "Retina", "Retinal ganglion cell", "Nell2")
+9. ("Mouse", "Retina", "Retinal ganglion cell", "Rbpms2")
+10. ("Mouse", "Retina", "Retinal ganglion cell", "Nefm")
+11. ("Mouse", "Retina", "Retinal ganglion cell", "Irx3")
+12. ("Mouse", "Retina", "Retinal ganglion cell", "Zic1")
+13. ("Mouse", "Retina", "Retinal ganglion cell", "Mapt")
+
+These tuples are based on the differential expression and specific mention of these genes as markers for photoreceptors and retinal ganglion cells in the context of the study.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Retinal ganglion cells (RGCs)", "Pou4f1/Brn3a")
+2. ("Mouse", "Retina", "Retinal ganglion cells (RGCs)", "Rxrg")
+3. ("Mouse", "Retina", "Horizontal cells", "Lhx1")
+
+These markers are used to identify specific cell types within the mouse retina, as indicated by their differential expression in various experimental conditions.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Horizontal cell", "Foxn4")
+2. ("Mouse", "Retina", "Amacrine cell", "Pax6")
+3. ("Mouse", "Retina", "Amacrine cell", "Calretinin")
+4. ("Mouse", "Retina", "Amacrine cell", "GAD65")
+5. ("Mouse", "Retina", "Bipolar cell", "Chx10")
+6. ("Mouse", "Retina", "Retinal ganglion cell (RGC)", "Pou4f1")
+7. ("Mouse", "Retina", "Müller cell", "Sox9")
+8. ("Mouse", "Retina", "Cone cell", "Cone opsin")
+9. ("Mouse", "Retina", "Cone cell", "Arrestin")
+10. ("Mouse", "Retina", "Rod bipolar cell", "Protein kinase Cα")
+11. ("Mouse", "Retina", "Synapse", "Bassoon")
+12. ("Mouse", "Retina", "Synapse", "Ribeye")
+13. ("Mouse", "Retina", "Synapse", "Synaptophysin")
+
+The document does not explicitly state that Foxn4 is a marker for horizontal cells, but it implies that the loss of Foxn4 leads to the loss of horizontal cells, so it's inferred as a marker. The other markers are directly associated with their respective cell types in the text.
+
+Based on the provided text, I identified several markers that are used to distinguish different cell types in the context of retinal development and differentiation. Here are the relevant tuples:
+
+1. ("Mouse", "Retina", "Retinal ganglion cells (RGCs)", "Pou4f1")
+2. ("Mouse", "Retina", "Horizontal cells", "Lhx1")
+3. ("Mouse", "Retina", "Photoreceptor cells", "Otx2")
+4. ("Mouse", "Retina", "Photoreceptor cells", "Crx")
+5. ("Mouse", "Retina", "Photoreceptor cells", "Nrl")
+6. ("Mouse", "Retina", "Photoreceptor cells", "Nr2e3")
+7. ("Mouse", "Retina", "Photoreceptor cells", "Thrb")
+8. ("Mouse", "Retina", "Photoreceptor cells", "Prdm1")
+9. ("Mouse", "Retina", "Photoreceptor cells", "Rxrg")
+10. ("Mouse", "Retina", "Amacrine and horizontal cells", "Foxn4")
+11. ("Mouse", "Retina", "Amacrine and horizontal cells", "Ptf1a")
+12. ("Mouse", "Retina", "Amacrine and horizontal cells", "Ikzf1")
+13. ("Mouse", "Retina", "Amacrine and horizontal cells", "Casz1")
+
+These tuples are derived from the information given in the document, which discusses various genes and their roles in specifying and differentiating retinal cell types.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Retina", "Amacrine cells", "Pax6")
+2. ("Mouse", "Retina", "Amacrine cells", "Calretinin")
+3. ("Mouse", "Retina", "Amacrine cells", "GAD65")
+4. ("Mouse", "Retina", "Amacrine cells", "Calbindin")
+5. ("Mouse", "Retina", "Horizontal cells", "Lhx1")
+6. ("Mouse", "Retina", "Horizontal cells", "Calbindin")
+7. ("Mouse", "Retina", "Bipolar cells", "Chx10")
+8. ("Mouse", "Retina", "Müller cells", "Sox9")
+9. ("Mouse", "Retina", "Retinal ganglion cells (RGCs)", "Pou4f1")
+10. ("Mouse", "Retina", "Cones", "Cone opsins (M and S opsins)")
+11. ("Mouse", "Retina", "Cones", "Cone arrestin")
+
+These tuples are derived from the specific cell type markers mentioned in the text, which were used to identify different retinal cell types in the context of Foxn4 ablation.
+
+none
+
+none
+

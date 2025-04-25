@@ -1,0 +1,8 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "PBMC", "Platelet", "Tubb1")
+2. ("Human", "PBMC", "B-cell", "Cd79a")
+3. ("Human", "PBMC", "Monocyte", "Lyz")
+
+The species is inferred to be Human as PBMC (Peripheral Blood Mononuclear Cells) are being discussed, and such studies are commonly conducted in human samples unless otherwise specified. The tissue type is PBMC, which is a mixture of different blood cell types. The specific cell names and their corresponding markers are directly mentioned in the text.
+

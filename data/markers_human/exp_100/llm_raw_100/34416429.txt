@@ -1,0 +1,64 @@
+none
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Esophageal tissue", "Stratified esophageal cells", "TP63")
+2. ("Human", "Esophageal tissue", "Glandular BE cells", "EPCAM")
+3. ("Human", "Esophageal tissue", "Goblet cells", "MUC2")
+4. ("Human", "Esophageal tissue", "Goblet cells", "MUC5AC")
+5. ("Human", "Esophageal tissue", "Goblet cells", "TFF1")
+6. ("Human", "Esophageal tissue", "Goblet cells", "TFF2")
+7. ("Human", "Esophageal tissue", "Goblet cells", "TFF3")
+8. ("Human", "Esophageal tissue", "Immune cells", "CD247")
+9. ("Human", "Esophageal tissue", "Immune cells", "CD3D")
+10. ("Human", "Esophageal tissue", "Immune cells", "CD3E")
+11. ("Human", "Esophageal tissue", "Columnar-epithelial cells (intestinal-like)", "MUC2")
+12. ("Human", "Esophageal tissue", "Columnar-epithelial cells (cardia-like)", "MUC5AC")
+13. ("Human", "Esophageal tissue", "Columnar-epithelial cells (cardia-like)", "TFF1")
+14. ("Human", "Esophageal tissue", "Columnar-epithelial cells (cardia-like)", "TFF2")
+
+These tuples represent the specific markers used to identify different cell types within the human esophageal tissue as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Esophageal tissue", "Epithelial cell", "CDH1")
+2. ("Human", "Esophageal tissue", "Lamina propria cell", "VIM")
+3. ("Human", "Squamous epithelium (SE) epithelium", "SE-specific cell", "TP63")
+4. ("Human", "Barrett's esophagus (BE)", "BE-specific cell", "EPCAM")
+5. ("Human", "Barrett's esophagus (BE)", "BE-specific cell", "TFF3")
+6. ("Human", "Barrett's esophagus (BE)", "BE-specific cell", "TFF1")
+7. ("Human", "Barrett's esophagus (BE)", "BE-specific cell", "TFF2")
+8. ("Human", "Squamous epithelium (SE)", "SE-specific cell", "KRT4")
+9. ("Human", "Squamous epithelium (SE)", "SE-specific cell", "KRT15")
+
+These tuples represent the species, tissue type, specific cell name, and the marker gene or protein as described in the document.
+
+Based on the provided document, the following cell markers have been identified. The information has been formatted as per your requirements:
+
+1. ("Human", "Esophageal tissue", "Squamous epithelial cell", "TP63")
+2. ("Human", "Esophageal tissue", "Columnar epithelial cell", "EPCAM")
+3. ("Human", "Esophageal tissue", "Intestinal-type cell", "MUC2")
+4. ("Human", "Esophageal tissue", "Intestinal-type cell", "VIL")
+5. ("Human", "Esophageal tissue", "Cardia-stomach cell", "CLDN18")
+6. ("Human", "Esophageal tissue", "Cardia-stomach cell", "TFF2")
+
+The document does not provide specific marker information for other species or tissue types, and all the markers are related to human esophageal tissue.
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+
+none
+

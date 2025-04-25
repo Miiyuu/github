@@ -1,0 +1,18 @@
+none
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Colonic tissue", "CD8+ T cells (terminally differentiated, dysfunctional)", "IL-26")
+2. ("null", "Skin", "Tissue-resident memory T cells", "RUNX3")
+3. ("null", "Skin", "Tissue-resident memory T cells", "LGALS3")
+
+The document does not provide explicit species information for the skin tissue-resident memory T cells, hence "null" is used for the "Species" field in those cases.
+
+none
+
+none
+

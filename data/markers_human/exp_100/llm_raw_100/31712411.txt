@@ -1,0 +1,122 @@
+Based on the provided document, the following cell markers have been identified:
+
+- ("Human", "RPE-choroid", "Choriocapillaris endothelial cell", "RGCC")
+
+The marker RGCC (Regulator of Cell Cycle) is specifically mentioned as being highly and specifically expressed in choriocapillaris endothelial cells, with particular relevance to its up-regulation in a donor diagnosed with age-related macular degeneration (AMD). This fits the criteria for a cell marker as it distinguishes these cells from other types within the RPE-choroid.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Choroid", "Endothelial cell", "HLA class I self-peptides")
+2. ("Human", "Choroid", "Endothelial cell", "ICAM-1")
+3. ("Human", "Choroid", "Endothelial cell", "CA4")
+
+These markers are specifically mentioned in the context of choroidal endothelial cells. If more specific information about other cell types or additional markers is needed, it would require a more detailed analysis or additional data from the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "RPE/choroid", "Schwann cell", "PLP1")
+2. ("Human", "RPE/choroid", "Endothelial cell", "VWF")
+3. ("Human", "RPE/choroid", "Endothelial cell", "CD34")
+4. ("Human", "RPE/choroid", "Endothelial cell", "ICAM2")
+5. ("Human", "RPE/choroid", "Smooth muscle cell", "ACTA2")
+6. ("Human", "RPE/choroid", "Smooth muscle cell", "RGS5")
+7. ("Human", "RPE/choroid", "Fibroblast", "IGF2")
+8. ("Human", "RPE/choroid", "RPE cell", "RPE65")
+9. ("Human", "RPE/choroid", "RPE cell", "BEST1")
+10. ("Human", "RPE/choroid", "Leukocyte", "PTPRC")
+11. ("Human", "RPE/choroid", "B cell", "CD79A")
+12. ("Human", "RPE/choroid", "T cell/NK cell", "CD2")
+13. ("Human", "RPE/choroid", "Monocyte/Macrophage", "AIF1")
+14. ("Human", "RPE/choroid", "Mast cell", "KIT")
+
+These tuples follow the specified format and are based on the information given in the document.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "Retina", "Schwann cell (myelinating)", "MPZ")
+2. ("Human", "Retina", "Schwann cell (myelinating)", "MBP")
+3. ("Human", "Retina", "Schwann cell (nonmyelinating)", "SCN7A")
+4. ("Human", "Retina", "Schwann cell (nonmyelinating)", "NGFR")
+5. ("Human", "Retina", "Schwann cell (nonmyelinating)", "NCAM1")
+6. ("Human", "Retina", "Schwann cell (nonmyelinating)", "L1CAM")
+7. ("Human", "Retina", "RPE (macular)", "CXCL14")
+8. ("Human", "Retina", "RPE (macular)", "WFDC1")
+9. ("Human", "Retina", "RPE (peripheral)", "TFPI2")
+10. ("Human", "Retina", "RPE (peripheral)", "IGFBP5")
+
+These tuples are based on the differential expression and enrichment of specific genes in different cell types as described in the document.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("H. sapiens", "RPE/choroid", "Endothelial cell", "CLDN5")
+2. ("H. sapiens", "RPE/choroid", "Endothelial cell", "SLC2A1")
+3. ("H. sapiens", "RPE/choroid", "Endothelial cell", "VCAM1")
+4. ("H. sapiens", "RPE/choroid", "Endothelial cell", "CCL2")
+5. ("H. sapiens", "RPE/choroid", "Endothelial cell", "SELP")
+6. ("H. sapiens", "RPE/choroid", "Endothelial cell", "ICAM1")
+7. ("H. sapiens", "RPE/choroid", "Endothelial cell", "CLU")
+
+These markers are specifically mentioned as being differentially expressed in endothelial cells of either retinal or choroidal origin.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Endothelial cell (venous)", "DARC")
+2. ("Human", "Retina", "Endothelial cell (venous)", "MMRN1")
+3. ("Human", "Retina", "Choriocapillaris endothelial cell", "CA4")
+4. ("Human", "Retina", "Choriocapillaris endothelial cell", "PLVAP")
+5. ("Human", "Retina", "Arterial endothelial cell", "FBLN2")
+6. ("Human", "Retina", "Arterial endothelial cell", "SEMA3G")
+7. ("Human", "Retina", "Arterial endothelial cell", "GJA4")
+8. ("Human", "Retina", "Arterial endothelial cell", "GJA5")
+9. ("Human", "Retina", "Arterial endothelial cell", "HEY1")
+10. ("Human", "Retina", "Venous endothelial cell", "SELE")
+11. ("Human", "Retina", "Venous endothelial cell", "VCAM1")
+12. ("Human", "Retina", "Venous endothelial cell", "CCL23")
+13. ("Human", "Retina", "Choriocapillaris endothelial cell", "SIPR3")
+14. ("Human", "Retina", "Choriocapillaris endothelial cell", "SPARC")
+15. ("Human", "Retina", "Choriocapillaris endothelial cell", "PCDH12")
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina/Choroid", "Endothelial cell", "VWF")
+2. ("Human", "Vein endothelial cell", "Endothelial cell", "DARC")
+3. ("Human", "Vein endothelial cell", "Endothelial cell", "MMRN1")
+4. ("Human", "Choriocapillaris endothelial cell", "Endothelial cell", "CA4")
+5. ("Human", "Choriocapillaris endothelial cell", "Endothelial cell", "PLVAP")
+6. ("Human", "Arterial endothelial cell", "Endothelial cell", "HEY1")
+7. ("Human", "Arterial endothelial cell", "Endothelial cell", "SEMA3G")
+8. ("Human", "Choriocapillaris endothelial cell", "Endothelial cell", "RGCC")
+
+These tuples are derived directly from the text, which discusses differential gene expression and specific markers for various types of endothelial cells in human retina and choroid.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Choroid", "Endothelial cell", "ICAM1")
+2. ("Human", "Choroid", "Endothelial cell", "PLVAP")
+3. ("Human", "Choroid", "Endothelial cell", "MHC class I antigens")
+4. ("Human", "Choroid", "Endothelial cell", "CA4")
+
+These markers are specifically mentioned as being characteristic of vascular endothelial cells in the choriocapillaris.
+
+Based on the provided text, there is limited explicit information about specific cell markers. However, we can identify a few markers from the text:
+
+1. **S1PR3** is mentioned as being highly specific within the choriocapillaris.
+2. **CD34** is used to label cells, and it is implied that these are endothelial cells.
+3. **CD31** is used in an enriched single-cell RNA-sequencing experiment, which is also associated with endothelial cells.
+
+Given this information, we can construct the following tuples:
+
+```python
+[
+    ("Human", "Choroid", "Choriocapillaris endothelial cell", "S1PR3"),
+    ("Human", "Choroid", "Endothelial cell", "CD34"),
+    ("Human", "Choroid", "Endothelial cell", "CD31")
+]
+```
+
+These tuples reflect the species (Human), tissue type (Choroid), cell names (Choriocapillaris endothelial cell, Endothelial cell), and the markers (S1PR3, CD34, CD31) as described in the document.
+
+none
+
+The provided text does not contain specific information about cell markers, signature genes, protein markers, or molecular markers used to distinguish different cell types. The document primarily describes the methodology for single-cell RNA sequencing of the RPE and choroid, including the preenrichment for CD31+ endothelial cells. However, it does not provide any specific marker gene or protein marker details that are required to form the tuples as per the instructions.
+

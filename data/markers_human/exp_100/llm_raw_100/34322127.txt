@@ -1,0 +1,144 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "CD8+ T cell", "PRF1")
+2. ("Human", "null", "CD8+ T cell", "GZMH")
+3. ("Human", "null", "CD8+ T cell", "GNLY")
+4. ("Human", "null", "CD4+ T cell", "GZMA")
+
+The document does not specify a particular tissue type, hence "null" is used for the "Tissue Type" field. The species studied is Human, as the research focuses on COVID-19 patients.
+
+none
+
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("Human", "null", "CD8+ T cell (naïve)", "SELL")
+2. ("Human", "null", "CD8+ T cell (naïve)", "TCF7")
+3. ("Human", "null", "CD8+ T cell (memory)", "IL7R")
+4. ("Human", "null", "CD8+ T cell (memory)", "CD40LG")
+5. ("Human", "null", "CD8+ T cell (effector)", "GZMB")
+6. ("Human", "null", "CD8+ T cell (effector)", "NKG7")
+7. ("Human", "null", "CD4+ T cell (naïve)", "SELL")
+8. ("Human", "null", "CD4+ T cell (naïve)", "LEF1")
+9. ("Human", "null", "CD4+ T cell (memory)", "S100A4")
+10. ("Human", "null", "CD4+ T cell (effector)", "CCL5")
+11. ("Human", "null", "CD4+ T cell (effector)", "GZMK")
+12. ("Human", "null", "CD4+ T cell (regulatory)", "FOXP3")
+13. ("Human", "null", "B cell (naïve)", "CD23A")
+14. ("Human", "null", "B cell (marginal zone)", "FCRL3")
+15. ("Human", "null", "B cell (marginal zone)", "CD1C")
+16. ("Human", "null", "B cell (activated)", "CD83")
+17. ("Human", "null", "B cell (memory)", "CD27")
+18. ("Human", "null", "B cell (memory)", "TACI")
+
+The tissue type is not specified in the text, hence it is filled with "null" as per the requirements.
+
+none
+
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+- For **CD8+ T cells** with high clonal expansion, the markers include:
+  - Cytotoxicity: `PRF1`, `GZMH`, `GNLY`
+  - Activation: `NKG7`, `CCL5`
+  - Inflammation: `NFKBIA`, `S100A4`, `S100A6`
+  - Type I interferon-induced: `IFITM2`
+  - MHC class I components: `HLA-A`, `HLA-B`, `HLA-C`, `B2M`
+
+- For **unexpanded CD8+ T cells**, the markers include:
+  - Naïve and memory T cell markers: `IL7R`, `LTB`
+  - Homeostatic proliferation: `LDHB`, `NOSIP`, `EEF1B2`, `NPM1`, `TPT1`, `PABPC1`
+
+- For **highly expanded CD4+ T cells**, the markers include:
+  - Activation: `CCL5`
+  - Cytotoxicity: `GZMA`
+  - Inflammation: `IL32`, `CD99`, `NFKBIA`
+
+Since the species is not explicitly mentioned, we will assume it is "Human" based on the context. The tissue type is not specified, so we will use "null" for that field.
+
+Here are the tuples for the identified markers:
+
+```python
+[
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "PRF1"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "GZMH"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "GNLY"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "NKG7"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "CCL5"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "NFKBIA"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "S100A4"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "S100A6"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "IFITM2"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "HLA-A"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "HLA-B"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "HLA-C"),
+    ("Human", "null", "CD8+ T cell (high clonal expansion)", "B2M"),
+    ("Human", "null", "CD8+ T cell (unexpanded)", "IL7R"),
+    ("Human", "null", "CD8+ T cell (unexpanded)", "LTB"),
+    ("Human", "null", "CD8+ T cell (unexpanded)", "LDHB"),
+    ("Human", "null", "CD8+ T cell (unexpanded)", "NOSIP"),
+    ("Human", "null", "CD8+ T cell (unexpanded)", "EEF1B2"),
+    ("Human", "null", "CD8+ T cell (unexpanded)", "NPM1"),
+    ("Human", "null", "CD8+ T cell (unexpanded)", "TPT1"),
+    ("Human", "null", "CD8+ T cell (unexpanded)", "PABPC1"),
+    ("Human", "null", "CD4+ T cell (highly expanded)", "CCL5"),
+    ("Human", "null", "CD4+ T cell (highly expanded)", "GZMA"),
+    ("Human", "null", "CD4+ T cell (highly expanded)", "IL32"),
+    ("Human", "null", "CD4+ T cell (highly expanded)", "CD99"),
+    ("Human", "null", "CD4+ T cell (highly expanded)", "NFKBIA")
+]
+```
+
+Based on the provided document, here are the identified cell markers in the required format:
+
+1. ("Human", "null", "CD4+ T cells (naïve)", "SELL")
+2. ("Human", "null", "CD4+ T cells (naïve)", "LDHB")
+3. ("Human", "null", "CD4+ T cells (naïve)", "NOSIP")
+4. ("Human", "null", "CD4+ T cells (naïve)", "PABPC1")
+5. ("Human", "null", "CD8+ and CD4+ memory T cells", "Granzyme A")
+6. ("Human", "null", "CD8+ and CD4+ memory T cells", "Granzyme K")
+7. ("Human", "null", "CD8+ and CD4+ memory T cells", "NFKBIA")
+8. ("Human", "null", "CD8+ and CD4+ memory T cells", "DUSP1")
+9. ("Human", "null", "Expanded B cell clonotypes", "VIM")
+10. ("Human", "null", "Expanded B cell clonotypes", "HSBP90")
+11. ("Human", "null", "Expanded B cell clonotypes", "CALR")
+12. ("Human", "null", "Expanded B cell clonotypes", "PPIB")
+13. ("Human", "null", "Memory B cells", "High SHM levels")
+14. ("Human", "null", "Naïve and activated B cells", "Low SHM levels")
+15. ("Human", "null", "Activated B cells", "High-SHM outliers")
+16. ("Human", "null", "Expanded B cell clonotypes", "Downregulation of MHC class II genes (CD74, HLA-DR, -DQA1, -DRB1)")
+
+Note: For entries 13, 14, and 15, "SHM levels" refers to somatic hypermutation levels, which is a characteristic marker for these B cell types. However, if you prefer more specific gene or protein names, you might need to adjust or remove these entries.
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "Effector CD8+ T cell", "GZMB")
+2. ("Human", "null", "Effector CD8+ T cell", "NKG7")
+3. ("Human", "null", "Cytotoxic effector CD8+ T cell", "PRF1")
+4. ("Human", "null", "Cytotoxic effector CD8+ T cell", "GZMH")
+5. ("Human", "null", "Cytotoxic effector CD8+ T cell", "GNLY")
+6. ("Human", "null", "Cytotoxic effector CD4+ T cell", "GZMA")
+
+These tuples are derived from the sections of the text discussing the identification and characteristics of different T cell subsets in the context of SARS-CoV-2 infection. The species is specified as "Human" since the document discusses human patients. The tissue type is not specifically mentioned for these markers, hence it is listed as "null".
+
+none
+
+The provided text does not contain specific information about cell markers (marker genes, signature genes, protein markers, or molecular markers) that are used to distinguish different cell types. The document discusses T and B cell clonal expansion, TCR sequences, and immune responses but does not mention any markers in the context of distinguishing cell types.
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "CD8+ T cell", "CD8A")
+2. ("Human", "null", "CD4+ T cell", "CD4")
+3. ("Human", "null", "B cell", "CD3E") - This is noted as a marker to exclude B cells if expressed.
+4. ("Human", "null", "B cell", "SDC1") - This is also noted as a marker to exclude B cells if expressed.
+
+These tuples are derived from the section describing the separation and filtering of CD8+ T cells, CD4+ T cells, and B cells in the dataset. The species is inferred to be human based on the context (HLA, which is specific to humans, is mentioned). Since no specific tissue type is mentioned, "null" is used for the "Tissue Type" field.
+
+none
+

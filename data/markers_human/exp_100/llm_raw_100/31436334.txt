@@ -1,0 +1,92 @@
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Retina", "Rod photoreceptors", "PDE6A")
+2. ("Human", "Retina", "Rod photoreceptors", "CNGA1")
+3. ("Human", "Retina", "Rod photoreceptors", "RHO")
+4. ("Human", "Retina", "Cone photoreceptors", "ARR3")
+5. ("Human", "Retina", "Cone photoreceptors", "GNGT2")
+6. ("Human", "Retina", "Cone photoreceptors", "GUCA1C")
+7. ("Human", "Retina", "Müller glia", "RLBP1/CRALBP")
+8. ("Human", "Retina", "Retinal astrocytes", "GFAP")
+9. ("Human", "Retina", "Microglia", "HLA-DPA1")
+10. ("Human", "Retina", "Microglia", "HLA-DPB1")
+11. ("Human", "Retina", "Microglia", "HLA-DRA")
+12. ("Human", "Retina", "Bipolar cells", "VSX2")
+13. ("Human", "Retina", "Bipolar cells", "OTX2")
+14. ("Human", "Retina", "Retinal ganglion cells", "NEFL")
+15. ("Human", "Retina", "Retinal ganglion cells", "GAP43")
+16. ("Human", "Retina", "Retinal ganglion cells", "SNCG")
+17. ("Human", "Retina", "Amacrine cells", "GAD1")
+18. ("Human", "Retina", "Amacrine cells", "CALB1")
+19. ("Human", "Retina", "Amacrine cells", "CHAT")
+20. ("Human", "Retina", "Horizontal cells", "ONECUT1")
+21. ("Human", "Retina", "Horizontal cells", "ONECUT2")
+
+Each of these tuples represents a specific marker for different cell types within the human retina as described in the document.
+
+Based on the provided document, the following cell markers have been identified. The information has been formatted as requested:
+
+1. ("Human", "Retina", "OFF-bipolar cells", "GRIK1")
+2. ("Human", "Retina", "ON-bipolar cells (Rod bipolar cells)", "PRKCA")
+3. ("Human", "Retina", "ON-bipolar cells (Diffuse bipolar subtype DB4)", "TTR")
+4. ("Human", "Retina", "Rod photoreceptors", "RHO")
+5. ("Human", "Retina", "Rod photoreceptors", "GNGT1")
+6. ("Human", "Retina", "Rod photoreceptors", "SAG")
+7. ("Human", "Retina", "Rod photoreceptors", "NRL")
+8. ("Human", "Retina", "Rod photoreceptors", "ROM1")
+9. ("Human", "Retina", "Rod photoreceptors", "GNAT1")
+10. ("Human", "Retina", "Rod photoreceptors", "CNGA1")
+
+The document does not specify any markers for amacrine cells or provide specific details for other retinal cell types beyond those listed above. Therefore, no additional tuples are included for these unspecified markers.
+
+Based on the provided document, the following cell markers are identified:
+
+- ("Human", "Retina", "Rod photoreceptor", "MALAT1")
+
+The document specifically mentions that rod photoreceptors can be distinguished by the expression of MALAT1, indicating the presence of subpopulations (MALAT1-hi and MALAT1-lo) within these cells. Other genes or proteins mentioned in the text, such as mitochondrial-encoded genes and ribosomal proteins, are used for quality control purposes and not as specific markers to distinguish different cell types, hence they are not included in the list.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Rod photoreceptor", "MALAT1")
+2. ("Human", "Retina", "Cone photoreceptor", "ARR3")
+3. ("Human", "Retina", "Cone photoreceptor", "CNBG3")
+4. ("Human", "Retina", "Cone photoreceptor", "GNAT2")
+5. ("Human", "Retina", "Cone photoreceptor", "GNGT2")
+6. ("Human", "Retina", "Cone photoreceptor", "GRK7")
+7. ("Human", "Retina", "Cone photoreceptor", "GUCA1C")
+8. ("Human", "Retina", "Cone photoreceptor", "PDE6C")
+9. ("Human", "Retina", "Cone photoreceptor", "PDE6H")
+10. ("Human", "Retina", "Cone photoreceptor", "OPN1LW")
+11. ("Human", "Retina", "Cone photoreceptor", "RXRG")
+12. ("Human", "Retina", "Cone photoreceptor", "THRB")
+13. ("Human", "Retina", "S-cone photoreceptor", "OPN1SW")
+14. ("Human", "Retina", "M-cone photoreceptor", "OPN1MW")
+15. ("Human", "Retina", "L-cone photoreceptor", "OPN1LW")
+
+These tuples summarize the species, tissue type, cell name, and marker as described in the text.
+
+Based on the provided document, here are the cell markers identified in the format requested:
+
+1. ("Human", "Retina", "S-cone photoreceptor", "CCDC136")
+2. ("Human", "Retina", "L/M-cone photoreceptor", "THRB")
+3. ("Human", "Retina", "Müller glia", "RLBP1")
+4. ("Human", "Retina", "Müller glia", "RGR")
+5. ("Human", "Retina", "Retinal astrocytes", "GFAP")
+6. ("Human", "Retina", "Retinal astrocytes", "S100B")
+7. ("Human", "Retina", "Müller glia and retinal astrocytes", "VIM")
+8. ("Human", "Retina", "Müller glia and retinal astrocytes", "GLUL")
+9. ("Human", "Retina", "Müller glia and retinal astrocytes", "S100A1")
+
+These tuples represent the specific cell markers for different cell types within the human retina as described in the text.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Cone photoreceptor (L/M-cones)", "OPN1LW/OPN1MW")
+2. ("Human", "Retina", "Cone photoreceptor (S-cones)", "OPN1SW")
+3. ("Human", "Retina", "Rod photoreceptor (MALAT1-hi)", "MALAT1")
+4. ("Human", "Retina", "Rod photoreceptor (MALAT1-lo)", "MALAT1")
+
+These tuples are derived from the information about the expression of specific genes in different types of retinal cells, which helps in distinguishing between L/M-cone and S-cone photoreceptors, as well as two subpopulations of rod photoreceptors based on the expression level of MALAT1.
+
+none
+

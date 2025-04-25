@@ -1,0 +1,23 @@
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "null", "L5/deep layer neuron", "Bcl11b")
+2. ("null", "null", "L4 neuron", "Rorb")
+3. ("null", "null", "L2/3 neuron", "Pou3f2")
+
+The document does not specify the species or the tissue type, so these fields are filled with "null". The markers Bcl11b, Rorb, and Pou3f2 are mentioned as being specific to different layers of neurons (L5/deep layer, L4, and L2/3, respectively).
+
+none
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("null", "null", "E14-born neurons", "Nrn1")
+2. ("null", "null", "E14-born neurons", "Rorb")
+3. ("null", "null", "APs (early)", "PRC2 subunits")
+4. ("null", "null", "APs (early)", "H3K27me3")
+
+These tuples are based on the information given in the text, where specific genes or markers are associated with particular cell types during development. The species and tissue type were not specified, so "null" is used for those fields.
+
+none
+

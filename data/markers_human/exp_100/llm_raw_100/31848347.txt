@@ -1,0 +1,51 @@
+Based on the information provided in the document, the following cell markers for the human retina have been identified:
+
+1. ("Human", "Retina", "Rod cells", "PDE6A")
+2. ("Human", "Retina", "Bipolar cells", "NETO1")
+3. ("Human", "Retina", "Müller glial cells", "SLC1A3")
+4. ("Human", "Retina", "Amacrine cells", "GAD1")
+5. ("Human", "Retina", "Horizontal cells", "SEPT4")
+6. ("Human", "Retina", "Cone cells", "ARR3")
+7. ("Human", "Retina", "Retinal ganglion cells", "RBPMS")
+
+Based on the provided text, the following cell markers can be identified:
+
+1. For human cone cells, several genes are mentioned that have higher expression compared to rods and are associated with specific diseases (CRD or LCA). These include:
+   - AHI1
+   - ATXN7
+   - KCNV2
+   - PROM1
+   - RD3
+   - RPGRIP1
+
+2. The gene GUCA1A is noted as being part of the mCOR (mouse cone-over-rod) list but not specifically linked to a disease in the context provided.
+
+Given the requirements, here are the tuples for the cell markers, focusing on those explicitly discussed in the context of differential expression between cell types:
+
+- ("Human", "Retina", "Cone cell", "AHI1")
+- ("Human", "Retina", "Cone cell", "ATXN7")
+- ("Human", "Retina", "Cone cell", "KCNV2")
+- ("Human", "Retina", "Cone cell", "PROM1")
+- ("Human", "Retina", "Cone cell", "RD3")
+- ("Human", "Retina", "Cone cell", "RPGRIP1")
+- ("Mouse", "Retina", "Cone cell", "GUCA1A")
+
+These markers are derived from the analysis comparing human and mouse retinal cells, particularly focusing on cone and rod cells.
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+- ("Human", "Retina", "Cone cell", "RHO")
+- ("Human", "Retina", "Rod cell", "RHO")
+- ("Human", "Retina", "Cone cell", "RPGRIP1")
+- ("Human", "Retina", "Rod cell", "RPGRIP1")
+- ("Human", "Retina", "Cone cell", "RD3")
+- ("Human", "Retina", "Rod cell", "RD3")
+- ("null", "Retina", "Cone cell", "SLC24A2")
+- ("null", "Retina", "Cone cell", "OPN1MW")
+
+These tuples are based on the immunoﬂuorescent staining and gene expression data mentioned for human retinal cells. The species is specified as "Human" where applicable, and "null" is used when the species or tissue type is not explicitly stated but can be inferred from the context.
+
+none
+
+none
+

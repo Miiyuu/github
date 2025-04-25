@@ -1,0 +1,79 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Suprachiasmatic nucleus (SCN)", "AVP-expressing cell", "AVP")
+2. ("Mouse", "Suprachiasmatic nucleus (SCN)", "VIP-expressing cell", "VIP")
+3. ("Mouse", "Suprachiasmatic nucleus (SCN)", "CCK-expressing cell", "CCK")
+
+These are the peptidergic cell types that responded to light in the mouse SCN, as mentioned in the text. Additionally, while not a specific marker for a cell type, NPAS4 is noted as a key regulator of light-responsive genes in these cells, but it is not listed as a cell-specific marker here.
+
+Based on the provided document, the following cell markers can be identified for the specified cells within the mouse suprachiasmatic nucleus (SCN) tissue. The document does not specify other species or tissue types, so the "Species" and "Tissue Type" fields are filled with "Mouse" and "Suprachiasmatic nucleus", respectively. Here are the tuples:
+
+1. ("Mouse", "Suprachiasmatic nucleus", "null", "Vip")
+2. ("Mouse", "Suprachiasmatic nucleus", "null", "Avp")
+3. ("Mouse", "Suprachiasmatic nucleus", "null", "Nms")
+4. ("Mouse", "Suprachiasmatic nucleus", "null", "Cck")
+5. ("Mouse", "Suprachiasmatic nucleus", "null", "Prok2")
+6. ("Mouse", "Suprachiasmatic nucleus", "null", "Syt10")
+7. ("Mouse", "Suprachiasmatic nucleus", "null", "Lhx1")
+8. ("Mouse", "Suprachiasmatic nucleus", "null", "Rorb")
+9. ("Mouse", "Suprachiasmatic nucleus", "null", "Vipr2")
+10. ("Mouse", "Suprachiasmatic nucleus", "null", "Avpr1a")
+11. ("Mouse", "Suprachiasmatic nucleus", "null", "Drd1")
+12. ("Mouse", "Suprachiasmatic nucleus", "null", "Rgs16")
+13. ("Mouse", "Suprachiasmatic nucleus", "null", "C1q13")
+14. ("Mouse", "Suprachiasmatic nucleus", "null", "Calb1")
+15. ("Mouse", "Suprachiasmatic nucleus", "null", "Calb2")
+16. ("Mouse", "Suprachiasmatic nucleus", "null", "Dlk2")
+17. ("Mouse", "Suprachiasmatic nucleus", "null", "Pea15a")
+18. ("Mouse", "Suprachiasmatic nucleus", "null", "Penk")
+19. ("Mouse", "Suprachiasmatic nucleus", "null", "Scg2")
+20. ("Mouse", "Suprachiasmatic nucleus", "null", "Sst")
+21. ("Mouse", "Suprachiasmatic nucleus", "null", "Gad1")
+22. ("Mouse", "Suprachiasmatic nucleus", "null", "Gad2")
+23. ("Mouse", "Suprachiasmatic nucleus", "null", "Slc32a1")
+24. ("Mouse", "Suprachiasmatic nucleus", "null", "Slc17a6")
+25. ("Mouse", "Suprachiasmatic nucleus", "null", "Vgf")
+
+These markers are listed as canonical SCN neuronal marker genes in the text. Since the specific cell names are not provided, the "Cell Name" field is filled with "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Avp-expressing cells", "Avp")
+2. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Vip-expressing cells", "Vip")
+3. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Cck-expressing cells", "Cck")
+4. ("Mouse", "Suprachiasmatic nucleus (SCN)", "Cck+/Prok2+ cells", "Prok2")
+
+These tuples are based on the information that describes different peptidergic SCN clusters and their specific markers.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Neuron", "AVP")
+2. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Neuron", "VIP")
+3. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Neuron", "Grp")
+4. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Neuron", "Nms")
+5. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Neuron", "Cck")
+6. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Neuron", "C1ql3")
+7. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Neuron", "Bdnf")
+8. ("Mouse", "SCN (Suprachiasmatic nucleus)", "Astrocyte", "null") - Since no specific marker for astrocytes is mentioned, but their light responsiveness is noted, the marker field is filled with "null".
+
+These markers are derived from the discussion of different cell types within the SCN and their responses to light, as well as the categorization of neuronal subtypes based on gene expression patterns.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "null", "AVP clusters (light and dark)", "Grin2b")
+2. ("Mouse", "null", "AVP non-light responsive clusters", "Vipr2")
+3. ("Mouse", "null", "VIP+ non-light activated cluster 6", "Gabra2")
+4. ("Mouse", "null", "VIP+ non-light activated cluster 6", "Gabra4")
+
+The document does not provide explicit information about the tissue type, so "null" is used for the "Tissue Type" field. The species mentioned in the context is "Mouse".
+
+none
+
+none
+
+none
+
+none
+

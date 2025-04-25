@@ -1,0 +1,54 @@
+none
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Rod photoreceptor", "Rhodopsin (RHO)")
+2. ("Human", "Retina", "Cone photoreceptor", "S Opsin")
+3. ("Human", "Retina", "Cone photoreceptor", "L/M Opsin (OPN1MW)")
+4. ("Human", "Retina", "Photoreceptor", "Peripherin2")
+5. ("Human", "Retina", "Photoreceptor", "Recoverin")
+
+The document describes experiments conducted on human retinal organoids, focusing on the impact of a CRX mutation on photoreceptor development. The markers mentioned are used to identify and characterize different types of photoreceptors in these organoids.
+
+none
+
+Based on the provided document, the following cell markers have been identified. The information is presented in the requested format:
+
+1. ("Human", "Retinal organoids", "Rod photoreceptor", "GNGT1")
+2. ("Human", "Retinal organoids", "Rod photoreceptor", "GNAT1")
+3. ("Human", "Retinal organoids", "Cone photoreceptor", "ARR3")
+4. ("Human", "Retinal organoids", "Cone photoreceptor", "PDE6H")
+5. ("Human", "Retinal organoids", "Photoreceptor", "CRX")
+6. ("Human", "Retinal organoids", "Photoreceptor", "RCVRN")
+7. ("Human", "Retinal organoids", "Rod photoreceptor", "RHO")
+8. ("Human", "Retinal organoids", "Cone photoreceptor", "OPN1MW3")
+
+These tuples are based on the specific cell types and their associated markers as described in the text, particularly focusing on the differentiation and identification of rod and cone photoreceptors within human retinal organoids.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retinal organoids", "Photoreceptor cells", "Rhodopsin")
+2. ("Human", "Retinal organoids", "Cone photoreceptor cells", "L/M Opsin")
+3. ("Human", "Retinal organoids", "Cone photoreceptor cells", "S Opsin")
+4. ("Human", "Retinal organoids", "Photoreceptor cells", "Recoverin")
+5. ("Human", "Retinal organoids", "Photoreceptor cells", "CRX")
+
+The document mentions these markers in the context of retinal organoids derived from human iPSCs, specifically in relation to the expression patterns and rescue experiments involving photoreceptor-specific genes.
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Retinal organoids", "Photoreceptor cells", "CRX")
+2. ("Human", "Retinal organoids", "Photoreceptor cells", "RCVRN")
+3. ("Human", "Retinal organoids", "Rod photoreceptor cells", "GNGT1")
+4. ("Human", "Retinal organoids", "Rod photoreceptor cells", "GNAT1")
+5. ("Human", "Retinal organoids", "Cone photoreceptor cells", "ARR3")
+6. ("Human", "Retinal organoids", "Cone photoreceptor cells", "PDE6H")
+7. ("Human", "Retinal organoids", "Rod photoreceptor cells", "Rhodopsin")
+8. ("Human", "Retinal organoids", "Cone photoreceptor cells", "L/M Opsin")
+
+These markers are used to distinguish different types and subtypes of photoreceptor cells within human retinal organoids.
+

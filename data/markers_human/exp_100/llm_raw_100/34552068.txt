@@ -1,0 +1,163 @@
+none
+
+Based on the provided text, there are no explicit mentions of cell markers in the format requested. The document primarily discusses genetic alterations and subtypes of retinoblastoma but does not provide specific marker genes, signature genes, protein markers, or molecular markers that are used to distinguish different cell types.
+
+Therefore, the response is:
+
+none
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+- ("Human", "Retinoblastoma", "Cone cells", "GUCA1C")
+- ("Human", "Retinoblastoma", "Cone cells", "GNAT2")
+- ("Human", "Retinoblastoma", "Cone cells", "ARR3")
+- ("Human", "Retinoblastoma", "Cone cells", "GUCA1A")
+- ("Human", "Retinoblastoma", "Cone cells", "GUCA1B")
+- ("Human", "Retinoblastoma", "Cone cells", "GNGT2")
+- ("Human", "Retinoblastoma", "Cone cells", "PDE6C")
+- ("Human", "Retinoblastoma", "Cone cells", "PDE6H")
+- ("Human", "Retinoblastoma", "Cone cells", "OPN1SW")
+- ("Human", "Retinoblastoma", "Neuronal/ganglion cells", "EBF3")
+- ("Human", "Retinoblastoma", "Neuronal/ganglion cells", "DCX")
+- ("Human", "Retinoblastoma", "Neuronal/ganglion cells", "ROBO1")
+- ("Human", "Retinoblastoma", "Neuronal/ganglion cells", "SOX11")
+- ("Human", "Retinoblastoma", "Neuronal/ganglion cells", "GAP43")
+- ("Human", "Retinoblastoma", "Neuronal/ganglion cells", "PCDHB10")
+- ("Human", "Retinoblastoma", "Neuronal/ganglion cells", "STMN2")
+- ("Human", "Retinoblastoma", "Neuronal/ganglion cells", "NEFM")
+- ("Human", "Retinoblastoma", "Neuronal/ganglion cells", "POU4F2")
+- ("Human", "Retinoblastoma", "Neuronal/ganglion cells", "EBF1")
+
+These tuples represent the markers that are differentially expressed in the specified cell types within retinoblastoma.
+
+Based on the provided document, the following cell markers can be identified:
+
+- ("Human", "Retinoblastoma", "Neuronal stem cell", "CD24")
+- ("Human", "Retinoblastoma", "Ganglion cell", "EBF3")
+- ("Human", "Retinoblastoma", "Ganglion cell", "EBF1")
+- ("Human", "Retinoblastoma", "Ganglion cell", "GAP43")
+- ("Human", "Retinoblastoma", "Ganglion cell", "POU4F2")
+- ("Human", "Retinoblastoma", "Ganglion cell", "NEFM")
+- ("Human", "Retinoblastoma", "Ganglion cell", "ALCAM")
+- ("Human", "Retinoblastoma", "Ganglion cell", "NRN1")
+- ("Human", "Retinoblastoma", "Ganglion cell", "CNTN2")
+
+These markers are derived from the analysis of gene expression in different subtypes of retinoblastoma and their association with specific cell types.
+
+Based on the provided document, the following cell markers have been identified. The information is derived from the context of human retinal development and differentiation in retinal organoids and retinoblastomas:
+
+1. ("Human", "Retina", "Photoreceptor/Cone cells (early stage)", "OTX2")
+2. ("Human", "Retina", "Photoreceptor/Cone cells (early stage)", "CRX")
+3. ("Human", "Retina", "Photoreceptor/Cone cells (early stage)", "THRB")
+4. ("Human", "Retina", "Photoreceptor/Cone cells (early stage)", "RXRG")
+5. ("Human", "Retina", "Cone cells (late stage)", "PDE6H")
+6. ("Human", "Retina", "Cone cells (late stage)", "GNAT2")
+7. ("Human", "Retina", "Cone cells (late stage)", "ARR3")
+8. ("Human", "Retina", "Cone cells (late stage)", "GUCA1C")
+
+These markers are used to identify different stages of cone photoreceptor differentiation within the retina. Early markers such as OTX2, CRX, THRB, and RXRG appear at earlier time points, while late markers like PDE6H, GNAT2, ARR3, and GUCA1C appear later, with GUCA1C being the last to be expressed.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Ganglion cell", "EBF3")
+2. ("Human", "Retina", "Ganglion cell", "GAP43")
+3. ("Human", "Retina", "Photoreceptor cell", "CRX")
+4. ("Human", "Retina", "Cone photoreceptor cell", "ARR3")
+5. ("Human", "Retina", "Amacrine cell", "EBF3")
+
+These markers are used to distinguish different cell types within the retina, and their expression patterns vary between the subtypes of retinoblastoma tumors described in the text.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Early photoreceptor/cone cells", "OTX2")
+2. ("Human", "Retina", "Early photoreceptor/cone cells", "CRX")
+3. ("Human", "Retina", "Early photoreceptor/cone cells", "THRB")
+4. ("Human", "Retina", "Early photoreceptor/cone cells", "RXRG")
+5. ("Human", "Retina", "Neuronal/ganglion cells", "GAP43")
+6. ("Human", "Retina", "Neuronal/ganglion cells", "SOX11")
+7. ("Human", "Retina", "Neuronal/ganglion cells", "UCHL1")
+8. ("Human", "Retina", "Neuronal/ganglion cells", "DCX")
+9. ("Human", "Retina", "Neuronal/ganglion cells", "EBF3")
+10. ("Human", "Retina", "Late cone cells", "ARR3")
+11. ("Human", "Retina", "Late cone cells", "GUCA1C")
+12. ("Human", "Retina", "Proliferating cells", "MKI67")
+13. ("Human", "Retina", "Hypoxic cells", "BNIP3")
+14. ("Human", "Retina", "Monocyte/microglia cells", "CD14")
+15. ("Human", "Retina", "Monocyte/microglia cells", "AIF1")
+16. ("Human", "Retina", "T-lymphocytes", "CD3D")
+17. ("Human", "Retina", "T-lymphocytes", "TRAC")
+
+The species is inferred as "Human" since the context of the document discusses a tumor and specific cell types in a human tissue (retina). The tissue type is specified as "Retina" based on the content. The cell names and their respective markers are directly extracted from the text.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("null", "Retina", "Tumor cells (CRX+/EBF3+/GAP43+)", "CRX")
+2. ("null", "Retina", "Tumor cells (CRX+/EBF3+/GAP43+)", "EBF3")
+3. ("null", "Retina", "Tumor cells (CRX+/EBF3+/GAP43+)", "GAP43")
+4. ("null", "Retina", "Tumor cells (CRX+/ARR3+/GUCA1C+)", "CRX")
+5. ("null", "Retina", "Tumor cells (CRX+/ARR3+/GUCA1C+)", "ARR3")
+6. ("null", "Retina", "Tumor cells (CRX+/ARR3+/GUCA1C+)", "GUCA1C")
+7. ("null", "Retina", "Subtype 2 tumors", "TFF1")
+
+The species is not explicitly mentioned in the text, so it is set to "null". The tissue type is specified as the retina. The specific cell names and their corresponding markers are extracted from the descriptions of the different tumor populations and subtypes.
+
+Based on the provided document, there is information about markers that distinguish different subtypes of retinoblastoma. Specifically, EBF3 is mentioned as a ganglion marker specifically associated with subtype 2. Additionally, several genes are listed in the context of expression patterns related to cone- and ganglion-associated genes, which can be considered as markers for these cell types in the context of retinoblastoma. Here are the tuples based on the information given:
+
+1. ("Human", "Retina", "Ganglion cell", "EBF3")
+2. ("Human", "Retina", "Cone cell", "OTX2")
+3. ("Human", "Retina", "Cone cell", "CRX")
+4. ("Human", "Retina", "Cone cell", "THRB")
+5. ("Human", "Retina", "Cone cell", "RXRG")
+6. ("Human", "Retina", "Cone cell", "PDE6H")
+7. ("Human", "Retina", "Cone cell", "GNAT2")
+8. ("Human", "Retina", "Cone cell", "ARR3")
+9. ("Human", "Retina", "Cone cell", "GUCA1C")
+10. ("Human", "Retina", "Ganglion cell", "POU4F2")
+11. ("Human", "Retina", "Ganglion cell", "EBF1")
+12. ("Human", "Retina", "Ganglion cell", "GAP43")
+
+These tuples are derived from the text where specific genes are discussed in relation to their association with either cone or ganglion cells in the context of retinoblastoma subtypes.
+
+none
+
+none
+
+The provided text does not contain specific information about cell markers that are used to distinguish different cell types in the context of the format you requested. The text discusses MYC and MYCN amplifications, and their associations with certain tumor subtypes, as well as the expression of cone and ganglion cell markers in retinoblastoma and retinal organoids. However, it does not provide a clear association of these markers with specific cell types in a way that fits the required tuple format.
+
+Based on the information provided in the document, the following cell markers have been identified. The format of the response is as per your instructions:
+
+- ("Human", "Retina", "Early photoreceptor", "CRX")
+- ("Human", "Retina", "Early photoreceptor", "OTX2")
+- ("Human", "Retina", "Late cone", "ARR3")
+- ("Human", "Retina", "Late cone", "GUCA1C")
+- ("Human", "Retina", "Neuronal/ganglion", "EBF3")
+- ("Human", "Retina", "Neuronal/ganglion", "GAP43")
+- ("Human", "Retina", "Neuronal/ganglion", "DCX")
+- ("Human", "Retina", "Proliferation", "MKI67")
+- ("Human", "Retina", "Pro-apoptotic", "BNIP3")
+- ("Human", "Retina", "Macrophage", "CD14")
+- ("Human", "Retina", "T-cell", "CD3D")
+
+These tuples represent the specific markers mentioned for different cell types within the human retina, based on the text provided.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Retina", "Photoreceptor cells", "CRX")
+2. ("Human", "Retina", "Photoreceptor cells", "RCVRN")
+3. ("Human", "Retina", "Photoreceptor cells", "NRL")
+4. ("Human", "Retina", "Photoreceptor cells", "NR2E3")
+5. ("Human", "Retina", "Photoreceptor cells", "ARR3")
+6. ("Human", "Retina", "Photoreceptor cells", "RHO")
+7. ("Human", "Retina", "Photoreceptor cells", "OPSINs")
+8. ("Human", "Retinoblastoma", "Tumor cells", "TFF1")
+9. ("Human", "Retinoblastoma", "Tumor cells", "EBF3")
+10. ("Human", "Retinoblastoma", "Tumor cells", "Ki-67")
+
+These tuples are based on the information about marker genes and proteins used to identify specific cell types in the retina and retinoblastoma as described in the document.
+
+none
+
+none
+

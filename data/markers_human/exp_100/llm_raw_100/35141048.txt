@@ -1,0 +1,58 @@
+none
+
+The provided document does not explicitly list any specific cell markers (marker genes, signature genes, protein markers, or molecular markers) that are used to distinguish different cell types in the context of the study. The long non-coding RNA (lncRNA) NEAT1 is discussed in relation to its expression and role in Fuchs endothelial corneal dystrophy (FECD), but it is not described as a marker for distinguishing between different cell types. Therefore, based on the given requirements, no tuples can be formed from the information provided.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Corneal endothelium", "Endothelial cell (C0-C2)", "ATP1A1")
+2. ("Human", "Corneal endothelium", "Endothelial cell (C0-C2)", "TJP1")
+3. ("Human", "Corneal endothelium", "Endothelial cell (C0-C2)", "CDH2")
+4. ("Human", "Corneal endothelium", "Endothelial cell (C0-C2)", "COL8A1")
+5. ("Human", "Corneal endothelium", "Endothelial cell (C0-C2)", "SLC4A11")
+6. ("Human", "Corneal endothelium", "Endothelial cell (C0-C2)", "AQP1")
+7. ("Human", "Corneal endothelium", "Effector cell (C0)", "CD166")
+8. ("Human", "Corneal endothelium", "Effector cell (C0)", "MGP")
+9. ("Human", "Corneal endothelium", "Effector cell (C0)", "SLC12A2")
+10. ("Human", "Corneal endothelium", "Effector cell (C0)", "SLC2A1")
+11. ("Human", "Corneal endothelium", "Effector cell (C0)", "NQO1")
+12. ("Human", "Corneal endothelium", "Endothelial cell (C2)", "MCM7")
+13. ("Human", "Corneal endothelium", "Endothelial cell (C2)", "PCNA")
+14. ("Human", "Corneal endothelium", "Endothelial cell (C2)", "MCM3")
+15. ("Human", "Corneal endothelium", "Endothelial cell (C3)", "IL11")
+16. ("Human", "Corneal endothelium", "Endothelial cell (C3)", "CXCL3")
+17. ("Human", "Corneal endothelium", "Endothelial cell (C3)", "CXCL8")
+
+Each tuple represents a specific marker gene or protein marker for different cell types within the human corneal endothelium as described in the text.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Corneal endothelium", "C2 (CEnCs subtype)", "PCNA")
+2. ("Human", "Corneal endothelium", "C2 (CEnCs subtype)", "MCM3")
+3. ("Human", "Corneal endothelium", "C2 (CEnCs subtype)", "MCM7")
+4. ("Human", "Corneal endothelium", "C3 (CEnCs subtype)", "Interleukin-11 (IL-11)")
+5. ("Human", "Corneal endothelium", "C1 (CEnCs subtype)", "ITGA6")
+
+These tuples summarize the species, tissue type, cell name, and specific marker as per your instructions.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Cornea", "Endothelial cell", "PCNA")
+2. ("Human", "Cornea", "Endothelial cell", "IL-11")
+3. ("Human", "Cornea", "Endothelial cell", "ITGA6")
+
+These markers are used to identify specific endothelial cell subtypes within the human cornea.
+
+none
+
+Based on the provided document, the only cell marker mentioned is ZO-1, which is used to detect corneal endothelium. However, the species and tissue type are not explicitly stated in the context of the marker. Given the context, it can be inferred that the species is "Mouse" and the tissue type is "Cornea". The cell name is "Corneal endothelial cell".
+
+Thus, the tuple for the identified cell marker is:
+
+("Mouse", "Cornea", "Corneal endothelial cell", "ZO-1")
+
+none
+
+none
+

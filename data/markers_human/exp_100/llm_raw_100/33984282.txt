@@ -1,0 +1,136 @@
+Based on the provided document, here are the cell markers identified in the specified format:
+
+1. ("Mouse", "Corneal epithelial tissue", "Conjunctival cells", "Krt17")
+2. ("Mouse", "Corneal epithelial tissue", "Conjunctival cells", "Krt4")
+3. ("Mouse", "Corneal epithelial tissue", "Conjunctival cells", "Krt19")
+4. ("Mouse", "Corneal epithelial tissue", "Conjunctival cells", "Krt6a")
+5. ("Mouse", "Corneal epithelial tissue", "Conjunctival cells", "Krt13")
+6. ("Mouse", "Corneal epithelial tissue", "Conjunctival cells", "Krt8")
+7. ("Mouse", "Corneal epithelial tissue", "Basal conjunctival/limbal epithelial cells", "Krt15")
+8. ("Mouse", "Corneal epithelial tissue", "Supra-basal conjunctival/limbal epithelial cells", "Krt15")
+9. ("Mouse", "Corneal epithelial tissue", "Basal conjunctival cells", "Krt14")
+10. ("Mouse", "Corneal epithelial tissue", "Supra-basal conjunctival cells", "Krt14")
+11. ("Mouse", "Corneal epithelial tissue", "Basal limbal cells (Cluster 3-4)", "Krt15")
+12. ("Mouse", "Corneal epithelial tissue", "Basal limbal cells (Cluster 3-4)", "Krt14")
+13. ("Mouse", "Corneal epithelial tissue", "Basal cells (Cluster 1)", "Itgb1")
+14. ("Mouse", "Corneal epithelial tissue", "Basal cells (Cluster 1)", "Itgb4")
+15. ("Mouse", "Corneal epithelial tissue", "Basal cells (Cluster 1)", "Ccnd1")
+16. ("Mouse", "Corneal epithelial tissue", "Supra-basal cells (Cluster 2)", "Cld4")
+17. ("Mouse", "Corneal epithelial tissue", "Supra-basal cells (Cluster 2)", "Dsg1a")
+18. ("Mouse", "Corneal epithelial tissue", "Supra-basal cells (Cluster 2)", "Cdkn1a")
+19. ("Mouse", "Corneal epithelial tissue", "Corneal cells (Clusters 6-9)", "Krt12")
+
+These tuples represent the cell markers for different cell types within the corneal epithelial tissue of mice as described in the document.
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("null", "null", "conjunctival cells", "Krt4")
+2. ("null", "null", "corneal cells", "Krt12")
+3. ("null", "null", "outer limbal basal epithelial cells", "Krt15")
+4. ("null", "null", "outer limbal basal epithelial cells", "Ifitm3")
+5. ("null", "null", "outer limbal basal epithelial cells", "Cd63")
+6. ("null", "null", "inner limbal epithelial cells", "Atf3")
+7. ("null", "null", "inner limbal epithelial cells", "Mt1-2")
+8. ("null", "null", "limbal supra-basal cells", "Prdm1")
+9. ("null", "null", "basal outer limbal epithelial cells", "Krt14")
+10. ("null", "null", "basal outer limbal epithelial cells", "Krt17")
+11. ("null", "null", "basal inner limbal epithelial cells", "Krt14")
+12. ("null", "null", "basal inner limbal epithelial cells", "Krt12")
+13. ("null", "null", "conjunctival cells", "Krt19")
+14. ("null", "null", "conjunctival cells", "Krt17")
+15. ("null", "null", "conjunctival cells", "Krt6")
+16. ("null", "null", "conjunctival cells", "Krt8")
+
+The species and tissue type were not explicitly mentioned in the text for these markers, so they are listed as "null" according to the instructions.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "Cornea", "Outer limbal stem cells (qLSCs)", "Gpha2")
+2. ("null", "Cornea", "Outer limbal stem cells (qLSCs)", "Ifitm3")
+3. ("null", "Cornea", "Outer limbal stem cells (qLSCs)", "Cd63")
+4. ("null", "Cornea", "Epithelial cells", "Krt17")
+
+The species is not explicitly mentioned in the text, so it is filled with "null". The tissue type and cell names are derived from the context of the document, and the markers are directly associated with the respective cell types as per the description.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "LSCs (Limbal Stem Cells)", "IFITM3")
+2. ("Human", "null", "LSCs (Limbal Stem Cells)", "GPHA2")
+3. ("Human", "null", "Basal limbal epithelial cells", "KRT15")
+4. ("Human", "null", "T cells", "Cd45")
+5. ("Human", "null", "T cells", "Cd3")
+6. ("Human", "null", "Regulatory T cells", "Cd4")
+7. ("Human", "null", "Regulatory T cells", "Cd25")
+8. ("Human", "null", "Regulatory T cells", "Foxp3")
+9. ("Human", "null", "T cells", "Cd8")
+
+Note: The species is specified as "Human" for all markers since the context of the document indicates that these markers are being discussed in the context of human cells. For tissue type, "null" is used because the specific tissue type is not always clearly defined or is broadly referred to (e.g., limbus).
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "null", "LSC (Limbal Stem Cell)", "Gpha2")
+2. ("Mouse", "null", "LSC (Limbal Stem Cell)", "Cd63")
+3. ("Mouse", "null", "LSC (Limbal Stem Cell)", "Ifitm3")
+4. ("Mouse", "null", "B cell", "Cd19")
+
+The document does not specify a particular tissue type for these markers, so "null" is used for the "Tissue Type" field.
+
+none
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Mouse", "Cornea", "Corneal stromal keratocytes", "Vim")
+2. ("Mouse", "Cornea", "Corneal stromal keratocytes", "Thy1")
+3. ("Mouse", "Cornea", "Corneal stromal keratocytes", "S100a4")
+4. ("Mouse", "Cornea", "Goblet cells", "Muc2")
+5. ("Mouse", "Cornea", "Goblet cells", "Muc5ac")
+6. ("Mouse", "Cornea", "Goblet cells", "Muc5b")
+7. ("Mouse", "Cornea", "Melanocytes", "Dct")
+8. ("Mouse", "Cornea", "Melanocytes", "Mitf")
+9. ("Mouse", "Cornea", "Melanocytes", "Ptgs")
+10. ("Mouse", "Cornea", "Melanocytes", "Tyrp1")
+11. ("Mouse", "Cornea", "Melanocytes", "Melana")
+12. ("Mouse", "Cornea", "Melanocytes", "Tyr")
+13. ("Mouse", "Cornea", "T cells", "Cd3d")
+14. ("Mouse", "Cornea", "T cells", "Cd3e")
+15. ("Mouse", "Cornea", "T cells", "Cd4")
+16. ("Mouse", "Cornea", "T cells", "G2mb")
+17. ("Mouse", "Cornea", "B cells", "Cd19")
+18. ("Mouse", "Cornea", "B cells", "Cd79a")
+19. ("Mouse", "Cornea", "B cells", "Cd79b")
+20. ("Mouse", "Cornea", "null", "Gpha2")  # Gpha2 is mentioned in the context of marking the outer limbus but not directly associated with a specific cell type.
+21. ("Mouse", "Cornea", "null", "Cd63")  # Cd63 is mentioned in the context of marking the outer limbus but not directly associated with a specific cell type.
+
+Note: The last two entries (20 and 21) have "null" for the "Cell Name" field since the document does not specify a particular cell type for these markers, but they are used to mark the outer limbus.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Cornea", "Limbal region cells", "Gpha2/K15-GFP")
+2. ("Human", "Cornea", "qLSCs (quiescent Limbal Stem Cells)", "GPHA2")
+3. ("Human", "Cornea", "qLSCs (quiescent Limbal Stem Cells)", "IFITM3")
+
+These tuples meet the specified format and criteria.
+
+Based on the provided document, the following cell markers have been identified. The information has been formatted as requested:
+
+1. ("Mouse", "Cornea", "Blood vessels", "Cd31")
+2. ("Mouse", "Cornea", "Lymph vessels", "Lyve-1")
+3. ("Mouse", "Cornea", "qLSCs", "Cd63")
+4. ("Mouse", "Cornea", "qLSCs", "Gpha2")
+5. ("Mouse", "Cornea", "T cells", "Cd3ε")
+6. ("Mouse", "Cornea", "T cells (CD8+)", "CD8a")
+7. ("Mouse", "Cornea", "T cells (CD4+)", "CD4")
+8. ("Mouse", "Cornea", "Regulatory T cells", "FoxP3-GFP")
+9. ("Mouse", "Cornea", "Dividing cells", "Ki67")
+10. ("Mouse", "Cornea", "Regulatory T cells", "Cd25")
+
+These tuples are based on the markers used in the immunostaining and other experiments described in the text.
+
+none
+
+none
+

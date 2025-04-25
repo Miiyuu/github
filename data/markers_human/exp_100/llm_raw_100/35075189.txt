@@ -1,0 +1,135 @@
+Based on the provided text, here are the identified cell markers in the required format:
+
+1. ("Mouse", "Pharyngeal endoderm", "Thyroid progenitor cells", "Nkx2.1")
+2. ("Mouse", "Pharyngeal endoderm", "Thyroid progenitor cells", "Hhex")
+3. ("Mouse", "Pharyngeal endoderm", "Thyroid progenitor cells", "Pax8")
+4. ("Mouse", "Pharyngeal endoderm", "Early respiratory lineage cells", "Nkx2.1")
+5. ("Mouse", "Pharyngeal endoderm", "Early respiratory lineage cells", "Irx1")
+6. ("Mouse", "Pharyngeal endoderm", "Early respiratory lineage cells", "Irx2")
+7. ("Mouse", "Pharyngeal endoderm", "First pouch derivative (Eustachian tube) cells", "Fgf8")
+8. ("Mouse", "Pharyngeal endoderm", "First pouch derivative (Eustachian tube) cells", "Edn1")
+9. ("Mouse", "Pharyngeal endoderm", "First pouch derivative (Eustachian tube) cells", "Eya1")
+10. ("Mouse", "Pharyngeal endoderm", "UBB cells", "Nkx2.1")
+11. ("Mouse", "Pharyngeal endoderm", "UBB cells", "Hhex")
+12. ("Mouse", "Pharyngeal endoderm", "UBB cells", "Calca")
+13. ("Mouse", "Pharyngeal endoderm", "Fourth pouch progenitors", "Ripply3")
+14. ("Mouse", "Pharyngeal endoderm", "Second pouch (salivary glandular epithelium) cells", "Irf6")
+15. ("Mouse", "Pharyngeal endoderm", "Second pouch (salivary glandular epithelium) cells", "Trp63")
+16. ("Mouse", "Pharyngeal endoderm", "Second pouch (salivary glandular epithelium) cells", "Sox9")
+17. ("Mouse", "Pharyngeal endoderm", "Second pouch (salivary glandular epithelium) cells", "Vim")
+18. ("Mouse", "Pharyngeal endoderm", "Myoepithelial cells (within second pouch cluster)", "Acta2")
+19. ("Mouse", "Pharyngeal endoderm", "Myoepithelial cells (within second pouch cluster)", "Tagln")
+20. ("Mouse", "Pharyngeal endoderm", "Myoepithelial cells (within second pouch cluster)", "Myl9")
+21. ("Mouse", "Pharyngeal endoderm", "Second pouch cells", "Pax1")
+22. ("Mouse", "Pharyngeal endoderm", "Second pouch cells", "Fgf8")
+23. ("Mouse", "Pharyngeal endoderm", "Caudal third and fourth pouches cells", "Hoxa3")
+
+These tuples represent the different cell types and their associated markers as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Thymus", "Medullary TECs", "Cldn3")
+2. ("Mouse", "Thymus", "Medullary TECs", "Cldn4")
+3. ("Mouse", "Thymus", "Cortical TECs or Progenitor TECs", "Psmb11")
+4. ("Mouse", "Thymus", "mTECs", "Grhl3")
+5. ("Mouse", "Thymus", "Thymus", "Gas6")
+6. ("Mouse", "Parathyroid", "Parathyroid", "Sparcl1")
+7. ("Mouse", "Parathyroid", "Parathyroid", "Ibsp")
+8. ("Mouse", "Parathyroid", "Parathyroid", "Flrt2")
+9. ("Mouse", "UBB", "UBB", "Meox1")
+
+These tuples represent the specific cell markers mentioned in the text for different cell types within the mouse thymus, parathyroid, and UBB (unspecified but likely refers to a particular region or structure).
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Pharyngeal endoderm", "Thymus (medullary thymic epithelial cells)", "Grhl3")
+2. ("Mouse", "Pharyngeal endoderm", "Thymus (medullary thymic epithelial cells)", "Gas6")
+3. ("Mouse", "Pharyngeal endoderm", "Thymus (cortical thymic epithelial cells)", "Foxn1")
+4. ("Mouse", "Pharyngeal endoderm", "Parathyroid", "Ibsp")
+5. ("Mouse", "Pharyngeal endoderm", "Parathyroid", "Sparcl1")
+6. ("Mouse", "Pharyngeal endoderm", "Parathyroid", "Gcm2")
+7. ("Mouse", "Pharyngeal endoderm", "Ultimobranchial body", "Ascl1")
+8. ("Mouse", "Pharyngeal endoderm", "Ultimobranchial body", "Meox1")
+9. ("Mouse", "Pharyngeal endoderm", "Ultimobranchial body", "Calca")
+
+These tuples are based on the differentially expressed marker genes and known transcripts associated with specific lineages as mentioned in the text.
+
+Based on the provided document, the following cell markers have been identified. The information has been formatted as requested:
+
+1. ("Mouse", "Pharyngeal endoderm", "Thyroid cells", "Pax8")
+2. ("Mouse", "Pharyngeal endoderm", "Thymus cells", "Foxn1")
+3. ("Mouse", "Pharyngeal endoderm", "Thymus cells", "Pax1")
+4. ("Mouse", "Pharyngeal endoderm", "Thymus cells", "Six1")
+5. ("Mouse", "Pharyngeal endoderm", "Parathyroid cells", "Gcm2")
+6. ("Mouse", "Pharyngeal endoderm", "Parathyroid cells", "Gata3")
+7. ("Mouse", "Pharyngeal endoderm", "Parathyroid cells", "Maf")
+
+These tuples are derived from the discussion of tissue-specific TF (transcription factor) activity and gene regulatory networks, where specific transcription factors are associated with particular cell types within the pharyngeal endoderm during early organogenesis in mouse embryos.
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "thymus", "cTEC", "Rspo3")
+2. ("null", "thymus", "cTEC", "Gas6")
+3. ("null", "thymus", "TEC progenitors", "Rspo3")
+4. ("null", "thymus", "TEC progenitors", "Gas6")
+5. ("null", "thymus", "cTEC", "Psmb11")
+6. ("null", "thymus", "cTEC", "Prss16")
+7. ("null", "thymus", "cTEC", "Cxcl12")
+8. ("null", "thymus", "cTEC", "Ccl25")
+
+The species is not specified in the text, so it is marked as "null". The tissue type and cell names are directly extracted from the context. The markers are listed based on their association with the respective cell types.
+
+none
+
+The provided text does not contain specific information about cell markers that are differentially expressed to distinguish various cell types. The document primarily discusses the effects of a Foxn1 knockout on gene expression and biological processes, but it does not provide clear marker genes, signature genes, protein markers, or molecular markers for distinct cell types.
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "Thymus", "mTEC (medullary thymic epithelial cell)", "Grhl3")
+2. ("Mouse", "Thymus", "mTEC (medullary thymic epithelial cell)", "Cldn3")
+3. ("Mouse", "Thymus", "mTEC (medullary thymic epithelial cell)", "Cldn4")
+
+These tuples are derived from the information that Grhl3, Cldn3, and Cldn4 are mentioned as markers for mTECs (medullary thymic epithelial cells) in the mouse thymus.
+
+Based on the provided document, the following cell markers were identified:
+
+1. ("null", "null", "null", "EpCAM") - The CD326 EpCAM antibody was used for FACS, indicating it as a marker.
+2. ("null", "null", "null", "Pax9") - Pax9 was used in conjunction with PE/Cy7 to sort cells, suggesting it as a marker.
+3. ("null", "null", "null", "Foxn1") - Foxn1 is listed among the RNAscope probes, implying its use as a marker.
+4. ("null", "null", "null", "Gas6") - Gas6 is also listed among the RNAscope probes, indicating it as a marker.
+5. ("null", "null", "null", "Grhl3") - Grhl3 is one of the RNAscope probes, suggesting it is a marker.
+6. ("null", "null", "null", "Gcm2") - Gcm2 is another RNAscope probe, indicating its role as a marker.
+7. ("null", "null", "null", "Sparcl1") - Sparcl1 is listed among the RNAscope probes, signifying its use as a marker.
+8. ("null", "null", "null", "Ibsp") - Ibsp is included in the list of RNAscope probes, indicating it as a marker.
+9. ("null", "null", "null", "Ngfr") - Ngfr is mentioned as one of the RNAscope probes, suggesting it as a marker.
+10. ("null", "null", "null", "Flrt2") - Flrt2 is one of the RNAscope probes, indicating it as a marker.
+11. ("null", "null", "null", "Calca") - Calca is listed among the RNAscope probes, implying it as a marker.
+12. ("null", "null", "null", "Ascl1") - Ascl1 is included in the RNAscope probes, indicating its role as a marker.
+13. ("null", "null", "null", "Meox1") - Meox1 is one of the RNAscope probes, suggesting it as a marker.
+
+The species, tissue type, and specific cell names are not explicitly mentioned in the text, so these fields are filled with "null".
+
+Based on the provided text, I have identified the following cell markers:
+
+1. ("null", "null", "neuronal cells", "Neurod1")
+2. ("null", "null", "neuronal cells", "Pax9")
+3. ("null", "null", "neural crest cells", "Pax3")
+4. ("null", "null", "neural crest cells", "Epcam")
+5. ("null", "null", "endothelial cells", "Esam")
+6. ("null", "null", "endothelial cells", "Pdgfra")
+7. ("null", "null", "endothelial cells", "Dlx5")
+8. ("null", "null", "otic vesicle cells", "Rxrg")
+9. ("null", "null", "otic vesicle cells", "Dlx5")
+10. ("null", "null", "otic vesicle cells", "Sox10")
+11. ("null", "null", "red blood cells", "Hbb-bt")
+
+These markers are inferred from the description of clusters and their associated gene expressions that were used to exclude certain types of cells during the analysis.
+
+none
+

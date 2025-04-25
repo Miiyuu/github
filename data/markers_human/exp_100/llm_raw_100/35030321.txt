@@ -1,0 +1,87 @@
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified for human RPE (Retinal Pigment Epithelium) cells:
+
+1. ("Human", "null", "RPE-like cells", "BEST1")
+2. ("Human", "null", "RPE-like cells", "RPE65")
+3. ("Human", "null", "RPE-like cells", "LHX2")
+4. ("Human", "null", "RPE-like cells", "TYRP1")
+5. ("Human", "null", "RPE-like cells", "ZO-1")
+
+The tissue type is not specifically mentioned in the text, hence it is filled with "null". The document focuses on the transformation of human somatic cells into RPE-like cells and mentions several markers used to identify these cells.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "null", "iRPE", "OTX2")
+2. ("null", "null", "iRPE", "CRX")
+3. ("null", "null", "iRPE", "BEST1")
+4. ("null", "null", "iRPE", "RPE65")
+
+These tuples are based on the information given in the document, where OTX2 and CRX are mentioned as critical for iRPE (induced retinal pigment epithelium) cell reprogramming, and BEST1 and RPE65 are used as markers to identify iRPE cells. The species and tissue type were not explicitly stated, hence they are marked as "null".
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retinal pigment epithelium (RPE)", "iRPE", "BEST1::EGFP")
+2. ("Human", "Retinal pigment epithelium (RPE)", "iRPE", "RPE65")
+3. ("Human", "Fibroblast", "Fibroblast", "S100A4")
+4. ("Human", "Retinal pigment epithelium (RPE)", "iPSC.RPE", "ZO-1")
+
+These tuples are derived from the text, which discusses the expression of these markers in different cell types and conditions.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "Retina", "iRPE/iRPENC", "BEST1")
+2. ("Human", "Retina", "iRPE/iRPENC", "RPE65")
+3. ("Human", "Retina", "iRPE/iRPENC", "TYRP1")
+4. ("Human", "Retina", "iRPE/iRPENC", "CRX")
+5. ("Human", "Retina", "iRPE/iRPENC", "TYR")
+6. ("Human", "Retina", "iRPE/iRPENC", "MERTK")
+7. ("Human", "Retina", "iRPE/iRPENC", "LHX2")
+
+The species is inferred as "Human" since the context involves human induced pluripotent stem cells (iPSCs) and retinal pigment epithelial (RPE) cells, which are commonly studied in human models for regenerative medicine. The tissue type is "Retina" because the discussion revolves around RPE cells, which are a part of the retina. The cell name is given as "iRPE/iRPENC" to reflect the induced and treated states of the RPE cells.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "null", "iRPENC (HQ1 and HQ2)", "BEST1::EGFP")
+2. ("Human", "null", "iRPENC (HQ1 and HQ2)", "RPE genes")
+3. ("Human", "null", "iRPENC (HQ1 and HQ2)", "SERPINF1 (PEDF)")
+4. ("Human", "null", "iRPENC (HQ1 and HQ2)", "VEGFA (VEGF)")
+5. ("Human", "null", "iRPENC.other", "fibroblastic genes")
+6. ("Human", "null", "iRPENC.HQ", "mitochondrial genes (percent.mt)")
+7. ("Human", "null", "iRPENC.HQ", "important RPE genes")
+8. ("Human", "null", "iRPENC", "CDH1")
+9. ("Human", "null", "iRPENC", "FRZB")
+
+Note: The species is assumed to be "Human" based on the context of the study, which typically involves human cells in such research. The tissue type is not explicitly mentioned, so it is filled with "null".
+
+Based on the provided document, the following cell markers have been identified for specific cell types. The information is presented in the requested tuple format:
+
+1. ("null", "null", "RPE", "CRX")
+2. ("null", "null", "RPE", "TYR")
+3. ("null", "null", "RPE", "RLBP1")
+4. ("null", "null", "RPE", "RPE65")
+5. ("null", "null", "RPE", "BEST1")
+6. ("null", "null", "RPE", "RAX")
+
+The species and tissue type were not specified in the text, so they are marked as "null". The document specifically mentions these markers in the context of RPE (Retinal Pigment Epithelium) cells.
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+- ("Human", "Retina", "RPE cell", "BSG")
+- ("Human", "Retina", "RPE cell", "RPE65")
+- ("Human", "Retina", "iRPENC cell", "STEM121")
+
+These markers are used to identify and characterize RPE (Retinal Pigment Epithelium) cells and iRPENC (induced Retinal Pigment Epithelial Neural Crest) cells in the context of the study.
+
+none
+
+The provided text discusses various transcription factors and their roles in the reprogramming of cells to induced retinal pigment epithelial (iRPE) cells. However, it does not explicitly mention any specific cell markers (marker genes, signature genes, protein markers, or molecular markers) that are used to distinguish different cell types with differential expression. The document focuses more on the role of transcription factors in the reprogramming process rather than identifying markers for specific cell types. Therefore, based on the given requirements, no valid tuples can be formed, and "none" is returned.
+
+none
+

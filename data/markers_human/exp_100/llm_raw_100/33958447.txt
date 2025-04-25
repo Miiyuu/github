@@ -1,0 +1,85 @@
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("Human", "LGE (Lateral Ganglionic Eminence)", "D1-MSNs (D1 medium spiny neurons)", "ISL1")
+2. ("Human", "LGE (Lateral Ganglionic Eminence)", "D2-MSNs (D2 medium spiny neurons)", "SIX3")
+3. ("Human", "LGE (Lateral Ganglionic Eminence)", "MGE interneurons", "NKX2.1")
+4. ("Human", "LGE (Lateral Ganglionic Eminence)", "MGE interneurons", "LHX6")
+5. ("Human", "LGE (Lateral Ganglionic Eminence)", "MGE interneurons", "LHX8")
+6. ("Human", "LGE (Lateral Ganglionic Eminence)", "dorsal LGE (dLGE) interneurons", "SP8")
+7. ("Human", "LGE (Lateral Ganglionic Eminence)", "dorsal LGE (dLGE) interneurons", "COUP-TFII (NR2F2)")
+8. ("Human", "LGE (Lateral Ganglionic Eminence)", "dorsal LGE (dLGE) interneurons", "PAX6")
+
+These tuples represent the cell markers that are used to distinguish different cell types within the human LGE, as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+- ("Human", "Striatum", "Pre-MSN", "OCT6 (POU3F1)")
+- ("Human", "Striatum", "Pre-MSN", "ISL1")
+- ("Human", "Striatum", "Pre-MSN", "SIX3")
+- ("Human", "Striatum", "Pre-MSN", "CTIP2")
+
+The document does not provide explicit species information for all entries, but it is inferred to be "Human" based on the context. The tissue type is also inferred to be "Striatum" as the discussion revolves around striatal development. The cell name is "Pre-MSN" (precursors of medium spiny neurons), and the markers are OCT6 (also known as POU3F1), ISL1, SIX3, and CTIP2.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "D1-MSNs", "ISL1")
+2. ("Human", "null", "D2-MSNs", "SIX3")
+3. ("Human", "null", "Pre-MSNs", "OCT6")
+4. ("Human", "null", "Mature D1-MSNs", "NEFM")
+5. ("Human", "null", "Postmitotic neurons (SVZ of LGE)", "OCT6")
+
+The species is assumed to be human based on the context, and the tissue type is not explicitly mentioned, so it's set to "null". The cell names and their respective markers are derived from the text.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "APs (Ancestal Progenitors)", "OTX1")
+2. ("Human", "null", "BPs (Basal Progenitors)", "VAX1")
+3. ("Human", "null", "MSNs (Medium Spiny Neurons)", "POU2F2")
+4. ("Human", "null", "D2-MSNs (D2 Medium Spiny Neurons)", "NANOG")
+5. ("Human", "null", "D1-MSNs (D1 Medium Spiny Neurons)", "FOXO1")
+
+The species is specified as "Human" based on the context of the research, and since the tissue type is not explicitly mentioned in the text, it is filled with "null". The markers are directly associated with the cell types as indicated in the text.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "null", "D2-MSN", "IKZF1") - IKZF1 is mentioned as an essential gene in the generation of D2-MSNs in mice.
+2. ("Human", "null", "D1-MSN", "IKZF1") - In humans, IKZF1 is associated with D1-MSNs, suggesting a different role compared to its function in mice.
+3. ("null", "null", "D2-MSN", "MAFB") - MAFB is described as a specific transcription factor (TF) of the D2 lineage.
+4. ("null", "null", "pre-MSN", "OCT6") - OCT6 is noted for its probable function in the pre-MSN phase, particularly in pre-D1 MSNs.
+
+The other genes and proteins mentioned (NKX2.1, OTX2, SP9, ZNF467) are discussed in terms of their roles in cell fate determination or differentiation but are not explicitly defined as cell markers in the given context. Therefore, they are not included in the list.
+
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("Human", "Striatum", "D1-MSNs (patch cells)", "PDYN")
+2. ("Human", "Striatum", "D1-MSNs (patch cells)", "TSHZ1")
+3. ("Human", "Striatum", "D2-MSNs (patch cells)", "PDYN")
+4. ("Human", "Striatum", "D2-MSNs (patch cells)", "TSHZ1")
+
+Additionally, the document mentions some genes that are specific to certain cell types or regions but does not explicitly state them as markers for distinguishing cell types. However, based on the context, they can be considered as potential markers:
+
+5. ("Human", "LGE (Lateral Ganglionic Eminence)", "Apical Progenitors", "SALL3")
+6. ("Human", "LGE (Lateral Ganglionic Eminence)", "Apical Progenitors", "LINC01896")
+
+Lastly, the document also refers to some transcription factors and genes that play a role in defining MSN (Medium Spiny Neuron) subtypes, which could be considered as markers:
+
+7. ("Human", "Striatum", "D1-MSNs", "ZNF467")
+8. ("Human", "Striatum", "D2-MSNs", "ZNF467")
+9. ("Human", "Striatum", "D1-MSNs", "OCT6")
+10. ("Human", "Striatum", "D2-MSNs", "OCT6")
+11. ("Human", "Striatum", "D1-MSNs", "IKZF1")
+12. ("Human", "Striatum", "D2-MSNs", "MAFB")
+
+These tuples are based on the interpretation of the text and the roles these genes and proteins play in differentiating the cell types mentioned.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Brain", "Medium Spiny Neurons (MSNs)", "PDYN")
+2. ("Human", "Brain", "Medium Spiny Neurons (MSNs)", "TSHZ1")
+3. ("Human", "Brain", "D1 MSNs", "ISL1")
+4. ("Human", "Brain", "D2 MSNs", "SIX3")
+
+These markers are specifically mentioned in the context of differentiating between various types of neurons within the human brain, particularly in the striatum.
+
+none
+

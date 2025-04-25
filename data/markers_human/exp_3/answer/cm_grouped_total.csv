@@ -1,0 +1,8 @@
+pmid,species,tissue_type,cell_name,markers
+30893597,Human,Heart muscle,Cardiomyocyte,"['ACTC1', 'MYH7', 'SIRPA', 'TNNT2']"
+30893597,Human,Heart muscle,Neuron,['NPTX1']
+30958799,Human,Esophagus,Effector Th2 cell,['HPGDS']
+30958799,Human,Esophagus,Effector Th2-like cell,['GATA3']
+30958799,Human,Esophagus,Regulatory T(Treg) cell,"['CD4', 'IL-10', 'CD154', 'FOXP3', 'CTLA-4', 'MAF', 'IFNG', 'IL17A']"
+30958799,Human,Esophagus,T helper 2(Th2) cell,"['HPGDS', 'PTGDR2', 'IL1RL1', 'IL-17RB']"
+35303421,Human,Gut,Regulatory T(Treg) cell,"['IL10', 'IL23R', 'IL1R1']"

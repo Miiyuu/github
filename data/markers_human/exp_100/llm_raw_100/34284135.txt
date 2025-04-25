@@ -1,0 +1,96 @@
+Based on the information provided in the document, the following cell markers have been identified. The document does not specify a particular species, so "null" is used for the "Species" field where it is not mentioned. Similarly, "null" is used for "Tissue Type" as the specific tissue type is not specified in the context of the markers. Here are the tuples:
+
+1. ("null", "null", "Hematopoietic-endothelial cells (HECs)", "ETV2")
+2. ("null", "null", "Primitive RBCs", "HBE (ε-globin)")
+3. ("null", "null", "Definitive RBCs", "HBG1 (γ-globin)")
+4. ("null", "null", "Definitive RBCs", "HBG2 (γ-globin)")
+5. ("null", "null", "Definitive RBCs", "HBB (β-globin)")
+6. ("null", "null", "Suspension cells (SCs)", "CD34")
+7. ("null", "null", "Suspension cells (SCs)", "CD45")
+
+These tuples reflect the markers and associated cell types as described in the text.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "null", "Hematopoietic stem and progenitor cells (HSPCs)", "CD34")
+2. ("Human", "null", "Hematopoietic stem and progenitor cells (HSPCs)", "CD45")
+3. ("Human", "null", "Erythroid cells", "CD71")
+4. ("Human", "null", "Erythroid cells", "CD235a")
+
+The species is assumed to be human based on the context of the study involving iPSCs (induced pluripotent stem cells) and hematopoietic differentiation, which are commonly studied in humans. The tissue type is not specified for these markers, hence it is marked as "null". The cell names and their corresponding markers are clearly stated in the document.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("null", "null", "Endothelial cell", "CDH5")
+2. ("null", "null", "Endothelial cell", "ESAM")
+
+The document mentions CDH5 (cadherin 5) and ESAM (endothelial-specific adhesion molecule) as markers associated with endothelial cells. However, the species and tissue type are not explicitly mentioned in the text, so they are filled with "null".
+
+Based on the provided document, the following cell markers have been identified. The information is presented in the required tuple format:
+
+1. ("null", "null", "lateral mesoderm-derived cells", "MECOM")
+2. ("null", "null", "lateral mesoderm-derived cells", "ETS1")
+3. ("null", "null", "lateral mesoderm-derived cells", "ELK3")
+4. ("null", "null", "lateral mesoderm-derived cells", "ERG")
+5. ("null", "null", "lateral mesoderm-derived cells", "SOX18")
+6. ("null", "null", "hematopoietic cells", "GATA1")
+7. ("null", "null", "hematopoietic cells", "TAL1")
+8. ("null", "null", "hematopoietic cells", "RUNX1")
+9. ("null", "null", "hematopoietic cells", "CEBPD")
+10. ("null", "null", "hematopoietic cells", "MYB")
+11. ("null", "null", "hematopoietic cells", "ELF1")
+12. ("null", "null", "myeloid cells", "CEBPD")
+13. ("null", "null", "myeloid cells", "MYB")
+14. ("null", "null", "erythroid cells", "GATA1")
+15. ("null", "null", "erythroid cells", "TAL1")
+
+The species and tissue type were not specified in the given text, hence they are marked as "null".
+
+Based on the provided text, here are the cell markers identified in the format specified:
+
+1. ("null", "null", "Hematopoietic cells", "RUNX1")
+2. ("null", "null", "Hematopoietic cells", "GATA2")
+3. ("null", "null", "Non-hematopoietic cells", "SOX7")
+4. ("null", "null", "Non-hematopoietic cells", "SOX17")
+5. ("null", "null", "Endothelial cells", "CDH5")
+6. ("null", "null", "Hematopoietic-endothelial cells (HECs)", "LMO2")
+7. ("null", "null", "Hematopoietic-endothelial cells (HECs)", "FLI1")
+
+These tuples have been created based on the information about marker genes and their associated cell types as described in the document. Since the species and tissue type were not explicitly mentioned for these markers, "null" has been used for those fields.
+
+Based on the provided document, the following cell markers can be identified and formatted as requested:
+
+1. ("null", "null", "HECs (Hematopoietic-Endothelial cells)", "KDR")
+2. ("null", "null", "HECs (Hematopoietic-Endothelial cells)", "SOX17")
+3. ("Human", "Yolk sac", "YSMPs (Yolk Sac Myeloid-biased Progenitors)", "MYB")
+4. ("Human", "Yolk sac", "YSMPs (Yolk Sac Myeloid-biased Progenitors)", "CD34")
+5. ("Human", "Yolk sac", "YSMPs (Yolk Sac Myeloid-biased Progenitors)", "PTPRC/CD45")
+6. ("Human", "Yolk sac", "YSMPs (Yolk Sac Myeloid-biased Progenitors)", "CD44")
+
+The species for the first two entries is not explicitly mentioned in the text, so it's marked as "null". The tissue type is also not specified, hence marked as "null" for those entries. For the last four entries, the species is human, and the context suggests these markers are associated with the yolk sac.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "Erythroid progenitor cells", "GATA1")
+2. ("null", "null", "Erythroid progenitor cells", "BCL11A")
+3. ("null", "null", "Erythroid cells (state 2)", "CD74")
+4. ("null", "null", "Erythroid cells (state 2)", "CD81")
+5. ("null", "null", "Erythroid cells (state 2)", "C1QBP")
+6. ("null", "null", "Erythroid cells (state 2)", "EPOR") - Note: EPOR is lowly expressed in state 2 cells.
+7. ("null", "null", "Erythroid cells (state 2)", "HBD") - Note: HBD is lowly expressed in state 2 cells.
+8. ("null", "null", "Erythroid cells (state 2)", "HBE1") - Note: HBE1 is lowly expressed in state 2 cells.
+9. ("null", "null", "Ortho-E cells", "FOXO3")
+10. ("null", "null", "Erythroid cells", "TFRC")
+
+The species and tissue type are not specified in the text, so they are filled with "null". The document provides information about specific gene expression patterns that help to distinguish between different states of erythroid cells, which I've listed as the "Marker" field.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Erythroid cells", "CD74")
+2. ("Human", "null", "Erythroid cells", "CD34")
+3. ("Human", "null", "Erythroid cells", "CD45")
+4. ("Human", "null", "Erythroid cells", "CD71")
+5. ("Human", "null", "Erythroid cells", "CD235a")
+
+These markers are associated with human erythroid cells, and the tissue type is not specified in the text, so it's filled as "null".
+

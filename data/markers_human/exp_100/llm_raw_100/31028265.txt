@@ -1,0 +1,259 @@
+Based on the provided text, there is no explicit mention of specific cell markers with all the required details (Species, Tissue Type, Cell Name, and Marker). The document discusses various processes and cell types but does not provide a clear list of markers in the specified format. Therefore, the response is:
+
+none
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "null", "Endocardial cell", "TBX2")
+2. ("Human", "null", "Endocardial cell", "TBX20")
+3. ("Human", "null", "Endocardial cell", "GATA5")
+4. ("Human", "null", "Endocardial cell", "MSX1")
+5. ("Human", "null", "Endocardial cell", "SMAD6")
+6. ("Human", "null", "Endocardial cell", "PITX2")
+7. ("Human", "null", "Endocardial cell", "HES1")
+8. ("Human", "null", "Endocardial cell", "NFATc")
+9. ("Human", "null", "Endocardial cell", "ADORA")
+10. ("Human", "null", "Endocardial cell", "GALANIN")
+11. ("Human", "null", "Endocardial cell", "TGFβ1")
+12. ("Human", "null", "Endocardial cell", "TGFβ2")
+13. ("Human", "null", "Endocardial cell", "THROMBOSPONDIN")
+14. ("Human", "null", "Endocardial cell", "ERBB4")
+15. ("Human", "null", "Endocardial cell", "ADAM19")
+16. ("Human", "null", "Endocardial cell", "CAV1")
+17. ("Human", "null", "Endocardial cell", "PDGFRα")
+18. ("Human", "null", "Endocardial cell", "LMCD1")
+19. ("Human", "null", "Endocardial cell", "GATA6")
+20. ("Human", "null", "Endocardial cell", "KDR")
+21. ("Human", "null", "Endocardial cell", "FLT1")
+22. ("Human", "null", "Endocardial cell", "FLI1")
+23. ("Human", "null", "Endocardial cell", "TIE2")
+
+Note: The tissue type is not explicitly mentioned in the text, so it is marked as "null" for all entries.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Endothelial cell", "CD31")
+2. ("Human", "null", "Endothelial cell", "KDR")
+3. ("Human", "null", "Endothelial cell", "VE-cadherin")
+4. ("Human", "null", "AVC and endocardial cells", "GATA5")
+5. ("Human", "null", "AVC and endocardial cells", "TBX3")
+6. ("Human", "null", "AVC and endocardial cells", "TBX20")
+7. ("Human", "null", "AVC and endocardial cells", "NFATc")
+8. ("Human", "null", "AVC and endocardial cells", "MSX1")
+9. ("Human", "null", "Endothelial and endocardial cell population", "CDH5")
+10. ("Human", "null", "Endothelial and endocardial cell population", "ENG")
+11. ("Human", "null", "Endothelial and endocardial cell population", "PECAM1")
+12. ("Human", "null", "Endothelial and endocardial cell population", "KLF2")
+13. ("Human", "null", "Endothelial and endocardial cell population", "NOTCH4")
+14. ("Human", "null", "Endothelial and endocardial cell population", "SOX17")
+15. ("Human", "null", "Endothelial and endocardial cell population", "SOX18")
+16. ("Human", "null", "Endothelial and endocardial cell population", "ETS1")
+17. ("Human", "null", "Endothelial and endocardial cell population", "TWIST1")
+18. ("Human", "null", "Endothelial and endocardial cell population", "THSD1")
+19. ("Human", "null", "Endothelial and endocardial cell population", "HEY1")
+
+The tissue type is not explicitly mentioned in the text, hence it's marked as "null" for all entries.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "null", "Endothelial cell", "CDH5")
+2. ("null", "null", "Endothelial cell", "PECAM1")
+3. ("null", "null", "TWIST1+ cells", "GATA5")
+4. ("null", "null", "TWIST1+ cells", "TBX2")
+5. ("null", "null", "TWIST1+ cells", "TBX3")
+6. ("null", "null", "TWIST1+ cells", "MSX1")
+7. ("null", "null", "Hemogenic endocardial cell population", "ETS1")
+8. ("null", "null", "Hemogenic endocardial cell population", "EGFL7")
+9. ("null", "null", "Hemogenic endocardial cell population", "HOPX")
+10. ("null", "null", "Hemogenic endocardial cell population", "SCL/TAL1")
+11. ("null", "null", "Cluster 6 (hematopoietic cells)", "SOX18")
+12. ("null", "null", "Cluster 6 (hematopoietic cells)", "LATEXIN")
+13. ("null", "null", "Cluster 6 (hematopoietic cells)", "FICOLIN3")
+14. ("null", "null", "Cluster 6 (hematopoietic cells)", "HOXP1")
+15. ("null", "null", "Cluster 6 (hematopoietic cells)", "CARBONIC-ANYDRASE")
+16. ("null", "null", "Cluster 6 (hematopoietic cells)", "CD40")
+17. ("null", "null", "Cluster 6 (hematopoietic cells)", "CD55")
+18. ("null", "null", "Cluster 6 (hematopoietic cells)", "CX37")
+19. ("null", "null", "Cluster 3", "BAMBI")
+20. ("null", "null", "Cluster 3", "TGFβ1")
+21. ("null", "null", "Cluster 3", "PDGFRα")
+22. ("null", "null", "Cluster 4", "WNT2B")
+23. ("null", "null", "Cluster 5 (EMT process)", "APOE")
+24. ("null", "null", "Cluster 5 (EMT process)", "LUM")
+25. ("null", "null", "Cluster 5 (EMT process)", "POSTN")
+26. ("null", "null", "Cluster 5 (EMT process)", "ACTA2")
+27. ("null", "null", "Myofibroblast", "TGLN")
+28. ("null", "null", "Cluster 3 (fibrosa layer)", "COL1A1")
+29. ("null", "null", "Cluster 3 (fibrosa layer)", "COL1A2")
+30. ("null", "null", "Cluster 3 (fibrosa layer)", "COL4A1")
+31. ("null", "null", "Cluster 3 (fibrosa layer)", "COL6A2")
+32. ("null", "null", "Cluster 3 (fibrosa layer)", "COL3A1")
+33. ("null", "null", "Cluster 3 (fibrosa layer)", "BGN")
+34. ("null", "null", "Cluster 2 (spongiosa layer)", "TDGF1")
+35. ("null", "null", "Cluster 2 (spongiosa layer)", "CD9")
+36. ("null", "null", "Cluster 2 (spongiosa layer)", "VCAN")
+37. ("null", "null", "Cluster 2 (spongiosa layer)", "ALDH2")
+
+The document did not specify the species or the tissue type for the mentioned markers, hence "null" is used for those fields.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "HPVCs", "PERIOSTIN")
+2. ("Human", "null", "HPVCs", "SLUG")
+3. ("Human", "null", "HPVCs", "MSX1")
+4. ("Human", "null", "HPVCs", "SCLERAXIS")
+5. ("Human", "null", "HPVCs", "COLLAGEN1")
+6. ("Human", "null", "HPVCs", "SOX9")
+7. ("Human", "null", "HPVCs", "CALCITONIN")
+8. ("Human", "null", "HPVCs", "AXIN2")
+9. ("Human", "null", "HPVCs", "KLF2")
+10. ("Human", "null", "HPVCs", "SMAD6")
+11. ("Human", "null", "HPVCs", "FILAMIN A")
+12. ("Human", "null", "HPVCs", "VERSICAN")
+13. ("Human", "null", "HPVCs", "AGGRECAN")
+14. ("Human", "null", "HPVCs", "smooth muscle actin (SMA)")
+15. ("Mouse", "AVC regions of E9.5 mouse embryos", "endocardial cells", "LAMIN A/C")
+
+The tissue type is not explicitly mentioned for most of the markers, hence it is set to "null" where not specified. The species is inferred as "Human" unless otherwise stated, and the cell name is "HPVCs" based on the context.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. The document mentions "Sox9GFP" in the context of human pluripotent valve progenitor cells (HPVCs). SOX9 is a marker for these cells.
+2. It also mentions that HPVCs express post-EMT markers after treatment with BMP2, but it does not specify which markers.
+3. In the AVC region, HPVCs express PERIOSTIN, FILAMIN A, and COLLAGEN I.
+
+From this information, we can construct the following tuples:
+
+- ("Human", "Heart", "Valve progenitor cell (HPVC)", "SOX9")
+- ("Human", "Heart", "Valve progenitor cell (HPVC)", "PERIOSTIN")
+- ("Human", "Heart", "Valve progenitor cell (HPVC)", "FILAMIN A")
+- ("Human", "Heart", "Valve progenitor cell (HPVC)", "COLLAGEN I")
+
+Therefore, the final list of tuples is:
+
+[("Human", "Heart", "Valve progenitor cell (HPVC)", "SOX9"), 
+ ("Human", "Heart", "Valve progenitor cell (HPVC)", "PERIOSTIN"), 
+ ("Human", "Heart", "Valve progenitor cell (HPVC)", "FILAMIN A"), 
+ ("Human", "Heart", "Valve progenitor cell (HPVC)", "COLLAGEN I")]
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+1. ("Human", "Mitral valve", "Valvular interstitial cells (VICs)", "DCHS1")
+2. ("Human", "Pluripotent stem cells", "hiPS cells", "OCT4")
+3. ("Human", "Pluripotent stem cells", "hiPS cells", "SOX2")
+4. ("Human", "Pluripotent stem cells", "hiPS cells", "NANOG")
+5. ("Human", "Endoderm", "Differentiated cells from hiPS cells", "SOX17")
+6. ("Human", "Endoderm", "Differentiated cells from hiPS cells", "FOXA2")
+7. ("Human", "Mesoderm", "Differentiated cells from hiPS cells", "BRACHYURY (T)")
+8. ("Human", "Mesoderm", "Differentiated cells from hiPS cells", "MIXL1")
+9. ("Human", "Ectoderm", "Differentiated cells from hiPS cells", "NESTIN")
+10. ("Human", "Ectoderm", "Differentiated cells from hiPS cells", "PAX6")
+11. ("Human", "Valve endothelial cells", "HPVCs", "TBX2")
+12. ("Human", "Valve endothelial cells", "HPVCs", "TBX20")
+13. ("Human", "Valve endothelial cells", "HPVCs", "PITX2")
+14. ("Human", "Valve endothelial cells", "HPVCs", "GATA5")
+15. ("Human", "Valve endothelial cells", "HPVCs", "SMAD6")
+16. ("Human", "Valve endothelial cells", "HPVCs", "MSX1")
+
+These tuples are based on the specific mention of genes or proteins that serve as markers for particular cell types within the given text.
+
+none
+
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "Valve tissue", "Endothelial cell", "PECAM1")
+2. ("Human", "Valve tissue", "Endothelial cell", "CDH5")
+3. ("Human", "Valve tissue", "Endothelial cell", "ENG")
+4. ("Human", "Valve tissue", "Endothelial cell", "SOX17")
+5. ("Human", "Valve tissue", "Endothelial cell", "SOX18")
+6. ("Human", "Valve tissue", "Endothelial cell", "DLL4")
+7. ("Human", "Valve tissue", "Endothelial cell", "CD34")
+8. ("Human", "Valve tissue", "Endothelial cell", "KDR")
+
+These markers are specifically mentioned as being highly expressed in endothelial cells within the context of valve tissue, and they help to distinguish this cell type from others.
+
+none
+
+Based on the provided document, the following cell markers have been identified. The information is presented in the requested format:
+
+1. ("Mouse", "Heart", "AVC endocardium", "Tbx3")
+2. ("Mouse", "Heart", "AVC endocardium", "Tbx2")
+3. ("Mouse", "Heart", "AVC endocardium", "Tbx20")
+4. ("Mouse", "Heart", "AVC endocardium", "Msx")
+5. ("Mouse", "Heart", "AVC endocardium", "Id2")
+6. ("Mouse", "Heart", "Endocardial cells", "GATA5")
+7. ("Mouse", "Heart", "Endocardial cells", "NFATC")
+8. ("Mouse", "Heart", "AVC endocardium", "TGFβ2")
+9. ("Mouse", "Heart", "AVC endocardium", "HEY1")
+10. ("Mouse", "Heart", "AVC endocardium", "Smad6")
+11. ("Mouse", "Heart", "AVC endocardium", "Twist")
+12. ("Mouse", "Heart", "AVC endocardium", "Slc6a4")
+13. ("Mouse", "Heart", "Endocardial cells", "Cav1")
+14. ("Mouse", "Heart", "Endocardial cells", "Thsd2")
+15. ("Mouse", "Heart", "Endocardial cells", "Rspo3")
+16. ("Mouse", "Heart", "Endocardial cells", "Adora")
+17. ("Mouse", "Heart", "Endocardial cells", "Gal")
+18. ("Mouse", "Heart", "Endocardial cells", "ENG")
+19. ("Mouse", "Heart", "Endocardial cells", "CDH5")
+20. ("Mouse", "Heart", "Endocardial cells", "KDR")
+21. ("Mouse", "Heart", "Endocardial cells", "PECAM1")
+22. ("Mouse", "Heart", "Endocardial cells", "THSD1")
+
+The species for all entries is assumed to be "Mouse" based on the context of the document mentioning E9.0 mouse AVC. The tissue type is specified as "Heart" given the discussion revolves around cardiac structures and genes. The specific cell names are derived from the text, with "null" not being necessary for any field since all fields could be filled based on the provided information.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Endothelial cell", "CD31")
+2. ("Human", "null", "Endothelial cell", "VE-CADHERIN")
+3. ("Human", "null", "Endothelial cell", "ENDOGLIN")
+4. ("Human", "null", "Endocardial cell", "GATA5")
+5. ("Human", "null", "Endocardial cell", "TBX2")
+6. ("Human", "null", "Endocardial cell", "GALANIN")
+7. ("Human", "null", "Endocardial cell", "RSPO")
+8. ("Human", "null", "Endocardial cell", "SMAD6")
+9. ("Human", "null", "Endocardial cell", "MSX1")
+10. ("Human", "null", "Valvular fibroblast", "FILAMIN")
+11. ("Human", "null", "Valvular fibroblast", "PERIOSTIN")
+12. ("Human", "null", "Valvular fibroblast", "VERSICAN")
+13. ("Human", "null", "Valvular fibroblast", "AGGRECAN")
+14. ("Human", "null", "Valvular interstitial cell", "FILAMIN A")
+15. ("Human", "null", "Valvular interstitial cell", "SOX9")
+16. ("Human", "null", "Valvular interstitial cell", "COLLAGEN I")
+17. ("Human", "null", "Post-EMT cell", "SLUG")
+18. ("Human", "null", "Post-EMT cell", "SMAD6")
+19. ("Human", "null", "Post-EMT cell", "PERIOSTIN")
+20. ("Human", "null", "Post-EMT cell", "SOX9")
+21. ("Human", "null", "Post-EMT cell", "MSX1")
+
+Note: The tissue type is not explicitly mentioned for each marker in the text, so it has been set to "null" as per the requirements.
+
+Based on the provided document, I have identified the following cell markers:
+
+1. ("null", "null", "HPVCs (High Proliferative Valve Cells)", "PECAM")
+2. ("null", "null", "HPVCs (High Proliferative Valve Cells)", "ENG")
+3. ("null", "null", "HPVCs (High Proliferative Valve Cells)", "CDH5")
+4. ("null", "null", "Valve interstitial cells", "COL1A1")
+5. ("null", "null", "Valve interstitial cells", "PSTN")
+
+The other parts of the text do not contain specific marker information for distinct cell types as per the required format. The document mostly discusses signaling pathways and their effects rather than listing additional markers.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "null", "MesP1+ cell", "MESP1")
+2. ("Human", "null", "MesP1+ cell", "MEF2C")
+3. ("Human", "null", "MesP1+ cell", "NKX2.5")
+4. ("Human", "null", "MesP1+ cell", "ISL1")
+5. ("Human", "null", "SSEA-1+ cell", "CD15 (SSEA-1)")
+6. ("Human", "null", "Endocardial HPVC", "CD31")
+7. ("Human", "null", "iPS cells", "OCT4")
+8. ("Human", "null", "iPS cells", "SOX2")
+9. ("Human", "null", "iPS cells", "NANOG")
+
+The tissue type is not specifically mentioned in the document for each of the cell types, hence it's set to "null". The species is "Human" as the context clearly indicates the use of human pluripotent stem cells and specific human cell lines.
+
+none
+
+none
+

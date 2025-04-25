@@ -1,0 +1,442 @@
+none
+
+Based on the provided document, several markers for RPE (Retinal Pigment Epithelium) cells are mentioned. These markers are associated with different functions such as extracellular structure organization, melanin biosynthesis, lipid biosynthesis, visual cycle, and secretion. The species in question is human, and the tissue type is not explicitly stated but can be inferred to be related to the eye, specifically the retinal pigment epithelium. Here are the tuples for each marker:
+
+1. ("Human", "Eye", "RPE cell", "CST3")
+2. ("Human", "Eye", "RPE cell", "EFEMP1")
+3. ("Human", "Eye", "RPE cell", "ITGAV")
+4. ("Human", "Eye", "RPE cell", "CRISPLD1")
+5. ("Human", "Eye", "RPE cell", "ITGB8")
+6. ("Human", "Eye", "RPE cell", "PMEL")
+7. ("Human", "Eye", "RPE cell", "TTR")
+8. ("Human", "Eye", "RPE cell", "TYRP1")
+9. ("Human", "Eye", "RPE cell", "TYR")
+10. ("Human", "Eye", "RPE cell", "DCT")
+11. ("Human", "Eye", "RPE cell", "PTGDS")
+12. ("Human", "Eye", "RPE cell", "INPP5K")
+13. ("Human", "Eye", "RPE cell", "LRAT")
+14. ("Human", "Eye", "RPE cell", "PLTP")
+15. ("Human", "Eye", "RPE cell", "ABHD2/RLBP1")
+16. ("Human", "Eye", "RPE cell", "RPE65")
+17. ("Human", "Eye", "RPE cell", "RGR")
+18. ("Human", "Eye", "RPE cell", "RBP1")
+19. ("Human", "Eye", "RPE cell", "BEST1")
+20. ("Human", "Eye", "RPE cell", "SERPINF1")
+
+These tuples reflect the markers that are conserved between 1-month-old and 12-month-old RPE cells, indicating their stability and importance in defining the RPE cell identity.
+
+Based on the provided document, the following cell markers have been identified. The information has been extracted and formatted as per the requirements:
+
+1. ("Human", "Retinal pigment epithelium", "RPE cells", "CST3")
+2. ("Human", "Retinal pigment epithelium", "RPE cells", "EFEMP1")
+3. ("Human", "Retinal pigment epithelium", "RPE cells", "ITGAV")
+4. ("Human", "Retinal pigment epithelium", "RPE cells", "CRISPLD1")
+5. ("Human", "Retinal pigment epithelium", "RPE cells", "ITGB8")
+6. ("Human", "Retinal pigment epithelium", "RPE cells", "PMEL")
+7. ("Human", "Retinal pigment epithelium", "RPE cells", "TTR")
+8. ("Human", "Retinal pigment epithelium", "RPE cells", "TYRP1")
+9. ("Human", "Retinal pigment epithelium", "RPE cells", "TYR")
+10. ("Human", "Retinal pigment epithelium", "RPE cells", "DCT")
+11. ("Human", "Retinal pigment epithelium", "RPE cells", "PTGDS")
+12. ("Human", "Retinal pigment epithelium", "RPE cells", "INPP5K")
+13. ("Human", "Retinal pigment epithelium", "RPE cells", "LRAT")
+14. ("Human", "Retinal pigment epithelium", "RPE cells", "PLTP")
+15. ("Human", "Retinal pigment epithelium", "RPE cells", "RLBP1")
+16. ("Human", "Retinal pigment epithelium", "RPE cells", "RPE65")
+17. ("Human", "Retinal pigment epithelium", "RPE cells", "RGR")
+18. ("Human", "Retinal pigment epithelium", "RPE cells", "RBP1")
+19. ("Human", "Retinal pigment epithelium", "RPE cells", "BEST1")
+20. ("Human", "Retinal pigment epithelium", "RPE cells", "SERPINF1")
+
+These tuples represent the cell markers that are characteristic of human retinal pigment epithelium (RPE) cells, as described in the document.
+
+Based on the provided document, several markers are mentioned that are associated with RPE (Retinal Pigment Epithelium) cells. Since the species and the specific tissue type are not explicitly stated in the text, I will use "null" for these fields where they are not specified. The document does specify the cell name as RPE. Here are the tuples based on the information given:
+
+1. ("null", "null", "RPE", "INPP5K")
+2. ("null", "null", "RPE", "PTGDS")
+3. ("null", "null", "RPE", "LRAT")
+4. ("null", "null", "RPE", "RGR")
+5. ("null", "null", "RPE", "PLTP")
+6. ("null", "null", "RPE", "RLBP1/CRALBP")
+7. ("null", "null", "RPE", "RBP1/CRBP1")
+8. ("null", "null", "RPE", "BEST1")
+9. ("null", "null", "RPE", "RPE65")
+10. ("null", "null", "RPE", "DCT")
+11. ("null", "null", "RPE", "TYRP1")
+12. ("null", "null", "RPE", "TYR")
+13. ("null", "null", "RPE", "TTR")
+14. ("null", "null", "RPE", "PMEL")
+15. ("null", "null", "RPE", "ENPP2")
+16. ("null", "null", "RPE", "VEGFA")
+17. ("null", "null", "RPE", "SERPINF1")
+18. ("null", "null", "RPE", "GULP1")
+19. ("null", "null", "RPE", "ITGAV")
+20. ("null", "null", "RPE", "CRISPLD1")
+21. ("null", "null", "RPE", "CST3")
+22. ("null", "null", "RPE", "EFEMP1")
+23. ("null", "null", "RPE", "MITF")
+24. ("null", "null", "RPE", "ITGB8")
+25. ("null", "null", "RPE", "TJP1")
+26. ("null", "null", "RPE", "CYP27A1")
+27. ("null", "null", "RPE", "PLA2G16")
+28. ("null", "null", "RPE", "PLCE1")
+
+Each of these tuples identifies a marker gene or protein that is characteristic of RPE cells, according to the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "RPE cells", "LRAT")
+2. ("Human", "Retina", "RPE cells", "RPE65")
+3. ("Human", "Retina", "RPE cells", "DCT")
+4. ("Human", "Retina", "RPE cells", "PAX6")
+5. ("Human", "Retina", "RPE cells", "SOX1")
+6. ("Human", "Retina", "RPE cells", "MDK")
+7. ("Human", "Retina", "RPE cells", "CST3")
+8. ("Human", "Retina", "RPE cells", "EFEMP1")
+9. ("Human", "Retina", "RPE cells", "ITGAV")
+10. ("Human", "Retina", "RPE cells", "CRISPLD1")
+11. ("Human", "Retina", "RPE cells", "NDUFA4L2")
+12. ("Human", "Retina", "RPE cells", "CA9")
+13. ("Human", "Retina", "RPE cells", "PMEL")
+14. ("Human", "Retina", "RPE cells", "MITF")
+15. ("Human", "Retina", "RPE cells", "TYR")
+16. ("Human", "Retina", "RPE cells", "TYRP1")
+17. ("Human", "Retina", "RPE cells", "SOX4")
+18. ("Human", "Retina", "RPE cells", "BMP7")
+19. ("Human", "Retina", "RPE cells", "VIM")
+20. ("Human", "Retina", "RPE cells", "GJA1")
+21. ("Human", "Retina", "RPE cells", "PTN")
+22. ("Human", "Retina", "RPE cells", "RLBP1")
+
+Each tuple represents a specific marker for RPE (retinal pigment epithelial) cells in human retina tissue as described in the document.
+
+Based on the information provided in the document, the following cell markers can be identified. The document primarily discusses human (hPSC-derived) RPE (Retinal Pigment Epithelium) cells, and various subpopulations of these cells. Here are the tuples with the required format:
+
+1. ("Human", "null", "RPE", "DCT")
+2. ("Human", "null", "RPE", "TTR")
+3. ("Human", "null", "RPE", "CST3")
+4. ("Human", "null", "RPE", "AQP1")
+5. ("Human", "null", "RPE", "FTH1")
+6. ("Human", "null", "RPE", "BEST1")
+7. ("Human", "null", "RPE", "TFPI2")
+8. ("Human", "null", "RPE", "GNGT1")  # Note: GNGT1 is not RPE-specific but was mentioned.
+9. ("Human", "null", "RPE", "TMSB4X")  # Note: TMSB4X is not specifically linked to RPE.
+10. ("Human", "null", "RPE", "TAGLN")
+11. ("Human", "null", "RPE", "TNNC1")
+12. ("Human", "null", "RPE", "CALD1")
+13. ("Human", "null", "RPE", "MYLK")
+14. ("Human", "null", "RPE", "TPM1")
+15. ("Human", "null", "RPE", "ACTA2")
+16. ("Human", "null", "RPE", "MYL9")
+17. ("Human", "null", "RPE", "CSTV")
+18. ("Human", "null", "RPE", "CRYAB")
+19. ("Human", "null", "RPE", "SERPINF1")
+20. ("Human", "null", "RPE", "PMEL")
+21. ("Human", "null", "RPE", "VEGFA")
+22. ("Human", "null", "RPE", "RBP1")
+23. ("Human", "null", "RPE", "RLBP1")
+24. ("Human", "null", "RPE", "TYR")
+25. ("Human", "null", "RPE", "TYRP1")
+26. ("Human", "null", "RPE", "IGFBP5")
+27. ("Human", "null", "RPE", "CRB2")
+
+The "Tissue Type" field is set to "null" as the specific type of tissue is not explicitly mentioned, only the cell type (RPE).
+
+Based on the provided document, I have identified several cell markers. Here are the tuples with the required format:
+
+1. ("null", "null", "RPE", "SERPINE2")
+2. ("null", "null", "RPE", "SFRP5")
+3. ("null", "null", "RPE", "AQP1")
+4. ("null", "null", "RPE", "CST3")
+5. ("null", "null", "RPE", "PTGDS")
+6. ("null", "null", "RPE", "SERPINF1")
+7. ("null", "null", "RPE", "BEST1")
+8. ("null", "null", "RPE", "SMOC2")
+9. ("null", "null", "RPE", "GAP43")
+10. ("null", "null", "RPE", "DAAM1")
+11. ("null", "null", "RPE", "CD44")
+12. ("null", "null", "RPE", "DUSP4")
+13. ("null", "null", "RPE", "SPP1")
+14. ("null", "null", "RPE", "CPODXL")
+15. ("null", "null", "RPE", "STAC2")
+16. ("null", "null", "RPE", "PCDH9")
+17. ("null", "null", "RPE", "CPAMD8")
+18. ("null", "null", "RPE", "SFRP2")
+19. ("null", "null", "RPE", "CRABP1")
+20. ("null", "null", "RPE", "RLBP1")
+21. ("null", "null", "RPE", "RPE65")
+22. ("null", "null", "RPE", "PTGDS")
+23. ("null", "null", "RPE", "RGR")
+24. ("null", "null", "RPE", "RBP1")
+25. ("null", "null", "RPE", "DCT")
+26. ("null", "null", "RPE", "TYRP1")
+27. ("null", "null", "RPE", "TYR")
+28. ("null", "null", "RPE", "TTR")
+29. ("null", "null", "RPE", "PMEL")
+30. ("null", "null", "RPE", "GULP1")
+31. ("null", "null", "RPE", "ENPP2")
+32. ("null", "null", "RPE", "VEGFA")
+33. ("null", "null", "RPE", "ITGAV")
+34. ("null", "null", "RPE", "CRISPLD1")
+35. ("null", "null", "RPE", "EFEMP1")
+36. ("null", "null", "RPE", "ITGB8")
+37. ("null", "null", "RPE", "SERPINF1")
+38. ("null", "null", "RPE", "CST3")
+39. ("null", "null", "RPE", "DCT")
+40. ("null", "null", "RPE", "TSC22D4")
+41. ("null", "null", "RPE", "IGFBP5")
+42. ("null", "null", "RPE", "RNASE1")
+43. ("null", "null", "RPE", "CTNNB1")
+44. ("null", "null", "RPE", "NOG")
+45. ("null", "null", "RPE", "ATP1B1")
+46. ("null", "null", "RPE", "GSTP1")
+47. ("null", "null", "RPE", "CD63")
+48. ("null", "null", "RPE", "HNRNPH1")
+
+The document does not specify the species or the tissue type, so those fields are filled with "null". The cell name is consistently RPE (Retinal Pigment Epithelium) for all markers.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "RPE cells", "CTNNB1")
+2. ("null", "null", "RPE cells", "GSTP1")
+3. ("null", "null", "RPE cells", "CD63")
+4. ("null", "null", "RPE cells", "HNRNPH1")
+5. ("null", "null", "RPE cells", "SERPINF1")
+6. ("null", "null", "RPE cells", "RLBP1")
+7. ("null", "null", "RPE cells", "TTR")
+8. ("null", "null", "RPE cells", "PMEL")
+9. ("null", "null", "RPE cells", "CRYAB")
+10. ("null", "null", "RPE cells", "DCT")
+11. ("null", "null", "RPE cells", "CCL2")
+12. ("null", "null", "RPE cells", "SFRP1")
+13. ("null", "null", "RPE cells", "B2M")
+14. ("null", "null", "RPE cells", "TOP2A")
+15. ("null", "null", "RPE cells", "PCLAF")
+16. ("null", "null", "RPE cells", "PTTG1")
+17. ("null", "null", "RPE cells", "ANLN")
+18. ("null", "null", "RPE cells", "MKI67")
+19. ("null", "null", "RPE cells", "RRM2")
+20. ("null", "null", "RPE cells", "TPX2")
+21. ("null", "null", "RPE cells", "PBK")
+22. ("null", "null", "RPE cells", "CRX")
+23. ("null", "null", "RPE cells", "FTH1")
+24. ("null", "null", "RPE cells", "TFPI2")
+25. ("null", "null", "RPE cells", "GNGT1")
+
+Note: The species and tissue type were not specified in the text, hence they are marked as "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "BEST1")
+2. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "VEGFA")
+3. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "ENPP2")
+4. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "TIMP3")
+5. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "TYRP1")
+6. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "SOX11")
+7. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "PMEL")
+8. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "EFEMP1")
+9. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "BMP7")
+10. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "VIM")
+11. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "GJA1")
+12. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "PTN")
+13. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "INPP5K")
+14. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "RLBP1")
+15. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "TTR")
+16. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "DCT")
+17. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "SERPINF1")
+18. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "CST3")
+19. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "CRISPLD1")
+20. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "WFDC1")
+21. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "SH3BGRL3")
+22. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "TMSB4X")
+23. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "HSD17B2")
+24. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "TPM1")
+25. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "MYL9")
+26. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "NDUFA4L2")
+27. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "BNIP3")
+28. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "CALD1")
+29. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "FTH1")
+30. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "CRYAB")
+31. ("Human", "Retina", "RPE (Retinal Pigment Epithelium) cell", "MT-CYB")
+
+These tuples represent the markers found in the text, with the species, tissue type, and cell name as specified.
+
+Based on the provided text, several markers are mentioned in the context of different cell subpopulations. The document does not specify the species, but it is discussing RPE (Retinal Pigment Epithelium) cells, which are typically human. Since the species is not explicitly stated, I will use "Human" as the default. The tissue type is "Retinal Pigment Epithelium" (RPE). Here are the identified markers:
+
+1. ("Human", "Retinal Pigment Epithelium", "Aged 5", "PCCA")
+2. ("Human", "Retinal Pigment Epithelium", "Aged 5", "WFDC1")
+3. ("Human", "Retinal Pigment Epithelium", "Aged 5", "SERPINE2")
+4. ("Human", "Retinal Pigment Epithelium", "Aged 5", "TMSB4X")
+5. ("Human", "Retinal Pigment Epithelium", "Aged 5", "TTR")
+6. ("Human", "Retinal Pigment Epithelium", "Aged 5", "SPON2")
+7. ("Human", "Retinal Pigment Epithelium", "Aged 2", "DCT")
+8. ("Human", "Retinal Pigment Epithelium", "Aged 2", "CALD1")
+9. ("Human", "Retinal Pigment Epithelium", "Aged 3", "TTR")
+10. ("Human", "Retinal Pigment Epithelium", "Aged 3", "SOX9")
+11. ("Human", "Retinal Pigment Epithelium", "Aged 3", "RBP1")
+12. ("Human", "Retinal Pigment Epithelium", "Aged 3", "SERPINF1")
+13. ("Human", "Retinal Pigment Epithelium", "Aged 4", "VEGFA")
+14. ("Human", "Retinal Pigment Epithelium", "Aged 2, 3, 4", "TMSB4X")
+15. ("Human", "Retinal Pigment Epithelium", "Aged 2, 3", "CRYAB")
+16. ("Human", "Retinal Pigment Epithelium", "Aged 2, 3, 4", "MT1E")
+17. ("Human", "Retinal Pigment Epithelium", "Aged 2, 3, 4", "MT1F")
+18. ("Human", "Retinal Pigment Epithelium", "Aged 2, 3, 4", "MT1G")
+19. ("Human", "Retinal Pigment Epithelium", "Aged 2, 3, 4", "MT2A")
+20. ("Human", "Retinal Pigment Epithelium", "Aged 2, 3, 4", "DCT")
+
+These tuples capture the marker genes and their corresponding cell subpopulations as described in the text.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Retinal Pigment Epithelium (RPE)", "Immature subpopulation Young 3", "MKI67")
+2. ("Human", "Retinal Pigment Epithelium (RPE)", "Immature subpopulation Young 3", "TOP2A")
+3. ("Human", "Retinal Pigment Epithelium (RPE)", "Immature subpopulation Young 3", "TPX2")
+4. ("Human", "Retinal Pigment Epithelium (RPE)", "Immature subpopulation Young 3", "PTTG1")
+5. ("Human", "Retinal Pigment Epithelium (RPE)", "Immature subpopulation Young 3", "PCLAF")
+6. ("Human", "Retinal Pigment Epithelium (RPE)", "Immature subpopulation Young 3", "RRM2")
+7. ("Human", "Retinal Pigment Epithelium (RPE)", "Subpopulation Aged 3", "PAX6")
+8. ("Human", "Retinal Pigment Epithelium (RPE)", "All subpopulations", "TYR")
+9. ("Human", "Retinal Pigment Epithelium (RPE)", "Subpopulations Common 5 and 6, all aged subpopulations", "PMEL")
+
+These tuples reflect the specific markers and their associated cell types as described in the text.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "RPE cells", "CCL2")
+2. ("null", "null", "immature subpopulation Young 2", "CCL2")
+3. ("null", "null", "immature subpopulation Young 2", "SFRP1")
+4. ("null", "null", "immature subpopulation Common 6", "SFRP2")
+5. ("null", "null", "immature subpopulation Common 5", "SFRP5")
+
+These tuples reflect the information given in the text, where specific genes (markers) are associated with different RPE cell subpopulations. The species and tissue type were not specified in the document, hence they are marked as "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "RPE cells", "SERPINF1")
+2. ("null", "null", "RPE cells", "VEGFA")
+3. ("null", "null", "RPE cells", "APOE")
+
+The species and tissue type are not explicitly mentioned in the text, so they are filled with "null". The document discusses RPE (Retinal Pigment Epithelium) cells, and mentions SERPINF1, VEGFA, and APOE as markers for these cells.
+
+Based on the provided text, several markers for human RPE (Retinal Pigment Epithelium) cells are mentioned. Here is the list of tuples as per your requirements:
+
+1. ("Human", "RPE", "null", "CCL2")
+2. ("Human", "RPE", "null", "SFRP1")
+3. ("Human", "RPE", "null", "SFRP2")
+4. ("Human", "RPE", "null", "SFRP5")
+5. ("Human", "RPE", "null", "FZD1")
+6. ("Human", "RPE", "null", "FZD8")
+7. ("Human", "RPE", "null", "WNT2B")
+8. ("Human", "RPE", "null", "WNT3")
+9. ("Human", "RPE", "null", "WNT4")
+10. ("Human", "RPE", "null", "WNT5A")
+11. ("Human", "RPE", "null", "VEGFA")
+12. ("Human", "RPE", "null", "APOE")
+13. ("Human", "RPE", "null", "LDLR")
+14. ("Human", "RPE", "null", "LRP1")
+15. ("Human", "RPE", "null", "LRP2")
+16. ("Human", "RPE", "null", "LRP8")
+17. ("Human", "RPE", "null", "SERPINF1")
+18. ("Human", "RPE", "null", "BEST1")
+19. ("Human", "RPE", "null", "TYR")
+20. ("Human", "RPE", "null", "TTR")
+21. ("Human", "RPE", "null", "RPE65")
+22. ("Human", "RPE", "null", "MKI67")
+23. ("Human", "RPE", "null", "DCT")
+24. ("Human", "RPE", "null", "LRAT")
+25. ("Human", "RPE", "null", "PLTP")
+26. ("Human", "RPE", "null", "RGR")
+27. ("Human", "RPE", "null", "RLBP1")
+28. ("Human", "RPE", "null", "INPP5K")
+29. ("Human", "RPE", "null", "ITGB8")
+30. ("Human", "RPE", "null", "EFEMP1")
+31. ("Human", "RPE", "null", "ITGAV")
+32. ("Human", "RPE", "null", "GULP1")
+33. ("Human", "RPE", "null", "TYRP1")
+
+The document does not specify the exact cell names within the RPE subpopulations, hence "null" is used for the "Cell Name" field. The "Tissue Type" is specified as "RPE" based on the context.
+
+Based on the provided document, the following cell markers are identified for human RPE (Retinal Pigment Epithelium) cells. The information is derived from the text discussing gene expression patterns in RPE cells at different stages of maturity and culture times.
+
+1. ("Human", "Retina", "RPE cell", "TTR")
+2. ("Human", "Retina", "RPE cell", "RPE65")
+3. ("Human", "Retina", "RPE cell", "BEST1")
+4. ("Human", "Retina", "RPE cell", "CHRNA3")
+5. ("Human", "Retina", "RPE cell", "RBP1")
+6. ("Human", "Retina", "RPE cell", "MYRIP")
+7. ("Human", "Retina", "RPE cell", "TFPI2")
+8. ("Human", "Retina", "RPE cell", "PTGDS")
+9. ("Human", "Retina", "RPE cell", "SERPINF1")
+10. ("Human", "Retina", "RPE cell", "DUSP4")
+11. ("Human", "Retina", "RPE cell", "GEM")
+12. ("Human", "Retina", "RPE cell", "CRX")
+13. ("Human", "Retina", "RPE cell", "DCT")
+14. ("Human", "Retina", "RPE cell", "SFRP5")
+15. ("Human", "Retina", "RPE cell", "TYRP1")
+16. ("Human", "Retina", "RPE cell", "SLC6A15")
+17. ("Human", "Retina", "RPE cell", "PMEL")
+18. ("Human", "Retina", "RPE cell", "CST3")
+19. ("Human", "Retina", "RPE cell", "CRISPLD1")
+
+Each tuple represents a specific marker gene that is used to identify or characterize RPE cells, with the species being Human, the tissue type being Retina, and the cell name being RPE cell.
+
+Based on the provided text, the following cell markers have been identified. The information is organized according to the specified format:
+
+1. ("Human", "Retina", "RPE cells", "MT1E")
+2. ("Human", "Retina", "RPE cells", "MT1F")
+3. ("Human", "Retina", "RPE cells", "MT1G")
+4. ("Human", "Retina", "RPE cells", "MT2A")
+5. ("Human", "Retina", "RPE cells", "MT1X")
+6. ("Human", "Retina", "RPE cells", "DCT")
+7. ("Human", "Retina", "RPE cells", "MITF")
+8. ("Human", "Retina", "RPE cells", "OTX2")
+9. ("Human", "Retina", "RPE cells", "CTNNB1")
+10. ("Human", "Retina", "RPE cells", "SOX11")
+11. ("Human", "Retina", "RPE cells", "CST3")
+
+These tuples are derived from the document where these genes or proteins are mentioned as differentially expressed in RPE (retinal pigment epithelial) cells, indicating their role as markers for distinguishing various states of RPE cells.
+
+Based on the provided text, the document discusses various genes and their expression in human pluripotent stem cell (hPSC)-derived retinal pigment epithelial (RPE) cells. The information can be used to identify potential cell markers for RPE cells and their subpopulations. Here are the identified markers based on the given requirements:
+
+1. ("Human", "Retina", "RPE cell", "SERPINF1")
+2. ("Human", "Retina", "RPE cell", "BEST1")
+3. ("Human", "Retina", "RPE cell", "TYR")
+4. ("Human", "Retina", "RPE cell", "TTR")
+5. ("Human", "Retina", "RPE cell", "RPE65")
+6. ("Human", "Retina", "RPE cell", "SFRP2")
+7. ("Human", "Retina", "RPE cell", "MKI67")
+8. ("Human", "Retina", "RPE cell", "DCT")
+9. ("Human", "Retina", "RPE cell", "PLTP")
+10. ("Human", "Retina", "RPE cell", "RGR")
+11. ("Human", "Retina", "RPE cell", "RLBP1")
+12. ("Human", "Retina", "RPE cell", "LRAT")
+13. ("Human", "Retina", "RPE cell", "PMEL")
+14. ("Human", "Retina", "RPE cell", "TYRP1")
+15. ("Human", "Retina", "RPE cell", "PTGDS")
+16. ("Human", "Retina", "RPE cell", "INPP5K")
+17. ("Human", "Retina", "RPE cell", "CST3")
+18. ("Human", "Retina", "RPE cell", "ITGB8")
+19. ("Human", "Retina", "RPE cell", "EFEMP1")
+20. ("Human", "Retina", "RPE cell", "ITGAV")
+21. ("Human", "Retina", "RPE cell", "CRISPLD1")
+22. ("Human", "Retina", "RPE cell", "GULP1")
+23. ("Human", "Retina", "RPE cell", "VEGFA")
+
+These tuples represent the differentially expressed genes that serve as markers for the RPE cells and their subpopulations. Each marker is associated with specific functions or developmental stages of the RPE cells.
+
+Based on the provided text, several markers for human RPE (Retinal Pigment Epithelium) cells are mentioned. The document does not specify a particular tissue type other than it being related to the retina, and it focuses on hPSC-derived RPE cells. Therefore, I will use "Retina" as the tissue type. The species is clearly identified as Human. The cell name is "RPE cell". Here are the tuples based on the information given:
+
+1. ("Human", "Retina", "RPE cell", "CHRNA3")
+2. ("Human", "Retina", "RPE cell", "RBP1")
+3. ("Human", "Retina", "RPE cell", "MYRIP")
+4. ("Human", "Retina", "RPE cell", "DUSP4")
+5. ("Human", "Retina", "RPE cell", "GEM")
+6. ("Human", "Retina", "RPE cell", "CRX")
+7. ("Human", "Retina", "RPE cell", "TFPI2")
+8. ("Human", "Retina", "RPE cell", "SFRP5")
+9. ("Human", "Retina", "RPE cell", "SLC6A15")
+
+These markers are identified as being upregulated or downregulated in adult RPE cells, with CHRNA3, RBP1, MYRIP, DUSP4, GEM, CRX, and TFPI2 being upregulated, while SFRP5 and SLC6A15 are downregulated.
+
+none
+

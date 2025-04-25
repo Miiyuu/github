@@ -1,0 +1,117 @@
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Human", "Aqueous humor", "cDCa", "ITGAX")
+2. ("Human", "Aqueous humor", "cDCa", "CLEC7A")
+3. ("Human", "Aqueous humor", "cDCb", "CLEC10A")
+4. ("Human", "Aqueous humor", "cDCb", "MRC1")
+5. ("Human", "Aqueous humor", "pDC", "IL3RA/CD123")
+6. ("Human", "Aqueous humor", "pDC", "CLEC4C/CD303")
+7. ("Human", "Aqueous humor", "matDC", "TMEM176B")
+8. ("Human", "Aqueous humor", "matDC", "IDO1")
+9. ("Human", "Aqueous humor", "matDC", "FSCN1")
+10. ("Human", "Aqueous humor", "matDC", "LAMP3")
+11. ("Human", "Aqueous humor", "matDC", "CD83")
+12. ("Human", "Aqueous humor", "granulo", "S100A12")
+13. ("Human", "Aqueous humor", "granulo", "S100A8")
+14. ("Human", "Aqueous humor", "granulo", "CCL2")
+15. ("Human", "Aqueous humor", "myeloid", "S100A12")
+16. ("Human", "Aqueous humor", "myeloid", "S100A8")
+17. ("Human", "Aqueous humor", "myeloid", "CCL2")
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Cerebrospinal fluid", "cDC type 1", "CLEC9A")
+2. ("Human", "Cerebrospinal fluid", "cDC type 1", "XCR1")
+3. ("Human", "Cerebrospinal fluid", "cDC type 1", "BATF3")
+4. ("Human", "Cerebrospinal fluid", "cDC type 2", "CD1C")
+5. ("Human", "Cerebrospinal fluid", "cDC type 2", "FCER1A")
+6. ("Human", "Cerebrospinal fluid", "cDC type 2", "CLEC10A")
+7. ("Human", "Peripheral blood", "cDC type 1", "CLEC9A")
+8. ("Human", "Peripheral blood", "cDC type 1", "C1ORF54")
+9. ("Human", "Peripheral blood", "cDC type 1", "HLA-DPA1")
+10. ("Human", "Peripheral blood", "cDC type 1", "CADM1")
+11. ("Human", "Peripheral blood", "cDC type 1", "CAMK2D")
+12. ("Human", "Peripheral blood", "cDC type 2", "CD1C")
+13. ("Human", "Peripheral blood", "cDC type 2", "FCER1A")
+14. ("Human", "Peripheral blood", "cDC type 2", "CLEC10A")
+15. ("Human", "Peripheral blood", "cDC type 2", "ADAM8")
+16. ("null", "null", "CD4+ T cells", "CD4")
+17. ("null", "null", "CD4+ T cells", "IL7R")
+18. ("null", "null", "CD4+ T cells", "CD3G")
+19. ("null", "null", "CD8+ T cells", "CD8")
+20. ("null", "null", "CD8+ T cells", "CD8A")
+21. ("null", "null", "CD8+ T cells", "CD3G")
+22. ("null", "null", "gdTC", "NKG7")
+23. ("null", "null", "gdTC", "TRDC")
+24. ("null", "null", "Treg cells", "IL2RA")
+25. ("null", "null", "Treg cells", "FOXP3")
+26. ("null", "null", "NK cells", "GNLY")
+27. ("null", "null", "NK cells", "NKG7")
+28. ("null", "null", "naive Bc", "MS4A1")
+29. ("null", "null", "naive Bc", "CD19")
+30. ("null", "null", "naive Bc", "IGHD")
+31. ("null", "null", "plasma cells", "IGHG1")
+32. ("null", "null", "plasma cells", "CD38")
+33. ("null", "null", "plasma cells", "SDC1/CD138")
+
+Note: For entries where the species or tissue type was not explicitly mentioned in the text, I used "null" to fill those fields.
+
+Based on the provided document, no specific cell markers (marker genes, signature genes, protein markers, or molecular markers) are directly listed with their corresponding cell types, species, and tissue type. The document primarily discusses differential gene expression in various cell clusters (meta-clusters) between B27+ AAU and B27- AU samples, but it does not explicitly mention markers used to identify these cells.
+
+However, some genes are mentioned as being differentially expressed, which might be indicative of certain cell types, but they are not explicitly stated as markers for those cell types. For example, MHC class I and II related genes (HLA-A, HLA-DPA1, HLA-DRA, HLA-DRB1, B2M) are mentioned, but they are not specifically linked to a single cell type as a marker.
+
+Since there is no clear information about specific cell markers, the appropriate response based on the requirements is:
+
+```none
+none
+```
+
+Based on the provided text, several markers are mentioned in the context of different cell types and conditions. Here are the identified cell markers formatted as requested:
+
+1. ("null", "null", "mergeDC (cDCa and cDCb)", "B4GALT1")
+2. ("null", "null", "myeloid, toxic, and help clusters", "PFDN5")
+3. ("null", "null", "mergeDC, myeloid, and help clusters", "CDC42")
+4. ("null", "null", "mergeDC, myeloid, help, and toxic clusters", "CDC42SE1")
+5. ("null", "null", "BcLin cluster", "CLEC16A")
+6. ("null", "null", "BcLin cluster", "IFNLR1")
+7. ("null", "null", "mergeDC cluster", "IFNGR2")
+8. ("null", "null", "mergeDC cluster", "AHR")
+9. ("null", "null", "mergeDC cluster", "EYS")
+10. ("null", "null", "mergeDC cluster", "HLA-DRB5")
+11. ("null", "null", "mergeDC cluster", "ERAP1")
+12. ("null", "null", "mergeDC cluster", "IL18R1")
+
+The species and tissue type were not specified in the document, so they are marked as "null". The cell names and markers are derived directly from the text.
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Aqueous humor (AqH)", "CD14+ monocytes/macrophages", "CD14")
+2. ("Human", "Aqueous humor (AqH)", "BDCA-1+ (CD1c) myeloid DC", "BDCA-1/CD1c")
+3. ("Human", "Intraocular tissue", "cDCa/b", "null")  # Marker not specified
+4. ("Human", "Intraocular tissue", "matDC cluster", "FSCN1")
+5. ("Human", "Intraocular tissue", "matDC cluster", "CD83")
+6. ("Human", "Intraocular tissue", "matDC cluster", "LAMP3")
+7. ("Human", "Intraocular tissue", "DC5 cells", "AXL")
+8. ("Human", "Intraocular tissue", "DC5 cells", "SIGLEC6")
+9. ("Human", "Intraocular tissue", "Granulocytes and other phagocytes", "S100A8/S100A9")
+
+Since the "Marker" field for cDCa/b is empty, this tuple is removed as per the instructions.
+
+Final list of tuples:
+- ("Human", "Aqueous humor (AqH)", "CD14+ monocytes/macrophages", "CD14")
+- ("Human", "Aqueous humor (AqH)", "BDCA-1+ (CD1c) myeloid DC", "BDCA-1/CD1c")
+- ("Human", "Intraocular tissue", "matDC cluster", "FSCN1")
+- ("Human", "Intraocular tissue", "matDC cluster", "CD83")
+- ("Human", "Intraocular tissue", "matDC cluster", "LAMP3")
+- ("Human", "Intraocular tissue", "DC5 cells", "AXL")
+- ("Human", "Intraocular tissue", "DC5 cells", "SIGLEC6")
+- ("Human", "Intraocular tissue", "Granulocytes and other phagocytes", "S100A8/S100A9")
+
+none
+
+none
+
+none
+

@@ -1,0 +1,159 @@
+Based on the provided document, here are the identified cell markers in the requested format:
+
+1. ("Human", "Retina", "Retinal progenitors", "SOX2")
+2. ("Human", "Retina", "Retinal progenitors", "PAX6")
+3. ("Human", "Retina", "Retinal ganglion cells", "HUC/D")
+4. ("Human", "Retina", "Amacrine cells", "TFAP2A")
+5. ("Human", "Retina", "Horizontal cells", "ONECUT2")
+6. ("Human", "Retina", "Photoreceptors", "OTX2")
+7. ("Human", "Retina", "Progenitor cells (G2/M-phase)", "MKI67")
+
+These tuples reflect the marker genes or proteins that were mentioned as distinguishing specific cell types within the human retina during the developmental stages discussed.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Retina", "T1 population (intermediate developmental state)", "ATOH7")
+2. ("Human", "Retina", "Progenitor cells", "VSX2")
+3. ("Human", "Retina", "Ganglion cells", "SNGC")
+
+These tuples represent the species, tissue type, cell name, and marker as described in the text.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "Retina", "Bipolar cells", "OTX2/RCVRN")
+2. ("null", "Retina", "Photoreceptors", "OTX2/RCVRN")
+3. ("null", "Retina", "Müller glia", "SOX2")
+4. ("null", "Retina", "RGC, amacrine, or horizontal cells", "AP2A/HUC/D")
+5. ("null", "Retina", "Amacrine cells (ACs)", "TFAP2A, ONECUT2")
+6. ("null", "Retina", "Horizontal cells (HCs)", "TFAP2A, ONECUT2")
+7. ("null", "Retina", "T1 state", "ATOH7")
+8. ("null", "Retina", "T2 state", "PRDM13, PTF1A, HSPB1")
+9. ("null", "Retina", "T3 state", "FABP7, OTX2, DLL3")
+
+The species is not explicitly mentioned in the document, and thus it is filled with "null". The tissue type is specified as "Retina" for all entries.
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Human", "Retina", "T1 transition cells", "ATOH7")
+2. ("Human", "Retina", "T3 cells", "FABP7")
+3. ("Human", "Retina", "T2 cells", "PRDM13")
+4. ("Human", "Retina", "T3 cells", "DLL3")
+5. ("Human", "Retina", "Progenitor cells", "SOX2")
+6. ("Human", "Retina", "Differentiating neurons", "AP2A")
+7. ("Human", "Retina", "Differentiating neurons", "OTX2")
+8. ("Human", "Retina", "Photoreceptors (PRs)", "OTX2")
+9. ("Human", "Retina", "Photoreceptors (PRs)", "RCVRN")
+10. ("Human", "Retina", "Bipolar cells (BCs)", "OTX2")
+11. ("Human", "Retina", "Bipolar cells (BCs)", "VSX2")
+12. ("Human", "Retina", "Bipolar cells (BCs)", "RCVRN")
+13. ("Human", "Retina", "Amacrine cells (ACs)", "AP2A")
+14. ("Human", "Retina", "Amacrine cells (ACs)", "CALB1")
+
+These tuples are derived directly from the information given in the text, focusing on the specific genes that serve as markers for different cell types in the human retina.
+
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "T1-like cluster cells", "SOX11")
+2. ("Human", "Retina", "T1-like cluster cells", "GAL")
+3. ("Human", "Retina", "T1-like cluster cells", "ELAVL3")
+4. ("Human", "Retina", "RGCs", "BRN3")
+5. ("Human", "Retina", "PRs", "RCVRN")
+6. ("Human", "Retina", "Progenitors", "PAX6")
+7. ("Human", "Retina", "T1 population cells", "ATOH7")
+8. ("Human", "Retina", "T1 population cells", "HES6")
+
+These tuples are derived from the text where specific genes or proteins are mentioned as being expressed in particular cell types within the human retina.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Retina", "T1 cell", "DLL3")
+2. ("Human", "Retina", "Progenitor cell", "SOX2")
+3. ("Human", "Retina", "Progenitor cell", "LHX2")
+4. ("Human", "Retina", "RGC (Retinal Ganglion Cell)", "POU4F1")
+5. ("Human", "Retina", "RGC (Retinal Ganglion Cell)", "NEFL")
+6. ("Human", "Retina", "Photoreceptor (PR) cell", "NRL-GFP")
+7. ("Human", "Retina", "Amacrine cell (AC)", "HUC/D")
+8. ("Human", "Retina", "T1 cell", "ATOH7")
+9. ("Human", "Retina", "T3 cell", "FABP7")
+
+These tuples are derived from the specific mentions of gene or protein expressions that distinguish different cell types within the context of human retinal development and organoid models.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Müller glia", "RLBP1")
+2. ("Human", "Retina", "Müller glia", "AQP4")
+3. ("Human", "Retina", "Müller glia", "SLC1A3")
+4. ("Human", "Retina", "Bipolar cells (BCs)", "VSX1")
+5. ("Human", "Retina", "Bipolar cells (BCs)", "CABP5")
+6. ("Human", "Retina", "Bipolar cells (BCs)", "GRM6")
+7. ("Human", "Retina", "Progenitor cells", "ASCL1")
+8. ("Human", "Retina", "T1 cells", "ATOH7")
+
+These tuples are based on the specific mentions of genes and their association with different cell types in the context of human retinal organoids and fetal retina.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "Retina", "T2 cells (precursors for Amacrine Cells or Horizontal Cells)", "PRDM13")
+2. ("null", "Retina", "T2 cells (precursors for Amacrine Cells or Horizontal Cells)", "PTF1A")
+3. ("null", "Retina", "Transition cells (precursors for Photoreceptor cells and Bipolar Cells)", "FABP7")
+4. ("null", "Retina", "Transition cells (precursors for Photoreceptor cells and Bipolar Cells)", "OTX2")
+5. ("null", "Retina", "Transition cells (precursors for Photoreceptor cells and Bipolar Cells)", "DLL3")
+6. ("null", "Retina", "T1 cells", "HES6")
+7. ("null", "Retina", "T1 and T3 cells", "DLL3")
+
+These tuples follow the required format and are based on the information available in the given document.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Human", "Retina", "Progenitor cells", "MKI67")
+2. ("Human", "Retina", "Progenitor cells", "ATOH7")
+3. ("Human", "Retina", "Progenitor cells", "OTX2")
+4. ("Human", "Retina", "Progenitor cells", "NEUROD1")
+5. ("Human", "Retina", "Progenitor cells", "Gal")
+6. ("Human", "Retina", "Progenitor cells", "Sox11")
+7. ("Human", "Retina", "Progenitor cells", "Elavl3")
+8. ("Human", "Retina", "Later-stage progenitor cells", "Rgs16")
+9. ("Human", "Retina", "Later-stage progenitor cells", "Fabp7")
+10. ("Human", "Retina", "Late progenitor cells transitioning to immature Müller glia", "NFI family genes")
+11. ("Mouse", "Retina", "Progenitors near the end of neurogenesis", "NFI family genes")
+
+These tuples are derived from the information about gene expression in specific cell types within the retina, as described in the document.
+
+Based on the provided document, there is no explicit mention of specific cell markers associated with particular species, tissue types, and cell names. The text discusses methods for single-cell RNA sequencing (scRNAseq) analysis, clustering, and some gene expressions in a general context but does not provide the detailed marker information required to form the tuples as specified.
+
+Therefore, the appropriate response is:
+
+```python
+none
+```
+
+If more detailed information about specific cell markers, their corresponding species, tissue types, and cell names were provided in the document, I would be able to extract and format that information into the required tuples.
+
+Based on the provided document, here are the cell markers identified and formatted as requested:
+
+1. ("null", "Retina", "T1 cells", "ATOH7")
+2. ("null", "Retina", "T2 cells", "PRDM13")
+3. ("null", "Retina", "T3 cells", "FABP7")
+4. ("null", "Retina", "Progenitor cells", "VSX2")
+5. ("null", "Retina", "Progenitor cells", "SOX2")
+6. ("null", "Retina", "Photoreceptors", "OTX2")
+7. ("null", "Retina", "RPE", "OTX2")
+8. ("null", "Retina", "RGCs", "BRN3")
+9. ("null", "Retina", "RGCs", "PAX6")
+10. ("null", "Retina", "Photoreceptors", "RCVRN")
+11. ("null", "Retina", "Bipolar cells", "VSX1")
+12. ("null", "Retina", "Bipolar cells", "GRM6")
+13. ("null", "Retina", "Müller glia", "RLBP1")
+14. ("null", "Retina", "Müller glia", "SLC1A3")
+15. ("null", "Retina", "Rods", "NRL")
+16. ("null", "Retina", "Amacrine cells", "AP2A")
+17. ("null", "Retina", "Cone photoreceptors", "SWS-OPN")
+18. ("null", "Retina", "Amacrine cells", "HUC/D")
+19. ("null", "Retina", "Ganglion cells", "HUC/D")
+20. ("null", "Retina", "Bipolar cells", "OTX2")
+21. ("null", "Retina", "Rod photoreceptors", "NR2E3")
+
+The species is not explicitly mentioned in the text, so it is filled with "null". The tissue type is specified as "Retina" for all entries, as the document discusses retinal organoids and their cellular components.
+
+none
+

@@ -1,0 +1,150 @@
+Based on the provided document, the following cell markers have been identified:
+
+- ("Human", "Esophageal epithelium", "Epithelial Progenitor Cells", "CD73")
+- ("Human", "Esophageal epithelium", "Epithelial Progenitor Cells", "CD104")
+
+These markers, CD73 (5’-nucleotidase ecto) and CD104 (integrin b4), are used to characterize a self-renewing and slowly proliferating basal stem-like cell population in the human esophageal epithelium.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Esophageal epithelium", "Basal cell", "CD73")
+2. ("Human", "Esophageal epithelium", "Basal cell", "CD104")
+3. ("Mouse", "Esophageal epithelium", "Basal cell", "CD73")
+4. ("Mouse", "Esophageal epithelium", "Basal cell", "CD104")
+
+These tuples are based on the information that CD73 and CD104 are used to identify a specific population of basal cells in both human and mouse esophageal epithelium, with a particular focus on the CD73+CD104+ subset.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. SOX2 is a marker for basal cells in the esophageal epithelium.
+2. Ki-67 is a marker for proliferating cells.
+
+However, the species and tissue type need to be specified as per the requirements. The document mentions human samples being used for the analysis of these markers. Therefore, the tuples based on the information from the text are:
+
+- ("Human", "Esophageal epithelium", "Basal cell", "SOX2")
+- ("Human", "Esophageal epithelium", "Proliferative cell", "Ki-67")
+
+Additionally, CD73 and CD104 are mentioned as markers but without explicit identification of the cell types they mark or the context (species and tissue) in the given excerpt. Assuming the same context (human esophageal epithelium) as the other markers, and since they are described as cell surface markers, we can tentatively add them with "null" for the cell name until more specific information is available:
+
+- ("Human", "Esophageal epithelium", "null", "CD73")
+- ("Human", "Esophageal epithelium", "null", "CD104")
+
+Therefore, the final list of tuples is:
+
+```python
+[
+    ("Human", "Esophageal epithelium", "Basal cell", "SOX2"),
+    ("Human", "Esophageal epithelium", "Proliferative cell", "Ki-67"),
+    ("Human", "Esophageal epithelium", "null", "CD73"),
+    ("Human", "Esophageal epithelium", "null", "CD104")
+]
+```
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Esophagus", "Basaloid cell", "CD73")
+2. ("Human", "Esophagus", "Basaloid cell", "CD104")
+3. ("Mouse", "Esophagus", "Basaloid cell", "CD73")
+4. ("Mouse", "Esophagus", "Basaloid cell", "CD104")
+
+These markers are used to distinguish different types of basaloid cells in both human and mouse esophageal tissues, particularly in the context of EoE (eosinophilic esophagitis). The combination of CD73 and CD104 is noted to be significant in identifying a specific subset of these cells.
+
+Based on the provided text, the following cell markers have been identified. The information is formatted as requested:
+
+1. ("Human", "Esophageal epithelium", "Basal-1 cell", "TP63")
+2. ("Human", "Esophageal epithelium", "Basal-2 cell", "TP63")
+3. ("Human", "Esophageal epithelium", "Basal-2 cell", "MKI67")
+4. ("Human", "Esophageal epithelium", "Suprabasal cell", "IVL")
+5. ("Human", "Esophageal epithelium", "Suprabasal cell", "KRT13")
+6. ("Human", "Esophageal epithelium", "Superficial cell", "IVL")
+7. ("Human", "Esophageal epithelium", "Superficial cell", "FLG")
+8. ("Human", "Esophageal epithelium", "Basal-1 cell", "MKI67")
+9. ("Human", "Esophageal epithelium", "Basal-1 cell", "CD73")
+10. ("Human", "Esophageal epithelium", "Basal-2 cell", "CD73")
+11. ("Human", "Esophageal epithelium", "Basal-1 cell", "CD104")
+12. ("Human", "Esophageal epithelium", "Basal-2 cell", "CD104")
+
+These tuples are derived from the document, where the expression of these marker genes and proteins (like CD73) helps to distinguish between different cell types within the esophageal epithelium.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Human", "Esophageal epithelium", "CD73+CD104+ cells", "CD73")
+2. ("Human", "Esophageal epithelium", "CD73-CD104+ cells", "CD104")
+3. ("Human", "Esophageal epithelium", "CD73-CD104- cells", "null")
+
+These tuples are derived from the context where CD73 and CD104 are used to define different populations of cells within the human esophageal epithelium. The document does not provide a specific marker for the "CD73-CD104- cells" population other than the absence of CD73 and CD104, hence the "null" entry for the marker in that case.
+
+Based on the provided document, the cell markers identified are CD73 and CD104. The document discusses these markers in the context of esophageal tissue, particularly in relation to EoE (Eosinophilic Esophagitis) and the effects of Th2 cytokines on the expression of these markers. Here are the tuples for the markers:
+
+1. ("Human", "Esophageal tissue", "Basaloid cell", "CD73")
+2. ("Human", "Esophageal tissue", "Basaloid cell", "CD104")
+
+The document does not specify a particular species other than human, so "Human" is used. The tissue type is specified as esophageal, and the cells discussed are basaloid cells, which are a subset of epithelial cells. The markers CD73 and CD104 are used to characterize these cells, especially in the context of their response to Th2 cytokines and the disease state.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Esophageal epithelium", "Basaloid population", "CD73")
+2. ("Human", "Esophageal epithelium", "Basaloid population", "CD104")
+3. ("Mouse", "Esophageal epithelium", "Basaloid population", "CD73") 
+
+The document indicates that CD73 and CD104 are used to identify a specific population of cells (basaloid population) in the esophageal epithelium, which shows self-renewal capabilities. The species mentioned for these markers are human and mouse, as the studies were conducted both in human organoids and a mouse model of EoE.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Mouse", "Esophagus", "Basal cell", "Cytokeratin 15")
+2. ("Mouse", "Esophagus", "Basal cell", "CD73")
+3. ("Mouse", "Esophagus", "Basal cell", "CD104")
+4. ("Mouse", "Esophagus", "Basal cell", "a6 integrin")
+5. ("Mouse", "Esophagus", "Basal cell", "CD71")
+6. ("Human", "Esophagus", "Basal epithelium", "CD73")
+7. ("Human", "Esophagus", "Basal epithelium", "CD104")
+
+These tuples are based on the information given in the document, where specific markers are associated with certain cell types and tissues within the esophagus of both mouse and human.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Esophageal epithelium", "Basal cell", "Ki-67")
+2. ("Human", "Esophageal epithelium", "Progenitor or proliferative cell", "CD73")
+
+The document discusses changes in the expression of these markers in the context of eosinophilic esophagitis (EoE) and the effect of different treatments such as proton pump inhibitors (PPIs) and Th2 cytokines. The presence of Ki-67 is used to identify proliferating cells, while CD73 is discussed in relation to progenitor and proliferative populations within the esophageal epithelium.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. The document mentions CD73 and CD104 in the context of esophageal epithelial cells, particularly when discussing EoE (Eosinophilic Esophagitis) and their expression patterns in different patient groups (active, inactive, and controls). However, it does not specify a particular species or tissue type beyond the esophagus, nor does it explicitly name the cell type these markers are associated with beyond epithelial cells. Given the information, we can construct the following tuples, assuming "Human" as the species since the study involves human subjects, and "Esophagus" as the tissue type:
+
+- ("Human", "Esophagus", "Epithelial cell", "CD73")
+- ("Human", "Esophagus", "Epithelial cell", "CD104")
+
+Thus, the output based on the given requirements is:
+
+```python
+[("Human", "Esophagus", "Epithelial cell", "CD73"), ("Human", "Esophagus", "Epithelial cell", "CD104")]
+```
+
+This reflects the use of CD73 and CD104 as markers for epithelial cells in the context of the esophagus, specifically in studies related to EoE.
+
+Based on the provided document, the following cell markers have been identified. The information is presented in the required tuple format:
+
+1. ("Human", "Esophageal epithelium", "null", "CD73")
+2. ("Human", "Esophageal epithelium", "null", "Itg-b4")
+3. ("Human", "Esophageal epithelium", "null", "Ki-67")
+4. ("Human", "Esophageal epithelium", "null", "SOX2")
+5. ("Human", "Esophageal epithelium", "null", "STAT6 (phospho Y641)")
+6. ("Human", "Esophageal epithelium", "null", "CD104")
+
+The document does not specify a particular cell name for these markers, hence "null" is used for the "Cell Name" field. These markers are used in the context of identifying or studying properties of cells within 3D organoids and human esophageal biopsy specimens.
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "Epithelial cell", "CD73")
+2. ("Human", "null", "Epithelial cell", "CD104")
+3. ("Mouse", "null", "null", "CD45")
+4. ("Mouse", "null", "null", "CD73")
+5. ("Mouse", "null", "null", "CD104")
+
+The species, tissue type, and cell name were inferred from the context where the markers are mentioned. For some entries, the tissue type or cell name was not specified in the text, so "null" is used to indicate that this information is not available.
+
+none
+

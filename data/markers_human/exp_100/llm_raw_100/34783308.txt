@@ -1,0 +1,116 @@
+none
+
+Based on the provided document, the following cell markers have been identified and formatted as requested:
+
+1. ("Mouse", "Iris", "Dilator muscle cells", "Adra1a")
+2. ("Mouse", "Iris", "Sphincter muscle cells", "Chrm3")
+3. ("Mouse", "Iris", "Stroma 1 cells", "Sox10")
+4. ("Mouse", "Iris", "Stroma 2 cells", "Tfap2b")
+5. ("Mouse", "Iris", "Epithelial cells", "Zic1")
+6. ("Mouse", "Iris", "Sphincter 1 cells", "Ttn")
+
+These tuples represent the specific cell types and their corresponding marker genes as described in the text.
+
+Based on the information provided in the document, the following cell markers have been identified:
+
+1. ("Mouse", "Iris", "Sphincter cell", "Nptx2")
+2. ("Mouse", "Iris", "Sphincter cell", "Rbfox3")
+3. ("Mouse", "Iris", "Sphincter cell", "Ctnna3")
+4. ("Mouse", "Iris", "Sphincter cell", "Ckm")
+5. ("Mouse", "Iris", "Sphincter cell", "Ttn")
+6. ("Mouse", "Iris", "Dilator muscle", "Nos1")
+
+These tuples indicate the species (Mouse), the tissue type (Iris), the specific cell names (Sphincter cell, Dilator muscle), and their respective markers as mentioned in the text.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "Iris", "Dilator muscle", "Nos1")
+2. ("null", "Iris", "Sphincter muscle", "Ttn")
+3. ("null", "Iris", "Dilator and Sphincter muscles", "Myh11")
+4. ("null", "Iris", "Sphincter 1 and Sphincter 2 cells", "Syt1")
+5. ("null", "Iris", "Dilator muscle", "Adra1a")
+6. ("null", "Iris", "Sphincter muscle", "Chrm3")
+7. ("null", "Iris", "Sphincter 1 cells", "CTNNA3")
+8. ("null", "Iris", "Sphincter cells", "NeuN")
+9. ("null", "Iris", "Sphincter cells", "NPTX2")
+10. ("null", "Iris", "Sphincter cells", "SYT1")
+
+The species is not specified in the text, so "null" is used for the "Species" field. The tissue type is specified as Iris.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("Mouse", "Iris", "Dilator and constrictor muscles, PE cells", "Opn4")
+2. ("Mouse", "Iris", "Dilator and constrictor muscles, PE cells", "Cry1")
+3. ("Mouse", "Iris", "Dilator and constrictor muscles, PE cells", "Cry2")
+4. ("Mouse", "Iris", "Smooth muscle", "Plcb4")
+5. ("Mouse", "Iris", "Dilator and constrictor muscles, PE cells", "Itpr1")
+6. ("Mouse", "Iris", "Dilator and constrictor muscles, PE cells", "Itpr2")
+7. ("Mouse", "Iris", "Dilator and constrictor muscles, PE cells", "Itpr3")
+8. ("Mouse", "Iris", "Dilator and constrictor muscles, PE cells", "Ryr1")
+9. ("Mouse", "Iris", "Dilator and constrictor muscles, PE cells", "Ryr2")
+10. ("Mouse", "Iris", "Dilator and constrictor muscles, PE cells", "Ryr3")
+11. ("Mouse", "Iris", "Dilator muscles", "ADRA1A")
+12. ("Mouse", "Iris", "Sphincter muscles", "CHRM3")
+13. ("Mouse", "Iris", "Sphincter muscles", "CHRM2")
+14. ("Mouse", "Iris", "Dilator muscles", "CHRM2")
+15. ("Mouse", "Iris", "Stroma 2 cells", "ADRA1B")
+16. ("Mouse", "Iris", "PE and CBE", "ZIC1")
+17. ("Mouse", "Iris", "Sphincter and dilator muscles, PE", "OTX1")
+18. ("Mouse", "Iris", "Sphincter and dilator muscles, PE", "OTX2")
+
+These tuples are based on the differential expression or presence of the mentioned markers in specific cell types within the iris tissue of mice, as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Iris", "Stroma 1 cell", "Sox10")
+2. ("Mouse", "Iris", "Stroma 1 cell", "Tbx1")
+3. ("Mouse", "Iris", "Stroma 1 cell", "Pax3")
+4. ("Mouse", "Iris", "Stroma 1 cell", "Tfap2a")
+5. ("Mouse", "Iris", "Stroma 2 cell", "Pitx2")
+6. ("Mouse", "Iris", "Stroma 2 cell", "Glis1")
+7. ("Mouse", "Iris", "Stroma 2 cell", "Tfap2b")
+8. ("Mouse", "Iris", "Stroma 2 cell", "PDGFRA")
+9. ("Mouse", "Iris", "Dilator muscle", "SMA")
+10. ("Mouse", "Iris", "Immune cells (leukocytes)", "CD45")
+11. ("Mouse", "Iris", "M2 macrophages", "CD206")
+12. ("Mouse", "Iris", "Dendritic cells", "MHC class II antigens (I-A/I-E)")
+13. ("Mouse", "Iris", "Macrophages, neutrophils, and myeloid dendritic cells", "PU.1")
+14. ("Mouse", "Iris", "Blood vessels", "CLDN5")
+
+These tuples reflect the specific markers for different cell types within the iris of a mouse as described in the text.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("null", "null", "Dilator muscle", "Egr1")
+2. ("null", "null", "Dilator muscle", "Slc26a4")
+3. ("null", "null", "Dilator muscle", "Tmem158")
+4. ("null", "null", "Dilator muscle", "Pde10a")
+5. ("null", "null", "Dilator muscle", "Btg2")
+6. ("null", "null", "Sphincter muscle", "Tmem158")
+7. ("null", "null", "Endothelial", "ERG")
+8. ("null", "null", "Sphincter 1", "NeuN")
+9. ("null", "null", "Stroma 1", "SOX10")
+10. ("null", "null", "Stroma 2", "TFAP2B")
+11. ("null", "null", "Iris PE", "ZIC1")
+12. ("null", "null", "Dilator muscle", "OTX")
+
+The document does not specify the species or the exact tissue type, so these fields are filled with "null". The information about the markers and their corresponding cell types is directly sourced from the text.
+
+none
+
+Based on the provided text, there is no explicit mention of specific cell markers for particular cell types in the mouse iris. The document discusses the use of single-nucleus RNA sequencing (snRNAseq) to define major cell types and mentions the validation of molecular markers, but it does not list any specific markers.
+
+Therefore, the correct response is:
+
+none
+
+none
+
+none
+
+none
+
+The provided document does not contain specific information about cell markers that are differentially expressed in distinct cell types. The text mainly lists antibodies and reagents used in the study, but it does not provide the necessary context to identify them as markers for specific cell types. Therefore, no tuples can be generated based on the given requirements.
+
+none
+

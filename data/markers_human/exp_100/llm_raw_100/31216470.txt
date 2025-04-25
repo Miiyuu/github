@@ -1,0 +1,98 @@
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Heart", "Cardiomyocyte", "Tnnt2")
+2. ("Mouse", "Heart", "Cardiac fibroblast", "Col1a1")
+3. ("Mouse", "Heart", "Epicardial cell", "Wt1")
+4. ("Mouse", "Heart", "Macrophage", "Lys6c")
+5. ("Mouse", "Heart", "Epicardial cell", "Bnc1")
+
+These tuples are derived from the specific mentions of molecular markers used to identify different cell types within the context of mouse heart tissue.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "Heart", "Epicardial-like cells", "Gata6")
+2. ("Mouse", "Heart", "Epicardial-like cells", "Hand2")
+3. ("Mouse", "Heart", "Epicardial cells", "Tbx18")
+4. ("Mouse", "Heart", "Epicardial cells", "Tcf21")
+5. ("Mouse", "Heart", "Epicardial cells", "Wt1")
+6. ("Mouse", "Heart", "Epicardial cells", "Anxa8")
+7. ("Mouse", "Heart", "Epicardial cells", "Gata5")
+8. ("Mouse", "Heart", "Epicardial cells", "Gpm6a")
+9. ("Mouse", "Heart", "Epicardial cells", "Krt8")
+10. ("Mouse", "Heart", "Epicardial cells", "Krt19")
+11. ("Mouse", "Heart", "Epicardial cells", "Upk1b")
+
+These tuples represent the species, tissue type, cell name, and marker as specified in the requirements.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "MEF-derived cells", "Fibroblast", "Spp1")
+2. ("Mouse", "MEF-derived cells", "Epicardial-like cells", "Cenpp") - Note: Cenpp is a proliferation marker and is depleted in these cells.
+3. ("Mouse", "Epicardial cells", "Epicardial cells", "Gata5")
+4. ("Mouse", "Epicardial cells", "Epicardial cells", "Upk1b")
+
+The information is derived from the text where Spp1 is mentioned as a fibroblast marker, Cenpp as a proliferation marker that is depleted in epicardial-like and primary epicardial cells, and Gata5 and Upk1b are noted as epicardial marker genes.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "Epicardial cell", "Myrf")
+2. ("null", "null", "Epicardial cell", "Wt1")
+3. ("null", "null", "Epicardial cell", "Bnc1")
+4. ("null", "null", "Epicardial cell", "Gpm6a")
+5. ("null", "null", "Epicardial cell", "Upk1b")
+6. ("null", "null", "Epicardial cell", "Sox6")
+7. ("null", "null", "Epicardial cell", "Gata5")
+
+The species and tissue type are not specified in the text, so they are marked as "null".
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Mouse", "null", "Epicardial cell", "Upk1b")
+2. ("Mouse", "null", "Epicardial cell", "Gpm6a")
+3. ("Mouse", "null", "Epicardial cell", "Krt19")
+4. ("Mouse", "null", "Epicardial cell", "ZO-1")
+5. ("Mouse", "null", "Epicardial cell", "UPK1B")
+6. ("Mouse", "null", "Epicardial cell", "E-Cadherin")
+
+These tuples represent the species (Mouse), tissue type (which is not specified in the text and thus marked as "null"), the cell name (Epicardial cell), and the corresponding markers that are used to identify or characterize these cells.
+
+Based on the provided document, the following cell markers can be identified:
+
+1. ("Mouse", "null", "Epithelial cell", "Hnf1b")
+2. ("Mouse", "null", "Epithelial cell", "Hnf4a")
+3. ("Mouse", "null", "Epithelial cell", "Pax8")
+4. ("Mouse", "Skeletal muscle", "Skeletal muscle satellite cell", "MyoD1")
+5. ("Mouse", "Skeletal muscle", "Skeletal muscle satellite cell", "Myf5")
+6. ("Mouse", "Skeletal muscle", "Skeletal muscle satellite cell", "Pax7")
+7. ("Mouse", "Cardiac tissue", "Cardiomyocyte", "Gata4")
+8. ("Mouse", "Cardiac tissue", "Cardiomyocyte", "Hand2")
+9. ("Mouse", "Cardiac tissue", "Cardiomyocyte", "Tbx5")
+10. ("Mouse", "Kidney capillary", "Endothelial cell", "Irx3")
+11. ("Mouse", "Kidney capillary", "Endothelial cell", "Rarb")
+12. ("Mouse", "Lung", "Endothelial cell", "Smad6")
+13. ("Mouse", "Lung", "Endothelial cell", "Tbx3")
+14. ("Mouse", "Liver", "Hepatic sinusoid endothelial cell", "Ets1")
+15. ("Mouse", "Liver", "Hepatic sinusoid endothelial cell", "Prox1")
+16. ("Mouse", "null", "Epicardial-like cell", "Upk1b")
+17. ("Mouse", "null", "Epicardial-like cell", "Gpm6a")
+18. ("Mouse", "null", "Epicardial-like cell", "Krt19")
+19. ("Mouse", "null", "Epithelial cell", "Krt19")
+20. ("Mouse", "null", "Epithelial cell", "E-Cadherin")
+
+These tuples are derived from the information in the text, where specific markers are associated with particular cell types and tissues. If a specific tissue type or cell name was not explicitly mentioned, "null" is used to indicate that this information is not available from the given text.
+
+Based on the provided document, there is no explicit mention of cell markers in the format required. The text discusses transcription factors and some cell types, but it does not clearly define specific markers for these cells. Therefore, based on the given requirements, the appropriate response is:
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("null", "null", "reprogrammed MEFs (Cluster 20)", "MyoD1")
+2. ("null", "null", "reprogrammed MEFs (Cluster 10)", "Atf3")
+3. ("null", "null", "reprogrammed MEFs (Cluster 10)", "Gata6")
+4. ("null", "null", "reprogrammed MEFs (Cluster 10)", "Hand2")
+
+The document does not specify the species or tissue type, so those fields are filled with "null". The cell markers identified are based on their differential expression in specific clusters of reprogrammed mouse embryonic fibroblasts (MEFs).
+
+none
+

@@ -1,0 +1,135 @@
+Based on the information provided in the document, several cell markers for different cell types in the human retina are mentioned. Here are the tuples formatted as requested:
+
+1. ("Human", "Retina", "Cone photoreceptors", "GNAT2")
+2. ("Human", "Retina", "Cone photoreceptors", "OPN1SW")
+3. ("Human", "Retina", "Cone photoreceptors", "OPN1MW")
+4. ("Human", "Retina", "Cone photoreceptors", "OPN1LW")
+
+The document does not provide explicit marker information for other cell types, so these are the only valid tuples based on the given data.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Photoreceptor cells", "PDE6A")
+2. ("Human", "Retina", "Photoreceptor cells", "PPEF2")
+3. ("Human", "Retina", "Photoreceptor cells", "NR2E3")
+4. ("Human", "Retina", "Retinal ganglion cells", "NEFM")
+5. ("Human", "Retina", "Retinal ganglion cells", "SLC17A6")
+6. ("Human", "Retina", "Bipolar cells", "CAMK2B")
+7. ("Human", "Retina", "Bipolar cells", "GRM6")
+8. ("Human", "Retina", "Bipolar cells", "TMEM215")
+9. ("Human", "Retina", "Bipolar cells", "TRPM1")
+10. ("Human", "Retina", "Amacrine cells", "GAD1")
+11. ("Human", "Retina", "Amacrine cells", "C1QL2")
+12. ("Human", "Retina", "Horizontal cells", "ONECUT1")
+13. ("Human", "Retina", "Horizontal cells", "ONECUT2")
+14. ("Human", "Retina", "Horizontal cells", "LHX1")
+15. ("Human", "Retina", "Müller glia and astrocytes", "GLUL")
+16. ("Human", "Retina", "Müller glia and astrocytes", "CLU")
+17. ("Human", "Retina", "Müller glia and astrocytes", "APOE")
+18. ("Human", "Retina", "Resident microglia", "C1QA")
+19. ("Human", "Retina", "Resident microglia", "TMEM119")
+20. ("Human", "Retina", "Resident microglia", "AIF1")
+21. ("Human", "Retina", "Resident microglia", "CD163")
+22. ("Human", "Retina", "Cells lining the retinal vasculature", "CD34")
+23. ("Human", "Retina", "Cells lining the retinal vasculature", "CDH5")
+24. ("Human", "Retina", "Cells lining the retinal vasculature", "RGS5")
+25. ("Human", "Retina", "Cells lining the retinal vasculature", "ADAMTS9")
+26. ("Human", "Retina", "Astrocytes (subtype 1)", "FOS")
+27. ("Human", "Retina", "Astrocytes (subtype 1)", "FTL")
+28. ("Human", "Retina", "Astrocytes (subtype 1)", "COL4A3")
+
+Note: The species is assumed to be "Human" as it is not explicitly stated in the text, but the context suggests human retinal studies. If the assumption about the species is incorrect, you may need to adjust the "Species" field accordingly.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Astrocyte", "GFAP")
+2. ("Human", "Retina", "Astrocyte", "SPARCL1")
+3. ("Human", "Retina", "Astrocyte", "FOS")
+4. ("Human", "Retina", "Astrocyte", "FOSB")
+5. ("Human", "Retina", "Astrocyte", "JUN")
+6. ("Human", "Retina", "Astrocyte", "EGR1")
+7. ("Human", "Retina", "Astrocyte", "CD44")
+8. ("Human", "Retina", "Müller glia (subtype 2)", "COL4A3")
+9. ("Human", "Retina", "Müller glia (subtype 2)", "VEGFA")
+10. ("Human", "Retina", "Müller glia (subtype 2)", "HTRA1")
+11. ("Human", "Retina", "Müller glia (subtype 2)", "SLC2A1/GLUT1")
+12. ("Human", "Retina", "Müller glia (subtype 2)", "SLC1A3/GLAST1")
+13. ("Human", "Retina", "Müller glia (subtype 2)", "SHMT2")
+14. ("Human", "Retina", "Müller glia (subtype 2)", "HIF1A")
+15. ("Human", "Retina", "Müller glia (subtype 3)", "FTH1")
+16. ("Human", "Retina", "Müller glia (subtype 3)", "FTL")
+17. ("Human", "Retina", "Müller glia (subtype 3)", "DBI")
+
+These tuples reflect the marker genes or proteins that are specifically mentioned in the document for distinguishing different cell types within the human retina.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Retina", "Müller Glia", "GS")
+2. ("Human", "Retina", "Müller Glia", "FOS")
+3. ("Human", "Retina", "Müller Glia", "COL4A3")
+4. ("Human", "Retina", "Müller Glia", "FTL")
+5. ("Human", "Retina", "Astrocytes", "GS")
+6. ("Human", "Retina", "Astrocytes", "FOS")
+7. ("Human", "Retina", "Astrocytes", "COL4A3")
+8. ("Human", "Retina", "Astrocytes", "FTL")
+9. ("Human", "Retina", "Müller Glia", "APOE")
+10. ("Human", "Retina", "Vascular cells", "TM4SF1")
+11. ("Human", "Retina", "Müller Glia", "TIMP3")
+12. ("Human", "Retina", "Vascular cells", "TIMP3")
+
+These tuples represent the species, tissue type, cell name, and specific marker as described in the text.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. The document mentions FTL, FOS, and COL4A3 as key marker genes in the context of macroglial cells within the retina. These are used to distinguish subtypes of these cells.
+2. Glutamine synthetase (GS) is also mentioned as a marker for macroglia, used in conjunction with the other markers.
+
+Given the information, we can construct the following tuples:
+
+- ("Human", "Retina", "Macroglia", "FTL")
+- ("Human", "Retina", "Macroglia", "FOS")
+- ("Human", "Retina", "Macroglia", "COL4A3")
+- ("Human", "Retina", "Macroglia", "Glutamine synthetase")
+
+Thus, the final list of tuples is:
+
+```python
+[
+    ("Human", "Retina", "Macroglia", "FTL"),
+    ("Human", "Retina", "Macroglia", "FOS"),
+    ("Human", "Retina", "Macroglia", "COL4A3"),
+    ("Human", "Retina", "Macroglia", "Glutamine synthetase")
+]
+```
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+1. APOE is used to identify Müller glia.
+2. CFI is expressed and labeled in red, though the specific cell type it marks is not explicitly stated in the text; however, it is co-localized with APOE (Müller glia) in some cells.
+3. TIMP3 is also expressed and labeled in red, co-localized with APOE (Müller glia) and TM4SF1 (vascular endothelium).
+4. GS (Glutamine Synthetase) is used as a marker for Müller glia.
+5. TM4SF1 is used to identify vascular endothelium.
+
+Given these details, the tuples representing the cell markers are as follows:
+
+- ("Human", "Retina", "Müller glia", "APOE")
+- ("Human", "Retina", "Müller glia", "GS")
+- ("Human", "Retina", "Vascular endothelium", "TM4SF1")
+
+For CFI and TIMP3, since the specific cell types they mark are not clearly defined in the text but are associated with Müller glia and vascular endothelium, we will include them with those cell types:
+
+- ("Human", "Retina", "Müller glia", "CFI")
+- ("Human", "Retina", "Müller glia", "TIMP3")
+- ("Human", "Retina", "Vascular endothelium", "TIMP3")
+
+Therefore, the final list of tuples is:
+
+- ("Human", "Retina", "Müller glia", "APOE")
+- ("Human", "Retina", "Müller glia", "GS")
+- ("Human", "Retina", "Müller glia", "CFI")
+- ("Human", "Retina", "Müller glia", "TIMP3")
+- ("Human", "Retina", "Vascular endothelium", "TM4SF1")
+- ("Human", "Retina", "Vascular endothelium", "TIMP3")
+
+none
+

@@ -1,0 +1,157 @@
+none
+
+The provided text does not contain specific information about cell markers (marker genes, signature genes, protein markers, or molecular markers) that are used to distinguish different cell types. The document primarily discusses changes in the abundance and activity of various immune cell types during the recovery stage of COVID-19 but does not specify the markers used to identify these cells.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Blood", "Classical CD14++ monocytes (M1)", "CD14")
+2. ("Human", "Blood", "Non-classical CD16++ (FCGR3A) CD14-/+ monocytes (M2)", "CD16")
+3. ("Human", "Blood", "Intermediate CD14++ CD16+ monocytes (M3)", "CD14")
+4. ("Human", "Blood", "Intermediate CD14++ CD16+ monocytes (M3)", "CD16")
+5. ("Human", "Blood", "CD1C+ cDC2 (M4)", "CD1C")
+6. ("Human", "Blood", "CLEC9A+ cDC1 (M5)", "CLEC9A")
+7. ("Human", "Blood", "pDC (CLEC4C+CD123+) (M6)", "CLEC4C")
+8. ("Human", "Blood", "pDC (CLEC4C+CD123+) (M6)", "CD123")
+9. ("Human", "Blood", "Classical CD14++ inﬂammatory monocytes (M1)", "IL1β")
+10. ("Human", "Blood", "Classical CD14++ inﬂammatory monocytes (M1)", "JUN")
+11. ("Human", "Blood", "Classical CD14++ inﬂammatory monocytes (M1)", "FOS")
+12. ("Human", "Blood", "Classical CD14++ inﬂammatory monocytes (M1)", "JUNB")
+13. ("Human", "Blood", "Classical CD14++ inﬂammatory monocytes (M1)", "KLF6")
+14. ("Human", "Blood", "Classical CD14++ inﬂammatory monocytes (M1)", "CCL4")
+15. ("Human", "Blood", "Classical CD14++ inﬂammatory monocytes (M1)", "CXCR4")
+16. ("Human", "Blood", "Classical CD14++ inﬂammatory monocytes (M1)", "IFRD1")
+17. ("Human", "Blood", "Classical CD14++ inﬂammatory monocytes (M1)", "IRF1")
+18. ("Human", "Blood", "Classical CD14++ inﬂammatory monocytes (M1)", "IFI6")
+
+These tuples represent the species, tissue type, cell name, and marker as specified from the text.
+
+Based on the provided document, the following cell markers have been identified and are presented in the requested format:
+
+1. ("Human", "Blood", "NK cells", "NCAM1")
+2. ("Human", "Blood", "NK cells", "KLRF1")
+3. ("Human", "Blood", "NK cells", "KLRC1")
+4. ("Human", "Blood", "NK cells", "KLRD1")
+5. ("Human", "Blood", "CD56+CD16− NK cells (NK1)", "CD56")
+6. ("Human", "Blood", "CD56+CD16− NK cells (NK1)", "CD16")
+7. ("Human", "Blood", "CD56−CD16+ NK cells (NK2)", "CD16")
+8. ("Human", "Blood", "CD56−CD16+ NK cells (NK2)", "CD56")
+9. ("Human", "Blood", "CD4+ T cells", "CD3E")
+10. ("Human", "Blood", "CD4+ T cells", "CD4")
+11. ("Human", "Blood", "Naïve CD4+ T cells (T1)", "CCR7")
+12. ("Human", "Blood", "Naïve CD4+ T cells (T1)", "LEF1")
+13. ("Human", "Blood", "Naïve CD4+ T cells (T1)", "TCF7")
+14. ("Human", "Blood", "Central memory CD4+ T cells (T2, CD4 Tcm)", "CCR7")
+15. ("Human", "Blood", "Central memory CD4+ T cells (T2, CD4 Tcm)", "AQP3")
+16. ("Human", "Blood", "Central memory CD4+ T cells (T2, CD4 Tcm)", "CD69")
+17. ("Human", "Blood", "Effector memory CD4+ T cells (T3, CD4 Tem)", "CCR6")
+18. ("Human", "Blood", "Effector memory CD4+ T cells (T3, CD4 Tem)", "CXCR6")
+19. ("Human", "Blood", "Effector memory CD4+ T cells (T3, CD4 Tem)", "CCL5")
+20. ("Human", "Blood", "Effector memory CD4+ T cells (T3, CD4 Tem)", "PRDM1")
+21. ("Human", "Blood", "Regulatory T cells (T4, Treg)", "FOXP3")
+22. ("Human", "Blood", "CD8+ T cells", "CD8A")
+23. ("Human", "Blood", "CD8+ T cells", "CD8B")
+24. ("Human", "Blood", "Naïve CD8+ T cells (T5)", "CCR7")
+25. ("Human", "Blood", "Naïve CD8+ T cells (T5)", "LEF1")
+26. ("Human", "Blood", "Naïve CD8+ T cells (T5)", "TCF7")
+27. ("Human", "Blood", "Effector memory CD8+ T cells (T6, CD8 Tm)", "GZMK")
+28. ("Human", "Blood", "Cytotoxic CD8+ lymphocytes (CD8+ CTL) (T7)", "GZMB")
+29. ("Human", "Blood", "Cytotoxic CD8+ lymphocytes (CD8+ CTL) (T7)", "GNLY")
+30. ("Human", "Blood", "Cytotoxic CD8+ lymphocytes (CD8+ CTL) (T7)", "PRF1")
+31. ("Human", "Blood", "Proliferating T cells (T8, Tprol)", "TYMS")
+32. ("Human", "Blood", "Proliferating T cells (T8, Tprol)", "MKI67")
+
+Each tuple corresponds to a specific marker for a given cell type within the human blood tissue, as described in the document.
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("Human", "PBMCs", "Myeloid cells", "CD14")
+2. ("Human", "PBMCs", "Myeloid cells", "CD1C")
+3. ("Human", "PBMCs", "Myeloid cells", "FCGR3A")
+4. ("Human", "PBMCs", "NK and T cells", "CD3E")
+5. ("Human", "PBMCs", "NK and T cells", "CD4")
+6. ("Human", "PBMCs", "NK and T cells", "CD8A")
+7. ("Human", "PBMCs", "NK and T cells", "NCAM1")
+8. ("Human", "PBMCs", "B cells", "CD19")
+
+For B cell subtypes, the document provides additional markers:
+- Naïve B cells (B1) expressing: CD19, CD20 (MS4A1), IGHD, IGHM, IL4R, TCL1A
+- Memory B cells (B2) expressing: CD27, CD38, IGHG
+- Immature B cells (B3) expressing: CD19, CD20 (MS4A1)
+- Plasma cells (B4) expressing: XBP1, MZB1
+
+This gives us more tuples:
+9. ("Human", "PBMCs", "Naïve B cells (B1)", "CD19")
+10. ("Human", "PBMCs", "Naïve B cells (B1)", "CD20 (MS4A1)")
+11. ("Human", "PBMCs", "Naïve B cells (B1)", "IGHD")
+12. ("Human", "PBMCs", "Naïve B cells (B1)", "IGHM")
+13. ("Human", "PBMCs", "Naïve B cells (B1)", "IL4R")
+14. ("Human", "PBMCs", "Naïve B cells (B1)", "TCL1A")
+15. ("Human", "PBMCs", "Memory B cells (B2)", "CD27")
+16. ("Human", "PBMCs", "Memory B cells (B2)", "CD38")
+17. ("Human", "PBMCs", "Memory B cells (B2)", "IGHG")
+18. ("Human", "PBMCs", "Immature B cells (B3)", "CD19")
+19. ("Human", "PBMCs", "Immature B cells (B3)", "CD20 (MS4A1)")
+20. ("Human", "PBMCs", "Plasma cells (B4)", "XBP1")
+21. ("Human", "PBMCs", "Plasma cells (B4)", "MZB1")
+
+Each of these tuples represents a specific cell marker as described in the document.
+
+Based on the provided text, the document does not explicitly list any cell markers in the format requested. The text discusses gene expression and B cell clonality but does not provide specific marker genes, signature genes, protein markers, or molecular markers that are used to distinguish different cell types. Therefore, the appropriate response is:
+
+none
+
+none
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Peripheral blood", "Classical CD14++ monocytes", "CD14")
+2. ("Human", "Peripheral blood", "Non-classical CD16++ (FCGR3A) CD14-/+ monocytes", "FCGR3A")
+3. ("Human", "Peripheral blood", "Intermediate CD14++ CD16+ monocytes", "null")  # The marker for this specific subtype is not explicitly mentioned, but based on the description, it could be a combination of CD14 and CD16. Since the exact marker isn't specified, I'm marking the "Marker" field as "null".
+4. ("Human", "Peripheral blood", "CD1C+ cDC2", "CD1C")
+5. ("Human", "Peripheral blood", "CLEC9A+ cDC1", "CLEC9A")
+6. ("Human", "Peripheral blood", "pDC (CLEC4C+CD123+)", "CLEC4C")
+7. ("Human", "Peripheral blood", "Myeloid cells", "IL-1β")
+
+These tuples are constructed from the information given in the text, focusing specifically on the species, tissue type, cell name, and marker as per the instructions.
+
+Based on the provided text, the following cell markers can be identified:
+
+1. The document mentions CD14 as a marker for classical monocytes, and it is noted that in ERS (Early Recovery Stage) patients, there is a higher ratio of these cells compared to HCs (Healthy Controls). Additionally, the presence of CD14+IL1β monocytes is highlighted, which are absent in healthy controls but present in ERS patients.
+
+Given the guidelines, the extracted information can be formatted into tuples as follows:
+
+- ("Human", "Blood", "Classical monocyte", "CD14")
+- ("Human", "Blood", "Inflammatory monocyte", "CD14+IL1β")
+
+The species is "Human" since the study involves human patients. The tissue type is "Blood" as the immune cells were profiled from blood samples. The cell names are derived from the description of the monocyte subsets, and the markers are directly stated in the text.
+
+Based on the information provided in the document, several markers for different cell types within the human immune system are mentioned. Here are the identified cell markers in the required format:
+
+1. ("Human", "null", "NK1 cells", "CD56")
+2. ("Human", "null", "NK2 cells", "CD16")
+3. ("Human", "null", "Naïve CD4+ T cells", "CD4")
+4. ("Human", "null", "Central memory CD4+ T cells", "CCR7")
+5. ("Human", "null", "Effector memory CD4+ T cells", "GZMK")
+6. ("Human", "null", "Regulatory T cells", "null")  # No specific marker provided
+7. ("Human", "null", "Naïve CD8+ T cells", "CD8A")
+8. ("Human", "null", "Effector memory CD8+ T cells", "GZMK")
+9. ("Human", "null", "Cytotoxic CD8+ T cells", "GNLY")
+10. ("Human", "null", "Proliferating T cells", "MKI67")
+11. ("Human", "null", "NK and T cells", "FCGR3A")
+12. ("Human", "null", "NK and T cells", "IL-1β")
+
+Note: The document does not specify a particular tissue type, so "null" is used for the "Tissue Type" field where it's not explicitly stated. Additionally, some cell types like regulatory T cells (T4) do not have a specific marker gene listed, and thus, they are included with "null" in the "Marker" field.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Peripheral blood", "Naïve B cells", "MME")
+2. ("Human", "Peripheral blood", "Naïve B cells", "IL4R")
+3. ("Human", "Peripheral blood", "Memory B cells", "CD38")
+4. ("Human", "Peripheral blood", "Memory B cells", "CD27")
+5. ("Human", "Peripheral blood", "Immature B cells", "MZB1")
+6. ("Human", "Peripheral blood", "Plasma cells", "IGHA1")
+
+These markers are derived from the section of the text that discusses the characterization of single-cell B cells in COVID-19 patients, where specific marker genes for different B cell subtypes (Naïve B cells, Memory B cells, Immature B cells, and Plasma cells) are mentioned.
+
+none
+

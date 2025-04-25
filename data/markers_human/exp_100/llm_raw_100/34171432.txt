@@ -1,0 +1,194 @@
+Based on the provided text, the following cell markers can be identified:
+
+1. MDK (Midkine) is mentioned in the context of promoting immunosuppressive macrophage differentiation. However, it is not explicitly stated as a marker for a specific cell type but rather as a factor that interacts with its receptor LRP1 to influence macrophages. Since we need to follow the strict format and MDK is not directly defined as a marker for a particular cell, this information cannot be used to form a tuple.
+
+2. CXCL10 is secreted by macrophages and interacts with its receptor CXCR3 on Tregs. This interaction suggests that CXCL10 could be a marker for macrophages, and CXCR3 for Tregs, in the context of gallbladder cancer with ErbB pathway mutations.
+
+From the above, the tuples that can be formed are:
+
+- ("Human", "Gallbladder cancer", "Macrophage", "CXCL10")
+- ("Human", "Gallbladder cancer", "Treg", "CXCR3")
+
+Therefore, the final answer is:
+
+[("Human", "Gallbladder cancer", "Macrophage", "CXCL10"), ("Human", "Gallbladder cancer", "Treg", "CXCR3")]
+
+none
+
+none
+
+Based on the provided document, several cell markers are mentioned for different cell types. Here is a list of tuples that match the specified format:
+
+1. ("Human", "Gallbladder cancer", "Epithelial cell (subtype 1)", "KRT19")
+2. ("Human", "Gallbladder cancer", "Epithelial cell (subtype 1)", "EPCAM")
+3. ("Human", "Gallbladder cancer", "Epithelial cell (subtype 1)", "CLDN7")
+4. ("Human", "Gallbladder cancer", "Epithelial cell (subtype 1)", "CDH1")
+5. ("Human", "Gallbladder cancer", "Endothelial cell", "PECAM1")
+6. ("Human", "Gallbladder cancer", "Endothelial cell", "VWF")
+7. ("Human", "Gallbladder cancer", "Endothelial cell", "ENG")
+8. ("Human", "Gallbladder cancer", "Adipocyte", "FABP4")
+9. ("Human", "Gallbladder cancer", "Adipocyte", "RBP7")
+10. ("Human", "Gallbladder cancer", "Adipocyte", "CD36")
+11. ("Human", "Gallbladder cancer", "Pericyte", "RGS5")
+12. ("Human", "Gallbladder cancer", "Pericyte", "MYL9")
+13. ("Human", "Gallbladder cancer", "Pericyte", "MYLK")
+14. ("Human", "Gallbladder cancer", "Pericyte", "MCAM")
+15. ("Human", "Gallbladder cancer", "Fibroblast", "COL14A1")
+16. ("Human", "Gallbladder cancer", "Fibroblast", "MFAP5")
+17. ("Human", "Gallbladder cancer", "Fibroblast", "IL6")
+18. ("Human", "Gallbladder cancer", "Fibroblast", "PLA2G2A")
+19. ("Human", "Gallbladder cancer", "Fibroblast", "CFD")
+20. ("Human", "Gallbladder cancer", "Fibroblast", "DCN")
+21. ("Human", "Gallbladder cancer", "Fibroblast", "CXCL14")
+22. ("Human", "Gallbladder cancer", "Myofibroblast", "ACTA2")
+23. ("Human", "Gallbladder cancer", "Myofibroblast", "MMP11")
+24. ("Human", "Gallbladder cancer", "Myofibroblast", "CTHRC1")
+25. ("Human", "Gallbladder cancer", "Myofibroblast", "COL1A1")
+26. ("Human", "Gallbladder cancer", "Myofibroblast", "COL3A1")
+27. ("Human", "Gallbladder cancer", "Myofibroblast", "COL1A2")
+28. ("Human", "Gallbladder cancer", "Myofibroblast", "FN1")
+29. ("Human", "Gallbladder cancer", "Mast cell", "TPSB2")
+30. ("Human", "Gallbladder cancer", "Mast cell", "MS4A2")
+31. ("Human", "Gallbladder cancer", "Mast cell", "TPSAB1")
+32. ("Human", "Gallbladder cancer", "Mast cell", "KIT")
+33. ("Human", "Gallbladder cancer", "B cell (Follicular)", "CD79A")
+34. ("Human", "Gallbladder cancer", "B cell (Follicular)", "MS4A1")
+35. ("Human", "Gallbladder cancer", "B cell (Plasma)", "IGHM")
+36. ("Human", "Gallbladder cancer", "B cell (Plasma)", "IGHA1")
+37. ("Human", "Gallbladder cancer", "B cell (Plasma)", "IGHG1")
+38. ("Human", "Gallbladder cancer", "B cell (Plasma)", "IGHG4")
+39. ("Human", "Gallbladder cancer", "B cell (Plasma)", "IGKC")
+40. ("Human", "Gallbladder cancer", "B cell (Plasma)", "MZB1")
+41. ("Human", "Gallbladder cancer", "Treg cell", "TIGIT")
+42. ("Human", "Gallbladder cancer", "Treg cell", "CTLA4")
+43. ("Human", "Gallbladder cancer", "Treg cell", "FOXP3")
+44. ("Human", "Gallbladder cancer", "Treg cell", "TRAC")
+45. ("Human", "Gallbladder cancer", "Treg cell", "IL2RA")
+46. ("Human", "Gallbladder cancer", "Treg cell", "IL7R")
+47. ("Human", "Gallbladder cancer", "Treg cell", "CCR7")
+48. ("Human", "Gallbladder cancer", "Treg cell", "CCL20")
+49. ("Human", "Gallbladder cancer", "CD4+ T cell", "CD4")
+50. ("Human", "Gallbladder cancer", "CD4+ T cell", "CD2")
+51. ("Human", "Gallbladder cancer", "CD4+ T cell", "CD3D")
+52. ("Human", "Gallbladder cancer", "CD4+ T cell", "TRBC1")
+53. ("Human", "Gallbladder cancer", "CD4+ T cell", "TRBC2")
+54. ("Human", "Gallbladder cancer", "CD4+ T cell", "CD3E")
+55. ("Human", "Gallbladder cancer", "CD4+ T cell", "FYB1")
+56. ("Human", "Gallbladder cancer", "CD4+ T cell", "IL32")
+57. ("Human", "Gallbladder cancer", "CD4+ T cell", "CD7")
+58. ("Human", "Gallbladder cancer", "CD8+ T cell", "GZMA")
+59. ("Human", "Gallbladder cancer", "CD8+ T cell", "CD8A")
+60. ("Human", "Gallbladder cancer", "CD8+ T cell", "CD8B")
+61. ("Human", "Gallbladder cancer", "CD8+ T cell", "CCL5")
+62. ("Human", "Gallbladder cancer", "CD8+ T cell", "GNLY")
+63. ("Human", "Gallbladder cancer", "CD8+ T cell", "CST7")
+64. ("Human", "Gallbladder cancer", "CD8+ T cell", "CCL4")
+65. ("Human", "Gallbladder cancer", "CD8+ T cell", "GZMH")
+66. ("Human", "Gallbladder cancer", "CD8+ T cell", "GZMK")
+67. ("Human", "Gallbladder cancer", "CD8+ T cell", "GZMB")
+68. ("Human", "Gallbladder cancer", "Monocyte-like cell", "FCN1")
+69. ("Human", "Gallbladder cancer", "Monocyte-like cell", "EREG")
+70. ("Human", "Gallbladder cancer", "Monocyte-like cell", "S100A12")
+71. ("Human", "Gallbladder cancer", "Monocyte-like cell", "CXCL10")
+72. ("Human", "Gallbladder cancer", "M1 Macrophage", "MARCO")
+73. ("Human", "Gallbladder cancer", "M1 Macrophage", "SNX10")
+74. ("Human", "Gallbladder cancer", "M1 Macrophage", "CSF1R")
+75. ("Human", "Gallbladder cancer", "M1 Macrophage", "CD163")
+76. ("Human", "Gallbladder cancer", "M2 Macrophage", "MRC1")
+77. ("Human", "Gallbladder cancer", "M2 Macrophage", "S100B")
+78. ("Human", "Gallbladder cancer", "Dendritic cell", "FCER1A")
+79. ("Human", "Gallbladder cancer", "Dendritic cell", "HLA-DQA1")
+80. ("Human", "Gallbladder cancer", "Dendritic cell", "HLA-DPA1")
+81. ("Human", "Gallbladder cancer", "Dendritic cell", "HLA-DPB1")
+82. ("Human", "Gallbladder cancer", "Dendritic cell", "HLA-DRB1")
+
+These tuples represent the markers for various cell types in human gallbladder cancer as described in the document.
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "Gallbladder", "Squamous cell", "TP63")
+2. ("Human", "Gallbladder", "Squamous cell", "KRTDAP")
+3. ("Human", "Gallbladder", "Squamous cell", "FAT2")
+4. ("Human", "Gallbladder", "Adenocyte", "KRT19")
+
+These tuples are derived from the information in the text where specific markers are associated with different cell types within the context of gallbladder adenocarcinoma with squamous differentiation (ASC).
+
+Based on the information provided in the document, the following cell markers can be identified:
+
+1. ("Human", "Gallbladder cancer tissue", "Treg cell", "FOXP3")
+2. ("Human", "Gallbladder cancer tissue", "M2 macrophage", "CD163")
+3. ("Human", "Gallbladder cancer tissue", "Epithelial cell (subtype 2)", "CD24")
+4. ("Human", "Gallbladder cancer tissue", "Epithelial cell (subtype 2)", "MDK")
+5. ("Human", "Gallbladder cancer tissue", "Epithelial cell (subtype 2)", "SERPINA1")
+
+These markers are used to distinguish different cell types within the context of gallbladder cancer, particularly in relation to ErbB pathway mutations.
+
+none
+
+none
+
+Based on the provided text, the following cell markers can be identified:
+
+1. ("null", "null", "Treg", "FOXP3")
+2. ("null", "null", "M2 Macrophage", "CD163")
+3. ("Human", "Gallbladder cancer", "Epithelial cancer cells (subtype 2)", "MDK")
+4. ("Human", "Gallbladder cancer", "Epithelial cancer cells (subtype 2)", "CD24")
+5. ("Human", "Gallbladder cancer", "Epithelial cancer cells (subtype 2)", "SERPINA1")
+
+The document does not specify the species for some of the markers, so "null" is used in those cases. The tissue type and cell names are derived from the context provided.
+
+Based on the information provided in the document, the following cell markers have been identified. The format follows the specified tuple structure:
+
+1. ("null", "null", "Endothelial cell", "DCN")
+2. ("null", "null", "Myofibroblast", "MFAP5")
+3. ("null", "null", "CAFs (Cancer-Associated Fibroblasts)", "ACTA2")
+4. ("null", "null", "Treg (Regulatory T cell)", "null")  # This is excluded as the marker field is empty.
+5. ("null", "null", "CD4+T", "null")  # This is excluded as the marker field is empty.
+6. ("null", "null", "CD8+T", "null")  # This is excluded as the marker field is empty.
+7. ("null", "null", "M1 Macrophage", "null")  # This is excluded as the marker field is empty.
+8. ("null", "null", "M2 Macrophage", "CD11b, CD206")
+
+The final list of tuples with non-empty "Marker" fields is:
+
+- ("null", "null", "Endothelial cell", "DCN")
+- ("null", "null", "Myofibroblast", "MFAP5")
+- ("null", "null", "CAFs (Cancer-Associated Fibroblasts)", "ACTA2")
+- ("null", "null", "M2 Macrophage", "CD11b, CD206")
+
+Based on the provided document, the following cell markers have been identified:
+
+1. ("Human", "null", "M2 macrophage", "CD163")
+2. ("Human", "null", "M2 macrophage", "CD206")
+3. ("Human", "null", "M2 macrophage", "IL10")
+4. ("Human", "null", "pan-macrophage", "CD11b")
+5. ("Human", "null", "Treg", "CD4+CD25+CD127low")
+
+The species is specified as "Human" in the text, and the tissue type is not explicitly mentioned, hence it is marked as "null". The cell types and their corresponding markers are clearly stated in the document.
+
+Based on the provided document, the following cell markers have been identified. The information is presented in the requested format:
+
+1. ("Human", "Gallbladder cancer (GBC) tissue", "Tregs", "FOXP3")
+2. ("Human", "Gallbladder cancer (GBC) tissue", "Immunosuppressive macrophages", "CD163")
+3. ("Human", "Gallbladder cancer (GBC) tissue", "M1/M2 macrophages", "MDK") - This marker is mentioned in the context of both M1 and M2 macrophages.
+4. ("Human", "Gallbladder cancer (GBC) tissue", "Endothelial-DCN", "DCN")
+5. ("Human", "Gallbladder cancer (GBC) tissue", "CAF-ACTA2", "ACTA2")
+6. ("Human", "Gallbladder cancer (GBC) tissue", "CAF-MFAP5", "MFAP5")
+
+These tuples are derived from the text, which mentions these specific markers in relation to the respective cell types within the gallbladder cancer microenvironment.
+
+none
+
+Based on the provided text, the following cell markers have been identified:
+
+1. ("null", "null", "Epithelial cell", "PLAU")
+2. ("null", "null", "Epithelial cell", "MMP7")
+3. ("null", "null", "Macrophage", "LRP1")
+4. ("null", "null", "Treg", "CXCR3")
+5. ("null", "null", "CD8+ T cell (exhausted)", "CTLA4")
+6. ("null", "null", "CD8+ T cell (exhausted)", "LAG3")
+7. ("null", "null", "CD8+ T cell (exhausted)", "PDCD1")
+
+The document does not specify the species or tissue type, hence those fields are filled with "null". The marker information is directly derived from the content of the document as per the requirements.
+
+none
+
