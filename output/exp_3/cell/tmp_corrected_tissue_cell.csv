@@ -1,0 +1,52 @@
+ori_tissue,ori_cell_type,prompt,corrected_tissue,corrected_cell,reason,status
+heart,cardiomyocyte (cm),,heart,cardiomyocyte (cm),候选匹配为空,unfound
+heart,cardiac progenitor (cvp),"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和从标准文件中检索得到的候选匹配，给出最合适的修正结果。修正时，优先选择与原始数据最匹配的组织-细胞类型组合。如果原始细胞类型与候选匹配中的细胞类型是包含关系，或细胞之间有发育关系等，也认为其匹配。注意，如果细胞类型匹配的是free_annotation，需要用其对应的cell_ontology_class作为细胞修正的结果。如果你认为没有合适的匹配，则保持原始数据不变。
+
+    原始数据:
+    - 原始组织: heart
+    - 原始细胞类型: cardiac progenitor (cvp)
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells' (相似度: 0.45)
+  候选细胞 2: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast' (相似度: 0.42)
+  候选细胞 3: cell_ontology_class='cardiac endothelial cell', free_annotation='endothelial cells' (相似度: 0.25)
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",heart,"cardiac muscle cell
+```","原始细胞类型 ""cardiac progenitor (cvp)"" 是一种心脏祖细胞，与候选匹配中的细胞类型均不完全一致。然而，""cardiac muscle cell""（心肌细胞）与其存在发育关系，因为心脏祖细胞可以分化为心肌细胞。其他候选细胞类型（如成纤维细胞和内皮细胞）与原始细胞类型的关联性较低。因此，选择 ""cardiac muscle cell"" 作为最合适的匹配。",found
+esophagus,treg (t regulatory) cell,,esophagus,treg (t regulatory) cell,候选匹配为空,unfound
+esophagus,effector th2 cell,,esophagus,effector th2 cell,候选匹配为空,unfound
+eoe tissue,cd3+ t cell,,eoe tissue,cd3+ t cell,候选匹配为空,unfound
+blood,cd4+ t cells,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和从标准文件中检索得到的候选匹配，给出最合适的修正结果。修正时，优先选择与原始数据最匹配的组织-细胞类型组合。如果原始细胞类型与候选匹配中的细胞类型是包含关系，或细胞之间有发育关系等，也认为其匹配。注意，如果细胞类型匹配的是free_annotation，需要用其对应的cell_ontology_class作为细胞修正的结果。如果你认为没有合适的匹配，则保持原始数据不变。
+
+    原始数据:
+    - 原始组织: blood
+    - 原始细胞类型: cd4+ t cells
+
+    候选匹配:
+候选组织 1: blood
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t-cells' (相似度: 0.56)
+  候选细胞 2: cell_ontology_class='t cell', free_annotation='t cells' (相似度: 0.56)
+  候选细胞 3: cell_ontology_class='cd4-positive, alpha-beta t cell', free_annotation='cd4 t cell' (相似度: 0.48)
+  候选细胞 4: cell_ontology_class='cd8-positive, alpha-beta t cell', free_annotation='cd4 t cell' (相似度: 0.38)
+  候选细胞 5: cell_ontology_class='naive thymus-derived cd4-positive, alpha-beta t cell', free_annotation='naive cd4-positive helper t cells' (相似度: 0.34)
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",blood,"cd4-positive, alpha-beta t cell
+```","原始细胞类型为 ""cd4+ t cells""，与候选细胞 3 的 free_annotation ""cd4 t cell"" 最为接近，且其对应的 cell_ontology_class 为 ""cd4-positive, alpha-beta t cell""，能够准确描述原始数据中的细胞类型。此外，原始组织 ""blood"" 与候选组织一致，无需修正。",found
+liver metastasis (liv.mets),spp1+ tams,,liver metastasis (liv.mets),spp1+ tams,候选匹配为空,unfound

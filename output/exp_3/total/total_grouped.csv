@@ -1,0 +1,81 @@
+pmid,species,tissue_type,cell_name,markers
+30893597,Human,Heart,Cardiac Progenitor (CVP),"['T (brachyury)', 'MESP1', 'ISL1', 'TBX5', 'MEF2C', 'NKX2-5', 'C-KIT', 'GATA3']"
+30893597,Human,Heart,Cardiac muscle cell,"['LAMB2', 'LAMC1', 'LAMB1', 'LAMA2', 'LAMA5', 'LAMA4']"
+30893597,Human,Heart,Cardiomyocyte (CM),"['TNNI3', 'TNNT2', 'a-actinin', 'NKX2-5', 'MYH1']"
+30893597,Human,,Cardiomyocytes (CMs),"['TNNT2', 'ACTC1', 'MYH7', 'SIRPA']"
+30893597,,,CVPs,"['ISL1', 'NKX2-5', 'FUT4', 'MESP1', 'KDR', 'SSEA-1']"
+30893597,,,CVPs sub-population,"['TTN', 'LUM', 'EPCAM']"
+30893597,,,Cardiomyocytes (implied from context),"['TNNT2', 'MYH1', 'TNNI3', 'NKX2-5', 'a-actinin']"
+30893597,,,Pluripotent hESCs,"['POU5F1', 'Tra1-60']"
+30958799,Human,Blood,CD4+ T cells,['FFAR3']
+30958799,Human,EoE tissue,CD3+ T cell,"['CXCR4', 'CCR5', 'CCR8']"
+30958799,Human,EoE tissue,T cells (FFAR3+),['FFAR3']
+30958799,Human,EoE tissue,T cells (IL5 producers),['IL5']
+30958799,Human,EoE tissue,T lymphocyte,"['ITGAE (CD103)', 'IFNG']"
+30958799,Human,EoE tissue,Th2 cell,"['IL-4', 'IL-5', 'IL-13']"
+30958799,Human,EoE tissue,Tissue lymphocyte,"['IL-25 receptor', 'HPGDS']"
+30958799,Human,Esophageal tissue,Th1 cell,"['IFNG', 'IFNG']"
+30958799,Human,Esophageal tissue,Th2 cell,"['IL4', 'IL5', 'IL13', 'IL4', 'IL5', 'IL13']"
+30958799,Human,Esophagus,Effector Th2 cell,"['GATA3', 'HPGDS', 'CRTH2', 'IL-17RB', 'FFAR3']"
+30958799,Human,Esophagus,Treg (T regulatory) cell,['FOXP3']
+30958799,Human,,CD4+ T cell,"['CD25/IL-2R汐', 'IL-2', 'TNF-汐', 'IFN-污']"
+30958799,Human,,CD4+ T cells,['IL10']
+30958799,Human,,CD8+ T cell,"['CD25/IL-2R汐', 'IFN-污', 'TNF-汐']"
+30958799,Human,,CD8+ T cells,['IL10']
+30958799,Human,,CD8+ T1每T6,['TGFB1']
+30958799,Human,,T lymphocyte,"['IL-5', 'IL-17RB']"
+30958799,Human,,T1每T3,['IL17A']
+30958799,Human,,T7,"['TGFB1', 'IL17A']"
+30958799,Human,,T7 (T cell cluster),['IL10']
+30958799,Human,,T7 (Treg cells),"['CD4', 'MAF', 'FOXP3', 'CTLA4', 'IL-10', 'KLRB1 (CD161)', 'ICOS', 'CD25 (IL2RA)', 'CCR6', 'CCR4']"
+30958799,Human,,T7 (Treg),"['IL10', 'TGFB1', 'IL2RA/CD25']"
+30958799,Human,,T7 (memory Treg),"['CD4', 'FOXP3', 'IL-10', 'CTLA4', 'IL-2A (CD25)', 'IL-1R1', 'IL-1R2']"
+30958799,Human,,T8,['IL2RA/CD25']
+30958799,Human,,T8 (effector Th2 cells),"['CD4', 'GATA3', 'Th2 signature markers', 'KLRB1 (CD161)', 'CXCR4', 'CCR4', 'CD294/CRTH2/PTGDR2', 'ITGA4']"
+30958799,Human,,T8 (effector Th2),"['GATA3', 'IL-4', 'IL-5', 'IL-13', 'HPGDS', 'IL-17RB', 'CD40LG', 'NFAT1', 'NF百B1', 'AHR', 'NR3C1', 'PPARG', 'PTGDR2 (CRTH2)', 'IL1RL1 (ST2L)']"
+30958799,Human,,Th2 cells,['CD4+ GATA3+ IL-4+ IL-5+ IL-13+ HPGDS+ CRTH2+ IL-17RB+ CD40LG (CD154)+ NFAT1+ NF百-B1+ AHR+ NR3C1+ PPARG+']
+30958799,Human,,Treg (T7),['FOXP3']
+30958799,Human,,Treg-like cells,['CD4+ FOXP3+ IL-10+ CTLA4+ IL-2A(CD25)+ IL-1R1/R2+']
+30958799,Mouse,Lung,CD4+ lymphocytes,['IL-4']
+30958799,,,T7,['FOXP3']
+30958799,,,T8,"['GATA3', 'PPARG', 'AHR', 'NR3C1', 'NFKBIZ', 'NFATC3', 'NFAT5', 'JUN']"
+35303421,Human,Liver,NK cells (liver-resident),['CD56bright/CD16neg']
+35303421,Human,Liver Metastasis (Liv.Mets),C1QC+ TAMs,"['C1QC', 'CXCL9', 'CXCL10']"
+35303421,Human,Liver Metastasis (Liv.Mets),MKI67+ TAMs,['MKI67']
+35303421,Human,Liver Metastasis (Liv.Mets),SPP1+ TAMs,"['SPP1', 'CD68', 'MARCO']"
+35303421,Human,Tumor,DC3,"['CD1C', 'CD14', 'CD163']"
+35303421,Human,Tumor,SPP1+ TAM,"['CD68', 'MARCO']"
+35303421,Human,Tumor microenvironment,TAMs (C1QC+),['C1QC']
+35303421,Human,Tumor microenvironment,TAMs (SPP1+),['SPP1']
+35303421,Human,Tumor microenvironment,cDC2s (C1QC+),['C1QC']
+35303421,Human,,B cells,"['CD79A', 'CD19']"
+35303421,Human,,CD4+ Treg cell,"['IL10', 'CTLA4']"
+35303421,Human,,CD8+ T cell,['MKI67']
+35303421,Human,,Cells expressing MARCO,['MARCO']
+35303421,Human,,Cells expressing Osteopontin,['Osteopontin']
+35303421,Human,,DC3s,"['CD1C', 'CD163', 'CD14', 'CD45', 'CD3', 'CD19', 'CD56', 'CD1C', 'CD14', 'CD163']"
+35303421,Human,,Dendritic Cells,['CD1C']
+35303421,Human,,Macrophage,"['SPP1', 'C1QC', 'NLRP3']"
+35303421,Human,,Macrophages,"['CD163', 'CD68']"
+35303421,Human,,Monocytes/Macrophages,['CD14']
+35303421,Human,,Myeloid cells,"['CST3', 'CD68', 'LYZ', 'CAP3']"
+35303421,Human,,NK cells,['NKG7']
+35303421,Human,,SPP1+ TAMs,"['SPP1', 'SPP1', 'CD45', 'CD3', 'CD19', 'CD56', 'CD68', 'OPN']"
+35303421,Human,,T cells,"['CD3D', 'CD3E']"
+35303421,Human,,TAMs,['SPP1']
+35303421,Human,,Tex cell,['LAYN']
+35303421,Human,,Treg-CTLA4,"['CTLA4', 'CTLA4']"
+35303421,Human,,Treg-FOXP3,"['FOXP3', 'FOXP3']"
+35303421,Human,,Treg-IL10,"['IL10', 'IL10']"
+35303421,Human,,cDC2-C1QC (DC3),"['C1QA', 'CD68', 'CD163', 'CD14']"
+35303421,Human,,cDC2-TIMP1,"['CCR7', 'EREG', 'CREM', 'VEGFA']"
+35303421,,,DCs,"['CLEC10A', 'CD1C', 'BATF3', 'FCER1A']"
+35303421,,,Macrophages,"['CD68', 'MAFB', 'CSF1R', 'CD14']"
+35303421,,,NK cells,"['CD3D', 'CD3G']"
+35303421,,,SPP1+ TAMs,"['SPP1', 'MARCO', 'GPNMB', 'RGCC', 'MMP19', 'OLR1', 'APOE']"
+35303421,,,T cells,"['CD3D', 'CD3G']"
+35303421,,,Th1-like,"['CXCL13', 'PDCD1']"
+35303421,,,Th17,"['IL23R', 'RORC', 'ITGAE']"
+35303421,,,Treg-CTLA4,"['LAYN', 'CCR8', 'TIGIT']"
+35303421,,,Treg-IL10,"['IL10', 'IL23R', 'IL1R1']"
+35303421,,,c38_cDC2-C1QC cells,"['C1QA', 'C1QB', 'C1QC', 'CCL4']"

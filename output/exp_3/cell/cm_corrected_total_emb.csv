@@ -1,0 +1,45 @@
+species,tissue_class,tissue_type,cell_name,marker,pmid
+Human,Heart,heart,"cardiac muscle cell
+```",ACTC1,30893597
+Human,Heart,heart,"cardiac muscle cell
+```",MYH7,30893597
+Human,Heart,heart,"cardiac muscle cell
+```",SIRPA,30893597
+Human,Heart,heart,"cardiac muscle cell
+```",TNNT2,30893597
+Human,Heart,heart,"cardiac muscle cell
+```",NPTX1,30893597
+Human,Esophagus,fat,"t cell
+```",CD4,30958799
+Human,Esophagus,esophagus,"t cell
+```",HPGDS,30958799
+Human,Esophagus,fat,"t cell
+```",IL10,30958799
+Human,Esophagus,fat,"t cell
+```",CD40LG,30958799
+Human,Esophagus,fat,"t cell
+```",FOXP3,30958799
+Human,Esophagus,esophagus,"effector Th2-like cell
+```",GATA3,30958799
+Human,Esophagus,esophagus,"effector Th2 cell (cell_ontology_class='CD4-positive, alpha-beta T cell', free_annotation='effector Th2 cell')
+```",HPGDS,30958799
+Human,Esophagus,fat,"t cell
+```",CTLA4,30958799
+Human,Esophagus,fat,"t cell
+```",MAF,30958799
+Human,Esophagus,esophagus,"t cell
+```",PTGDR2,30958799
+Human,Esophagus,esophagus,"t cell
+```",IL1RL1,30958799
+Human,Esophagus,fat,"t cell
+```",IFNG,30958799
+Human,Esophagus,esophagus,"t cell
+```",IL-17RB,30958799
+Human,Esophagus,fat,"t cell
+```",IL17A,30958799
+Human,Gut,blood,"cell_ontology_class='t cell', free_annotation='regulatory t cell (treg)'
+```",IL10,35303421
+Human,Gut,blood,"cell_ontology_class='t cell', free_annotation='regulatory t cell (treg)'
+```",IL23R,35303421
+Human,Gut,blood,"cell_ontology_class='t cell', free_annotation='regulatory t cell (treg)'
+```",IL1R1,35303421

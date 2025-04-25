@@ -1,0 +1,82 @@
+species,tissue_type,cell_name,marker,pmid
+Mouse,Myocardium,Monocyte-derived macrophages,CCR2,30582448
+,Myocardium,Tissue-resident cardiac macrophages (embryonic lineage),CCR2-,30582448
+,Myocardium,Tissue-resident cardiac macrophages (adult hematopoietic lineage),CCR2+,30582448
+Mouse,Myocardium,Monocytes,CCR2+Ly6Chigh,30582448
+Mouse,Myocardium,Macrophages,CCR2+MHC-IIhigh,30582448
+Mouse,Heart,Macrophage (tissue-resident),CD68,30582448
+Mouse,Heart,Macrophage (recruited),CCR2,30582448
+Mouse,Heart,Monocyte (recruited),Ly6Chigh,30582448
+Mouse,Heart,Macrophage (tissue-resident CCR2-),CD64+Ly6ClowCCR2-tdTomato+,30582448
+Mouse,Heart,Macrophage (tissue-resident CCR2+),CD64+Ly6ClowCCR2+tdTomato+,30582448
+Mouse,Heart,Macrophage (recruited CCR2+),CD64+Ly6ClowCCR2+tdTomato-,30582448
+Mouse,Heart,Monocyte (recruited),CD64intLy6ChighCCR2+tdTomato-,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Cxcl1,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Cxcl2,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Ccl2,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Ccl7,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Ccl9,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Il1β,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Il10,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Areg,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Ereg,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Gdf3,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Arg1,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Mrc1,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,Hif1α,30582448
+Mouse,Heart,Tissue-resident CCR2+ macrophages,Type I IFN stimulated genes,30582448
+Mouse,Heart,Tissue-resident CCR2- macrophages,Igf1,30582448
+Mouse,Heart,Tissue-resident CCR2- macrophages,Pdgfc,30582448
+Mouse,Heart,Tissue-resident CCR2- macrophages,Hbegf,30582448
+Mouse,Heart,Tissue-resident CCR2- macrophages,Cyr61,30582448
+Mouse,Heart,Monocytes and Macrophages,CCR2,30582448
+Mouse,Heart,Tissue-resident macrophages,CD169,30582448
+Mouse,Myocardial tissue,Monocyte,Ly6C2,30582448
+Mouse,Myocardial tissue,Monocyte,Hp (haptoglobin),30582448
+Mouse,Myocardial tissue,Monocyte,Plac8 (placenta-specific 8),30582448
+Mouse,Myocardial tissue,Monocyte,Thbs (thrombospondin),30582448
+Mouse,Myocardial tissue,Macrophage,Tnip3 (TNFAIP3-interacting protein 3),30582448
+Mouse,Myocardial tissue,Macrophage,Itgb7 (integrin subunit β7),30582448
+,Heart,Macrophage,LYVE1,30582448
+,Heart,Macrophage,IFIT3,30582448
+,Heart,Macrophage,ARG1,30582448
+,Heart,Macrophage,ITGB7,30582448
+,Heart,Macrophage,ANPEP,30582448
+,Heart,Macrophage,CCRL2,30582448
+,Heart,Macrophage,CCR2,30582448
+Mouse,Heart,Tissue-resident CCR2+ macrophages,CCR2,30582448
+Mouse,Heart,Tissue-resident CCR2- macrophages,CCR2,30582448
+Mouse,Heart,Monocytes and macrophages,CCR2,30582448
+Mouse,Heart,Macrophages,CD64,30582448
+Mouse,Heart,Macrophages,tdTomato,30582448
+Mouse,Heart,Macrophages,CD68,30582448
+Mouse,Heart,Tissue-resident CCR2+ macrophages,CCR2,30582448
+Mouse,Heart,Recruited CCR2+ macrophages,CCR2,30582448
+Mouse,Heart,Monocytes,CCR2,30582448
+Mouse,Heart,Monocytes,Ly6C,30582448
+Mouse,Heart,Macrophages,CD45,30582448
+Mouse,Heart,Macrophages,CD64,30582448
+Mouse,Heart,Monocytes and macrophages,CD45.1,30582448
+Mouse,Heart,Monocytes and macrophages,MHC-II,30582448
+Mouse,Heart,Macrophage,IFIT3,30582448
+Mouse,Heart,Macrophage,ARG1,30582448
+Mouse,Heart,Macrophage,LYVE1,30582448
+Mouse,Heart,Macrophage,IFIT3,30582448
+Mouse,Heart,Macrophage,ARG1,30582448
+Mouse,Heart,Macrophage,LYVE1,30582448
+Mouse,Heart,Activated cardiac fibroblasts,CKAP4,30760918
+Mouse,Heart,Tissue-resident macrophages,TIMD4,30760918
+Mouse,Heart,Tissue-resident macrophages,LYVE1,30760918
+Mouse,Heart,Tissue-resident macrophages,MHC-IIlo,30760918
+Mouse,Heart,Tissue-resident macrophages,CCR2-,30760918
+,,Endothelial cell,ICAM-1,30760918
+,,Endothelial cell,VCAM-1,30760918
+,,Endothelial cell,MHC II,30760918
+,,Endothelial cell,CD31,30760918
+Mouse,Retina,Vascular endothelial cell,Notch1,30787185
+Mouse,Retina,Vascular endothelial cell,Jag1,30787185
+Mouse,Retina,Vascular endothelial cell,Dll4,30787185
+Mouse,Retinal tissue,Endothelial cell,Notch1,30787185
+Mouse,Retinal tissue,Endothelial cell,Jag1,30787185
+Mouse,Retinal tissue,Endothelial cell,Dll4,30787185
+,,Endothelial cell,VE-cadherin,30787185

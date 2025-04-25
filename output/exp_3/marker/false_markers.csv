@@ -1,0 +1,56 @@
+marker,in_mygene
+a-actinin,False
+T (brachyury),False
+C-KIT,False
+SSEA-1,False
+Tra1-60,False
+a-actinin,False
+CRTH2,False
+IL-17RB,False
+IL-5,False
+IL-17RB,False
+CD25/IL-2Rα,False
+CD25/IL-2Rα,False
+ITGAE (CD103),False
+IL-25 receptor,False
+IL-10,False
+KLRB1 (CD161),False
+CD25 (IL2RA),False
+Th2 signature markers,False
+KLRB1 (CD161),False
+CD294/CRTH2/PTGDR2,False
+IL-10,False
+IL-2A (CD25),False
+IL-1R1,False
+IL-1R2,False
+IL-4,False
+IL-5,False
+IL-13,False
+IL-17RB,False
+NFAT1,False
+NFκB1,False
+PTGDR2 (CRTH2),False
+IL1RL1 (ST2L),False
+IL-4,False
+IL-5,False
+IL-13,False
+IL-2,False
+TNF-α,False
+IFN-γ,False
+IFN-γ,False
+TNF-α,False
+IL2RA/CD25,False
+IL2RA/CD25,False
+IL-4,False
+CD4+ FOXP3+ IL-10+ CTLA4+ IL-2A(CD25)+ IL-1R1/R2+,False
+CD4+ GATA3+ IL-4+ IL-5+ IL-13+ HPGDS+ CRTH2+ IL-17RB+ CD40LG (CD154)+ NFAT1+ NFκ-B1+ AHR+ NR3C1+ PPARG+,False
+CD56bright/CD16neg,False
+Osteopontin,False
+CD45,False
+CD3,False
+CD56,False
+OPN,False
+CD45,False
+CD3,False
+CD56,False
+CAP3,False

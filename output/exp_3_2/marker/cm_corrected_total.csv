@@ -1,0 +1,10 @@
+species,tissue_class,tissue_type,cell_name,marker,pmid
+Mouse,Heart,Heart,Macrophage,Plac8,30582448
+Mouse,Heart,Heart,Macrophage,THBS1,30582448
+Mouse,Heart,Heart,Macrophage,Ly6C2,30582448
+Mouse,Heart,Heart,Macrophage,Hp,30582448
+Mouse,Heart,Heart,Fibroblast,CKAP4,30760918
+Mouse,Eye,Eye,Endothelial cell,Notch1,30787185
+Mouse,Eye,Eye,Endothelial cell,Notch4,30787185
+Mouse,Eye,Eye,Endothelial cell,Dll4,30787185
+Mouse,Eye,Eye,Endothelial cell,Jag1,30787185

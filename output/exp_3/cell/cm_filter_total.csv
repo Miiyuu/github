@@ -1,0 +1,23 @@
+species,tissue_class,tissue_type,cell_name,marker,pmid
+Human,Heart,Heart muscle,Cardiomyocyte,ACTC1,30893597
+Human,Heart,Heart muscle,Cardiomyocyte,MYH7,30893597
+Human,Heart,Heart muscle,Cardiomyocyte,SIRPA,30893597
+Human,Heart,Heart muscle,Cardiomyocyte,TNNT2,30893597
+Human,Heart,Heart muscle,Neuron,NPTX1,30893597
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,CD4,30958799
+Human,Esophagus,Esophagus,T helper 2(Th2) cell,HPGDS,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,IL10,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,CD40LG,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,FOXP3,30958799
+Human,Esophagus,Esophagus,Effector Th2-like cell,GATA3,30958799
+Human,Esophagus,Esophagus,Effector Th2 cell,HPGDS,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,CTLA4,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,MAF,30958799
+Human,Esophagus,Esophagus,T helper 2(Th2) cell,PTGDR2,30958799
+Human,Esophagus,Esophagus,T helper 2(Th2) cell,IL1RL1,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,IFNG,30958799
+Human,Esophagus,Esophagus,T helper 2(Th2) cell,IL-17RB,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,IL17A,30958799
+Human,Gut,Gut,Regulatory T(Treg) cell,IL10,35303421
+Human,Gut,Gut,Regulatory T(Treg) cell,IL23R,35303421
+Human,Gut,Gut,Regulatory T(Treg) cell,IL1R1,35303421

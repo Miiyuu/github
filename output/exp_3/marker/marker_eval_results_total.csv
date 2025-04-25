@@ -1,0 +1,2 @@
+precision,recall,true_markers_count,extracted_markers_count,true_positives,false_positives,false_negatives
+0.140625,0.9,20,128,18,110,2

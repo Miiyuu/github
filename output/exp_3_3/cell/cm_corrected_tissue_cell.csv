@@ -1,0 +1,45 @@
+ori_tissue,ori_cell_type,prompt,corrected_tissue,corrected_cell,reason,status
+esophagus,monocyte,,esophagus,monocyte,候选匹配为空,unfound
+esophagus,monocyte,,esophagus,monocyte,候选匹配为空,unfound
+esophagus,mast cell,,esophagus,mast cell,候选匹配为空,unfound
+esophagus,conventional dendritic cell(cdc),,esophagus,conventional dendritic cell(cdc),候选匹配为空,unfound
+esophagus,plasmacytoid dendritic cell(pdc),,esophagus,plasmacytoid dendritic cell(pdc),候选匹配为空,unfound
+esophagus,monocyte,,esophagus,monocyte,候选匹配为空,unfound
+esophagus,langerhans cell,,esophagus,langerhans cell,候选匹配为空,unfound
+esophagus,langerhans cell,,esophagus,langerhans cell,候选匹配为空,unfound
+esophagus,macrophage,,esophagus,macrophage,候选匹配为空,unfound
+esophagus,conventional dendritic cell(cdc),,esophagus,conventional dendritic cell(cdc),候选匹配为空,unfound
+lacrimal gland,endothelial cell,,lacrimal gland,endothelial cell,候选匹配为空,unfound
+lacrimal gland,ductal cell,,lacrimal gland,ductal cell,候选匹配为空,unfound
+lacrimal gland,myoepithelial cell,,lacrimal gland,myoepithelial cell,候选匹配为空,unfound
+lacrimal gland,myoepithelial cell,,lacrimal gland,myoepithelial cell,候选匹配为空,unfound
+lacrimal gland,epithelial cell,,lacrimal gland,epithelial cell,候选匹配为空,unfound
+lacrimal gland,epithelial cell,,lacrimal gland,epithelial cell,候选匹配为空,unfound
+lacrimal gland,myoepithelial cell,,lacrimal gland,myoepithelial cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,lymphocyte,,lacrimal gland,lymphocyte,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,ductal cell,,lacrimal gland,ductal cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,epithelial cell,,lacrimal gland,epithelial cell,候选匹配为空,unfound
+lacrimal gland,myoepithelial cell,,lacrimal gland,myoepithelial cell,候选匹配为空,unfound
+lacrimal gland,lymphocyte,,lacrimal gland,lymphocyte,候选匹配为空,unfound
+lacrimal gland,endothelial cell,,lacrimal gland,endothelial cell,候选匹配为空,unfound
+lacrimal gland,myoepithelial cell,,lacrimal gland,myoepithelial cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,lateral ganglionic eminence,d2-msn(medium spiny neuron),候选匹配为空,unfound
+lateral ganglionic eminence,intermediate progenitor cell,,lateral ganglionic eminence,intermediate progenitor cell,候选匹配为空,unfound
+lateral ganglionic eminence,lge-lineage cell (lateral ganglionic eminence),,lateral ganglionic eminence,lge-lineage cell (lateral ganglionic eminence),候选匹配为空,unfound
+lateral ganglionic eminence,mature msn(medium spiny neuron),,lateral ganglionic eminence,mature msn(medium spiny neuron),候选匹配为空,unfound
+lateral ganglionic eminence,pre-msn(medium spiny neuron),,lateral ganglionic eminence,pre-msn(medium spiny neuron),候选匹配为空,unfound
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,lateral ganglionic eminence,d2-msn(medium spiny neuron),候选匹配为空,unfound
+lateral ganglionic eminence,gabaergic neuron,,lateral ganglionic eminence,gabaergic neuron,候选匹配为空,unfound
+lateral ganglionic eminence,early progenitor cell,,lateral ganglionic eminence,early progenitor cell,候选匹配为空,unfound
+lateral ganglionic eminence,medium spiny neuron(msn),,lateral ganglionic eminence,medium spiny neuron(msn),候选匹配为空,unfound
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,lateral ganglionic eminence,d1-msn(medium spiny neuron),候选匹配为空,unfound
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,lateral ganglionic eminence,d2-msn(medium spiny neuron),候选匹配为空,unfound
+lateral ganglionic eminence,neuron,,lateral ganglionic eminence,neuron,候选匹配为空,unfound
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,lateral ganglionic eminence,d1-msn(medium spiny neuron),候选匹配为空,unfound
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,lateral ganglionic eminence,d1-msn(medium spiny neuron),候选匹配为空,unfound
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,lateral ganglionic eminence,d1-msn(medium spiny neuron),候选匹配为空,unfound
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,lateral ganglionic eminence,d2-msn(medium spiny neuron),候选匹配为空,unfound

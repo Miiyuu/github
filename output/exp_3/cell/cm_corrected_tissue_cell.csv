@@ -1,0 +1,23 @@
+ori_tissue,ori_cell_type,prompt,corrected_tissue,corrected_cell,reason,status
+heart muscle,cardiomyocyte,,heart muscle,cardiomyocyte,候选匹配为空,unfound
+heart muscle,cardiomyocyte,,heart muscle,cardiomyocyte,候选匹配为空,unfound
+heart muscle,cardiomyocyte,,heart muscle,cardiomyocyte,候选匹配为空,unfound
+heart muscle,cardiomyocyte,,heart muscle,cardiomyocyte,候选匹配为空,unfound
+heart muscle,neuron,,heart muscle,neuron,候选匹配为空,unfound
+esophagus,regulatory t(treg) cell,,esophagus,regulatory t(treg) cell,候选匹配为空,unfound
+esophagus,t helper 2(th2) cell,,esophagus,t helper 2(th2) cell,候选匹配为空,unfound
+esophagus,regulatory t(treg) cell,,esophagus,regulatory t(treg) cell,候选匹配为空,unfound
+esophagus,regulatory t(treg) cell,,esophagus,regulatory t(treg) cell,候选匹配为空,unfound
+esophagus,regulatory t(treg) cell,,esophagus,regulatory t(treg) cell,候选匹配为空,unfound
+esophagus,effector th2-like cell,,esophagus,effector th2-like cell,候选匹配为空,unfound
+esophagus,effector th2 cell,,esophagus,effector th2 cell,候选匹配为空,unfound
+esophagus,regulatory t(treg) cell,,esophagus,regulatory t(treg) cell,候选匹配为空,unfound
+esophagus,regulatory t(treg) cell,,esophagus,regulatory t(treg) cell,候选匹配为空,unfound
+esophagus,t helper 2(th2) cell,,esophagus,t helper 2(th2) cell,候选匹配为空,unfound
+esophagus,t helper 2(th2) cell,,esophagus,t helper 2(th2) cell,候选匹配为空,unfound
+esophagus,regulatory t(treg) cell,,esophagus,regulatory t(treg) cell,候选匹配为空,unfound
+esophagus,t helper 2(th2) cell,,esophagus,t helper 2(th2) cell,候选匹配为空,unfound
+esophagus,regulatory t(treg) cell,,esophagus,regulatory t(treg) cell,候选匹配为空,unfound
+gut,regulatory t(treg) cell,,gut,regulatory t(treg) cell,候选匹配为空,unfound
+gut,regulatory t(treg) cell,,gut,regulatory t(treg) cell,候选匹配为空,unfound
+gut,regulatory t(treg) cell,,gut,regulatory t(treg) cell,候选匹配为空,unfound

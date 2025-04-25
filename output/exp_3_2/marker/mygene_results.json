@@ -1,0 +1,556 @@
+[
+  {
+    "query": "CCR2",
+    "_id": "729230",
+    "_score": 19.438242,
+    "entrezgene": "729230",
+    "name": "C-C motif chemokine receptor 2",
+    "symbol": "CCR2",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR2-",
+    "notfound": true
+  },
+  {
+    "query": "CCR2+",
+    "notfound": true
+  },
+  {
+    "query": "CCR2+Ly6Chigh",
+    "notfound": true
+  },
+  {
+    "query": "CCR2+MHC-IIhigh",
+    "notfound": true
+  },
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.331408,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR2",
+    "_id": "729230",
+    "_score": 19.438242,
+    "entrezgene": "729230",
+    "name": "C-C motif chemokine receptor 2",
+    "symbol": "CCR2",
+    "taxid": 9606
+  },
+  {
+    "query": "Ly6Chigh",
+    "notfound": true
+  },
+  {
+    "query": "CD64+Ly6ClowCCR2-tdTomato+",
+    "notfound": true
+  },
+  {
+    "query": "CD64+Ly6ClowCCR2+tdTomato+",
+    "notfound": true
+  },
+  {
+    "query": "CD64+Ly6ClowCCR2+tdTomato-",
+    "notfound": true
+  },
+  {
+    "query": "CD64intLy6ChighCCR2+tdTomato-",
+    "notfound": true
+  },
+  {
+    "query": "Cxcl1",
+    "_id": "2919",
+    "_score": 22.092735,
+    "entrezgene": "2919",
+    "name": "C-X-C motif chemokine ligand 1",
+    "symbol": "CXCL1",
+    "taxid": 9606
+  },
+  {
+    "query": "Cxcl2",
+    "_id": "2920",
+    "_score": 22.936405,
+    "entrezgene": "2920",
+    "name": "C-X-C motif chemokine ligand 2",
+    "symbol": "CXCL2",
+    "taxid": 9606
+  },
+  {
+    "query": "Ccl2",
+    "_id": "6347",
+    "_score": 21.9123,
+    "entrezgene": "6347",
+    "name": "C-C motif chemokine ligand 2",
+    "symbol": "CCL2",
+    "taxid": 9606
+  },
+  {
+    "query": "Ccl7",
+    "_id": "6354",
+    "_score": 22.018024,
+    "entrezgene": "6354",
+    "name": "C-C motif chemokine ligand 7",
+    "symbol": "CCL7",
+    "taxid": 9606
+  },
+  {
+    "query": "Ccl9",
+    "notfound": true
+  },
+  {
+    "query": "Il1\u03b2",
+    "notfound": true
+  },
+  {
+    "query": "Il10",
+    "_id": "3586",
+    "_score": 17.5863,
+    "entrezgene": "3586",
+    "name": "interleukin 10",
+    "symbol": "IL10",
+    "taxid": 9606
+  },
+  {
+    "query": "Areg",
+    "_id": "374",
+    "_score": 17.714815,
+    "entrezgene": "374",
+    "name": "amphiregulin",
+    "symbol": "AREG",
+    "taxid": 9606
+  },
+  {
+    "query": "Ereg",
+    "_id": "2069",
+    "_score": 18.311258,
+    "entrezgene": "2069",
+    "name": "epiregulin",
+    "symbol": "EREG",
+    "taxid": 9606
+  },
+  {
+    "query": "Gdf3",
+    "_id": "9573",
+    "_score": 18.271723,
+    "entrezgene": "9573",
+    "name": "growth differentiation factor 3",
+    "symbol": "GDF3",
+    "taxid": 9606
+  },
+  {
+    "query": "Arg1",
+    "_id": "383",
+    "_score": 17.952425,
+    "entrezgene": "383",
+    "name": "arginase 1",
+    "symbol": "ARG1",
+    "taxid": 9606
+  },
+  {
+    "query": "Mrc1",
+    "_id": "4360",
+    "_score": 18.8248,
+    "entrezgene": "4360",
+    "name": "mannose receptor C-type 1",
+    "symbol": "MRC1",
+    "taxid": 9606
+  },
+  {
+    "query": "Hif1\u03b1",
+    "notfound": true
+  },
+  {
+    "query": "Type I IFN stimulated genes",
+    "notfound": true
+  },
+  {
+    "query": "Igf1",
+    "_id": "3479",
+    "_score": 17.62225,
+    "entrezgene": "3479",
+    "name": "insulin like growth factor 1",
+    "symbol": "IGF1",
+    "taxid": 9606
+  },
+  {
+    "query": "Pdgfc",
+    "_id": "56034",
+    "_score": 17.628681,
+    "entrezgene": "56034",
+    "name": "platelet derived growth factor C",
+    "symbol": "PDGFC",
+    "taxid": 9606
+  },
+  {
+    "query": "Hbegf",
+    "_id": "1839",
+    "_score": 18.24272,
+    "entrezgene": "1839",
+    "name": "heparin binding EGF like growth factor",
+    "symbol": "HBEGF",
+    "taxid": 9606
+  },
+  {
+    "query": "Cyr61",
+    "notfound": true
+  },
+  {
+    "query": "CCR2",
+    "_id": "729230",
+    "_score": 19.438242,
+    "entrezgene": "729230",
+    "name": "C-C motif chemokine receptor 2",
+    "symbol": "CCR2",
+    "taxid": 9606
+  },
+  {
+    "query": "CD169",
+    "notfound": true
+  },
+  {
+    "query": "Ly6C2",
+    "notfound": true
+  },
+  {
+    "query": "Hp (haptoglobin)",
+    "notfound": true
+  },
+  {
+    "query": "Plac8 (placenta-specific 8)",
+    "notfound": true
+  },
+  {
+    "query": "Thbs (thrombospondin)",
+    "notfound": true
+  },
+  {
+    "query": "Tnip3 (TNFAIP3-interacting protein 3)",
+    "notfound": true
+  },
+  {
+    "query": "Itgb7 (integrin subunit \u03b27)",
+    "notfound": true
+  },
+  {
+    "query": "LYVE1",
+    "_id": "10894",
+    "_score": 18.258766,
+    "entrezgene": "10894",
+    "name": "lymphatic vessel endothelial hyaluronan receptor 1",
+    "symbol": "LYVE1",
+    "taxid": 9606
+  },
+  {
+    "query": "IFIT3",
+    "_id": "3437",
+    "_score": 19.629026,
+    "entrezgene": "3437",
+    "name": "interferon induced protein with tetratricopeptide repeats 3",
+    "symbol": "IFIT3",
+    "taxid": 9606
+  },
+  {
+    "query": "ARG1",
+    "_id": "383",
+    "_score": 17.952425,
+    "entrezgene": "383",
+    "name": "arginase 1",
+    "symbol": "ARG1",
+    "taxid": 9606
+  },
+  {
+    "query": "ITGB7",
+    "_id": "3695",
+    "_score": 18.450832,
+    "entrezgene": "3695",
+    "name": "integrin subunit beta 7",
+    "symbol": "ITGB7",
+    "taxid": 9606
+  },
+  {
+    "query": "ANPEP",
+    "_id": "290",
+    "_score": 18.198654,
+    "entrezgene": "290",
+    "name": "alanyl aminopeptidase, membrane",
+    "symbol": "ANPEP",
+    "taxid": 9606
+  },
+  {
+    "query": "CCRL2",
+    "_id": "9034",
+    "_score": 19.249935,
+    "entrezgene": "9034",
+    "name": "C-C motif chemokine receptor like 2",
+    "symbol": "CCRL2",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR2",
+    "_id": "729230",
+    "_score": 19.438242,
+    "entrezgene": "729230",
+    "name": "C-C motif chemokine receptor 2",
+    "symbol": "CCR2",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR2",
+    "_id": "729230",
+    "_score": 19.438242,
+    "entrezgene": "729230",
+    "name": "C-C motif chemokine receptor 2",
+    "symbol": "CCR2",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR2",
+    "_id": "729230",
+    "_score": 19.438242,
+    "entrezgene": "729230",
+    "name": "C-C motif chemokine receptor 2",
+    "symbol": "CCR2",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR2",
+    "_id": "729230",
+    "_score": 19.438242,
+    "entrezgene": "729230",
+    "name": "C-C motif chemokine receptor 2",
+    "symbol": "CCR2",
+    "taxid": 9606
+  },
+  {
+    "query": "CD64",
+    "notfound": true
+  },
+  {
+    "query": "tdTomato",
+    "notfound": true
+  },
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.331408,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR2",
+    "_id": "729230",
+    "_score": 19.438242,
+    "entrezgene": "729230",
+    "name": "C-C motif chemokine receptor 2",
+    "symbol": "CCR2",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR2",
+    "_id": "729230",
+    "_score": 19.438242,
+    "entrezgene": "729230",
+    "name": "C-C motif chemokine receptor 2",
+    "symbol": "CCR2",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR2",
+    "_id": "729230",
+    "_score": 19.438242,
+    "entrezgene": "729230",
+    "name": "C-C motif chemokine receptor 2",
+    "symbol": "CCR2",
+    "taxid": 9606
+  },
+  {
+    "query": "Ly6C",
+    "notfound": true
+  },
+  {
+    "query": "CD45",
+    "notfound": true
+  },
+  {
+    "query": "CD64",
+    "notfound": true
+  },
+  {
+    "query": "CD45.1",
+    "notfound": true
+  },
+  {
+    "query": "MHC-II",
+    "notfound": true
+  },
+  {
+    "query": "IFIT3",
+    "_id": "3437",
+    "_score": 19.629026,
+    "entrezgene": "3437",
+    "name": "interferon induced protein with tetratricopeptide repeats 3",
+    "symbol": "IFIT3",
+    "taxid": 9606
+  },
+  {
+    "query": "ARG1",
+    "_id": "383",
+    "_score": 17.952425,
+    "entrezgene": "383",
+    "name": "arginase 1",
+    "symbol": "ARG1",
+    "taxid": 9606
+  },
+  {
+    "query": "LYVE1",
+    "_id": "10894",
+    "_score": 18.258766,
+    "entrezgene": "10894",
+    "name": "lymphatic vessel endothelial hyaluronan receptor 1",
+    "symbol": "LYVE1",
+    "taxid": 9606
+  },
+  {
+    "query": "IFIT3",
+    "_id": "3437",
+    "_score": 19.629026,
+    "entrezgene": "3437",
+    "name": "interferon induced protein with tetratricopeptide repeats 3",
+    "symbol": "IFIT3",
+    "taxid": 9606
+  },
+  {
+    "query": "ARG1",
+    "_id": "383",
+    "_score": 17.952425,
+    "entrezgene": "383",
+    "name": "arginase 1",
+    "symbol": "ARG1",
+    "taxid": 9606
+  },
+  {
+    "query": "LYVE1",
+    "_id": "10894",
+    "_score": 18.258766,
+    "entrezgene": "10894",
+    "name": "lymphatic vessel endothelial hyaluronan receptor 1",
+    "symbol": "LYVE1",
+    "taxid": 9606
+  },
+  {
+    "query": "CKAP4",
+    "_id": "10970",
+    "_score": 17.685568,
+    "entrezgene": "10970",
+    "name": "cytoskeleton associated protein 4",
+    "symbol": "CKAP4",
+    "taxid": 9606
+  },
+  {
+    "query": "TIMD4",
+    "_id": "91937",
+    "_score": 18.307924,
+    "entrezgene": "91937",
+    "name": "T cell immunoglobulin and mucin domain containing 4",
+    "symbol": "TIMD4",
+    "taxid": 9606
+  },
+  {
+    "query": "LYVE1",
+    "_id": "10894",
+    "_score": 18.258766,
+    "entrezgene": "10894",
+    "name": "lymphatic vessel endothelial hyaluronan receptor 1",
+    "symbol": "LYVE1",
+    "taxid": 9606
+  },
+  {
+    "query": "MHC-IIlo",
+    "notfound": true
+  },
+  {
+    "query": "CCR2-",
+    "notfound": true
+  },
+  {
+    "query": "ICAM-1",
+    "notfound": true
+  },
+  {
+    "query": "VCAM-1",
+    "notfound": true
+  },
+  {
+    "query": "MHC II",
+    "notfound": true
+  },
+  {
+    "query": "CD31",
+    "notfound": true
+  },
+  {
+    "query": "Notch1",
+    "_id": "4851",
+    "_score": 18.230001,
+    "entrezgene": "4851",
+    "name": "notch receptor 1",
+    "symbol": "NOTCH1",
+    "taxid": 9606
+  },
+  {
+    "query": "Jag1",
+    "_id": "182",
+    "_score": 18.125914,
+    "entrezgene": "182",
+    "name": "jagged canonical Notch ligand 1",
+    "symbol": "JAG1",
+    "taxid": 9606
+  },
+  {
+    "query": "Dll4",
+    "_id": "54567",
+    "_score": 17.605227,
+    "entrezgene": "54567",
+    "name": "delta like canonical Notch ligand 4",
+    "symbol": "DLL4",
+    "taxid": 9606
+  },
+  {
+    "query": "Notch1",
+    "_id": "4851",
+    "_score": 18.230001,
+    "entrezgene": "4851",
+    "name": "notch receptor 1",
+    "symbol": "NOTCH1",
+    "taxid": 9606
+  },
+  {
+    "query": "Jag1",
+    "_id": "182",
+    "_score": 18.125914,
+    "entrezgene": "182",
+    "name": "jagged canonical Notch ligand 1",
+    "symbol": "JAG1",
+    "taxid": 9606
+  },
+  {
+    "query": "Dll4",
+    "_id": "54567",
+    "_score": 17.605227,
+    "entrezgene": "54567",
+    "name": "delta like canonical Notch ligand 4",
+    "symbol": "DLL4",
+    "taxid": 9606
+  },
+  {
+    "query": "VE-cadherin",
+    "notfound": true
+  }
+]

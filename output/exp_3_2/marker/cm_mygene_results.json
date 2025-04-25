@@ -1,0 +1,73 @@
+[
+  {
+    "query": "Plac8",
+    "_id": "51316",
+    "_score": 18.986305,
+    "entrezgene": "51316",
+    "name": "placenta associated 8",
+    "symbol": "PLAC8",
+    "taxid": 9606
+  },
+  {
+    "query": "Thbs",
+    "notfound": true
+  },
+  {
+    "query": "Ly6C2",
+    "notfound": true
+  },
+  {
+    "query": "Hp",
+    "_id": "3240",
+    "_score": 19.357529,
+    "entrezgene": "3240",
+    "name": "haptoglobin",
+    "symbol": "HP",
+    "taxid": 9606
+  },
+  {
+    "query": "CKAP4",
+    "_id": "10970",
+    "_score": 17.685568,
+    "entrezgene": "10970",
+    "name": "cytoskeleton associated protein 4",
+    "symbol": "CKAP4",
+    "taxid": 9606
+  },
+  {
+    "query": "Notch1",
+    "_id": "4851",
+    "_score": 18.230001,
+    "entrezgene": "4851",
+    "name": "notch receptor 1",
+    "symbol": "NOTCH1",
+    "taxid": 9606
+  },
+  {
+    "query": "Notch4",
+    "_id": "4855",
+    "_score": 19.071112,
+    "entrezgene": "4855",
+    "name": "notch receptor 4",
+    "symbol": "NOTCH4",
+    "taxid": 9606
+  },
+  {
+    "query": "Dll4",
+    "_id": "54567",
+    "_score": 17.605227,
+    "entrezgene": "54567",
+    "name": "delta like canonical Notch ligand 4",
+    "symbol": "DLL4",
+    "taxid": 9606
+  },
+  {
+    "query": "Jag1",
+    "_id": "182",
+    "_score": 18.125914,
+    "entrezgene": "182",
+    "name": "jagged canonical Notch ligand 1",
+    "symbol": "JAG1",
+    "taxid": 9606
+  }
+]

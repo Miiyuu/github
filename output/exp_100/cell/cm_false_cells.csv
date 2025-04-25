@@ -1,0 +1,1227 @@
+ori_tissue,ori_cell_type
+heart muscle,cardiomyocyte
+heart muscle,cardiomyocyte
+heart muscle,cardiomyocyte
+heart muscle,cardiomyocyte
+heart muscle,neuron
+esophagus,regulatory t(treg) cell
+esophagus,t helper 2(th2) cell
+esophagus,regulatory t(treg) cell
+esophagus,regulatory t(treg) cell
+esophagus,regulatory t(treg) cell
+esophagus,effector th2-like cell
+esophagus,effector th2 cell
+esophagus,regulatory t(treg) cell
+esophagus,regulatory t(treg) cell
+esophagus,t helper 2(th2) cell
+esophagus,t helper 2(th2) cell
+esophagus,regulatory t(treg) cell
+esophagus,t helper 2(th2) cell
+esophagus,regulatory t(treg) cell
+heart,endothelial cell
+heart,hematopoietic cell
+heart,hematopoietic cell
+heart,myofibroblast
+heart,endothelial cell
+heart,hematopoietic cell
+heart,hematopoietic cell
+heart,endothelial cell
+heart,endocardial cell
+heart,endothelial cell
+heart,hematopoietic cell
+heart,hematopoietic cell
+heart,endothelial cell
+heart,hematopoietic cell
+heart,hematopoietic cell
+heart,endocardial cell
+heart,endocardial cell
+heart,endocardial cell
+heart,endocardial cell
+retina,cone photoreceptor cell
+retina,horizontal cell
+retina,microglial cell
+retina,müller glial cell
+retina,cone photoreceptor cell
+retina,cone photoreceptor cell
+retina,cone photoreceptor cell
+retina,retinal ganglion cell
+retina,cone photoreceptor cell
+retina,cone photoreceptor cell
+retina,cone photoreceptor cell
+retina,retinal ganglion cell
+retina,müller glial cell
+retina,cone photoreceptor cell
+retina,horizontal cell
+retina,retinal astrocyte
+retina,rod cell
+retina,retinal ganglion cell
+retina,rod cell
+retina,amacrine cell
+retina,cone photoreceptor cell
+retina,bipolar cell
+retina,rod cell
+retina,bipolar cell
+retina,microglial cell
+retina,amacrine cell
+retina,amacrine cell
+retina,cone photoreceptor cell
+retina,cone photoreceptor cell
+retina,microglial cell
+retina,neurogenic retinal progenitor cell
+retina,neurogenic retinal progenitor cell
+retina,multipotent retinal progenitor cell
+retina,multipotent retinal progenitor cell
+retina,neurogenic retinal progenitor cell
+retina,neuron
+retina,neurogenic retinal progenitor cell
+retina,neurogenic retinal progenitor cell
+retina,multipotent retinal progenitor cell
+retina,neurogenic retinal progenitor cell
+retina,neurogenic retinal progenitor cell
+retina,neurogenic retinal progenitor cell
+retina,multipotent retinal progenitor cell
+retina,multipotent retinal progenitor cell
+retina,neuron
+retina,neurogenic retinal progenitor cell
+retina,multipotent retinal progenitor cell
+retina,multipotent retinal progenitor cell
+retina,neuron
+retina,multipotent retinal progenitor cell
+retina,multipotent retinal progenitor cell
+retina,adult neural stem cell
+retina,multipotent retinal progenitor cell
+retina,adult neural stem cell
+retina,neurogenic retinal progenitor cell
+retina,neuron
+retina,microglial cell
+retina,horizontal cell
+retina,microglial cell
+retina,vascular cell
+retina,retinal ganglion cell
+retina,vascular cell
+retina,rod cell
+retina,cone cell
+retina,bipolar cell
+retina,amacrine cell
+retina,retinal ganglion cell
+retina,vascular cell
+retina,vascular cell
+retina,cone cell
+retina,müller glial cell
+retina,rod cell
+retina,amacrine cell
+retina,astrocyte
+retina,rod cell
+retina,astrocyte
+retina,cone cell
+retina,macroglial cell
+retina,retinal ganglion cell
+retina,vascular cell
+retina,microglial cell
+retina,cone cell
+retina,horizontal cell
+retina,macroglial cell
+retina,müller glial cell
+retina,müller glial cell
+retina,bipolar cell
+retina,microglial cell
+retina,horizontal cell
+retina,macroglial cell
+retina,retinal ganglion cell
+retina,bipolar cell
+retina,bipolar cell
+retina,astrocyte
+retina,astrocyte
+retina,astrocyte
+choroid,artery cell
+choroid,macrophage
+choroid,retinal pigment epithelial cell
+choroid,nonmyelinating schwann cell
+choroid,fibroblast
+choroid,vein cell
+choroid,artery cell
+choroid,mast cell
+choroid,nonmyelinating schwann cell
+choroid,leukocyte
+choroid,vein cell
+choroid,endothelial cell
+choroid,melanocyte
+choroid,myelinating schwann cell
+choroid,smooth muscle cell
+choroid,melanocyte
+choroid,melanocyte
+choroid,nonmyelinating schwann cell
+choroid,myelinating schwann cell
+choroid,endothelial cell
+choroid,melanocyte
+choroid,choriocapillaris cell
+choroid,schwann cell
+choroid,t cell
+choroid,choriocapillaris cell
+choroid,pericyte
+choroid,nonmyelinating schwann cell
+choroid,retinal pigment epithelial cell
+choroid,natural killer cell
+choroid,b cell
+choroid,endothelial cell
+eye,horizontal cell
+eye,rod cell
+eye,mueller glia cell
+eye,bipolar cell
+eye,amacrine cell
+eye,cone cell
+esophagus,monocyte
+esophagus,immune cell
+esophagus,cytotoxic t cell
+esophagus,cd8+ t cell
+esophagus,conventional dendritic cell 2(cdc2)
+esophagus,endothelial cell
+esophagus,stratified keratinocyte
+esophagus,b cell
+esophagus,b cell
+esophagus,b cell
+esophagus,cytotoxic t cell
+esophagus,cd4+ t cell
+esophagus,cytotoxic t cell
+esophagus,conventional dendritic cell 2(cdc2)
+esophagus,vascular cell
+esophagus,gland ductal cell
+esophagus,gland cell
+esophagus,natural killer cell
+esophagus,b cell
+esophagus,gland ductal cell
+esophagus,b cell
+esophagus,cd8+ t cell
+esophagus,stromal cell
+esophagus,natural killer cell
+esophagus,mast cell
+esophagus,cd8+ t cell
+esophagus,monocyte
+esophagus,macrophage
+esophagus,dividing cell
+esophagus,cd4+ t cell
+esophagus,gland cell
+esophagus,vascular cell
+esophagus,stromal cell
+esophagus,b cell
+esophagus,basal epithelial cell
+esophagus,monocyte
+esophagus,basal epithelial cell
+esophagus,basal epithelial cell
+esophagus,stromal cell
+esophagus,endothelial cell
+esophagus,cd4+ t cell
+esophagus,b cell
+lung,cytotoxic t cell
+lung,cd8+ t cell
+lung,alveolar cell type 1
+lung,cytotoxic t cell
+lung,cytotoxic t cell
+lung,cd8+ t cell
+lung,cd8+ t cell
+lung,plasmacytoid dendritic cell(pdc)
+lung,ciliated cell
+lung,monocyte
+lung,cd4+ t cell
+lung,dividing cell
+lung,plasmacytoid dendritic cell(pdc)
+lung,ciliated cell
+lung,alveolar cell type 1
+lung,vascular cell
+lung,alveolar cell type 1
+lung,ciliated cell
+lung,conventional dendritic cell 2(cdc2)
+lung,conventional dendritic cell 1(cdc1)
+lung,cd4+ t cell
+lung,monocyte
+lung,monocyte
+lung,regulatory t(treg) cell
+lung,activated dendritic cell
+lung,conventional dendritic cell 1(cdc1)
+lung,alveolar cell type 2
+lung,conventional dendritic cell 2(cdc2)
+lung,alveolar cell type 1
+lung,alveolar cell type 2
+lung,regulatory t(treg) cell
+lung,muscularis cell
+lung,muscularis cell
+lung,dividing cell
+lung,vascular cell
+lung,alveolar cell type 2
+lung,alveolar cell type 2
+lung,cd4+ t cell
+lung,vascular cell
+lung,mast cell
+spleen,regulatory t(treg) cell
+spleen,regulatory t(treg) cell
+spleen,cd34+ progenitor cell
+spleen,cytotoxic t cell
+spleen,dividing cell
+spleen,cd34+ progenitor cell
+spleen,follicular b cell
+spleen,t follicular helper(tfh) cell
+spleen,cd34+ progenitor cell
+spleen,follicular b cell
+spleen,cd4+ t cell
+spleen,follicular b cell
+spleen,monocyte
+spleen,somatic hypermutation b cell
+spleen,conventional dendritic cell 2(cdc2)
+spleen,cd4+ t cell
+spleen,follicular b cell
+spleen,t follicular helper(tfh) cell
+spleen,cd4+ t cell
+spleen,monocyte
+spleen,conventional dendritic cell 2(cdc2)
+spleen,mait-like cell
+spleen,mait-like cell
+spleen,t follicular helper(tfh) cell
+spleen,dividing cell
+spleen,immune cell
+spleen,γ δ t cell
+spleen,monocyte
+spleen,cd8+ t cell
+spleen,mantle b cell
+spleen,γ δ t cell
+spleen,follicular b cell
+spleen,dividing cell
+spleen,conventional dendritic cell 1(cdc1)
+spleen,dividing cell
+spleen,cytotoxic t cell
+spleen,b cell
+spleen,cd8+ t cell
+spleen,conventional dendritic cell 1(cdc1)
+spleen,mantle b cell
+spleen,cytotoxic t cell
+spleen,activated dendritic cell
+spleen,b cell
+spleen,naïve cell
+spleen,b cell
+spleen,cd8+ t cell
+eye,cd8+ t cell
+retina,rod cell
+retina,neuron
+retina,later-stage progenitor cell
+retina,glial cell
+retina,forebrain cell
+retina,glial cell
+retina,neuron
+retina,forebrain cell
+retina,progenitor cell
+retina,later-stage progenitor cell
+retina,photoreceptor cell
+retina,bipolar cell
+retina,t helper 1(th1) cell
+retina,bipolar cell
+retina,bipolar cell
+retina,bipolar cell
+retina,neuron
+retina,neuron
+retina,progenitor cell
+retina,ganglion cell
+retina,photoreceptor cell
+stomach,naïve or central memory  t cell
+stomach,cytotoxic cell
+stomach,cd8 t cell
+stomach,fibroblast
+stomach,cytotoxic cell
+stomach,cd8 t cell
+stomach,smooth muscle cell
+stomach,gastric neuroendocrine cell
+stomach,endothelial cell
+stomach,fibroblast
+stomach,macrophage
+stomach,cytotoxic cell
+stomach,cytotoxic cell
+stomach,intestinal epithelial cell
+stomach,pericyte
+stomach,myofibroblast
+stomach,natural killer cell
+stomach,natural killer cell
+stomach,cytotoxic cell
+stomach,antrum gastric epithelial cell
+stomach,fibroblast
+stomach,macrophage
+stomach,dendritic cell
+stomach,gastric neuroendocrine cell
+stomach,cytotoxic cell
+stomach,fibroblast
+stomach,mast cell
+stomach,naïve or central memory  t cell
+stomach,endothelial cell
+stomach,regulatory t(treg) cell
+stomach,macrophage
+stomach,myofibroblast
+stomach,gastric parietal cell
+stomach,endothelial cell
+stomach,cytotoxic cell
+stomach,dendritic cell
+stomach,dendritic cell
+stomach,myofibroblast
+stomach,t cell
+stomach,myofibroblast
+stomach,fibroblast
+stomach,tissue resident effector memory t cell
+stomach,myofibroblast
+stomach,mast cell
+stomach,antrum gastric epithelial cell
+stomach,monocyte
+stomach,gastric stem cell
+stomach,b cell
+stomach,gastric neuroendocrine cell
+stomach,t cell
+stomach,dendritic cell
+stomach,endothelial cell
+stomach,epithelial cell
+stomach,gastric neuroendocrine cell
+stomach,t cell
+stomach,monocyte
+stomach,epithelial cell
+stomach,cytotoxic cell
+stomach,myofibroblast
+stomach,regulatory t(treg) cell
+stomach,natural killer cell
+stomach,cytotoxic cell
+stomach,macrophage
+stomach,gastric stem cell
+stomach,fibroblast
+stomach,cytotoxic cell
+stomach,myofibroblast
+stomach,plasma cell
+stomach,natural killer cell
+stomach,tissue resident effector memory t cell
+stomach,epithelial cell
+stomach,gastric neuroendocrine cell
+stomach,dendritic cell
+stomach,b cell
+stomach,dendritic cell
+stomach,mast cell
+stomach,b cell
+stomach,endothelial cell
+stomach,tissue resident effector memory t cell
+stomach,pericyte
+stomach,mast cell
+stomach,epithelial cell
+stomach,epithelial cell
+blood,myeloid cell
+blood,plasmacytoid dendritic cell(pdc)
+blood,b cell
+blood,myeloid cell
+blood,dendritic cell
+blood,b cell
+blood,b cell
+blood,myeloid cell
+blood,myeloid cell
+blood,plasmacytoid dendritic cell(pdc)
+blood,b cell
+blood,b cell
+blood,myeloid cell
+blood,plasmacytoid dendritic cell(pdc)
+blood,myeloid cell
+blood,b cell
+blood,b cell
+blood,cd4+ t cell
+blood,myeloid cell
+blood,b cell
+blood,myeloid cell
+blood,b cell
+blood,b cell
+blood,myeloid cell
+blood,myeloid cell
+blood,myeloid cell
+blood,plasmacytoid dendritic cell(pdc)
+blood,myeloid cell
+retina,neuron
+retina,epithelial cell
+retina,epithelial cell
+retina,epithelial cell
+retina,neuron
+retina,epithelial cell
+retina,neuron
+peripheral blood,natural killer cell
+peripheral blood,natural killer cell
+blood,natural regulatory t cell
+blood,natural regulatory t cell
+blood,natural regulatory t cell
+blood,finally highly effector (temra) memory t cell
+blood,finally highly effector (temra) memory t cell
+blood,cd4+ t cell
+blood,effector memory t cell
+blood,finally highly effector (temra) memory t cell
+blood,finally highly effector (temra) memory t cell
+blood,cd4+ t cell
+blood,finally highly effector (temra) memory t cell
+blood,natural regulatory t cell
+blood,natural regulatory t cell
+blood,finally highly effector (temra) memory t cell
+blood,naive t(th0) cell
+blood,natural regulatory t cell
+blood,natural regulatory t cell
+blood,finally highly effector (temra) memory t cell
+blood,naive t(th0) cell
+blood,naive t(th0) cell
+blood,effector memory t cell
+blood,natural regulatory t cell
+blood,effector memory t cell
+blood,cd4+ t cell
+blood,naive t(th0) cell
+blood,natural regulatory t cell
+blood,central memory t cell
+blood,natural regulatory t cell
+blood,natural regulatory t cell
+blood,effector memory t cell
+blood,natural regulatory t cell
+blood,dendritic cell
+blood,b cell
+gastrointestinal tract,stem cell
+undefined,macrophage
+undefined,stromal cell
+undefined,cancer stem cell
+undefined,cancer stem cell
+undefined,cancer stem cell
+undefined,cancer stem cell
+undefined,cancer stem cell
+undefined,cancer stem cell
+undefined,immune cell
+undefined,epithelial cell
+umbilical cord blood,cd4+ t cell
+umbilical cord blood,cd4+ t cell
+umbilical cord blood,cd4+ t cell
+umbilical cord blood,cd4+ t cell
+blood,naive cd4 t cell
+blood,naive cd4 t cell
+blood,naive cd4 t cell
+blood,naive cd4 t cell
+blood,megakaryocyte
+blood,effector memory t cell
+blood,megakaryocyte
+blood,naive cd8+ t cell
+blood,megakaryocyte
+blood,megakaryocyte
+blood,naive cd8+ t cell
+blood,megakaryocyte
+blood,megakaryocyte
+blood,central memory cd4+ t cell
+blood,naive cd4 t cell
+blood,naive cd8+ t cell
+blood,effector memory t cell
+blood,effector memory t cell
+blood,megakaryocyte
+blood,central memory cd8+ t cell
+blood,effector memory t cell
+blood,naive cd8+ t cell
+blood,megakaryocyte
+blood,naive cd8+ t cell
+blood,conventional dendritic cell 2(cdc2)
+blood,megakaryocyte
+blood,central memory cd4+ t cell
+blood,regulatory t(treg) cell
+blood,central memory cd8+ t cell
+blood,naive cd8+ t cell
+blood,central memory cd4+ t cell
+blood,central memory cd4+ t cell
+blood,conventional dendritic cell 2(cdc2)
+blood,effector memory cd8+ t cell
+blood,megakaryocyte
+blood,regulatory t(treg) cell
+blood,central memory cd4+ t cell
+blood,conventional dendritic cell 2(cdc2)
+blood,naive cd8+ t cell
+blood,regulatory t(treg) cell
+blood,effector memory cd8+ t cell
+blood,regulatory t(treg) cell
+blood,central memory cd8+ t cell
+blood,effector memory t cell
+blood,effector memory t cell
+blood,regulatory t(treg) cell
+blood,central memory cd4+ t cell
+blood,effector memory cd8+ t cell
+blood,naive cd4 t cell
+blood,naive cd4 t cell
+blood,central memory cd8+ t cell
+blood,central memory cd8+ t cell
+blood,central memory cd8+ t cell
+blood,central memory cd8+ t cell
+blood,conventional dendritic cell 2(cdc2)
+blood,central memory cd4+ t cell
+blood,effector memory cd8+ t cell
+blood,effector memory cd8+ t cell
+blood,central memory cd8+ t cell
+blood,regulatory t(treg) cell
+blood,central memory cd8+ t cell
+blood,central memory cd4+ t cell
+blood,central memory cd4+ t cell
+blood,naive cd8+ t cell
+blood,regulatory t(treg) cell
+blood,naive cd8+ t cell
+blood,naive cd8+ t cell
+blood,conventional dendritic cell 2(cdc2)
+blood,naive cd4 t cell
+blood,regulatory t(treg) cell
+blood,central memory cd8+ t cell
+blood,naive cd4 t cell
+blood,regulatory t(treg) cell
+liver,effector memory t cell
+liver,effector memory t cell
+liver,central memory cd4+ t cell
+liver,central memory cd4+ t cell
+liver,central memory cd4+ t cell
+liver,central memory cd4+ t cell
+liver,plasmacytoid dendritic cell(pdc)
+liver,effector memory t cell
+liver,naive b cell
+liver,t follicular helper(tfh) cell
+liver,t follicular helper(tfh) cell
+liver,central memory cd4+ t cell
+liver,central memory cd4+ t cell
+liver,naive cd4 t cell
+liver,t follicular helper(tfh) cell
+liver,effector memory t cell
+liver,effector memory t cell
+liver,naive cd8+ t cell
+liver,effector memory cd8+ t cell
+liver,naive b cell
+liver,t follicular helper(tfh) cell
+liver,naive cd4 t cell
+liver,naive cd8+ t cell
+liver,plasmacytoid dendritic cell(pdc)
+liver,central memory cd8+ t cell
+liver,conventional dendritic cell 2(cdc2)
+liver,naive cd4 t cell
+liver,plasmacytoid dendritic cell(pdc)
+liver,plasmacytoid dendritic cell(pdc)
+liver,central memory cd8+ t cell
+liver,plasmacytoid dendritic cell(pdc)
+liver,central memory cd4+ t cell
+liver,effector memory cd8+ t cell
+liver,central memory cd8+ t cell
+liver,regulatory t(treg) cell
+liver,naive b cell
+liver,naive cd8+ t cell
+liver,naive cd8+ t cell
+liver,naive cd8+ t cell
+liver,naive cd4 t cell
+liver,regulatory t(treg) cell
+liver,t follicular helper(tfh) cell
+liver,plasmacytoid dendritic cell(pdc)
+liver,regulatory t(treg) cell
+liver,plasmacytoid dendritic cell(pdc)
+liver,effector memory cd8+ t cell
+liver,regulatory t(treg) cell
+liver,effector memory cd8+ t cell
+liver,naive b cell
+liver,conventional dendritic cell 2(cdc2)
+liver,naive cd4 t cell
+liver,central memory cd8+ t cell
+liver,effector memory cd8+ t cell
+liver,regulatory t(treg) cell
+liver,central memory cd4+ t cell
+liver,central memory cd4+ t cell
+liver,plasmacytoid dendritic cell(pdc)
+liver,effector memory t cell
+liver,plasmacytoid dendritic cell(pdc)
+liver,naive cd4 t cell
+liver,naive cd4 t cell
+liver,central memory cd8+ t cell
+liver,central memory cd8+ t cell
+liver,conventional dendritic cell 1(cdc1)
+liver,naive cd4 t cell
+liver,naive cd4 t cell
+liver,central memory cd8+ t cell
+liver,central memory cd8+ t cell
+liver,regulatory t(treg) cell
+liver,central memory cd8+ t cell
+liver,naive cd8+ t cell
+liver,conventional dendritic cell 2(cdc2)
+liver,naive cd8+ t cell
+liver,conventional dendritic cell 2(cdc2)
+liver,naive cd8+ t cell
+liver,regulatory t(treg) cell
+liver,regulatory t(treg) cell
+liver,naive cd8+ t cell
+liver,conventional dendritic cell 1(cdc1)
+liver,regulatory t(treg) cell
+liver,naive cd8+ t cell
+liver,naive b cell
+liver,conventional dendritic cell 2(cdc2)
+liver,central memory cd8+ t cell
+liver,naive b cell
+liver,naive b cell
+liver,conventional dendritic cell 1(cdc1)
+liver,naive b cell
+spleen,naive cd8 t cell
+spleen,naive cd8 t cell
+spleen,naive cd8 t cell
+spleen,central memory cd4+ t cell
+spleen,conventional dendritic cell 1(cdc1)
+spleen,central memory cd4+ t cell
+spleen,megakaryocyte
+spleen,naive cd8 t cell
+spleen,naive cd8 t cell
+spleen,naive cd8 t cell
+spleen,conventional dendritic cell 1(cdc1)
+spleen,naive cd8 t cell
+spleen,naive cd8 t cell
+spleen,naive cd4 t cell
+spleen,plasmacytoid dendritic cell(pdc)
+spleen,naive cd4 t cell
+spleen,effector memory cd8+ t cell
+spleen,regulatory t (treg) cell
+spleen,naive cd8 t cell
+spleen,effector memory cd8+ t cell
+spleen,central memory cd8+ t cell
+spleen,megakaryocyte
+spleen,megakaryocyte
+spleen,t follicular helper(tfh) cell
+spleen,monocyte
+spleen,central memory cd4+ t cell
+spleen,central memory cd4+ t cell
+spleen,naive cd4 t cell
+spleen,naive cd8 t cell
+spleen,central memory cd4+ t cell
+spleen,central memory cd4+ t cell
+spleen,central memory cd8+ t cell
+spleen,megakaryocyte
+spleen,central memory cd8+ t cell
+spleen,naive cd4 t cell
+spleen,regulatory t (treg) cell
+spleen,regulatory t (treg) cell
+spleen,central memory cd8+ t cell
+spleen,naive cd4 t cell
+spleen,plasmacytoid dendritic cell(pdc)
+spleen,conventional dendritic cell 2(cdc2)
+spleen,conventional dendritic cell 1(cdc1)
+spleen,central memory cd8+ t cell
+spleen,naive cd4 t cell
+spleen,conventional dendritic cell 2(cdc2)
+spleen,plasmacytoid dendritic cell(pdc)
+spleen,t cell
+spleen,regulatory t (treg) cell
+spleen,regulatory t (treg) cell
+spleen,central memory cd8+ t cell
+spleen,central memory cd8+ t cell
+spleen,regulatory t (treg) cell
+spleen,megakaryocyte
+spleen,central memory cd8+ t cell
+spleen,central memory cd8+ t cell
+spleen,regulatory t (treg) cell
+spleen,conventional dendritic cell 2(cdc2)
+spleen,conventional dendritic cell 2(cdc2)
+spleen,effector memory t cell
+spleen,megakaryocyte
+spleen,naive cd4 t cell
+spleen,plasmacytoid dendritic cell(pdc)
+spleen,effector memory cd8+ t cell
+spleen,central memory cd8+ t cell
+spleen,plasmacytoid dendritic cell(pdc)
+spleen,effector memory cd8+ t cell
+spleen,megakaryocyte
+spleen,regulatory t (treg) cell
+spleen,naive cd4 t cell
+spleen,plasmacytoid dendritic cell(pdc)
+spleen,central memory cd4+ t cell
+spleen,central memory cd4+ t cell
+spleen,plasmacytoid dendritic cell(pdc)
+spleen,effector memory cd8+ t cell
+spleen,t follicular helper(tfh) cell
+spleen,central memory cd4+ t cell
+spleen,effector memory t cell
+spleen,conventional dendritic cell 2(cdc2)
+spleen,t follicular helper(tfh) cell
+spleen,b cell
+spleen,naive cd4 t cell
+spleen,megakaryocyte
+spleen,t cell
+spleen,plasmacytoid dendritic cell(pdc)
+spleen,t cell
+spleen,t follicular helper(tfh) cell
+spleen,t cell
+spleen,effector memory t cell
+spleen,megakaryocyte
+spleen,t cell
+spleen,regulatory t (treg) cell
+spleen,plasmacytoid dendritic cell(pdc)
+spleen,megakaryocyte
+spleen,t cell
+spleen,t follicular helper(tfh) cell
+spleen,effector memory t cell
+spleen,effector memory t cell
+spleen,effector memory t cell
+blood,myeloid cell
+blood,myeloid cell
+blood,myeloid cell
+blood,b cell
+blood,myeloid cell
+blood,lymphocyte
+blood,lymphocyte
+blood,myeloid cell
+blood,myeloid cell
+blood,lymphocyte
+undefined,cd8+ t cell
+undefined,cd8+ t cell
+undefined,b cell
+undefined,natural killer cell
+eye,vascular endothelial cell
+eye,lymphatic endothelial cell
+eye,vascular endothelial cell
+eye,vascular endothelial cell
+eye,vascular endothelial cell
+eye,vascular endothelial cell
+eye,lymphatic endothelial cell
+eye,trabecular meshwork cell
+eye,lymphatic endothelial cell
+eye,lymphatic endothelial cell
+eye,vascular endothelial cell
+eye,vascular endothelial cell
+eye,vascular endothelial cell
+eye,vascular endothelial cell
+eye,trabecular meshwork cell
+eye,vascular endothelial cell
+eye,trabecular meshwork cell
+eye,vascular endothelial cell
+eye,lymphatic endothelial cell
+eye,trabecular meshwork cell
+eye,vascular endothelial cell
+gastrointestinal tract,t cell
+gastrointestinal tract,b cell
+gastrointestinal tract,t cell
+gastrointestinal tract,b cell
+gastrointestinal tract,endocrine cell
+gastrointestinal tract,endothelial cell
+gastrointestinal tract,macrophage
+gastrointestinal tract,endothelial cell
+gastrointestinal tract,fibroblast
+gastrointestinal tract,epithelial cell
+gastrointestinal tract,mast cell
+gastrointestinal tract,epithelial cell
+gastrointestinal tract,t cell
+gastrointestinal tract,fibroblast
+gastrointestinal tract,parietal cell
+gastrointestinal tract,epithelial cell
+yolk sac,progenitor cell
+undefined,megakaryocyte
+undefined,megakaryocyte
+undefined,multipotent progenitor cell
+undefined,multipotent progenitor cell
+undefined,granulocyte
+undefined,megakaryocyte
+undefined,multipotent progenitor cell
+undefined,leukocyte
+undefined,hematopoietic stem cell
+undefined,red blood cell (erythrocyte)
+undefined,macrophage
+undefined,leukocyte
+undefined,red blood cell (erythrocyte)
+undefined,multipotent progenitor cell
+undefined,progenitor cell
+undefined,hematopoietic stem cell
+undefined,multipotent progenitor cell
+undefined,red blood cell (erythrocyte)
+undefined,naive progenitor cell
+undefined,progenitor cell
+undefined,naive 1 progenitor cell
+undefined,hematopoietic stem cell
+undefined,hematopoietic stem cell
+undefined,red blood cell (erythrocyte)
+undefined,naive 1 progenitor cell
+undefined,primitive hematopoiesis cell
+undefined,progenitor cell
+undefined,granulocyte
+undefined,progenitor cell
+undefined,progenitor cell
+undefined,naive progenitor cell
+undefined,progenitor cell
+undefined,progenitor cell
+undefined,hematopoietic stem cell
+undefined,progenitor cell
+undefined,leukocyte
+undefined,multipotent progenitor cell
+undefined,progenitor cell
+undefined,hematopoietic stem cell
+undefined,naive progenitor cell
+undefined,progenitor cell
+undefined,mesoderm cell
+undefined,red blood cell (erythrocyte)
+undefined,multipotent progenitor cell
+undefined,progenitor cell
+undefined,progenitor cell
+undefined,endothelial cell
+undefined,hematopoietic stem cell
+undefined,progenitor cell
+esophagus,myofibroblast
+esophagus,myofibroblast
+esophagus,fibroblast
+esophagus,myofibroblast
+esophagus,fibroblast
+esophagus,myofibroblast
+esophagus,myofibroblast
+esophagus,myofibroblast
+esophagus,fibroblast
+esophagus,fibroblast
+esophagus,fibroblast
+esophagus,fibroblast
+retinal pigment epithelium,effector t(teff) cell
+retinal pigment epithelium,b cell
+retinal pigment epithelium,effector t(teff) cell
+retinal pigment epithelium,macrophage
+retinal pigment epithelium,macrophage
+retinal pigment epithelium,effector natural killer cell
+retinal pigment epithelium,macrophage
+retinal pigment epithelium,mast cell
+retinal pigment epithelium,mast cell
+retinal pigment epithelium,effector t(teff) cell
+retinal pigment epithelium,macrophage
+retinal pigment epithelium,effector natural killer cell
+retinal pigment epithelium,effector natural killer cell
+esophagus,cancer cell
+esophagus,cancer cell
+esophagus,cancer cell
+esophagus,cancer cell
+esophagus,cancer cell
+esophagus,cancer cell
+esophagus,cancer cell
+esophagus,cancer cell
+esophagus,cancer cell
+retina,retina cell
+retina,retina cell
+retina,retina cell
+retina,retina cell
+head and neck,conventional cd4 t cell
+head and neck,conventional cd4 t cell
+head and neck,conventional cd4 t cell
+retinal organoid,rod cell
+retinal organoid,photoreceptor cell
+retinal organoid,photoreceptor cell
+retinal organoid,cone cell
+retinal organoid,rod cell
+retinal organoid,cone cell
+esophagus,monocyte
+esophagus,monocyte
+esophagus,mast cell
+esophagus,conventional dendritic cell(cdc)
+esophagus,plasmacytoid dendritic cell(pdc)
+esophagus,monocyte
+esophagus,langerhans cell
+esophagus,langerhans cell
+esophagus,macrophage
+esophagus,conventional dendritic cell(cdc)
+lacrimal gland,endothelial cell
+lacrimal gland,ductal cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,epithelial cell
+lacrimal gland,epithelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,acinar cell
+lacrimal gland,lymphocyte
+lacrimal gland,acinar cell
+lacrimal gland,ductal cell
+lacrimal gland,acinar cell
+lacrimal gland,epithelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,lymphocyte
+lacrimal gland,endothelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,acinar cell
+esophagus,classical barrett’s esophagus cell
+esophagus,classical barrett’s esophagus cell
+esophagus,classical barrett’s esophagus cell
+esophagus,classical barrett’s esophagus cell
+esophagus,classical barrett’s esophagus cell
+lateral ganglionic eminence,d2-msn(medium spiny neuron)
+lateral ganglionic eminence,intermediate progenitor cell
+lateral ganglionic eminence,lge-lineage cell (lateral ganglionic eminence)
+lateral ganglionic eminence,mature msn(medium spiny neuron)
+lateral ganglionic eminence,pre-msn(medium spiny neuron)
+lateral ganglionic eminence,d2-msn(medium spiny neuron)
+lateral ganglionic eminence,gabaergic neuron
+lateral ganglionic eminence,early progenitor cell
+lateral ganglionic eminence,medium spiny neuron(msn)
+lateral ganglionic eminence,d1-msn(medium spiny neuron)
+lateral ganglionic eminence,d2-msn(medium spiny neuron)
+lateral ganglionic eminence,neuron
+lateral ganglionic eminence,d1-msn(medium spiny neuron)
+lateral ganglionic eminence,d1-msn(medium spiny neuron)
+lateral ganglionic eminence,d1-msn(medium spiny neuron)
+lateral ganglionic eminence,d2-msn(medium spiny neuron)
+gall bladder,squamous cell
+gall bladder,exhausted cd8+ t cell
+gall bladder,squamous cell
+gall bladder,m2 macrophage
+gall bladder,m2 macrophage
+gall bladder,exhausted cd8+ t cell
+gall bladder,m2 macrophage
+gall bladder,exhausted cd8+ t cell
+gall bladder,regulatory t(treg) cell
+gall bladder,m2 macrophage
+blood,regulatory cd4+ t cell
+blood,dendritic cell
+blood,memory cd4+ t cell
+blood,regulatory cd4+ t cell
+blood,b cell
+esophagus,cancer cell
+esophagus,cancer cell
+esophagus,t cell
+esophagus,fibroblast
+esophagus,t cell
+esophagus,plasma cell
+esophagus,endothelial cell
+esophagus,cancer cell
+esophagus,b cell
+esophagus,naive t(th0) cell
+esophagus,mast cell
+esophagus,b cell
+esophagus,mast cell
+esophagus,myeloid cell
+esophagus,follicular b cell
+esophagus,plasma cell
+esophagus,fibroblast
+esophagus,epithelial cell
+esophagus,endothelial cell
+esophagus,naive t(th0) cell
+esophagus,myeloid cell
+esophagus,naive t(th0) cell
+esophagus,epithelial cell
+peripheral blood,monocyte
+serum,cancer cell
+serum,cancer cell
+serum,cancer cell
+serum,cancer cell
+peripheral blood,memory t cell
+peripheral blood,naive t(th0) cell
+peripheral blood,memory t cell
+peripheral blood,naive t(th0) cell
+peripheral blood,naive t(th0) cell
+peripheral blood,memory t cell
+peripheral blood,naive t(th0) cell
+peripheral blood,memory t cell
+peripheral blood,memory t cell
+peripheral blood,naive t(th0) cell
+peripheral blood,memory t cell
+peripheral blood,memory t cell
+peripheral blood,naive t(th0) cell
+peripheral blood,memory t cell
+peripheral blood,naive t(th0) cell
+peripheral blood,naive t(th0) cell
+eye,haematopoietic progenitor cell
+choroid,hematopoietic stem cell
+choriocapillaris,choriocapillaris cell
+artery,endothelial cell
+blood,naive cd4+ t cell
+blood,terminal effector cd8+ t cell
+blood,naive cd4+ t cell
+blood,naive cd4+ t cell
+blood,naive cd8+ t cell
+blood,regulatory cd4+ t cell
+blood,naive cd4+ t cell
+blood,transitional cd8+ t cell
+blood,naive cd8+ t cell
+blood,central memory cd8+ t cell
+blood,naive cd8+ t cell
+blood,terminal effector cd8+ t cell
+blood,central memory cd8+ t cell
+blood,terminal effector cd8+ t cell
+blood,naive cd8+ t cell
+blood,regulatory cd4+ t cell
+blood,terminal effector cd8+ t cell
+blood,regulatory cd4+ t cell
+blood,regulatory cd4+ t cell
+blood,central memory cd8+ t cell
+blood,yolk sac-derived myeloid-biased progenitor cell(ysmp)
+blood,yolk sac-derived myeloid-biased progenitor cell(ysmp)
+blood,yolk sac-derived myeloid-biased progenitor cell(ysmp)
+blood,yolk sac-derived myeloid-biased progenitor cell(ysmp)
+blood,yolk sac-derived myeloid-biased progenitor cell(ysmp)
+blood,effector regulatory t(etreg) cell
+blood,effector regulatory t(etreg) cell
+blood,effector regulatory t(etreg) cell
+blood,effector regulatory t(etreg) cell
+blood,effector regulatory t(etreg) cell
+peripheral blood,natural killer cell
+peripheral blood,cd4+ t cell
+peripheral blood,activated cd4+ t cell
+peripheral blood,activated cd4+ t cell
+peripheral blood,monocyte
+peripheral blood,immature b cell
+peripheral blood,mature b cell
+peripheral blood,cd4+ t cell
+peripheral blood,activated cd4+ t cell
+peripheral blood,activated cd8+ t cell
+peripheral blood,gamma delta(γδ) t cell
+peripheral blood,cd4+ t cell
+peripheral blood,natural killer cell
+peripheral blood,monocyte
+peripheral blood,cd4+ t cell
+peripheral blood,natural killer cell
+peripheral blood,cd4+ t cell
+peripheral blood,monocyte
+peripheral blood,activated cd8+ t cell
+peripheral blood,mature b cell
+peripheral blood,activated cd4+ t cell
+peripheral blood,immature b cell
+peripheral blood,natural killer cell
+peripheral blood,gamma delta(γδ) t cell
+peripheral blood,regulatory t(treg) cell
+peripheral blood,monocyte
+peripheral blood,immature b cell
+peripheral blood,gamma delta(γδ) t cell
+peripheral blood,monocyte
+peripheral blood,gamma delta(γδ) t cell
+peripheral blood,immature b cell
+peripheral blood,natural killer cell
+peripheral blood,monocyte
+peripheral blood,immature b cell
+peripheral blood,activated cd8+ t cell
+peripheral blood,natural killer cell
+peripheral blood,activated cd8+ t cell
+peripheral blood,mature b cell
+peripheral blood,activated cd8+ t cell
+peripheral blood,regulatory t(treg) cell
+peripheral blood,gamma delta(γδ) t cell
+peripheral blood,regulatory t(treg) cell
+peripheral blood,mature b cell
+peripheral blood,mature b cell
+peripheral blood,activated cd8+ t cell
+peripheral blood,mature b cell
+peripheral blood,immature b cell
+peripheral blood,regulatory t(treg) cell
+peripheral blood,regulatory t(treg) cell
+esophagus,transitional basal progenitor cell
+esophagus,residual embryonic cell
+esophagus,transitional basal progenitor cell
+esophagus,residual embryonic cell
+esophagus,stem cell
+esophagus,transitional basal progenitor cell
+intestine,stem cell
+esophagus,duodenal epithelial cell
+esophagus,granulocyte
+esophagus,myeloid cell
+esophagus,fibroblast
+esophagus,t cell
+esophagus,mast cell
+esophagus,esophageal epithelial cell
+esophagus,plasma cell
+esophagus,endothelial cell
+esophagus,epithelial cell
+esophagus,goblet cell
+esophagus,goblet cell
+esophagus,glandular barrett's esophagus cell
+esophagus,goblet cell
+esophagus,epithelial cell
+esophagus,goblet cell
+esophagus,epithelial cell
+esophagus,stratified esophageal cell
+esophagus,goblet cell
+blood,b cell
+esophagus,b cell
+esophagus,b cell
+esophagus,b cell
+esophagus,b cell
+esophagus,b cell
+esophagus,endothelial cell
+esophagus,epithelial cell
+esophagus,fibroblast
+esophagus,epithelial cell
+esophagus,myeloid cell
+esophagus,endothelial cell
+esophagus,endothelial cell
+esophagus,epithelial cell
+esophagus,fibroblast
+esophagus,myeloid cell
+esophagus,myeloid cell
+esophagus,t cell
+esophagus,pericyte
+esophagus,myeloid cell
+esophagus,pericyte
+esophagus,endothelial cell
+esophagus,fibroblastic reticular cell
+esophagus,myeloid cell
+esophagus,fibroblast
+esophagus,epithelial cell
+esophagus,t cell
+esophagus,fibroblast
+esophagus,t cell
+esophagus,fibroblastic reticular cell
+esophagus,myeloid cell
+esophagus,fibroblast
+esophagus,pericyte
+esophagus,t cell
+esophagus,fibroblast
+esophagus,myeloid cell
+retina,t cell
+retina,t cell
+eye,iris puttative stem cell
+eye,smooth muscle cell
+eye,iris puttative stem cell
+eye,iris puttative stem cell
+eye,retina ganglion cell
+eye,rod cell
+eye,activated t cell
+eye,schwann cell
+eye,bipolar cell
+eye,schwann cell
+eye,mueller glia cell
+eye,rod cell
+eye,retina ganglion cell
+eye,rod cell
+eye,ciliary body cell
+eye,mueller glia cell
+eye,smooth muscle cell
+eye,bipolar cell
+eye,cone cell
+eye,cone cell
+eye,amacrine cell
+eye,amacrine cell
+eye,schwann cell
+eye,classical dendritic cell a(cdca)
+eye,classical dendritic cell a(cdca)
+eye,granulocyte
+eye,mature dendritic cell
+eye,gamma delta(γδ) t cell
+eye,gamma delta(γδ) t cell
+eye,mature dendritic cell
+eye,regulatory t(treg) cell
+eye,cd8+ t cell
+eye,myeloid cell
+eye,cd4+ t cell
+eye,granulocyte
+eye,plasmacytoid dendritic cell(pdc)
+eye,natural killer cell
+eye,classical dendritic cell b(cdcb)
+eye,myeloid cell
+eye,cd8+ t cell
+eye,natural killer cell
+eye,classical dendritic cell b(cdcb)
+eye,naive b cell
+eye,cd4+ t cell
+eye,regulatory t(treg) cell
+eye,plasmacytoid dendritic cell(pdc)
+esophagus,cancer cell
+gall bladder,cancer cell
+retinal pigment epithelium,epithelial cell
+retinal pigment epithelium,epithelial cell
+retinal pigment epithelium,epithelial cell
+retinal pigment epithelium,epithelial cell
+retinal pigment epithelium,epithelial cell
+retinal pigment epithelium,epithelial cell
+esophagus,basal cell
+esophagus,basal cell
+esophagus,basal cell
+corneal endothelium,endothelial cell
+corneal endothelium,endothelial cell
+corneal endothelium,endothelial cell
+corneal endothelium,endothelial cell
+corneal endothelium,endothelial cell
+corneal endothelium,endothelial cell
+eye,effector memory t cell
+eye,effector memory t cell
+eye,effector memory t cell
+eye,effector memory t cell
+eye,effector memory t cell
+eye,effector memory t cell
+cornea,t cell
+cornea,t cell
+cornea,t cell
+gut,regulatory t(treg) cell
+gut,regulatory t(treg) cell
+gut,regulatory t(treg) cell

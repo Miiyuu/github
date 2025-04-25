@@ -1,0 +1,63 @@
+ori_tissue,ori_cell_type,corrected_tissue,corrected_cell_type,corrected
+heart,cardiac muscle cell,heart,cardiac muscle cell,True
+heart,cardiac muscle cell,heart,cardiac muscle cell,True
+heart,cardiac muscle cell,heart,cardiac muscle cell,True
+heart,cardiac muscle cell,heart,cardiac muscle cell,True
+heart,cardiac muscle cell,heart,cardiac muscle cell,True
+heart,cardiac muscle cell,heart,cardiac muscle cell,True
+heart,cardiomyocyte (cm),,,False
+heart,cardiomyocyte (cm),,,False
+heart,cardiomyocyte (cm),,,False
+heart,cardiomyocyte (cm),,,False
+heart,cardiomyocyte (cm),,,False
+heart,cardiac progenitor (cvp),,,False
+heart,cardiac progenitor (cvp),,,False
+heart,cardiac progenitor (cvp),,,False
+heart,cardiac progenitor (cvp),,,False
+heart,cardiac progenitor (cvp),,,False
+heart,cardiac progenitor (cvp),,,False
+heart,cardiac progenitor (cvp),,,False
+heart,cardiac progenitor (cvp),,,False
+esophagus,treg (t regulatory) cell,,,False
+esophagus,effector th2 cell,,,False
+esophagus,effector th2 cell,,,False
+esophagus,effector th2 cell,,,False
+esophagus,effector th2 cell,,,False
+esophagus,effector th2 cell,,,False
+eoe tissue,t lymphocyte,,,False
+eoe tissue,cd3+ t cell,,,False
+eoe tissue,cd3+ t cell,,,False
+eoe tissue,cd3+ t cell,,,False
+eoe tissue,tissue lymphocyte,,,False
+eoe tissue,tissue lymphocyte,,,False
+eoe tissue,th2 cell,,,False
+eoe tissue,th2 cell,,,False
+eoe tissue,th2 cell,,,False
+eoe tissue,t lymphocyte,,,False
+esophageal tissue,th1 cell,,,False
+esophageal tissue,th2 cell,,,False
+esophageal tissue,th2 cell,,,False
+esophageal tissue,th2 cell,,,False
+esophageal tissue,th1 cell,,,False
+esophageal tissue,th2 cell,,,False
+esophageal tissue,th2 cell,,,False
+esophageal tissue,th2 cell,,,False
+eoe tissue,t cells (il5 producers),,,False
+eoe tissue,t cells (ffar3+),,,False
+blood,cd4+ t cells,,,False
+liver metastasis (liv.mets),spp1+ tams,,,False
+liver metastasis (liv.mets),spp1+ tams,,,False
+liver metastasis (liv.mets),spp1+ tams,,,False
+liver metastasis (liv.mets),c1qc+ tams,,,False
+liver metastasis (liv.mets),c1qc+ tams,,,False
+liver metastasis (liv.mets),c1qc+ tams,,,False
+liver metastasis (liv.mets),mki67+ tams,,,False
+tumor microenvironment,tams (c1qc+),,,False
+tumor microenvironment,tams (spp1+),,,False
+tumor microenvironment,cdc2s (c1qc+),,,False
+liver,nk cells (liver-resident),,,False
+tumor,spp1+ tam,,,False
+tumor,spp1+ tam,,,False
+tumor,dc3,,,False
+tumor,dc3,,,False
+tumor,dc3,,,False

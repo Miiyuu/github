@@ -1,0 +1,244 @@
+species,tissue_type,cell_name,marker,pmid
+Human,Heart,Cardiac muscle cell,LAMB2,30893597
+Human,Heart,Cardiac muscle cell,LAMC1,30893597
+Human,Heart,Cardiac muscle cell,LAMB1,30893597
+Human,Heart,Cardiac muscle cell,LAMA2,30893597
+Human,Heart,Cardiac muscle cell,LAMA5,30893597
+Human,Heart,Cardiac muscle cell,LAMA4,30893597
+Human,,Cardiomyocytes (CMs),TNNT2,30893597
+Human,,Cardiomyocytes (CMs),ACTC1,30893597
+Human,,Cardiomyocytes (CMs),MYH7,30893597
+Human,,Cardiomyocytes (CMs),SIRPA,30893597
+Human,Heart,Cardiomyocyte (CM),TNNI3,30893597
+Human,Heart,Cardiomyocyte (CM),TNNT2,30893597
+Human,Heart,Cardiomyocyte (CM),ACTN1,30893597
+Human,Heart,Cardiomyocyte (CM),NKX2-5,30893597
+Human,Heart,Cardiomyocyte (CM),MYH1,30893597
+Human,Heart,Cardiac Progenitor (CVP),T (brachyury),30893597
+Human,Heart,Cardiac Progenitor (CVP),MESP1,30893597
+Human,Heart,Cardiac Progenitor (CVP),ISL1,30893597
+Human,Heart,Cardiac Progenitor (CVP),TBX5,30893597
+Human,Heart,Cardiac Progenitor (CVP),MEF2C,30893597
+Human,Heart,Cardiac Progenitor (CVP),NKX2-5,30893597
+Human,Heart,Cardiac Progenitor (CVP),KIT,30893597
+Human,Heart,Cardiac Progenitor (CVP),GATA3,30893597
+,,CVPs sub-population,TTN,30893597
+,,CVPs sub-population,LUM,30893597
+,,CVPs sub-population,EPCAM,30893597
+,,CVPs,ISL1,30893597
+,,CVPs,NKX2-5,30893597
+,,CVPs,FUT4,30893597
+,,CVPs,MESP1,30893597
+,,CVPs,KDR,30893597
+,,CVPs,FADS2,30893597
+,,Pluripotent hESCs,POU5F1,30893597
+,,Pluripotent hESCs,IGHV3-60,30893597
+,,Cardiomyocytes (implied from context),TNNT2,30893597
+,,Cardiomyocytes (implied from context),MYH1,30893597
+,,Cardiomyocytes (implied from context),TNNI3,30893597
+,,Cardiomyocytes (implied from context),NKX2-5,30893597
+,,Cardiomyocytes (implied from context),ACTN1,30893597
+Human,Esophagus,Treg (T regulatory) cell,FOXP3,30958799
+Human,Esophagus,Effector Th2 cell,GATA3,30958799
+Human,Esophagus,Effector Th2 cell,HPGDS,30958799
+Human,Esophagus,Effector Th2 cell,PTGDR2,30958799
+Human,Esophagus,Effector Th2 cell,IL17RB,30958799
+Human,Esophagus,Effector Th2 cell,FFAR3,30958799
+Human,,T lymphocyte,未匹配到标准化基因符号,30958799
+Human,,T lymphocyte,IL17RB,30958799
+Human,,CD4+ T cell,IL2RA,30958799
+Human,,CD8+ T cell,IL2RA,30958799
+Human,EoE tissue,T lymphocyte,ITGAE (CD103),30958799
+Human,EoE tissue,CD3+ T cell,CXCR4,30958799
+Human,EoE tissue,CD3+ T cell,CCR5,30958799
+Human,EoE tissue,CD3+ T cell,CCR8,30958799
+Human,EoE tissue,Tissue lymphocyte,IL-25 receptor,30958799
+Human,EoE tissue,Tissue lymphocyte,HPGDS,30958799
+Human,,T7 (Treg cells),CD4,30958799
+Human,,T7 (Treg cells),MAF,30958799
+Human,,T7 (Treg cells),FOXP3,30958799
+Human,,T7 (Treg cells),CTLA4,30958799
+Human,,T7 (Treg cells),未匹配到标准化基因符号,30958799
+Human,,T7 (Treg cells),KLRB1 (CD161),30958799
+Human,,T7 (Treg cells),ICOS,30958799
+Human,,T7 (Treg cells),CD25 (IL2RA),30958799
+Human,,T7 (Treg cells),CCR6,30958799
+Human,,T7 (Treg cells),CCR4,30958799
+Human,,T8 (effector Th2 cells),CD4,30958799
+Human,,T8 (effector Th2 cells),GATA3,30958799
+Human,,T8 (effector Th2 cells),Th2 signature markers,30958799
+Human,,T8 (effector Th2 cells),KLRB1 (CD161),30958799
+Human,,T8 (effector Th2 cells),CXCR4,30958799
+Human,,T8 (effector Th2 cells),CCR4,30958799
+Human,,T8 (effector Th2 cells),PTGDR2,30958799
+Human,,T8 (effector Th2 cells),ITGA4,30958799
+Human,,T7 (memory Treg),CD4,30958799
+Human,,T7 (memory Treg),FOXP3,30958799
+Human,,T7 (memory Treg),未匹配到标准化基因符号,30958799
+Human,,T7 (memory Treg),CTLA4,30958799
+Human,,T7 (memory Treg),IL-2A (CD25),30958799
+Human,,T7 (memory Treg),无法标准化,30958799
+Human,,T7 (memory Treg),未找到匹配的标准化基因符号,30958799
+Human,,T8 (effector Th2),GATA3,30958799
+Human,,T8 (effector Th2),无法标准化,30958799
+Human,,T8 (effector Th2),未匹配到标准化基因符号,30958799
+Human,,T8 (effector Th2),无法标准化,30958799
+Human,,T8 (effector Th2),HPGDS,30958799
+Human,,T8 (effector Th2),IL17RB,30958799
+Human,,T8 (effector Th2),CD40LG,30958799
+Human,,T8 (effector Th2),NFATC2,30958799
+Human,,T8 (effector Th2),无法标准化,30958799
+Human,,T8 (effector Th2),AHR,30958799
+Human,,T8 (effector Th2),NR3C1,30958799
+Human,,T8 (effector Th2),PPARG,30958799
+Human,,T8 (effector Th2),PTGDR2 (CRTH2),30958799
+Human,,T8 (effector Th2),IL1RL1 (ST2L),30958799
+,,T8,GATA3,30958799
+,,T7,FOXP3,30958799
+,,T8,PPARG,30958799
+,,T8,AHR,30958799
+,,T8,NR3C1,30958799
+,,T8,NFKBIZ,30958799
+,,T8,NFATC3,30958799
+,,T8,NFAT5,30958799
+,,T8,JUN,30958799
+Human,EoE tissue,Th2 cell,无法标准化,30958799
+Human,EoE tissue,Th2 cell,未匹配到标准化基因符号,30958799
+Human,EoE tissue,Th2 cell,无法标准化,30958799
+Human,EoE tissue,T lymphocyte,IFNG,30958799
+Human,Esophageal tissue,Th1 cell,IFNG,30958799
+Human,Esophageal tissue,Th2 cell,IL4,30958799
+Human,Esophageal tissue,Th2 cell,IL5,30958799
+Human,Esophageal tissue,Th2 cell,IL13,30958799
+Human,Esophageal tissue,Th1 cell,IFNG,30958799
+Human,Esophageal tissue,Th2 cell,IL4,30958799
+Human,Esophageal tissue,Th2 cell,IL5,30958799
+Human,Esophageal tissue,Th2 cell,IL13,30958799
+Human,,CD4+ T cell,IL2,30958799
+Human,,CD4+ T cell,TNF,30958799
+Human,,CD4+ T cell,IFNG,30958799
+Human,,CD8+ T cell,IFNG,30958799
+Human,,CD8+ T cell,TNF,30958799
+Human,,T7 (T cell cluster),IL10,30958799
+Human,,Treg (T7),FOXP3,30958799
+Human,,T7 (Treg),IL10,30958799
+Human,,T7 (Treg),TGFB1,30958799
+Human,,CD4+ T cells,IL10,30958799
+Human,,CD8+ T cells,IL10,30958799
+Human,,T7 (Treg),IL2RA,30958799
+Human,,T8,IL2RA,30958799
+Human,,CD8+ T1–T6,TGFB1,30958799
+Human,,T7,TGFB1,30958799
+Human,,T1–T3,IL17A,30958799
+Human,,T7,IL17A,30958799
+Human,EoE tissue,T cells (IL5 producers),IL5,30958799
+Human,EoE tissue,T cells (FFAR3+),FFAR3,30958799
+Human,Blood,CD4+ T cells,FFAR3,30958799
+Mouse,Lung,CD4+ lymphocytes,无法标准化,30958799
+Human,,Treg-like cells,CD4+ FOXP3+ IL-10+ CTLA4+ IL-2A(CD25)+ IL-1R1/R2+,30958799
+Human,,Th2 cells,CD4+ GATA3+ IL-4+ IL-5+ IL-13+ HPGDS+ CRTH2+ IL-17RB+ CD40LG (CD154)+ NFAT1+ NFκ-B1+ AHR+ NR3C1+ PPARG+,30958799
+Human,,CD8+ T cell,MKI67,35303421
+Human,,CD4+ Treg cell,IL10,35303421
+Human,,Macrophage,SPP1,35303421
+Human,,CD4+ Treg cell,CTLA4,35303421
+Human,,Tex cell,LAYN,35303421
+Human,,Macrophage,C1QC,35303421
+Human,,Macrophage,NLRP3,35303421
+,,Th17,IL23R,35303421
+,,Th17,RORC,35303421
+,,Th17,ITGAE,35303421
+,,Th1-like,CXCL13,35303421
+,,Th1-like,PDCD1,35303421
+,,Treg-IL10,IL10,35303421
+,,Treg-IL10,IL23R,35303421
+,,Treg-IL10,IL1R1,35303421
+,,Treg-CTLA4,LAYN,35303421
+,,Treg-CTLA4,CCR8,35303421
+,,Treg-CTLA4,TIGIT,35303421
+Human,,Treg-CTLA4,CTLA4,35303421
+Human,,Treg-FOXP3,FOXP3,35303421
+Human,,Treg-IL10,IL10,35303421
+Human,,SPP1+ TAMs,SPP1,35303421
+Human,,Treg-CTLA4,CTLA4,35303421
+Human,,Treg-FOXP3,FOXP3,35303421
+Human,,Treg-IL10,IL10,35303421
+Human,,SPP1+ TAMs,SPP1,35303421
+Human,Liver Metastasis (Liv.Mets),SPP1+ TAMs,SPP1,35303421
+Human,Liver Metastasis (Liv.Mets),SPP1+ TAMs,CD68,35303421
+Human,Liver Metastasis (Liv.Mets),SPP1+ TAMs,MARCO,35303421
+Human,Liver Metastasis (Liv.Mets),C1QC+ TAMs,C1QC,35303421
+Human,Liver Metastasis (Liv.Mets),C1QC+ TAMs,CXCL9,35303421
+Human,Liver Metastasis (Liv.Mets),C1QC+ TAMs,CXCL10,35303421
+Human,Liver Metastasis (Liv.Mets),MKI67+ TAMs,MKI67,35303421
+Human,,TAMs,SPP1,35303421
+Human,,cDC2-C1QC (DC3),C1QA,35303421
+Human,,cDC2-C1QC (DC3),CD68,35303421
+Human,,cDC2-C1QC (DC3),CD163,35303421
+Human,,cDC2-C1QC (DC3),CD14,35303421
+Human,,cDC2-TIMP1,CCR7,35303421
+Human,,cDC2-TIMP1,EREG,35303421
+Human,,cDC2-TIMP1,CREM,35303421
+Human,,cDC2-TIMP1,VEGFA,35303421
+Human,,DC3s,CD1C,35303421
+Human,,DC3s,CD163,35303421
+Human,,DC3s,CD14,35303421
+Human,Tumor microenvironment,TAMs (C1QC+),C1QC,35303421
+Human,Tumor microenvironment,TAMs (SPP1+),SPP1,35303421
+Human,Tumor microenvironment,cDC2s (C1QC+),C1QC,35303421
+Human,Liver,NK cells (liver-resident),CD56bright/CD16neg,35303421
+Human,,Dendritic Cells,CD1C,35303421
+Human,,Monocytes/Macrophages,CD14,35303421
+Human,,Macrophages,CD163,35303421
+Human,,Macrophages,CD68,35303421
+Human,,Cells expressing Osteopontin,SPP1,35303421
+Human,,Cells expressing MARCO,MARCO,35303421
+Human,Tumor,SPP1+ TAM,CD68,35303421
+Human,Tumor,SPP1+ TAM,MARCO,35303421
+Human,Tumor,DC3,CD1C,35303421
+Human,Tumor,DC3,CD14,35303421
+Human,Tumor,DC3,CD163,35303421
+Human,,SPP1+ TAMs,PTPRC,35303421
+Human,,SPP1+ TAMs,CD3G,35303421
+Human,,SPP1+ TAMs,CD19,35303421
+Human,,SPP1+ TAMs,NCAM1,35303421
+Human,,SPP1+ TAMs,CD68,35303421
+Human,,SPP1+ TAMs,SPP1,35303421
+Human,,DC3s,PTPRC,35303421
+Human,,DC3s,CD3G,35303421
+Human,,DC3s,CD19,35303421
+Human,,DC3s,NCAM1,35303421
+Human,,DC3s,CD1C,35303421
+Human,,DC3s,CD14,35303421
+Human,,DC3s,CD163,35303421
+Human,,T cells,CD3D,35303421
+Human,,T cells,CD3E,35303421
+Human,,NK cells,NKG7,35303421
+Human,,B cells,CD79A,35303421
+Human,,B cells,CD19,35303421
+Human,,Myeloid cells,CST3,35303421
+Human,,Myeloid cells,CD68,35303421
+Human,,Myeloid cells,LYZ,35303421
+Human,,Myeloid cells,SERPINB9,35303421
+,,T cells,CD3D,35303421
+,,T cells,CD3G,35303421
+,,NK cells,CD3D,35303421
+,,NK cells,CD3G,35303421
+,,DCs,CLEC10A,35303421
+,,DCs,CD1C,35303421
+,,DCs,BATF3,35303421
+,,DCs,FCER1A,35303421
+,,Macrophages,CD68,35303421
+,,Macrophages,MAFB,35303421
+,,Macrophages,CSF1R,35303421
+,,Macrophages,CD14,35303421
+,,SPP1+ TAMs,SPP1,35303421
+,,SPP1+ TAMs,MARCO,35303421
+,,SPP1+ TAMs,GPNMB,35303421
+,,SPP1+ TAMs,RGCC,35303421
+,,SPP1+ TAMs,MMP19,35303421
+,,SPP1+ TAMs,OLR1,35303421
+,,SPP1+ TAMs,APOE,35303421
+,,c38_cDC2-C1QC cells,C1QA,35303421
+,,c38_cDC2-C1QC cells,C1QB,35303421
+,,c38_cDC2-C1QC cells,C1QC,35303421
+,,c38_cDC2-C1QC cells,CCL4,35303421

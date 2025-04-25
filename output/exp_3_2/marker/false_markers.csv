@@ -1,0 +1,36 @@
+marker,in_mygene
+CCR2-,False
+CCR2+,False
+CCR2+Ly6Chigh,False
+CCR2+MHC-IIhigh,False
+Ly6Chigh,False
+CD64+Ly6ClowCCR2-tdTomato+,False
+CD64+Ly6ClowCCR2+tdTomato+,False
+CD64+Ly6ClowCCR2+tdTomato-,False
+CD64intLy6ChighCCR2+tdTomato-,False
+Ccl9,False
+Il1β,False
+Hif1α,False
+Type I IFN stimulated genes,False
+Cyr61,False
+CD169,False
+Ly6C2,False
+Hp (haptoglobin),False
+Plac8 (placenta-specific 8),False
+Thbs (thrombospondin),False
+Tnip3 (TNFAIP3-interacting protein 3),False
+Itgb7 (integrin subunit β7),False
+CD64,False
+tdTomato,False
+Ly6C,False
+CD45,False
+CD64,False
+CD45.1,False
+MHC-II,False
+MHC-IIlo,False
+CCR2-,False
+ICAM-1,False
+VCAM-1,False
+MHC II,False
+CD31,False
+VE-cadherin,False

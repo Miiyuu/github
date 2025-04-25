@@ -1,0 +1,2546 @@
+ori_tissue,ori_cell_type
+lung and omental and subcutaneous fat tissues,mrtms (lyve1lomhciihicx3cr1hi)
+lung and omental and subcutaneous fat tissues,mrtms (lyve1lomhciihicx3cr1hi)
+lung and omental and subcutaneous fat tissues,mrtms (lyve1lomhciihicx3cr1hi)
+lung and omental and subcutaneous fat tissues,mrtms (lyve1himhciilo)
+lung and omental and subcutaneous fat tissues,mrtms (lyve1himhciilo)
+lung,lyve1lomhciihi hims
+lung,lyve1lomhciihi hims
+lung,lyve1lomhciihi hims
+lung,lyve1himhciilo hims
+lung,lyve1himhciilo hims
+lung,lyve1himhciilo hims
+lung,cd45+cd11b+cd14+cd16−human lung macrophages (cd64+)
+lung,cd45+cd11b+cd14+cd16−human lung macrophages (cd64+)
+lung,cd45+cd11b+cd14+cd16−human lung macrophages (cd64+)
+lung,cd45+cd11b+cd14+cd16−human lung macrophages (cd64+)
+lung,lyve1+ cells
+lung,lyve1+ cells
+heart,cardiomyocyte (cm)
+heart,cardiomyocyte (cm)
+heart,cardiomyocyte (cm)
+heart,cardiomyocyte (cm)
+heart,cardiomyocyte (cm)
+heart,cardiac progenitor (cvp)
+heart,cardiac progenitor (cvp)
+heart,cardiac progenitor (cvp)
+heart,cardiac progenitor (cvp)
+heart,cardiac progenitor (cvp)
+heart,cardiac progenitor (cvp)
+heart,cardiac progenitor (cvp)
+heart,cardiac progenitor (cvp)
+esophagus,treg (t regulatory) cell
+esophagus,effector th2 cell
+esophagus,effector th2 cell
+esophagus,effector th2 cell
+esophagus,effector th2 cell
+esophagus,effector th2 cell
+eoe tissue,t lymphocyte
+eoe tissue,cd3+ t cell
+eoe tissue,cd3+ t cell
+eoe tissue,cd3+ t cell
+eoe tissue,tissue lymphocyte
+eoe tissue,tissue lymphocyte
+eoe tissue,th2 cell
+eoe tissue,th2 cell
+eoe tissue,th2 cell
+eoe tissue,t lymphocyte
+esophageal tissue,th1 cell
+esophageal tissue,th2 cell
+esophageal tissue,th2 cell
+esophageal tissue,th2 cell
+esophageal tissue,th1 cell
+esophageal tissue,th2 cell
+esophageal tissue,th2 cell
+esophageal tissue,th2 cell
+eoe tissue,t cells (il5 producers)
+eoe tissue,t cells (ffar3+)
+blood,cd4+ t cells
+heart,valve progenitor cell (hpvc)
+heart,valve progenitor cell (hpvc)
+heart,valve progenitor cell (hpvc)
+heart,valve progenitor cell (hpvc)
+heart,valve progenitor cell (hpvc)
+heart,valve progenitor cell (hpvc)
+heart,valve progenitor cell (hpvc)
+heart,valve progenitor cell (hpvc)
+mitral valve,valvular interstitial cells (vics)
+pluripotent stem cells,hips cells
+pluripotent stem cells,hips cells
+pluripotent stem cells,hips cells
+endoderm,differentiated cells from hips cells
+endoderm,differentiated cells from hips cells
+mesoderm,differentiated cells from hips cells
+mesoderm,differentiated cells from hips cells
+ectoderm,differentiated cells from hips cells
+ectoderm,differentiated cells from hips cells
+valve endothelial cells,hpvcs
+valve endothelial cells,hpvcs
+valve endothelial cells,hpvcs
+valve endothelial cells,hpvcs
+valve endothelial cells,hpvcs
+valve endothelial cells,hpvcs
+valve tissue,endothelial cell
+valve tissue,endothelial cell
+valve tissue,endothelial cell
+valve tissue,endothelial cell
+valve tissue,endothelial cell
+valve tissue,endothelial cell
+valve tissue,endothelial cell
+valve tissue,endothelial cell
+brain,microglia/macrophage
+retina,rod photoreceptors
+retina,rod photoreceptors
+retina,rod photoreceptors
+retina,cone photoreceptors
+retina,cone photoreceptors
+retina,cone photoreceptors
+retina,müller glia
+retina,retinal astrocytes
+retina,microglia
+retina,microglia
+retina,microglia
+retina,bipolar cells
+retina,bipolar cells
+retina,retinal ganglion cells
+retina,retinal ganglion cells
+retina,retinal ganglion cells
+retina,amacrine cells
+retina,amacrine cells
+retina,amacrine cells
+retina,horizontal cells
+retina,horizontal cells
+retina,off-bipolar cells
+retina,on-bipolar cells (rod bipolar cells)
+retina,on-bipolar cells (diffuse bipolar subtype db4)
+retina,rod photoreceptors
+retina,rod photoreceptors
+retina,rod photoreceptors
+retina,rod photoreceptors
+retina,rod photoreceptors
+retina,rod photoreceptors
+retina,rod photoreceptors
+retina,rod photoreceptor
+retina,rod photoreceptor
+retina,cone photoreceptor
+retina,cone photoreceptor
+retina,cone photoreceptor
+retina,cone photoreceptor
+retina,cone photoreceptor
+retina,cone photoreceptor
+retina,cone photoreceptor
+retina,cone photoreceptor
+retina,cone photoreceptor
+retina,cone photoreceptor
+retina,cone photoreceptor
+retina,s-cone photoreceptor
+retina,m-cone photoreceptor
+retina,l-cone photoreceptor
+retina,s-cone photoreceptor
+retina,l/m-cone photoreceptor
+retina,müller glia
+retina,müller glia
+retina,retinal astrocytes
+retina,retinal astrocytes
+retina,müller glia and retinal astrocytes
+retina,müller glia and retinal astrocytes
+retina,müller glia and retinal astrocytes
+retina,cone photoreceptor (l/m-cones)
+retina,cone photoreceptor (s-cones)
+retina,rod photoreceptor (malat1-hi)
+retina,rod photoreceptor (malat1-lo)
+retinal organoid,retinal progenitor cell (rpc)
+retinal organoid,retinal progenitor cell (rpc)
+retinal organoid,retinal ganglion cell (rgc)
+retinal organoid,photoreceptor precursor
+retinal organoid,retinal ganglion cell (rgc)
+retinal organoid,retinal ganglion cell (rgc)
+retinal organoid,interneuron
+retinal organoid,interneuron
+retinal organoid,photoreceptor
+retinal organoid,photoreceptor
+retinal organoids,retinal progenitor cells (rpcs)
+retinal organoids,retinal progenitor cells (rpcs)
+retinal organoids,retinal progenitor cells (rpcs)
+retinal organoids,retinal progenitor cells (rpcs)
+retinal organoids,retinal progenitor cells (rpcs)
+retinal organoids,retinal progenitor cells (rpcs)
+retina,neuronal cell
+retina,photoreceptor precursor
+retina,retinal progenitor cell (rpc)
+retina,neuronal cell
+retina,photoreceptor precursor
+retina,retinal progenitor cell (rpc)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,neurogenic retinal progenitor cells (rpcs)
+retinal organoids,multipotent retinal progenitor cells (rpcs)
+retinal organoids,multipotent retinal progenitor cells (rpcs)
+retinal organoids,quiescent neural stem cells (nscs)
+retinal organoids,quiescent neural stem cells (nscs)
+retinal organoids,quiescent neural stem cells (nscs)
+retinal organoids,quiescent neural stem cells (nscs)
+retinal organoids,quiescent neural stem cells (nscs)
+retinal organoids,retinal progenitor cells (rpcs)
+retinal organoids,retinal progenitor cells (rpcs)
+retinal organoids,retinal progenitor cells (rpcs)
+retinal organoids,retinal progenitor cells (rpcs)
+retinal organoids,retinal progenitor cells (rpcs)
+retinal organoids,retinal progenitor cells (rpcs)
+retina,multipotent rpcs
+retina,multipotent rpcs
+retina,neurogenic rpcs
+retina,neurogenic rpcs
+retina,müller glia
+retina,müller glia
+retina,müller glia
+retina,müller cell
+retina,müller cell
+retina,cone photoreceptors
+retina,cone photoreceptors
+retina,cone photoreceptors
+retina,cone photoreceptors
+retina,photoreceptor cells
+retina,photoreceptor cells
+retina,photoreceptor cells
+retina,retinal ganglion cells
+retina,retinal ganglion cells
+retina,bipolar cells
+retina,bipolar cells
+retina,bipolar cells
+retina,bipolar cells
+retina,amacrine cells
+retina,amacrine cells
+retina,horizontal cells
+retina,horizontal cells
+retina,horizontal cells
+retina,müller glia and astrocytes
+retina,müller glia and astrocytes
+retina,müller glia and astrocytes
+retina,resident microglia
+retina,resident microglia
+retina,resident microglia
+retina,resident microglia
+retina,cells lining the retinal vasculature
+retina,cells lining the retinal vasculature
+retina,cells lining the retinal vasculature
+retina,cells lining the retinal vasculature
+retina,astrocytes (subtype 1)
+retina,astrocytes (subtype 1)
+retina,astrocytes (subtype 1)
+retina,astrocyte
+retina,astrocyte
+retina,astrocyte
+retina,astrocyte
+retina,astrocyte
+retina,astrocyte
+retina,astrocyte
+retina,müller glia (subtype 2)
+retina,müller glia (subtype 2)
+retina,müller glia (subtype 2)
+retina,müller glia (subtype 2)
+retina,müller glia (subtype 2)
+retina,müller glia (subtype 2)
+retina,müller glia (subtype 2)
+retina,müller glia (subtype 3)
+retina,müller glia (subtype 3)
+retina,müller glia (subtype 3)
+retina,müller glia
+retina,müller glia
+retina,müller glia
+retina,müller glia
+retina,astrocytes
+retina,astrocytes
+retina,astrocytes
+retina,astrocytes
+retina,müller glia
+retina,vascular cells
+retina,müller glia
+retina,vascular cells
+retina,macroglia
+retina,macroglia
+retina,macroglia
+retina,macroglia
+retina,macroglia
+retina,macroglia
+retina,macroglia
+retina,macroglia
+retina,müller glia
+retina,müller glia
+retina,vascular endothelium
+retina,müller glia
+retina,müller glia
+retina,vascular endothelium
+retina,müller glia
+retina,müller glia
+retina,müller glia
+retina,müller glia
+retina,vascular endothelium
+retina,vascular endothelium
+rpe-choroid,choriocapillaris endothelial cell
+choroid,endothelial cell
+choroid,endothelial cell
+choroid,endothelial cell
+rpe/choroid,schwann cell
+rpe/choroid,endothelial cell
+rpe/choroid,endothelial cell
+rpe/choroid,endothelial cell
+rpe/choroid,smooth muscle cell
+rpe/choroid,smooth muscle cell
+rpe/choroid,fibroblast
+rpe/choroid,rpe cell
+rpe/choroid,rpe cell
+rpe/choroid,leukocyte
+rpe/choroid,b cell
+rpe/choroid,t cell/nk cell
+rpe/choroid,monocyte/macrophage
+rpe/choroid,mast cell
+retina,schwann cell (myelinating)
+retina,schwann cell (myelinating)
+retina,schwann cell (nonmyelinating)
+retina,schwann cell (nonmyelinating)
+retina,schwann cell (nonmyelinating)
+retina,schwann cell (nonmyelinating)
+retina,rpe (macular)
+retina,rpe (macular)
+retina,rpe (peripheral)
+retina,rpe (peripheral)
+retina,endothelial cell (venous)
+retina,endothelial cell (venous)
+retina,choriocapillaris endothelial cell
+retina,choriocapillaris endothelial cell
+retina,arterial endothelial cell
+retina,arterial endothelial cell
+retina,arterial endothelial cell
+retina,arterial endothelial cell
+retina,arterial endothelial cell
+retina,venous endothelial cell
+retina,venous endothelial cell
+retina,venous endothelial cell
+retina,choriocapillaris endothelial cell
+retina,choriocapillaris endothelial cell
+retina,choriocapillaris endothelial cell
+retina/choroid,endothelial cell
+vein endothelial cell,endothelial cell
+vein endothelial cell,endothelial cell
+choriocapillaris endothelial cell,endothelial cell
+choriocapillaris endothelial cell,endothelial cell
+arterial endothelial cell,endothelial cell
+arterial endothelial cell,endothelial cell
+choriocapillaris endothelial cell,endothelial cell
+choroid,endothelial cell
+choroid,endothelial cell
+choroid,endothelial cell
+choroid,endothelial cell
+choroid,choriocapillaris endothelial cell
+choroid,endothelial cell
+choroid,endothelial cell
+retina,rod cells
+retina,bipolar cells
+retina,müller glial cells
+retina,amacrine cells
+retina,horizontal cells
+retina,cone cells
+retina,retinal ganglion cells
+retina,cone cell
+retina,cone cell
+retina,cone cell
+retina,cone cell
+retina,cone cell
+retina,cone cell
+retina,cone cell
+retina,rod cell
+retina,cone cell
+retina,rod cell
+retina,cone cell
+retina,rod cell
+uveal melanoma,cd8+ t cells
+uveal melanoma,cd8+ t cells
+uveal melanoma,cd8+ t cells
+uveal melanoma,cd8+ t cells
+uveal melanoma,cd8+ t cells
+uveal melanoma,cd8+ t cells
+uveal melanoma,cd8+ t cells
+uveal melanoma,t regulatory cells
+uveal melanoma,t regulatory cells
+uveal melanoma,t regulatory cells
+uveal melanoma,t regulatory cells
+uveal melanoma,follicular t cells
+uveal melanoma,follicular t cells
+uveal melanoma,follicular t cells
+uveal melanoma,follicular t cells
+uveal melanoma,follicular t cells
+uveal melanoma,follicular t cells
+uveal melanoma,follicular t cells
+uveal melanoma,naive t cells
+uveal melanoma,cd8+ t effector memory cells
+uveal melanoma,cd8+ t effector memory cells
+uveal melanoma,cd8+ resident memory cells
+uveal melanoma,cd8+ resident memory cells
+uveal melanoma,cytotoxic cd8+ t cells
+uveal melanoma,cytotoxic cd8+ t cells
+uveal melanoma,cytotoxic cd8+ t cells
+uveal melanoma,cytotoxic cd8+ t cells
+retina,retinal progenitors
+retina,retinal progenitors
+retina,retinal ganglion cells
+retina,amacrine cells
+retina,horizontal cells
+retina,photoreceptors
+retina,progenitor cells (g2/m-phase)
+retina,t1 population (intermediate developmental state)
+retina,progenitor cells
+retina,ganglion cells
+retina,t1 transition cells
+retina,t3 cells
+retina,t2 cells
+retina,t3 cells
+retina,progenitor cells
+retina,differentiating neurons
+retina,differentiating neurons
+retina,photoreceptors (prs)
+retina,photoreceptors (prs)
+retina,bipolar cells (bcs)
+retina,bipolar cells (bcs)
+retina,bipolar cells (bcs)
+retina,amacrine cells (acs)
+retina,amacrine cells (acs)
+retina,t1-like cluster cells
+retina,t1-like cluster cells
+retina,t1-like cluster cells
+retina,rgcs
+retina,prs
+retina,progenitors
+retina,t1 population cells
+retina,t1 population cells
+retina,t1 cell
+retina,progenitor cell
+retina,progenitor cell
+retina,rgc (retinal ganglion cell)
+retina,rgc (retinal ganglion cell)
+retina,photoreceptor (pr) cell
+retina,amacrine cell (ac)
+retina,t1 cell
+retina,t3 cell
+retina,müller glia
+retina,müller glia
+retina,müller glia
+retina,bipolar cells (bcs)
+retina,bipolar cells (bcs)
+retina,bipolar cells (bcs)
+retina,progenitor cells
+retina,t1 cells
+retina,progenitor cells
+retina,progenitor cells
+retina,progenitor cells
+retina,progenitor cells
+retina,progenitor cells
+retina,progenitor cells
+retina,progenitor cells
+retina,later-stage progenitor cells
+retina,later-stage progenitor cells
+retina,late progenitor cells transitioning to immature müller glia
+gastric tissue,epithelial cells
+gastric tissue,epithelial cells
+gastric tissue,epithelial cells
+gastric tissue,epithelial cells
+gastric tissue,epithelial cells
+gastric tissue,epithelial cells
+gastric tissue,fibroblasts
+gastric tissue,fibroblasts
+gastric tissue,fibroblasts
+gastric tissue,fibroblasts
+gastric tissue,endothelial cells
+gastric tissue,endothelial cells
+gastric tissue,endothelial cells
+gastric tissue,endothelial cells
+gastric tissue,immune cells
+gastric tissue,cd4 t cells
+gastric tissue,cd4 t cells
+gastric tissue,cd4 t cells
+gastric tissue,cytotoxic t cells
+gastric tissue,cytotoxic t cells
+gastric tissue,cytotoxic t cells
+gastric tissue,regulatory t cells
+gastric tissue,regulatory t cells
+gastric tissue,nk cells
+gastric tissue,nk cells
+gastric tissue,b cells
+gastric tissue,plasma cells
+gastric tissue,mast cells
+gastric tissue,macrophages
+gastric tissue,macrophages
+gastric tissue,macrophages
+gastric tissue,epithelial cells (gc type 1)
+gastric tissue,epithelial cells (gc type 1)
+gastric tissue,epithelial cells (gc type 1)
+gastric tissue,epithelial cells (gc type 1)
+gastric tissue,epithelial cells (gc type 1)
+gastric tissue,epithelial cells (gc type 2)
+gastric tissue,epithelial cells (gc type 2)
+gastric tissue,epithelial cells (gc type 2)
+gastric tissue,epithelial cells (gc type 2)
+gastric tme,cd4 helper t cell
+gastric tme,cd8 t cell
+gastric tme,treg cell
+gastric tme,b cell
+gastric tme,cytotoxic cd8 t lymphocyte (ctl)
+gastric tme,cytotoxic cd8 t lymphocyte (ctl)
+gastric tme,cytotoxic cd8 t lymphocyte (ctl)
+gastric tme,cytotoxic cd8 t lymphocyte (ctl)
+gastric tme,cytotoxic cd8 t lymphocyte (ctl)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+gastric tme,exhausted t cell (tex)
+tumor,effector ctls (subclass 2)
+tumor,effector ctls (subclass 2)
+tumor,effector ctls (subclass 2)
+tumor,effector ctls (subclass 2)
+tumor,memory t cells
+tumor,t cells
+tumor,exhausted effector t cells
+tumor,tregs (subclass 1)
+tumor,tregs (subclass 1)
+tumor,naïve cd4 t cells
+tumor,naïve cd4 t cells
+tumor,effector cd4 t cells
+tumor,effector cd4 t cells
+tumor,effector cd4 t cells
+tumor,effector cd4 t cells
+tumor,effector cd4 t cells
+peripheral blood mononuclear cells (pbmcs),t cells
+peripheral blood mononuclear cells (pbmcs),t cells
+peripheral blood mononuclear cells (pbmcs),t cells
+peripheral blood mononuclear cells (pbmcs),t cells
+peripheral blood mononuclear cells (pbmcs),t cells
+peripheral blood mononuclear cells (pbmcs),t cells
+peripheral blood mononuclear cells (pbmcs),t cells
+peripheral blood mononuclear cells (pbmcs),t cells
+peripheral blood mononuclear cells (pbmcs),myeloid cells
+peripheral blood mononuclear cells (pbmcs),myeloid cells
+peripheral blood mononuclear cells (pbmcs),myeloid cells
+peripheral blood mononuclear cells (pbmcs),myeloid cells
+peripheral blood mononuclear cells (pbmcs),myeloid cells
+peripheral blood mononuclear cells (pbmcs),myeloid cells
+peripheral blood mononuclear cells (pbmcs),myeloid cells
+peripheral blood mononuclear cells (pbmcs),myeloid cells
+peripheral blood mononuclear cells (pbmcs),myeloid cells
+peripheral blood mononuclear cells (pbmcs),myeloid cells
+peripheral blood mononuclear cells (pbmcs),myeloid cells
+peripheral blood mononuclear cells (pbmcs),b cells
+peripheral blood mononuclear cells (pbmcs),b cells
+peripheral blood mononuclear cells (pbmcs),b cells
+peripheral blood mononuclear cells (pbmcs),b cells
+peripheral blood mononuclear cells (pbmcs),b cells
+peripheral blood mononuclear cells (pbmcs),b cells
+peripheral blood mononuclear cells (pbmcs),b cells
+peripheral blood,cd3-cd7+gzmb+ cells
+retina,retinal pigment epithelial cell
+retina,retinal pigment epithelial cell
+retina,retinal pigment epithelial cell
+retina,retinal pigment epithelial cell
+optic vesicle,rpe cells
+optic vesicle,rpe cells
+optic vesicle,alternative lineages
+optic vesicle,alternative lineages
+retina,hpsc-rpe cell
+retina,hpsc-rpe cell
+retina,hpsc-rpe cell
+retina,hpsc-rpe cell
+retina,hpsc-rpe cell
+retina,hpsc-rpe cell
+retina,hpsc-rpe cell
+retina,hpsc-rpe cell
+embryoid bodies,pigmented cells
+embryoid bodies,pigmented cells
+embryoid bodies,pigmented cells
+hpsc-rpe,hpsc-rpe cells
+hpsc-rpe,hpsc-rpe cells
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,eye-field progenitors
+retina,rpe (retinal pigment epithelium)
+retina,rpe (retinal pigment epithelium)
+retina,rpe (retinal pigment epithelium)
+retina,rpe (retinal pigment epithelium)
+retina,rpe (retinal pigment epithelium)
+retina,rpe (retinal pigment epithelium)
+retina,retinal pigment epithelial (rpe) cell
+retina,retinal pigment epithelial (rpe) cell
+retina,retinal pigment epithelial (rpe) cell
+retina,retinal pigment epithelial (rpe) cell
+pluripotent stem cell,undifferentiated cell
+eye-field progenitor,progenitor cell
+eye-field progenitor,progenitor cell
+eye-field progenitor,progenitor cell
+eye-field progenitor,progenitor cell
+retina,hpsc-rpe (retinal pigment epithelium) cells
+retina,hpsc-rpe (retinal pigment epithelium) cells
+retina,hpsc-rpe (retinal pigment epithelium) cells
+retina,hpsc-rpe (retinal pigment epithelium) cells
+retina,hpsc-rpe (retinal pigment epithelium) cells
+retina,hpsc-rpe (retinal pigment epithelium) cells
+retina,eye-field progenitors
+retina,eye-field progenitors
+retina,eye-field progenitors
+retina,eye-field progenitors
+retina,eye-field progenitors
+retina,eye-field progenitors
+retina,eye-field progenitors
+retina,eye-field progenitors
+retina,myogenic lineage cells
+retina,myogenic lineage cells
+retina,myogenic lineage cells
+retina,myogenic lineage cells
+retina,hpsc-rpe (retinal pigment epithelium) cells
+retina,hpsc-rpe (retinal pigment epithelium) cells
+retina,hpsc-rpe (retinal pigment epithelium) cells
+retina,hpsc-rpe (retinal pigment epithelium) cells
+retina,hpsc-rpe (retinal pigment epithelium) cells
+peripheral blood,cd4+ t cells
+peripheral blood,tn (t naive) cells
+peripheral blood,tcm (t central memory) cells
+peripheral blood,tem (t effector memory) cells
+peripheral blood,treg (regulatory t) cells
+pbmcs,b cells
+pbmcs,t cells
+pbmcs,monocytes
+pbmcs,monocytes
+pbmcs,monocytes
+pbmcs,dendritic cells
+pbmcs,nk cells
+trabecular meshwork and associated structures,beam a cells
+trabecular meshwork and associated structures,beam b cells
+trabecular meshwork and associated structures,junctional cells (jct)
+trabecular meshwork and associated structures,junctional cells (jct)
+trabecular meshwork and associated structures,schwalbe line cells
+trabecular meshwork and associated structures,trabecular meshwork cells
+trabecular meshwork and associated structures,trabecular meshwork cells
+trabecular meshwork and associated structures,trabecular meshwork cells
+trabecular meshwork and associated structures,trabecular meshwork cells
+conventional outflow pathway,vascular endothelium
+conventional outflow pathway,vascular endothelium
+conventional outflow pathway,vascular endothelium
+conventional outflow pathway,vascular endothelium
+conventional outflow pathway,vascular endothelium
+conventional outflow pathway,schlemm's canal (sc) endothelium
+conventional outflow pathway,schlemm's canal (sc) endothelium
+conventional outflow pathway,schlemm's canal (sc) endothelium
+conventional outflow pathway,schlemm's canal (sc) endothelium
+conventional outflow pathway,schlemm's canal (sc) endothelium
+conventional outflow pathway,schlemm's canal (sc) endothelium
+conventional outflow pathway,trabecular meshwork (tm) cells
+conventional outflow pathway,trabecular meshwork (tm) cells
+conventional outflow pathway,beam cells
+conventional outflow pathway,beam cells
+conventional outflow pathway,junctional cells of the tm (jct)
+conventional outflow pathway,junctional cells of the tm (jct)
+conventional outflow pathway,"corneoscleral rim, scleral fibroblasts"
+conventional outflow pathway,schwalbe line cells
+retina,rgcs
+corneal endothelium,schwalbe line cells
+trabecular meshwork,beam cells and jct
+retina,rgcs
+trabecular meshwork,"tm cell types (c3, c5, and c8)"
+gastric cancer,cancer stem cells (cscs)
+gastric cancer,cancer stem cells (cscs)
+gastric cancer,cancer stem cells (cscs)
+pancreatic cancer tissue,malignant pc cell
+pancreatic cancer tissue,epithelial cell
+pancreatic cancer tissue,epithelial cell
+pancreatic cancer tissue,nonepithelial cell
+pancreatic cancer tissue,t lymphocyte
+pancreatic cancer tissue,epithelial tumor cell
+pancreatic cancer tissue,immune cell
+pancreatic cancer tissue,macrophage
+pancreatic cancer tissue,stromal cell
+pancreatic cancer tissue,malignant pc cell
+pancreatic cancer tissue,epithelial cell
+pancreatic cancer tissue,epithelial cell
+pancreatic cancer tissue,nonepithelial cell
+pancreatic cancer tissue,t lymphocyte
+pancreatic cancer tissue,epithelial tumor cell
+pancreatic cancer tissue,immune cell
+pancreatic cancer tissue,macrophage
+pancreatic cancer tissue,stromal cell
+liver,b cell
+liver,myeloid cell
+liver,liver-derived lymphocytes
+liver,liver-derived lymphocytes
+liver,liver-derived lymphocytes
+liver,liver-derived lymphocytes
+liver,liver-derived lymphocytes
+liver,liver-derived lymphocytes
+liver,liver-derived lymphocytes
+liver,tissue-resident nk (trnk) cells
+liver,tissue-resident nk (trnk) cells
+liver,cd8+ tissue-resident memory t (trm) cells
+liver,cd8+ tissue-resident memory t (trm) cells
+liver,mucosal-associated invariant t (mait) cells
+liver,mucosal-associated invariant t (mait) cells
+liver,γδ t cells
+liver,γδ t cells
+liver,immune cells
+liver,trm cell
+liver,trm cell
+liver,trm cell
+liver,trm cell
+liver,trm cell
+liver,trm cell
+liver,trm cell
+liver,trm cell
+liver,mait cell
+liver,mait cell
+liver,mait cell
+liver,mait cell
+liver,mait cell
+liver,mait cell
+liver,trnk cell
+liver,trnk cell
+liver,trnk cell
+liver,trnk cell
+liver,trnk cell
+liver,t and nk cells (cycling)
+liver,c7-cycling subset (nk-like)
+liver,c7-cycling subset (nk-like)
+liver,c7-cycling subset (nk-like)
+liver,c7-cycling subset (nk-like)
+liver,c7-cycling subset (nk-like)
+liver,c7-cycling subset (nk-like)
+liver,c7-cycling subset (nk-like)
+liver,trnk cell
+liver,trnk cell
+liver,lrt and lrnk cells
+liver,"mait, cxcr6+ cd8+ trm cells, γδ t cells and cxcr6+ trnk cells"
+liver,naive/cm t cells
+liver,tc and nk cells
+liver,trm and trnk cells
+liver,classic cd14+ monocytes
+liver,tissue-derived cd14+ monocyte subset
+liver,cd16+ monocytes
+liver,lrt and lrnk cells
+liver,"mait, cxcr6+ cd8+ trm cells, γδ t cells and cxcr6+ trnk cells"
+liver,naive/cm t cells
+liver,tc and nk cells
+liver,trm and trnk cells
+liver,classic cd14+ monocytes
+liver,tissue-derived cd14+ monocyte subset
+liver,cd16+ monocytes
+"blood, spleen, and lp","nk cell subsets (cxcr6+cd16−, cxcr6−cd16−, cxcr6−cd16+)"
+spleen and lp,"cd16+ monocytes, especially mertk+, cd206+ (mrc1) monocyte and macrophage"
+spleen and lp,"cd16+ monocytes, especially mertk+, cd206+ (mrc1) monocyte and macrophage"
+"blood, spleen, and lp",classical memory b (cmbc) cells (c3)
+"blood, spleen, and lp",classical memory b (cmbc) cells (c3)
+"blood, spleen, and lp",classical memory b (cmbc) cells (c3)
+"blood, spleen, and lp",age-associated b cells (abcs) (c4)
+"blood, spleen, and lp",isg+ b cells (c6)
+"blood, spleen, and lp",zbtb32+ b cells (c7)
+"blood, spleen, and lp","nk cell subsets (cxcr6+cd16−, cxcr6−cd16−, cxcr6−cd16+)"
+spleen and lp,"cd16+ monocytes, especially mertk+, cd206+ (mrc1) monocyte and macrophage"
+spleen and lp,"cd16+ monocytes, especially mertk+, cd206+ (mrc1) monocyte and macrophage"
+"blood, spleen, and lp",classical memory b (cmbc) cells (c3)
+"blood, spleen, and lp",classical memory b (cmbc) cells (c3)
+"blood, spleen, and lp",classical memory b (cmbc) cells (c3)
+"blood, spleen, and lp",age-associated b cells (abcs) (c4)
+"blood, spleen, and lp",isg+ b cells (c6)
+"blood, spleen, and lp",zbtb32+ b cells (c7)
+liver,t resident memory (trm) cells
+liver,cytotoxic t cells (tc)
+liver,liver-resident nk (lrnk) cells
+liver,conventional nk (cnk) cells
+liver and spleen,tissue-cd14+ monocytes
+liver and spleen,cd16+ monocytes
+"blood, spleen, liver",cd4 t naive/cm
+"blood, spleen, liver",cd4 t naive/cm
+"blood, spleen, liver",cd4 t naive/cm
+"blood, spleen, liver",cd4 t naive/cm
+"blood, spleen, liver",cd4 t naive/cm
+"blood, spleen, liver",cd4 t naive/cm
+"blood, spleen, liver",cd4 t naive/cm
+"blood, spleen, liver",cd4 t naive/cm
+"blood, spleen, liver",cd4 t naive/cm
+"blood, spleen, liver",cd4 t tem
+"blood, spleen, liver",cd4 t tem
+"blood, spleen, liver",cd4 t tem
+"blood, spleen, liver",cd4 t tem
+"blood, spleen, liver",cd4 t tem
+"blood, spleen, liver",cd4 t tem
+"spleen, liver",cd4 t tfh
+"spleen, liver",cd4 t tfh
+"spleen, liver",cd4 t tfh
+"spleen, liver",cd4 t tfh
+"spleen, liver",cd4 t tfh
+"blood, spleen, liver",cd4 t treg
+"blood, spleen, liver",cd4 t treg
+"blood, spleen, liver",cd4 t treg
+"blood, spleen, liver",cd4 t treg
+"blood, spleen, liver",cd4 t treg
+"blood, spleen, liver",cd4 t treg
+"blood, spleen, liver",cd4 t treg
+"blood, spleen, liver",cd4 t treg
+"blood, spleen, liver",cd4 t treg
+"blood, spleen, liver",cd8 t naive/cm
+"blood, spleen, liver",cd8 t naive/cm
+"blood, spleen, liver",cd8 t naive/cm
+"blood, spleen, liver",cd8 t naive/cm
+"blood, spleen, liver",cd8 t naive/cm
+"blood, spleen, liver",cd8 t naive/cm
+"blood, spleen, liver",cd8 t naive/cm
+"blood, spleen, liver",cd8 t naive/cm
+"blood, spleen, liver",cd8 t naive/cm
+"blood, spleen, liver",cd8 t naive/cm
+"blood, spleen, liver",cd8 t tem
+"blood, spleen, liver",cd8 t tem
+"blood, spleen, liver",cd8 t tem
+"blood, spleen, liver",cd8 t tem
+"liver, spleen",cd8 t trm
+"liver, spleen",cd8 t trm
+"liver, spleen",cd8 t trm
+"liver, spleen",cd8 t trm
+"liver, spleen",cd8 t trm
+"liver, spleen",cd8 t trm
+"liver, spleen",cd8 t trm
+"liver, spleen",cd8 t trm
+"liver, spleen",cd8 t mait
+"liver, spleen",cd8 t mait
+"liver, spleen",cd8 t mait
+"liver, spleen",cd8 t mait
+"liver, spleen",cd8 t mait
+"liver, spleen",cd8 t mait
+"liver, spleen",cd8 t mait
+"liver, spleen",cd8 t mait
+"blood, spleen, liver",cd8 t tc
+"blood, spleen, liver",cd8 t tc
+"blood, spleen, liver",cd8 t tc
+"blood, spleen, liver",cd8 t tc
+"blood, spleen, liver",cd8 t tc
+"blood, spleen, liver",cd8 t tc
+"blood, spleen, liver",cd8 t tc
+"blood, spleen, liver",cd8 t tc
+"blood, spleen, liver",cd8 t tc
+"blood, spleen, liver",cd8 t tc
+"liver, spleen",γδ t
+"liver, spleen",γδ t
+"liver, spleen",γδ t
+"liver, spleen",γδ t
+"liver, spleen",ilc trnk
+"liver, spleen",ilc trnk
+"liver, spleen",ilc trnk
+"liver, spleen",ilc trnk
+"liver, spleen",ilc trnk
+"liver, spleen",ilc trnk
+"liver, spleen",ilc trnk
+"liver, spleen",ilc trnk
+"liver, spleen",ilc trnk
+"liver, spleen",ilc trnk
+"liver, spleen",ilc trnk
+"blood, spleen, liver",ilc cnk
+"blood, spleen, liver",ilc cnk
+"blood, spleen, liver",ilc cnk
+"blood, spleen, liver",ilc cnk
+"blood, spleen, liver",ilc cnk
+"blood, spleen, liver",ilc cnk
+"blood, spleen, liver",ilc cnk
+"blood, spleen, liver",ilc cnk
+"blood, spleen, liver",ilc cnk
+"blood, spleen, liver",ilc cnk
+"blood, spleen, liver",ilc cnk
+"blood, spleen, liver",ilc cnk
+"spleen, liver",ilc
+"spleen, liver",ilc
+"spleen, liver",ilc
+"spleen, liver",ilc
+"spleen, liver",ilc
+"spleen, liver",ilc
+"spleen, liver",ilc
+"spleen, liver",ilc
+"spleen, liver",ilc
+"spleen, liver",ilc
+"liver, spleen",cycling nk & t
+"liver, spleen",cycling nk & t
+"liver, spleen",cycling nk & t
+"liver, spleen",cycling nk & t
+"liver, spleen",cycling nk & t
+"liver, spleen",cycling nk & t
+"liver, spleen",cycling nk & t
+"liver, spleen",cycling nk & t
+"liver, spleen",cycling nk & t
+"liver, spleen",cycling nk & t
+"liver, spleen",cycling nk & t
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"blood, spleen, liver",myeloid cells cd14+ mo
+"liver, spleen",myeloid cells tissue-cd14+ mo
+"liver, spleen",myeloid cells tissue-cd14+ mo
+"liver, spleen",myeloid cells tissue-cd14+ mo
+"liver, spleen",myeloid cells tissue-cd14+ mo
+"liver, spleen",myeloid cells tissue-cd14+ mo
+"liver, spleen",myeloid cells tissue-cd14+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"blood, spleen, liver",myeloid cells cd16+ mo
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"liver, spleen",myeloid cells macrophage
+"blood, spleen",megakaryocyte
+"blood, spleen",megakaryocyte
+"blood, spleen",megakaryocyte
+"blood, spleen",megakaryocyte
+"blood, spleen",megakaryocyte
+"blood, spleen",megakaryocyte
+"blood, spleen",megakaryocyte
+"blood, spleen",megakaryocyte
+"blood, spleen",megakaryocyte
+"blood, spleen",megakaryocyte
+"spleen, liver",cdc1
+"spleen, liver",cdc1
+"spleen, liver",cdc1
+"blood, spleen, liver",pdc
+"blood, spleen, liver",pdc
+"blood, spleen, liver",pdc
+"blood, spleen, liver",pdc
+"blood, spleen, liver",pdc
+"spleen, liver",b cells
+"spleen, liver",b cells
+"spleen, liver",b cells
+"spleen, liver",b cells
+"spleen, liver",b cells
+"spleen, liver",b cells
+"spleen, liver",b cells
+"spleen, liver",b cells
+"spleen, liver",b cells
+"blood, spleen, liver",naïve b
+"blood, spleen, liver",naïve b
+"blood, spleen, liver",naïve b
+"blood, spleen, liver",naïve b
+"blood, spleen, liver",naïve b
+"blood, spleen, liver",naïve b
+"blood, spleen, liver",naïve b
+"blood, spleen, liver",naïve b
+spleen,mzb
+spleen,mzb
+spleen,mzb
+spleen,mzb
+spleen,mzb
+spleen,mzb
+spleen,mzb
+spleen,mzb
+spleen,mzb
+"blood, spleen, liver",cmbc
+"blood, spleen, liver",cmbc
+"blood, spleen, liver",cmbc
+"blood, spleen, liver",cmbc
+"blood, spleen, liver",cmbc
+"blood, spleen, liver",cmbc
+"blood, spleen, liver",cmbc
+"spleen, liver",cd11c+ abc
+"spleen, liver",cd11c+ abc
+"spleen, liver",cd11c+ abc
+"spleen, liver",cd11c+ abc
+"spleen, liver",cd11c+ abc
+"spleen, liver",cd11c+ abc
+"spleen, liver",cd11c+ abc
+"spleen, liver",cd11c+ abc
+"spleen, liver",gcb
+"spleen, liver",gcb
+"spleen, liver",gcb
+"spleen, liver",gcb
+"spleen, liver",gcb
+"spleen, liver",gcb
+"spleen, liver",gcb
+"spleen, liver",gcb
+"spleen, liver",gcb
+"spleen, liver",gcb
+"spleen, liver",isg+ b
+"spleen, liver",isg+ b
+"spleen, liver",isg+ b
+"spleen, liver",isg+ b
+"spleen, liver",isg+ b
+"spleen, liver",isg+ b
+"spleen, liver",isg+ b
+"spleen, liver",isg+ b
+"spleen, liver",isg+ b
+"spleen, liver",isg+ b
+"spleen, liver",zbtb32+ b
+"spleen, liver",zbtb32+ b
+"spleen, liver",zbtb32+ b
+"spleen, liver",zbtb32+ b
+"spleen, liver",zbtb32+ b
+"spleen, liver",zbtb32+ b
+"spleen, liver",zbtb32+ b
+"spleen, liver",zbtb32+ b
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"spleen, liver",plasma cells
+"blood, spleen, liver",pb
+"blood, spleen, liver",pb
+"blood, spleen, liver",pb
+"blood, spleen, liver",pb
+"blood, spleen, liver",c3-pc
+"blood, spleen, liver",c3-pc
+"blood, spleen, liver",c3-pc
+"blood, spleen, liver",c3-pc
+"blood, spleen, liver",c3-pc
+"blood, spleen, liver",c3-pc
+"blood, spleen, liver",c3-pc
+"blood, spleen, liver",c3-pc
+"blood, spleen, liver",c3-pc
+"spleen, liver",c4-pc
+"spleen, liver",c4-pc
+"spleen, liver",c4-pc
+"spleen, liver",c4-pc
+blood,classical cd14++ monocytes (m1)
+blood,non-classical cd16++ (fcgr3a) cd14-/+ monocytes (m2)
+blood,intermediate cd14++ cd16+ monocytes (m3)
+blood,intermediate cd14++ cd16+ monocytes (m3)
+blood,cd1c+ cdc2 (m4)
+blood,clec9a+ cdc1 (m5)
+blood,pdc (clec4c+cd123+) (m6)
+blood,pdc (clec4c+cd123+) (m6)
+blood,classical cd14++ inﬂammatory monocytes (m1)
+blood,classical cd14++ inﬂammatory monocytes (m1)
+blood,classical cd14++ inﬂammatory monocytes (m1)
+blood,classical cd14++ inﬂammatory monocytes (m1)
+blood,classical cd14++ inﬂammatory monocytes (m1)
+blood,classical cd14++ inﬂammatory monocytes (m1)
+blood,classical cd14++ inﬂammatory monocytes (m1)
+blood,classical cd14++ inﬂammatory monocytes (m1)
+blood,classical cd14++ inﬂammatory monocytes (m1)
+blood,classical cd14++ inﬂammatory monocytes (m1)
+blood,cd56+cd16− nk cells (nk1)
+blood,cd56+cd16− nk cells (nk1)
+blood,cd56−cd16+ nk cells (nk2)
+blood,cd56−cd16+ nk cells (nk2)
+blood,cd4+ t cells
+blood,cd4+ t cells
+blood,naïve cd4+ t cells (t1)
+blood,naïve cd4+ t cells (t1)
+blood,naïve cd4+ t cells (t1)
+blood,"central memory cd4+ t cells (t2, cd4 tcm)"
+blood,"central memory cd4+ t cells (t2, cd4 tcm)"
+blood,"central memory cd4+ t cells (t2, cd4 tcm)"
+blood,"effector memory cd4+ t cells (t3, cd4 tem)"
+blood,"effector memory cd4+ t cells (t3, cd4 tem)"
+blood,"effector memory cd4+ t cells (t3, cd4 tem)"
+blood,"effector memory cd4+ t cells (t3, cd4 tem)"
+blood,"regulatory t cells (t4, treg)"
+blood,cd8+ t cells
+blood,cd8+ t cells
+blood,naïve cd8+ t cells (t5)
+blood,naïve cd8+ t cells (t5)
+blood,naïve cd8+ t cells (t5)
+blood,"effector memory cd8+ t cells (t6, cd8 tm)"
+blood,cytotoxic cd8+ lymphocytes (cd8+ ctl) (t7)
+blood,cytotoxic cd8+ lymphocytes (cd8+ ctl) (t7)
+blood,cytotoxic cd8+ lymphocytes (cd8+ ctl) (t7)
+blood,"proliferating t cells (t8, tprol)"
+blood,"proliferating t cells (t8, tprol)"
+pbmcs,myeloid cells
+pbmcs,myeloid cells
+pbmcs,myeloid cells
+pbmcs,nk and t cells
+pbmcs,nk and t cells
+pbmcs,nk and t cells
+pbmcs,nk and t cells
+pbmcs,b cells
+pbmcs,naïve b cells (b1)
+pbmcs,naïve b cells (b1)
+pbmcs,naïve b cells (b1)
+pbmcs,naïve b cells (b1)
+pbmcs,naïve b cells (b1)
+pbmcs,naïve b cells (b1)
+pbmcs,memory b cells (b2)
+pbmcs,memory b cells (b2)
+pbmcs,memory b cells (b2)
+pbmcs,immature b cells (b3)
+pbmcs,immature b cells (b3)
+pbmcs,plasma cells (b4)
+pbmcs,plasma cells (b4)
+peripheral blood,classical cd14++ monocytes
+peripheral blood,non-classical cd16++ (fcgr3a) cd14-/+ monocytes
+peripheral blood,cd1c+ cdc2
+peripheral blood,clec9a+ cdc1
+peripheral blood,pdc (clec4c+cd123+)
+peripheral blood,myeloid cells
+blood,inflammatory monocyte
+peripheral blood,naïve b cells
+peripheral blood,naïve b cells
+peripheral blood,memory b cells
+peripheral blood,memory b cells
+peripheral blood,immature b cells
+peripheral blood,plasma cells
+skin,dermal dcs
+skin,cd1a+ cells
+skin,dendritic cell (cd1a+)
+skin,dendritic cell (itgax+)
+peripheral blood,cd3+ t cell
+peripheral blood,cd3+ t cell
+peripheral blood,cd8+ t cell
+peripheral blood,cd8+ t cell
+peripheral blood,b cell
+peripheral blood,cd14 monocyte
+peripheral blood,nk cell
+trabecular meshwork,tm cells
+trabecular meshwork,tm cells
+trabecular meshwork,tm cells
+trabecular meshwork,tm cells
+trabecular meshwork,schwann cell-like clusters
+trabecular meshwork,schwann cell-like clusters
+trabecular meshwork,tm1 fibroblast cell cluster
+trabecular meshwork,tm1 fibroblast cell cluster
+ciliary muscle,smooth muscle cluster
+trabecular meshwork,tm2 and smooth muscle cluster
+trabecular meshwork,lymphatic-like endothelial cell cluster
+trabecular meshwork,lymphatic-like endothelial cell cluster
+trabecular meshwork,lymphatic-like endothelial cell cluster
+conventional outflow tract,tm2 and tm1 cell clusters
+conventional outflow tract,all cell clusters (more preference for tm1 and tm2)
+conventional outflow tract,tm2 and smooth muscle cell clusters
+conventional outflow tract,"all cell clusters (more preference for schwann cell-like, tm2, smooth muscle cell, melanocyte, and myelinating schwann cell clusters)"
+conventional outflow tract,"lymphatic-like and vascular endothelial and schwann cell-like cell clusters, with some tm1 and tm2 expression"
+conventional outflow tract,tm1 and tm2 cell clusters
+conventional outflow tract,tm cells
+conventional outflow tract,lymphatic-like and vascular endothelial cell clusters
+conventional outflow tract,lymphatic-like and vascular endothelial cell clusters
+conventional outflow tract,tm
+conventional outflow tract,sc
+eye,tm1 and tm2 cells (with preference for jct (tm1 cells))
+eye,schlemm's canal (sc) and neighboring endothelial-lined vessels
+eye,ciliary muscle
+eye,lymphatic endothelial cells
+eye,lymphatic endothelial cells
+eye,trabecular meshwork
+eye,junctional region and schlemm's canal
+eye,scleral spur and ciliary muscle cells
+eye,scleral spur and ciliary muscle cells
+eye,scleral spur and ciliary muscle cells
+eye,scleral spur and ciliary muscle cells
+eye,scleral spur and ciliary muscle cells
+eye,scleral spur and ciliary muscle cells
+eye,scleral spur and ciliary muscle cells
+eye,scleral spur and ciliary muscle cells
+eye,scleral spur and ciliary muscle cells
+eye,scleral spur and ciliary muscle cells
+eye,scleral spur and ciliary muscle cells
+eye,scleral spur and ciliary muscle cells
+eye,tm2-myofibroblast cell cluster
+eye,tm2-myofibroblast cell cluster
+eye,tm1-fibroblast cell cluster
+eye,tm1-fibroblast cell cluster
+eye,lymphatic-like endothelial cell cluster
+eye,tm1 and tm2 cell clusters
+eye,tm1 and tm2 cell clusters
+eye,tm1 and tm2 cell clusters
+eye,tm1 and tm2 cell clusters
+eye,tm1 and tm2 cell clusters
+eye,"lymphatic-like and vascular endothelial cell clusters (i.e., sc)"
+eye,"lymphatic-like and vascular endothelial cell clusters (i.e., sc)"
+eye,"lymphatic-like and vascular endothelial cell clusters (i.e., sc)"
+eye,"lymphatic-like and vascular endothelial cell clusters (i.e., sc)"
+eye,"lymphatic-like and vascular endothelial cell clusters (i.e., sc)"
+eye,"lymphatic-like and vascular endothelial cell clusters (i.e., sc)"
+eye,tm2 cell cluster
+gastric mucosa,chief cell
+gastric mucosa,chief cell
+gastric mucosa,immune-related cell
+gastric mucosa,immune-related cell
+gastric tissue,epithelial cell
+gastric tissue,epithelial cell
+gastric tissue,epithelial cell
+gastric tissue,parietal cell
+gastric tissue,endocrine cell
+gastric tissue,b cell
+gastric tissue,b cell
+gastric tissue,t cell
+gastric tissue,t cell
+gastric tissue,t cell
+gastric tissue,macrophage
+gastric tissue,mast cell
+gastric tissue,fibroblast
+gastric tissue,fibroblast
+gastric tissue,endotheliocyte
+gastric tissue,endotheliocyte
+gastric tissue,malignant epithelial cell
+gastric tissue,malignant epithelial cell
+gastric tissue,malignant epithelial cell
+gastric tissue,malignant epithelial cell
+gastric tissue,non-malignant epithelial cell
+gastric tissue,non-malignant epithelial cell
+gastric tissue,non-malignant epithelial cell
+gastric tissue,non-malignant epithelial cell
+stomach,surface cells
+stomach,surface cells
+stomach,surface cells
+stomach,chief cells
+stomach,chief cells
+stomach,chief cells
+stomach,mucous neck cells
+stomach,mucous neck cells
+stomach,metaplasia cells
+stomach,metaplasia cells
+stomach,metaplasia cells
+stomach,metaplasia cells
+gastric tumor,c2 (small intestine-like)
+gastric tumor,c2 (small intestine-like)
+gastric tumor,c1 (gastric epithelial-like)
+gastric tumor,c1 (gastric epithelial-like)
+gastric tumor,c4 (chief cell-like)
+gastric tumor,c4 (chief cell-like)
+gastric tumor,c4 (chief cell-like)
+stomach gland,ga-fg-ccp cells
+stomach gland,ga-fg-ccp cells
+intestinal-type gastric adenocarcinoma,ga-fg-ccp cells
+gastric tissue,ebv+ malignant cells
+gastric tissue,ebv+ malignant cells
+gastric tissue,ebv+ malignant cells
+gastric adenocarcinoma,immune cell
+gastric adenocarcinoma,immune cell
+gastric adenocarcinoma,tumor cell
+gastric adenocarcinoma,immune cell
+gastric adenocarcinoma,immune cell
+gastric adenocarcinoma,tumor cell
+yolk sac,progenitors
+yolk sac,progenitors
+yolk sac,progenitors
+yolk sac,progenitors
+fetal liver,hscs/mpps
+agm region,naïve progenitors
+agm region,naïve progenitors
+fetal liver,hscs/mpps
+esophageal tissue,fibroblast
+esophageal tissue,fibroblast
+esophagus,cd8+ t cell
+esophagus,cd4+ t cell
+esophagus,regulatory t cell
+esophagus,effector t-helper type 2 cell
+esophagus,effector t-helper type 2 cell
+esophagus,t cell
+esophagus,cd8+ interferon gamma–expressing cell
+esophagus,fibroblast
+esophagus,fibroblast
+esophagus,myofibroblast
+esophagus,eosinophil
+esophagus,fibroblast
+esophagus,fibroblast
+esophagus,inflammatory fibroblast
+esophagus,inflammatory fibroblast
+esophagus,inflammatory fibroblast
+esophagus,inflammatory fibroblast
+esophagus,inflammatory fibroblast
+esophagus,inflammatory fibroblast
+esophagus,inflammatory fibroblast
+esophagus,inflammatory fibroblast
+esophagus,myofibroblast
+esophagus,myofibroblast
+esophagus,myofibroblast
+esophagus,myofibroblast
+esophagus,myofibroblast
+esophagus,inflammatory fibroblast
+esophagus,myofibroblast
+esophagus,t cell
+esophagus,t cell
+esophagus,fibroblast
+esophagus,fibroblast
+esophagus,fibroblast
+esophagus,fibroblast
+esophagus,fibroblast
+splanchnic mesenchyme-like lineages,smooth muscle (sm)
+splanchnic mesenchyme-like lineages,smooth muscle (sm)
+splanchnic mesenchyme-like lineages,smooth muscle (sm)
+splanchnic mesenchyme-like lineages,smooth muscle (sm)
+choroid,mhcii+cd11c-
+choroid,mhcii+cd11c+
+choroid,mhcii+cd11c− macrophages
+choroid,mhcii+cd11c+ macrophages
+choroid,mhcii+cd11c− macrophages
+choroid,mhcii+cd11c+ macrophages
+rpe-choroid,macrophage
+rpe-choroid,macrophage
+rpe-choroid,macrophage
+rpe-choroid,macrophage
+rpe-choroid,macrophage
+rpe-choroid,macrophage
+rpe-choroid,effector nk/t cells
+rpe-choroid,effector nk/t cells
+rpe-choroid,effector nk/t cells
+rpe-choroid,b cells
+rpe-choroid,mast cells
+rpe-choroid,mast cells
+rpe-choroid,macrophage
+rpe-choroid,macrophage
+choroid,mhcii+cd11c- macrophage
+choroid,mhcii+cd11c+ macrophage
+tumor,t cell
+tumor,t cell
+tumor,b cell
+tumor,b cell
+tumor,b cell
+tumor,plasma cell
+tumor,plasma cell
+tumor,plasma cell
+tumor,nk cell
+tumor,nk cell
+tumor,nk cell
+tumor,monocyte/macrophage
+tumor,monocyte/macrophage
+tumor,monocyte/macrophage
+tumor,monocyte/macrophage
+tumor,monocyte/macrophage
+tumor,monocyte/macrophage
+tumor,mdc (myeloid dendritic cell)
+tumor,pdc (plasmacytoid dendritic cell)
+tumor,mast cell
+tumor,mast cell
+tumor,mast cell
+escc (esophageal squamous cell carcinoma) tissue,cd4+cd25hifoxp3+ tregs
+escc (esophageal squamous cell carcinoma) tissue,cd8 t cells
+escc (esophageal squamous cell carcinoma) tissue,nk cells
+escc (esophageal squamous cell carcinoma) tissue,tregs
+escc (esophageal squamous cell carcinoma) tissue,tregs
+escc (esophageal squamous cell carcinoma) tissue,tregs
+esophageal tissue,treg
+esophageal tissue,treg
+esophageal tissue,treg
+esophageal tissue,treg
+esophageal tissue,macrophage
+esophageal tissue,m2 macrophage
+esophageal tissue,m2 macrophage
+hepatocellular carcinoma,macrophage (m4-c1-thbs1)
+hepatocellular carcinoma,mdsc (mdsc-c1-c1qc)
+hepatocellular carcinoma,mdsc (mdsc-c2-apoe)
+hepatocellular carcinoma,macrophage (m4-c2-c1qa)
+esophageal squamous cell carcinoma (escc),macrophage (macro-c3-csf1)
+tumor microenvironment (tme),cdc1
+tumor microenvironment (tme),cdc2
+tumor microenvironment (tme),lamp3+ dc
+tumor microenvironment (tme),monocyte-derived dc
+tumor microenvironment (tme),tregs
+tumor microenvironment (tme),tams
+escc tumor and adjacent tissues,dc cells
+escc tumor and adjacent tissues,dc cells
+escc tumor and adjacent tissues,dc cells
+escc tumor and adjacent tissues,dc cells
+escc tumor and adjacent tissues,dc cells
+escc tumor and adjacent tissues,dc cells
+escc tumor and adjacent tissues,treg cells
+escc tumor and adjacent tissues,macrophages
+escc tumor and adjacent tissues,macrophages
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+eye,rpe cell
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retinal pigment epithelium,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retina,rpe (retinal pigment epithelium) cell
+retinal pigment epithelium,aged 5
+retinal pigment epithelium,aged 5
+retinal pigment epithelium,aged 5
+retinal pigment epithelium,aged 5
+retinal pigment epithelium,aged 5
+retinal pigment epithelium,aged 5
+retinal pigment epithelium,aged 2
+retinal pigment epithelium,aged 2
+retinal pigment epithelium,aged 3
+retinal pigment epithelium,aged 3
+retinal pigment epithelium,aged 3
+retinal pigment epithelium,aged 3
+retinal pigment epithelium,aged 4
+retinal pigment epithelium,"aged 2, 3, 4"
+retinal pigment epithelium,"aged 2, 3"
+retinal pigment epithelium,"aged 2, 3, 4"
+retinal pigment epithelium,"aged 2, 3, 4"
+retinal pigment epithelium,"aged 2, 3, 4"
+retinal pigment epithelium,"aged 2, 3, 4"
+retinal pigment epithelium,"aged 2, 3, 4"
+retinal pigment epithelium (rpe),immature subpopulation young 3
+retinal pigment epithelium (rpe),immature subpopulation young 3
+retinal pigment epithelium (rpe),immature subpopulation young 3
+retinal pigment epithelium (rpe),immature subpopulation young 3
+retinal pigment epithelium (rpe),immature subpopulation young 3
+retinal pigment epithelium (rpe),immature subpopulation young 3
+retinal pigment epithelium (rpe),subpopulation aged 3
+retinal pigment epithelium (rpe),all subpopulations
+retinal pigment epithelium (rpe),"subpopulations common 5 and 6, all aged subpopulations"
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cells
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+retina,rpe cell
+"head and neck cancer, cervical cancer, and ovarian cancer",cd4 tumor-infiltrating lymphocyte (til)
+"head and neck cancer, cervical cancer, and ovarian cancer",cd4 tumor-infiltrating lymphocyte (til)
+"head and neck cancer, cervical cancer, and ovarian cancer",cd4 tumor-infiltrating lymphocyte (til)
+"head and neck cancer, cervical cancer, and ovarian cancer",cd4 tumor-infiltrating lymphocyte (til)
+"head and neck cancer, cervical cancer, and ovarian cancer",cd4 tumor-infiltrating lymphocyte (til)
+"head and neck cancer, cervical cancer, and ovarian cancer",cd4 tumor-infiltrating lymphocyte (til)
+"head and neck cancer, cervical cancer, and ovarian cancer",cd4 tumor-infiltrating lymphocyte (til)
+tumor,cd8 tils
+tumor,cd8 tils
+tumor,cd8 tils
+tumor,cd8 tils
+tumor,cd8 tils
+tumor,cd4 tconv tils
+tumor,cd4 tconv tils
+tumor,cd4 tconv tils
+tumor,cd4 tconv tils
+tumor,cd4 tconv tils
+head and neck tumor,cd4 tconv tils
+head and neck tumor,cd4 tconv tils
+head and neck tumor,cd4 tconv tils
+head and neck tumor,cd4 tconv tils
+head and neck tumor,cd4 tconv tils
+tumor,conventional foxp3- cd4 t cells (tconvs)
+tumor,conventional foxp3- cd4 t cells (tconvs)
+tumor,conventional foxp3- cd4 t cells (tconvs)
+tumor,conventional foxp3- cd4 t cells (tconvs)
+tumor,conventional foxp3- cd4 t cells (tconvs)
+tumor,conventional foxp3- cd4 t cells (tconvs)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1-)
+head and neck cancer,cd4 tconvs (entpd1-)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1+)
+head and neck cancer,cd4 tconvs (entpd1+)
+ovarian cancer,cd4 tconv tils
+ovarian cancer,cd4 tconv tils
+tumor,cd8 tils
+tumor,cd8 tils
+tumor,cd8 tils
+tumor,cd4 tils
+tumor,cd4 tils
+tumor,cd4 tils
+tumor,cd8 tils
+tumor,cd8 tils
+tumor,cd8 tils
+tumor,cd4 tils
+tumor,cd4 tils
+tumor,cd4 tils
+tumor,cd8 tils
+tumor,cd8 tils
+tumor,cd8 tils
+tumor,cd4 tils
+tumor,cd4 tils
+tumor,cd4 tils
+tumor,cd4+ t cell
+tumor,cd8+ t cell
+tumor,t cell
+tumor,t cell
+tumor,t cell
+tumor,t cell
+tumor,t cell
+tumor,t cell
+tumor,t cell
+tumor,t cell
+tumor,t cell
+tumor,t cell
+tumor,t cell
+tumor,t cell
+tumor,cd4+ tils
+tumor,cd4+ tils
+retina,rod photoreceptor
+retina,cone photoreceptor
+retina,cone photoreceptor
+retina,photoreceptor
+retina,photoreceptor
+retinal organoids,rod photoreceptor
+retinal organoids,rod photoreceptor
+retinal organoids,cone photoreceptor
+retinal organoids,cone photoreceptor
+retinal organoids,photoreceptor
+retinal organoids,photoreceptor
+retinal organoids,rod photoreceptor
+retinal organoids,cone photoreceptor
+retinal organoids,photoreceptor cells
+retinal organoids,cone photoreceptor cells
+retinal organoids,cone photoreceptor cells
+retinal organoids,photoreceptor cells
+retinal organoids,photoreceptor cells
+retinal organoids,photoreceptor cells
+retinal organoids,photoreceptor cells
+retinal organoids,rod photoreceptor cells
+retinal organoids,rod photoreceptor cells
+retinal organoids,cone photoreceptor cells
+retinal organoids,cone photoreceptor cells
+retinal organoids,rod photoreceptor cells
+retinal organoids,cone photoreceptor cells
+tumor,mast cells
+tumor,mast cells
+tumor,cdcs (conventional dendritic cells)
+hepatocellular carcinoma,cdcs
+multiple tissues,resident tissue macrophages (rtms)
+colon cancer,tams
+hepatocellular carcinoma,tams
+uterus,mast cell
+uterus,mast cell
+thyroid tumor,mast cell
+thyroid tumor,mast cell
+tumor tissue,macrophage
+multiple cancer types,cdcs
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor or adjacent normal tissue,monocytes
+tumor or adjacent normal tissue,monocytes
+tumor or adjacent normal tissue,monocytes
+tumor or adjacent normal tissue,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+multiple cancer types,macrophages
+multiple cancer types,macrophages
+multiple cancer types,lyve1+ macrophages
+non-cancer tissues,nlrp3+ macrophages
+tumor,spp1+ tams
+tumor,c1qc+ tams
+tumor,isg15+ tams
+tumor,fn1+ tams
+tumor,rtms
+tumor,tams
+tumor,tams
+tumor,macrophages
+kidney tumor,tams
+kidney tumor,tams
+skcm tumor,macrophages
+tumor,cdcs
+lung cancer,macrophage
+lung cancer,macrophage
+lung cancer,macrophage
+lung cancer,macrophage
+retina,retinal ganglion cells
+lacrimal gland,epithelial cell
+lacrimal gland,epithelial cell
+lacrimal gland,epithelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,endothelial cell
+lacrimal gland,endothelial cell
+lacrimal gland,lymphocyte
+lacrimal gland,lymphocyte
+lacrimal gland,basal cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal cell
+lacrimal gland tissue,acinar cell
+lacrimal gland tissue,acinar cell
+lacrimal gland tissue,acinar cell
+lacrimal gland tissue,acinar cell
+lacrimal gland tissue,ductal cell
+lacrimal gland tissue,ductal cell
+lacrimal gland organoid,basal cell
+lacrimal gland organoid,basal cell
+lacrimal gland organoid,basal cell
+lacrimal gland organoid,basal cell
+lacrimal gland organoid,acinar cell
+lacrimal gland organoid,differentiated cell
+lacrimal gland organoid,differentiated cell
+lacrimal gland organoid,differentiated cell
+lacrimal gland organoid,differentiated cell
+lacrimal gland organoid,differentiated cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal cell
+lacrimal gland,acinar cell
+lacrimal gland,ductal and acinar cells
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal progenitor
+lacrimal gland,acinar cell
+esophagus (barrett's esophagus),metaplastic cells
+esophagus (barrett's esophagus),metaplastic cells
+esophagus (barrett's esophagus),metaplastic cells
+esophagus (barrett's esophagus),metaplastic cells
+esophagus (barrett's esophagus),metaplastic cells
+esophagus,barrett's esophagus cells
+esophagus,barrett's esophagus cells
+esophagus,barrett's esophagus cells
+esophagus,barrett's esophagus cells
+esophagus,barrett's esophagus cells
+barrett's esophagus,epithelial cells
+barrett's esophagus,epithelial cells
+barrett's esophagus,epithelial cells
+esophagus,columnar metaplasia cells
+esophagus,columnar metaplasia cells
+esophagus,columnar metaplasia cells
+lge (lateral ganglionic eminence),d1-msns (d1 medium spiny neurons)
+lge (lateral ganglionic eminence),d2-msns (d2 medium spiny neurons)
+lge (lateral ganglionic eminence),mge interneurons
+lge (lateral ganglionic eminence),mge interneurons
+lge (lateral ganglionic eminence),mge interneurons
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons
+striatum,pre-msn
+striatum,pre-msn
+striatum,pre-msn
+striatum,pre-msn
+striatum,d1-msns (patch cells)
+striatum,d1-msns (patch cells)
+striatum,d2-msns (patch cells)
+striatum,d2-msns (patch cells)
+lge (lateral ganglionic eminence),apical progenitors
+lge (lateral ganglionic eminence),apical progenitors
+striatum,d1-msns
+striatum,d2-msns
+striatum,d1-msns
+striatum,d2-msns
+striatum,d1-msns
+striatum,d2-msns
+brain,medium spiny neurons (msns)
+brain,medium spiny neurons (msns)
+brain,d1 msns
+brain,d2 msns
+cornea,qlscs (quiescent limbal stem cells)
+cornea,qlscs (quiescent limbal stem cells)
+colonic tissue,"cd8+ t cells (terminally differentiated, dysfunctional)"
+gallbladder cancer,macrophage
+gallbladder cancer,treg
+gallbladder cancer,macrophage
+gallbladder cancer,treg
+gallbladder cancer,epithelial cell (subtype 1)
+gallbladder cancer,epithelial cell (subtype 1)
+gallbladder cancer,epithelial cell (subtype 1)
+gallbladder cancer,epithelial cell (subtype 1)
+gallbladder cancer,endothelial cell
+gallbladder cancer,endothelial cell
+gallbladder cancer,endothelial cell
+gallbladder cancer,adipocyte
+gallbladder cancer,adipocyte
+gallbladder cancer,adipocyte
+gallbladder cancer,pericyte
+gallbladder cancer,pericyte
+gallbladder cancer,pericyte
+gallbladder cancer,pericyte
+gallbladder cancer,fibroblast
+gallbladder cancer,fibroblast
+gallbladder cancer,fibroblast
+gallbladder cancer,fibroblast
+gallbladder cancer,fibroblast
+gallbladder cancer,fibroblast
+gallbladder cancer,fibroblast
+gallbladder cancer,myofibroblast
+gallbladder cancer,myofibroblast
+gallbladder cancer,myofibroblast
+gallbladder cancer,myofibroblast
+gallbladder cancer,myofibroblast
+gallbladder cancer,myofibroblast
+gallbladder cancer,myofibroblast
+gallbladder cancer,mast cell
+gallbladder cancer,mast cell
+gallbladder cancer,mast cell
+gallbladder cancer,mast cell
+gallbladder cancer,b cell (follicular)
+gallbladder cancer,b cell (follicular)
+gallbladder cancer,b cell (plasma)
+gallbladder cancer,b cell (plasma)
+gallbladder cancer,b cell (plasma)
+gallbladder cancer,b cell (plasma)
+gallbladder cancer,b cell (plasma)
+gallbladder cancer,b cell (plasma)
+gallbladder cancer,treg cell
+gallbladder cancer,treg cell
+gallbladder cancer,treg cell
+gallbladder cancer,treg cell
+gallbladder cancer,treg cell
+gallbladder cancer,treg cell
+gallbladder cancer,treg cell
+gallbladder cancer,treg cell
+gallbladder cancer,cd4+ t cell
+gallbladder cancer,cd4+ t cell
+gallbladder cancer,cd4+ t cell
+gallbladder cancer,cd4+ t cell
+gallbladder cancer,cd4+ t cell
+gallbladder cancer,cd4+ t cell
+gallbladder cancer,cd4+ t cell
+gallbladder cancer,cd4+ t cell
+gallbladder cancer,cd4+ t cell
+gallbladder cancer,cd8+ t cell
+gallbladder cancer,cd8+ t cell
+gallbladder cancer,cd8+ t cell
+gallbladder cancer,cd8+ t cell
+gallbladder cancer,cd8+ t cell
+gallbladder cancer,cd8+ t cell
+gallbladder cancer,cd8+ t cell
+gallbladder cancer,cd8+ t cell
+gallbladder cancer,cd8+ t cell
+gallbladder cancer,cd8+ t cell
+gallbladder cancer,monocyte-like cell
+gallbladder cancer,monocyte-like cell
+gallbladder cancer,monocyte-like cell
+gallbladder cancer,monocyte-like cell
+gallbladder cancer,m1 macrophage
+gallbladder cancer,m1 macrophage
+gallbladder cancer,m1 macrophage
+gallbladder cancer,m1 macrophage
+gallbladder cancer,m2 macrophage
+gallbladder cancer,m2 macrophage
+gallbladder cancer,dendritic cell
+gallbladder cancer,dendritic cell
+gallbladder cancer,dendritic cell
+gallbladder cancer,dendritic cell
+gallbladder cancer,dendritic cell
+gallbladder,squamous cell
+gallbladder,squamous cell
+gallbladder,squamous cell
+gallbladder,adenocyte
+gallbladder cancer tissue,treg cell
+gallbladder cancer tissue,m2 macrophage
+gallbladder cancer tissue,epithelial cell (subtype 2)
+gallbladder cancer tissue,epithelial cell (subtype 2)
+gallbladder cancer tissue,epithelial cell (subtype 2)
+gallbladder cancer,epithelial cancer cells (subtype 2)
+gallbladder cancer,epithelial cancer cells (subtype 2)
+gallbladder cancer,epithelial cancer cells (subtype 2)
+gallbladder cancer (gbc) tissue,tregs
+gallbladder cancer (gbc) tissue,immunosuppressive macrophages
+gallbladder cancer (gbc) tissue,m1/m2 macrophages
+gallbladder cancer (gbc) tissue,endothelial-dcn
+gallbladder cancer (gbc) tissue,caf-acta2
+gallbladder cancer (gbc) tissue,caf-mfap5
+blood,t helper cell
+blood,cytotoxic t cell
+blood,b cell
+blood,γδ t cell
+blood,vδ2 t cell
+blood,mucosal-associated invariant t cell (mait cell)
+blood,invariant natural killer t cell (inkt cell)
+esophageal tissue,epithelial cells
+esophageal tissue,epithelial cells
+esophageal tissue,mast cells
+esophageal tissue,mast cells
+esophageal tissue,endothelial cells
+esophageal tissue,endothelial cells
+esophageal tissue,fibroblasts
+esophageal tissue,fibroblasts
+esophageal tissue,t cells
+esophageal tissue,t cells
+esophageal tissue,myeloid cells
+esophageal tissue,myeloid cells
+esophageal tissue,b cells
+esophageal tissue,b cells
+esophageal tissue,cancer cells
+esophageal tissue,cancer cells
+esophageal tissue,plasma b cell
+esophageal tissue,plasma b cell
+esophageal tissue,plasma b cell
+esophageal tissue,follicular b cell (cluster 2)
+esophageal tissue,follicular b cell (cluster 2)
+esophageal tissue,follicular b cell (cluster 2)
+esophageal tissue,follicular b cell (cluster 3)
+esophageal tissue,follicular b cell (cluster 3)
+esophageal tissue,follicular b cell (cluster 3)
+esophageal tissue,macrophage
+esophageal tissue,macrophage
+esophageal tissue,macrophage
+esophageal tissue,dendritic cell (dc)
+esophageal tissue,macrophage
+esophageal tissue,nkt/cd8+ t cells
+esophageal tissue,nkt/cd8+ t cells
+esophageal tissue,nkt/cd8+ t cells
+esophageal tissue,regulated/cd4+ t cells
+esophageal tissue,regulated/cd4+ t cells
+esophageal tissue,regulated/cd4+ t cells
+esophageal tissue,t follicular helper cells
+esophageal tissue,t follicular helper cells
+esophageal tissue,t follicular helper cells
+esophageal tissue,macrophages (phase 3)
+esophageal tissue,macrophages (phase 3)
+esophageal tissue,macrophages (phase 3)
+esophageal tissue,nkt/cd8+ t cells
+esophageal tissue,nkt/cd8+ t cells
+esophageal tissue,nkt/cd8+ t cells
+blood,circulating tumor cell
+blood,circulating tumor cell
+blood,circulating tumor cell
+blood,cd8+ t cell
+blood,cd4+ t cell
+blood,mait cell
+blood,mait cell
+blood,"cytotoxic cd4+ t cells (cd4 ctl, c13 cluster)"
+blood,"cytotoxic cd4+ t cells (cd4 ctl, c13 cluster)"
+blood,"cytotoxic cd4+ t cells (cd4 ctl, c13 cluster)"
+blood,"cytotoxic cd4+ t cells (cd4 ctl, c13 cluster)"
+brain vessels,cd8+ t cells
+brain vessels,cd8+ t cells
+brain vessels,cd8+ t cells
+brain vessels,cd8+ t cells
+brain vessels,cd8+ t cells
+brain vessels,cd8+ t cells
+brain vessels,cd8+ t cells
+brain vessels,cd8+ t cells
+brain vessels,cd4 ctls
+brain vessels,cd4 ctls
+brain vessels,cd4 ctls
+brain vessels,cd4 ctls
+brain vessels,cd4 ctls
+brain vessels,cd4 ctls
+brain vessels,cd4 ctls
+brain vessels,cd4 ctls
+brain vessels,central memory cd8+ t cells
+brain vessels,central memory cd8+ t cells
+brain vessels,central memory cd8+ t cells
+brain vessels,central memory cd8+ t cells
+brain vessels,central memory cd8+ t cells
+peripheral blood,naïve cd4+ t cell
+peripheral blood,naïve cd4+ t cell
+peripheral blood,naïve cd4+ t cell
+peripheral blood,naïve cd4+ t cell
+peripheral blood,cd3+ t cell
+peripheral blood,cd8 ctl
+peripheral blood,cd4 ctl
+yolk sac,ysmps (yolk sac myeloid-biased progenitors)
+yolk sac,ysmps (yolk sac myeloid-biased progenitors)
+yolk sac,ysmps (yolk sac myeloid-biased progenitors)
+yolk sac,ysmps (yolk sac myeloid-biased progenitors)
+peripheral blood,treg
+peripheral blood,non-treg
+peripheral blood,non-treg
+peripheral blood,non-treg
+peripheral blood,treg
+peripheral blood,treg
+peripheral blood,treg
+peripheral blood,treg
+blood,mait cell
+blood,mait cell
+blood,mait cell
+blood,mait cell
+blood,mait cell
+smg,"duct cells, oncocytes, mucous cells, myoepithelial cells"
+smg,"duct cells, oncocytes, mucous cells, myoepithelial cells"
+smg,"duct cells, oncocytes, mucous cells, myoepithelial cells"
+smg,"duct cells, oncocytes, mucous cells, myoepithelial cells"
+smg,transitional basal progenitors
+smg,transitional basal progenitors
+smg,transitional basal progenitors
+smg,epithelial cells
+smg,epithelial cells
+smg,epithelial cells
+smg,quiescent cells
+n-scj,transitional basal cells (c1 and c2)
+n-scj,transitional basal cells (c1 and c2)
+n-scj,transitional basal cells (c1 and c2)
+n-scj,residual embryonic cells (c3)
+n-scj,residual embryonic cells (c3)
+n-scj,muc5bhigh cell type (c4)
+submandibular gland (smg),intercalated and main duct cells
+submandibular gland (smg),intercalated and main duct cells
+submandibular gland (smg),intercalated and main duct cells
+barrett's esophagus (be),columnar cells
+barrett's esophagus (be),columnar cells
+barrett's esophagus (be),goblet cells
+barrett's esophagus (be),goblet cells
+barrett's esophagus (be),enteroendocrine-like cells
+barrett's esophagus (be),enteroendocrine-like cells
+barrett's esophagus (be),undifferentiated cells
+esophagus,barrett's esophagus cell
+esophagus,barrett's esophagus cell
+esophagus,pathogenic effector th2 cells
+peripheral blood,memory cd4+ t cells
+esophagus,th17 cells
+esophagus,th17 cells
+esophagus,th17 cells
+esophagus,cd8+ cells
+esophagus,cd8+ cells
+esophagus,cd8+ cells
+esophagus and duodenum,t cells
+esophagus and duodenum,t cells
+duodenum,t cells
+esophagus,cd4+ t cells
+esophagus,peth2 cell
+peripheral blood,peth2 cell
+peripheral blood,peth2 cell
+peripheral blood,cd4+ t cell
+peripheral blood,peth2 cell
+esophagus,peth2 cell
+esophagus,peth2 cell
+esophagus,peth2 cell
+esophagus,peth2 cell
+esophagus,peth2 cell
+esophagus,peth2 cell
+esophagus,peth2 cell
+esophagus,peth2 cell
+peripheral blood,memory cd4+ t cell
+peripheral blood,memory cd4+ t cell
+peripheral blood,memory cd4+ t cell
+peripheral blood,memory cd4+ t cell
+peripheral blood,memory cd4+ t cell
+peripheral blood,t cell
+peripheral blood,t cell
+esophageal tissue,stratified esophageal cells
+esophageal tissue,glandular be cells
+esophageal tissue,goblet cells
+esophageal tissue,goblet cells
+esophageal tissue,goblet cells
+esophageal tissue,goblet cells
+esophageal tissue,goblet cells
+esophageal tissue,immune cells
+esophageal tissue,immune cells
+esophageal tissue,immune cells
+esophageal tissue,columnar-epithelial cells (intestinal-like)
+esophageal tissue,columnar-epithelial cells (cardia-like)
+esophageal tissue,columnar-epithelial cells (cardia-like)
+esophageal tissue,columnar-epithelial cells (cardia-like)
+esophageal tissue,epithelial cell
+esophageal tissue,lamina propria cell
+squamous epithelium (se) epithelium,se-specific cell
+barrett's esophagus (be),be-specific cell
+barrett's esophagus (be),be-specific cell
+barrett's esophagus (be),be-specific cell
+barrett's esophagus (be),be-specific cell
+squamous epithelium (se),se-specific cell
+squamous epithelium (se),se-specific cell
+esophageal tissue,squamous epithelial cell
+esophageal tissue,columnar epithelial cell
+esophageal tissue,intestinal-type cell
+esophageal tissue,intestinal-type cell
+esophageal tissue,cardia-stomach cell
+esophageal tissue,cardia-stomach cell
+pbmc,platelet
+pbmc,b-cell
+pbmc,monocyte
+escc tumors,mucosal cells
+escc tumors,mucosal cells
+escc tumors,mucosal cells
+escc tumors,mucosal cells
+escc tumors,stress cells
+escc tumors,stress cells
+escc tumors,stress cells
+escc tumors,antigen presentation (ap) cells
+escc tumors,antigen presentation (ap) cells
+escc tumors,antigen presentation (ap) cells
+escc tumors,cycling cells
+escc tumors,cycling cells
+escc tumors,cycling cells
+escc tumors,epi1 cells
+escc tumors,epi1 cells
+escc tumors,epi1 cells
+escc tumors,epi2 cells
+escc tumors,epi2 cells
+escc tumors,epi2 cells
+escc tumors,epi2 cells
+escc tumors,mesenchymal-like cells
+escc tumors,mesenchymal-like cells
+escc tumor,t follicular helper 1 (tfh1) cell
+escc tumor,exhausted t (tex) cell
+escc tumor,exhausted t (tex) cell
+escc tumor,exhausted t (tex) cell
+escc tumor and adjacent normal tissues,germinal center b2 (gc b2) cells
+escc tumor and adjacent normal tissues,germinal center b2 (gc b2) cells
+escc tumor and adjacent normal tissues,monocytes and tumor-associated macrophages (tams)
+escc tumor and adjacent normal tissues,monocytes and tumor-associated macrophages (tams)
+escc tumor and adjacent normal tissues,monocytes
+escc tumor and adjacent normal tissues,tumor-associated macrophages (tams)
+escc tumor and adjacent normal tissues,tumor-associated macrophages (tams)
+escc tumor and adjacent normal tissues,conventional dc (cdc)
+escc tumor and adjacent normal tissues,conventional dc (cdc)
+escc tumor and adjacent normal tissues,conventional dc (cdc)
+escc tumor and adjacent normal tissues,conventional dc (cdc)
+escc tumor and adjacent normal tissues,conventional dc (cdc)
+escc tumor and adjacent normal tissues,tolerogenic dc (tdc)
+escc tumor and adjacent normal tissues,tolerogenic dc (tdc)
+escc tumor and adjacent normal tissues,tolerogenic dc (tdc)
+escc tumor and adjacent normal tissues,tolerogenic dc (tdc)
+escc tumor and adjacent normal tissues,plasmacytoid dc (pdc)
+escc (esophageal squamous cell carcinoma) tissue,tdc (tumor-associated dendritic cells)
+escc (esophageal squamous cell carcinoma) tissue,tdc (tumor-associated dendritic cells)
+escc (esophageal squamous cell carcinoma) tissue,tdc (tumor-associated dendritic cells)
+escc tumor,tumor-infiltrating tdcs
+escc tumor,tumor-infiltrating tdcs
+escc tumor,tumor-infiltrating tdcs
+peripheral blood,cd8+ t cells
+escc tumor,tumor-infiltrating tdcs
+escc tumor,tumor-infiltrating tdcs
+escc tumor,tumor-infiltrating tdcs
+peripheral blood,cd8+ t cells
+retinoblastoma,cone cells
+retinoblastoma,cone cells
+retinoblastoma,cone cells
+retinoblastoma,cone cells
+retinoblastoma,cone cells
+retinoblastoma,cone cells
+retinoblastoma,cone cells
+retinoblastoma,cone cells
+retinoblastoma,cone cells
+retinoblastoma,neuronal/ganglion cells
+retinoblastoma,neuronal/ganglion cells
+retinoblastoma,neuronal/ganglion cells
+retinoblastoma,neuronal/ganglion cells
+retinoblastoma,neuronal/ganglion cells
+retinoblastoma,neuronal/ganglion cells
+retinoblastoma,neuronal/ganglion cells
+retinoblastoma,neuronal/ganglion cells
+retinoblastoma,neuronal/ganglion cells
+retinoblastoma,neuronal/ganglion cells
+retinoblastoma,neuronal stem cell
+retinoblastoma,ganglion cell
+retinoblastoma,ganglion cell
+retinoblastoma,ganglion cell
+retinoblastoma,ganglion cell
+retinoblastoma,ganglion cell
+retinoblastoma,ganglion cell
+retinoblastoma,ganglion cell
+retinoblastoma,ganglion cell
+retina,photoreceptor/cone cells (early stage)
+retina,photoreceptor/cone cells (early stage)
+retina,photoreceptor/cone cells (early stage)
+retina,photoreceptor/cone cells (early stage)
+retina,cone cells (late stage)
+retina,cone cells (late stage)
+retina,cone cells (late stage)
+retina,cone cells (late stage)
+retina,ganglion cell
+retina,ganglion cell
+retina,photoreceptor cell
+retina,cone photoreceptor cell
+retina,amacrine cell
+retina,early photoreceptor/cone cells
+retina,early photoreceptor/cone cells
+retina,early photoreceptor/cone cells
+retina,early photoreceptor/cone cells
+retina,neuronal/ganglion cells
+retina,neuronal/ganglion cells
+retina,neuronal/ganglion cells
+retina,neuronal/ganglion cells
+retina,neuronal/ganglion cells
+retina,late cone cells
+retina,late cone cells
+retina,proliferating cells
+retina,hypoxic cells
+retina,monocyte/microglia cells
+retina,monocyte/microglia cells
+retina,t-lymphocytes
+retina,t-lymphocytes
+retina,ganglion cell
+retina,cone cell
+retina,cone cell
+retina,cone cell
+retina,cone cell
+retina,cone cell
+retina,cone cell
+retina,cone cell
+retina,cone cell
+retina,ganglion cell
+retina,ganglion cell
+retina,ganglion cell
+retina,early photoreceptor
+retina,early photoreceptor
+retina,late cone
+retina,late cone
+retina,neuronal/ganglion
+retina,neuronal/ganglion
+retina,neuronal/ganglion
+retina,proliferation
+retina,pro-apoptotic
+retina,macrophage
+retina,t-cell
+retina,photoreceptor cells
+retina,photoreceptor cells
+retina,photoreceptor cells
+retina,photoreceptor cells
+retina,photoreceptor cells
+retina,photoreceptor cells
+retina,photoreceptor cells
+retinoblastoma,tumor cells
+retinoblastoma,tumor cells
+retinoblastoma,tumor cells
+retina,muller glial cell
+retina,muller glial cell
+retina,bipolar cell
+retina,bipolar cell
+retina,cone photoreceptor cell
+retina,cone photoreceptor cell
+cornea,conjunctival cells
+cornea,conjunctival cells
+cornea,conjunctival cells
+cornea,conjunctival cells
+cornea,conjunctival cells
+eye (iris),putative stem cells
+eye (iris),ciliary body cells
+eye (iris),pigmented ciliary body cells
+eye,putative stem cell
+eye,col9a1 high cbcs
+eye,putative stem cell
+eye,putative stem cell
+eye,col9a1 high cbcs
+eye,col9a1 high cbcs
+eye,cbcs
+eye,cbcs
+eye,putative stem cell
+eye,col9a1 high cbcs
+eye,putative stem cell
+eye,putative stem cell
+eye,col9a1 high cbcs
+eye,col9a1 high cbcs
+eye,cbcs
+eye,cbcs
+aqueous humor,cdca
+aqueous humor,cdca
+aqueous humor,cdcb
+aqueous humor,cdcb
+aqueous humor,pdc
+aqueous humor,pdc
+aqueous humor,matdc
+aqueous humor,matdc
+aqueous humor,matdc
+aqueous humor,matdc
+aqueous humor,matdc
+aqueous humor,granulo
+aqueous humor,granulo
+aqueous humor,granulo
+aqueous humor,myeloid
+aqueous humor,myeloid
+aqueous humor,myeloid
+cerebrospinal fluid,cdc type 1
+cerebrospinal fluid,cdc type 1
+cerebrospinal fluid,cdc type 1
+cerebrospinal fluid,cdc type 2
+cerebrospinal fluid,cdc type 2
+cerebrospinal fluid,cdc type 2
+peripheral blood,cdc type 1
+peripheral blood,cdc type 1
+peripheral blood,cdc type 1
+peripheral blood,cdc type 1
+peripheral blood,cdc type 1
+peripheral blood,cdc type 2
+peripheral blood,cdc type 2
+peripheral blood,cdc type 2
+peripheral blood,cdc type 2
+aqueous humor (aqh),cd14+ monocytes/macrophages
+aqueous humor (aqh),bdca-1+ (cd1c) myeloid dc
+intraocular tissue,matdc cluster
+intraocular tissue,matdc cluster
+intraocular tissue,matdc cluster
+intraocular tissue,dc5 cells
+intraocular tissue,dc5 cells
+intraocular tissue,granulocytes and other phagocytes
+aqueous humor (aqh),cd14+ monocytes/macrophages
+aqueous humor (aqh),bdca-1+ (cd1c) myeloid dc
+intraocular tissue,matdc cluster
+intraocular tissue,matdc cluster
+intraocular tissue,matdc cluster
+intraocular tissue,dc5 cells
+intraocular tissue,dc5 cells
+intraocular tissue,granulocytes and other phagocytes
+retinal pigment epithelium (rpe),irpe
+retinal pigment epithelium (rpe),irpe
+fibroblast,fibroblast
+retinal pigment epithelium (rpe),ipsc.rpe
+retina,irpe/irpenc
+retina,irpe/irpenc
+retina,irpe/irpenc
+retina,irpe/irpenc
+retina,irpe/irpenc
+retina,irpe/irpenc
+retina,irpe/irpenc
+retina,rpe cell
+retina,rpe cell
+retina,irpenc cell
+esophageal epithelium,epithelial progenitor cells
+esophageal epithelium,epithelial progenitor cells
+esophageal epithelium,basal cell
+esophageal epithelium,basal cell
+esophageal epithelium,basal cell
+esophageal epithelium,proliferative cell
+esophageal epithelium,basal cell
+esophageal epithelium,proliferative cell
+esophagus,basaloid cell
+esophagus,basaloid cell
+esophageal epithelium,basal-1 cell
+esophageal epithelium,basal-2 cell
+esophageal epithelium,basal-2 cell
+esophageal epithelium,suprabasal cell
+esophageal epithelium,suprabasal cell
+esophageal epithelium,superficial cell
+esophageal epithelium,superficial cell
+esophageal epithelium,basal-1 cell
+esophageal epithelium,basal-1 cell
+esophageal epithelium,basal-2 cell
+esophageal epithelium,basal-1 cell
+esophageal epithelium,basal-2 cell
+esophageal epithelium,cd73+cd104+ cells
+esophageal epithelium,cd73-cd104+ cells
+esophageal tissue,basaloid cell
+esophageal tissue,basaloid cell
+esophageal epithelium,basaloid population
+esophageal epithelium,basaloid population
+esophagus,basal epithelium
+esophagus,basal epithelium
+esophageal epithelium,basal cell
+esophageal epithelium,progenitor or proliferative cell
+esophagus,epithelial cell
+esophagus,epithelial cell
+esophagus,epithelial cell
+esophagus,epithelial cell
+corneal endothelium,endothelial cell (c0-c2)
+corneal endothelium,endothelial cell (c0-c2)
+corneal endothelium,endothelial cell (c0-c2)
+corneal endothelium,endothelial cell (c0-c2)
+corneal endothelium,endothelial cell (c0-c2)
+corneal endothelium,endothelial cell (c0-c2)
+corneal endothelium,effector cell (c0)
+corneal endothelium,effector cell (c0)
+corneal endothelium,effector cell (c0)
+corneal endothelium,effector cell (c0)
+corneal endothelium,effector cell (c0)
+corneal endothelium,endothelial cell (c2)
+corneal endothelium,endothelial cell (c2)
+corneal endothelium,endothelial cell (c2)
+corneal endothelium,endothelial cell (c3)
+corneal endothelium,endothelial cell (c3)
+corneal endothelium,endothelial cell (c3)
+corneal endothelium,c2 (cencs subtype)
+corneal endothelium,c2 (cencs subtype)
+corneal endothelium,c2 (cencs subtype)
+corneal endothelium,c3 (cencs subtype)
+corneal endothelium,c1 (cencs subtype)
+cornea,endothelial cell
+cornea,endothelial cell
+cornea,endothelial cell
+corneal tissue,hematopoietic cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,t cells
+corneal tissue,innate immune cells
+corneal limbus,macrophages and monocytes
+corneal limbus,dendritic cells (dcs)
+corneal limbus,dendritic cells (dcs)
+corneal limbus,t lymphocytes
+corneal limbus,t lymphocytes
+corneal limbus,t lymphocytes
+corneal limbus,naive t cells
+corneal limbus,naive t cells
+corneal limbus,naive t cells
+corneal limbus,naive t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+corneal limbus,cd8+ t cells
+cornea,innate immune cells (granulocytes)
+cornea,dendritic cells (mregdcs)
+cornea,dendritic cells (mregdcs)
+cornea,mregdcs
+cornea,mregdcs
+cornea,mregdcs
+cornea,mregdcs
+cornea,mregdcs
+cornea,mregdcs
+cornea,mregdcs
+cornea,mregdcs
+cornea,mregdcs
+cornea,mregdcs
+cornea,mregdcs
+cornea,mregdcs
+cornea,cd4+ t cells
+cornea,naive t cells
+cornea,cd8+ t cells
+cornea,cd8+ t cells
+cornea,cd8+ t cells
+cornea,dendritic cells (dcs)
+cornea,dendritic cells (dcs)
+cornea,dendritic cells (dcs)
+cornea,mregdcs (subset of dcs)
+cornea,mregdcs (subset of dcs)
+cornea,mregdcs (subset of dcs)
+cornea,mregdcs (subset of dcs)
+cornea,mregdcs (subset of dcs)
+cornea,mregdcs (subset of dcs)
+liver metastasis (liv.mets),spp1+ tams
+liver metastasis (liv.mets),spp1+ tams
+liver metastasis (liv.mets),spp1+ tams
+liver metastasis (liv.mets),c1qc+ tams
+liver metastasis (liv.mets),c1qc+ tams
+liver metastasis (liv.mets),c1qc+ tams
+liver metastasis (liv.mets),mki67+ tams
+tumor microenvironment,tams (c1qc+)
+tumor microenvironment,tams (spp1+)
+tumor microenvironment,cdc2s (c1qc+)
+liver,nk cells (liver-resident)
+tumor,spp1+ tam
+tumor,spp1+ tam
+tumor,dc3
+tumor,dc3
+tumor,dc3
+conjunctiva,ilc2
+conjunctiva,ilc2
+conjunctiva,goblet cells
+conjunctiva,macrophages (retnla+ mrc1+)
+conjunctiva,macrophages (retnla+ mrc1+)
+conjunctiva,mdc (ccr7+ mhcii+)
+conjunctiva,mdc (ccr7+ mhcii+)
+conjunctiva,superficial stromal cells
+conjunctiva,lymphatic vessels
+conjunctiva,macrophage mhciilo
+conjunctiva,macrophage mhciilo
+conjunctiva,macrophage mhciilow
+conjunctiva,monocyte
+conjunctiva,mdc

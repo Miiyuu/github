@@ -1,0 +1,5126 @@
+species,tissue_type,cell_name,marker,pmid
+Human,fat,"leucocyte
+```",Lyve1,30872492
+Human,fat,"leucocyte
+```",MHCII,30872492
+Human,fat,"leucocyte
+```",CX3CR1,30872492
+Human,fat,"mast cell
+```",Lyve1,30872492
+Human,fat,"mast cell
+```",MHCII,30872492
+Human,lung,"endothelial cell of lymphatic vessel
+```",CXCR4,30872492
+Human,lung,"endothelial cell of lymphatic vessel
+```",CLEC10A,30872492
+Human,lung,"endothelial cell of lymphatic vessel
+```",CCL17,30872492
+Human,lung,"endothelial cell of lymphatic vessel
+```",MARCO,30872492
+Human,lung,"endothelial cell of lymphatic vessel
+```",APOE,30872492
+Human,lung,"endothelial cell of lymphatic vessel
+```",CD163,30872492
+Human,lung,"cell_ontology_class='macrophage', free_annotation='macrophages'
+```",ITGAM,30872492
+Human,lung,"cell_ontology_class='macrophage', free_annotation='macrophages'
+```",SIGLEC1,30872492
+Human,lung,"cell_ontology_class='macrophage', free_annotation='macrophages'
+```",MRC1,30872492
+Human,lung,"cell_ontology_class='macrophage', free_annotation='macrophages'
+```",Lyve1,30872492
+Human,lung,"endothelial cell of lymphatic vessel
+```",HLA-DR,30872492
+Human,lung,"endothelial cell of lymphatic vessel
+```",CX3CR1,30872492
+Human,Heart,Cardiac muscle cell,LAMB2,30893597
+Human,Heart,Cardiac muscle cell,LAMC1,30893597
+Human,Heart,Cardiac muscle cell,LAMB1,30893597
+Human,Heart,Cardiac muscle cell,LAMA2,30893597
+Human,Heart,Cardiac muscle cell,LAMA5,30893597
+Human,Heart,Cardiac muscle cell,LAMA4,30893597
+Human,heart,"cardiac muscle cell
+```",TNNI3,30893597
+Human,heart,"cardiac muscle cell
+```",TNNT2,30893597
+Human,heart,"cardiac muscle cell
+```",ACTN1,30893597
+Human,heart,"cardiac muscle cell
+```",NKX2-5,30893597
+Human,heart,"cardiac muscle cell
+```",MYH1,30893597
+Human,heart,"cardiac progenitor cell
+```",T (brachyury),30893597
+Human,heart,"cardiac progenitor cell
+```",MESP1,30893597
+Human,heart,"cardiac progenitor cell
+```",ISL1,30893597
+Human,heart,"cardiac progenitor cell
+```",TBX5,30893597
+Human,heart,"cardiac progenitor cell
+```",MEF2C,30893597
+Human,heart,"cardiac progenitor cell
+```",NKX2-5,30893597
+Human,heart,"cardiac progenitor cell
+```",KIT,30893597
+Human,heart,"cardiac progenitor cell
+```",GATA3,30893597
+Human,spleen,"regulatory t cell
+```",FOXP3,30958799
+Human,esophagus,"t cell
+```",GATA3,30958799
+Human,esophagus,"t cell
+```",HPGDS,30958799
+Human,esophagus,"t cell
+```",PTGDR2,30958799
+Human,esophagus,"t cell
+```",IL-17RB,30958799
+Human,esophagus,"t cell
+```",FFAR3,30958799
+Human,lymph_node,"cell_ontology_class='t cell', free_annotation='t lymphocytes'
+```",ITGAE (CD103),30958799
+Human,eoe tissue,"t cells
+```",CXCR4,30958799
+Human,eoe tissue,"t cells
+```",CCR5,30958799
+Human,eoe tissue,"t cells
+```",CCR8,30958799
+Human,lymph_node,"t cell
+```",IL-25 receptor,30958799
+Human,lymph_node,"t cell
+```",HPGDS,30958799
+Human,trachea,"cell_ontology_class='t cell', free_annotation='t cell'
+```",IL4,30958799
+Human,trachea,"cell_ontology_class='t cell', free_annotation='t cell'
+```",IL5,30958799
+Human,trachea,"cell_ontology_class='t cell', free_annotation='t cell'
+```",IL13,30958799
+Human,lymph_node,"cell_ontology_class='t cell', free_annotation='t lymphocytes'
+```",IFNG,30958799
+Human,esophageal tissue,"t cell
+```",IFNG,30958799
+Human,esophageal tissue,"t cell
+```",IL4,30958799
+Human,esophageal tissue,"t cell
+```",IL5,30958799
+Human,esophageal tissue,"t cell
+```",IL13,30958799
+Human,esophageal tissue,"t cell
+```",IFNG,30958799
+Human,esophageal tissue,"t cell
+```",IL4,30958799
+Human,esophageal tissue,"t cell
+```",IL5,30958799
+Human,esophageal tissue,"t cell
+```",IL13,30958799
+Human,esophagus,"t cell
+```",IL5,30958799
+Human,fat,"t cells
+```",FFAR3,30958799
+Human,blood,"cd4-positive
+```",FFAR3,30958799
+Human,heart,"cardiac muscle cell
+```",SOX9,31028265
+Human,heart,"cardiac muscle cell
+```",POSTN,31028265
+Human,heart,"cardiac muscle cell
+```",FILAMIN A,31028265
+Human,heart,"cardiac muscle cell
+```",COLLAGEN I,31028265
+Human,heart,"cardiac muscle cell
+```",SOX9,31028265
+Human,heart,"cardiac muscle cell
+```",POSTN,31028265
+Human,heart,"cardiac muscle cell
+```",FILAMIN A,31028265
+Human,heart,"cardiac muscle cell
+```",COLLAGEN I,31028265
+Human,vasculature,"valvular interstitial cells (VICs)
+```",DCHS1,31028265
+Human,pluripotent stem cells,"human induced pluripotent stem cells (hiPSCs)
+```",OCT4,31028265
+Human,pluripotent stem cells,"human induced pluripotent stem cells (hiPSCs)
+```",SOX2,31028265
+Human,pluripotent stem cells,"human induced pluripotent stem cells (hiPSCs)
+```",NANOG,31028265
+Human,endoderm,"endodermal differentiated cells
+```",SOX17,31028265
+Human,endoderm,"endodermal differentiated cells
+```",FOXA2,31028265
+Human,muscle,"mesenchymal stem cell
+```",BRACHYURY (T),31028265
+Human,muscle,"mesenchymal stem cell
+```",MIXL1,31028265
+Human,skin,"endothelial cell
+```",NES,31028265
+Human,skin,"endothelial cell
+```",PAX6,31028265
+Human,vasculature,"endothelial cell
+```",TBX2,31028265
+Human,vasculature,"endothelial cell
+```",TBX20,31028265
+Human,vasculature,"endothelial cell
+```",PITX2,31028265
+Human,vasculature,"endothelial cell
+```",GATA5,31028265
+Human,vasculature,"endothelial cell
+```",SMAD6,31028265
+Human,vasculature,"endothelial cell
+```",MSX1,31028265
+Human,valve tissue,"endothelial cell
+```",PECAM1,31028265
+Human,valve tissue,"endothelial cell
+```",CDH5,31028265
+Human,valve tissue,"endothelial cell
+```",ENG,31028265
+Human,valve tissue,"endothelial cell
+```",SOX17,31028265
+Human,valve tissue,"endothelial cell
+```",SOX18,31028265
+Human,valve tissue,"endothelial cell
+```",DLL4,31028265
+Human,valve tissue,"endothelial cell
+```",CD34,31028265
+Human,valve tissue,"endothelial cell
+```",KDR,31028265
+Human,brain,"microglia
+```",Tnfα,31170999
+Human,retina,"eye photoreceptor cell
+```",PDE6A,31436334
+Human,retina,"eye photoreceptor cell
+```",CNGA1,31436334
+Human,retina,"eye photoreceptor cell
+```",RHO,31436334
+Human,eye,"cell_ontology_class='eye photoreceptor cell'
+```",ARR3,31436334
+Human,eye,"cell_ontology_class='eye photoreceptor cell'
+```",GNGT2,31436334
+Human,eye,"cell_ontology_class='eye photoreceptor cell'
+```",GUCA1C,31436334
+Human,eye,"muller cell
+```",RLBP1,31436334
+Human,eye,"cell_ontology_class='microglial cell', free_annotation='retina - microglia'
+```",GFAP,31436334
+Human,eye,"microglial cell
+```",HLA-DPA1,31436334
+Human,eye,"microglial cell
+```",HLA-DPB1,31436334
+Human,eye,"microglial cell
+```",HLA-DRA,31436334
+Human,retina,"retinal bipolar neuron
+```",VSX2,31436334
+Human,retina,"retinal bipolar neuron
+```",OTX2,31436334
+Human,retina,"retinal ganglion cell
+```",NEFL,31436334
+Human,retina,"retinal ganglion cell
+```",GAP43,31436334
+Human,retina,"retinal ganglion cell
+```",SNCG,31436334
+Human,retina,"amacrine cells
+```",GAD1,31436334
+Human,retina,"amacrine cells
+```",CALB1,31436334
+Human,retina,"amacrine cells
+```",CHAT,31436334
+Human,retina,"cell_ontology_class='retina horizontal cell', free_annotation='retina - horizontal cells'
+```",ONECUT1,31436334
+Human,retina,"cell_ontology_class='retina horizontal cell', free_annotation='retina - horizontal cells'
+```",ONECUT2,31436334
+Human,eye,"cell_ontology_class='retinal bipolar neuron', free_annotation='retina - bipolar cells'
+```",GRIK1,31436334
+Human,retina,"retinal bipolar neuron
+```",PRKCA,31436334
+Human,retina,"retinal bipolar neuron
+```",TTR,31436334
+Human,retina,"eye photoreceptor cell
+```",RHO,31436334
+Human,retina,"eye photoreceptor cell
+```",GNGT1,31436334
+Human,retina,"eye photoreceptor cell
+```",SAG,31436334
+Human,retina,"eye photoreceptor cell
+```",NRL,31436334
+Human,retina,"eye photoreceptor cell
+```",ROM1,31436334
+Human,retina,"eye photoreceptor cell
+```",GNAT1,31436334
+Human,retina,"eye photoreceptor cell
+```",CNGA1,31436334
+Human,retina,"eye photoreceptor cell
+```",MALAT1,31436334
+Human,retina,"eye photoreceptor cell
+```",MALAT1,31436334
+Human,eye,"eye photoreceptor cell
+```",ARR3,31436334
+Human,eye,"eye photoreceptor cell
+```",CNBG3,31436334
+Human,eye,"eye photoreceptor cell
+```",GNAT2,31436334
+Human,eye,"eye photoreceptor cell
+```",GNGT2,31436334
+Human,eye,"eye photoreceptor cell
+```",GRK7,31436334
+Human,eye,"eye photoreceptor cell
+```",GUCA1C,31436334
+Human,eye,"eye photoreceptor cell
+```",PDE6C,31436334
+Human,eye,"eye photoreceptor cell
+```",PDE6H,31436334
+Human,eye,"eye photoreceptor cell
+```",OPN1LW,31436334
+Human,eye,"eye photoreceptor cell
+```",RXRG,31436334
+Human,eye,"eye photoreceptor cell
+```",THRB,31436334
+Human,eye,"eye photoreceptor cell
+```",OPN1SW,31436334
+Human,eye,"eye photoreceptor cell
+```",OPN1MW,31436334
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",OPN1LW,31436334
+Human,eye,"eye photoreceptor cell
+```",CCDC136,31436334
+Human,retina,"eye photoreceptor cell
+```",THRB,31436334
+Human,eye,"muller cell
+```",RLBP1,31436334
+Human,eye,"muller cell
+```",RGR,31436334
+Human,eye,"cell_ontology_class='microglial cell', free_annotation='retina - microglia'
+```",GFAP,31436334
+Human,eye,"cell_ontology_class='microglial cell', free_annotation='retina - microglia'
+```",S100B,31436334
+Human,retina,"muller cell
+```",VIM,31436334
+Human,retina,"muller cell
+```",GLUL,31436334
+Human,retina,"muller cell
+```",S100A1,31436334
+Human,retina,"eye photoreceptor cell
+```",OPN1LW/OPN1MW,31436334
+Human,retina,"cone photoreceptor cell
+```",OPN1SW,31436334
+Human,eye,"eye photoreceptor cell
+```",MALAT1,31436334
+Human,retina,"photoreceptor cell
+```",MALAT1,31436334
+Human,eye,"radial glial cell
+```",VSX2,31543471
+Human,eye,"radial glial cell
+```",PAX6,31543471
+Human,eye,"retinal ganglion cell
+```",ELAVL3,31543471
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",PRDM1,31543471
+Human,eye,"retinal ganglion cell
+```",ATOH7,31543471
+Human,eye,"retinal ganglion cell
+```",POU4F2,31543471
+Human,eye,"retinal bipolar neuron
+```",ONECUT1,31543471
+Human,eye,"retinal bipolar neuron
+```",PROX1,31543471
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",NEUROD1,31543471
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",PRDM1,31543471
+Human,eye,"radial glial cell
+```",ASCL1,31543471
+Human,eye,"radial glial cell
+```",NEUROG2,31543471
+Human,eye,"radial glial cell
+```",INSM1,31543471
+Human,eye,"radial glial cell
+```",BHLHE22,31543471
+Human,eye,"radial glial cell
+```",ISLR2,31543471
+Human,eye,"radial glial cell
+```",CCND1,31543471
+Human,eye,"retinal ganglion cell
+```",ISL1,31543471
+Human,eye,"eye photoreceptor cell
+```",PRDM1,31543471
+Human,retina,"radial glial cell
+```",ASCL1,31543471
+Human,eye,"retinal ganglion cell
+```",ISL1,31543471
+Human,eye,"eye photoreceptor cell
+```",PRDM1,31543471
+Human,retina,"radial glial cell
+```",ASCL1,31543471
+Human,eye,"radial glial cell
+```",ASCL1,31543471
+Human,eye,"radial glial cell
+```",RTN4,31543471
+Human,eye,"radial glial cell
+```",GPM6A,31543471
+Human,eye,"radial glial cell
+```",EFNB2,31543471
+Human,eye,"radial glial cell
+```",GPM6B,31543471
+Human,eye,"radial glial cell
+```",FZD3,31543471
+Human,eye,"radial glial cell
+```",RUFY3,31543471
+Human,eye,"radial glial cell
+```",ISLR2,31543471
+Human,eye,"radial glial cell
+```",DCX,31543471
+Human,eye,"radial glial cell
+```",ISL1,31543471
+Human,eye,"radial glial cell
+```",NEUROD1,31543471
+Human,eye,"radial glial cell
+```",PRDM1,31543471
+Human,eye,"radial glial cell
+```",DCLK1,31543471
+Human,eye,"radial glial cell
+```",SEMA5A,31543471
+Human,eye,"radial glial cell
+```",NRCAM,31543471
+Human,eye,"radial glial cell
+```",NEUROG2,31543471
+Human,eye,"radial glial cell
+```",JAG1,31543471
+Human,eye,"radial glial cell
+```",GJA1,31543471
+Human,eye,"retinal ganglion cell
+```",GJA1,31543471
+Human,eye,"retinal ganglion cell
+```",ATP1A2,31543471
+Human,eye,"retinal ganglion cell
+```",PCDH9,31543471
+Human,eye,"retinal ganglion cell
+```",PFN1,31543471
+Human,eye,"retinal ganglion cell
+```",TMSB10,31543471
+Human,eye,"radial glial cell
+```",LIN28A,31543471
+Human,eye,"radial glial cell
+```",LIN28B,31543471
+Human,eye,"radial glial cell
+```",JAG1,31543471
+Human,eye,"radial glial cell
+```",BMP7,31543471
+Human,eye,"radial glial cell
+```",TGFb2,31543471
+Human,eye,"radial glial cell
+```",IGFBP5,31543471
+Human,retina,"multipotent retinal progenitor cell
+```",JAG1,31543471
+Human,retina,"multipotent retinal progenitor cell
+```",GJA1,31543471
+Human,eye,"neurogenic rpcs
+```",DCX,31543471
+Human,eye,"neurogenic rpcs
+```",ASCL1,31543471
+Human,eye,"muller cell
+```",CLRN1,31625146
+Human,eye,"muller cell
+```",CLRN1,31625146
+Human,eye,"muller cell
+```",CLRN1,31625146
+Human,retina,"müller cell (muller glia)
+```",Clrn1,31625146
+Human,retina,"müller cell (muller glia)
+```",Clrn1,31625146
+Human,eye,"cell_ontology_class='eye photoreceptor cell'
+```",GNAT2,31653841
+Human,eye,"cell_ontology_class='eye photoreceptor cell'
+```",OPN1SW,31653841
+Human,eye,"cell_ontology_class='eye photoreceptor cell'
+```",OPN1MW,31653841
+Human,eye,"cell_ontology_class='eye photoreceptor cell'
+```",OPN1LW,31653841
+Human,retina,"eye photoreceptor cell
+```",PDE6A,31653841
+Human,retina,"eye photoreceptor cell
+```",PPEF2,31653841
+Human,retina,"eye photoreceptor cell
+```",NR2E3,31653841
+Human,retina,"retinal ganglion cell
+```",NEFM,31653841
+Human,retina,"retinal ganglion cell
+```",SLC17A6,31653841
+Human,retina,"retinal bipolar neuron
+```",CAMK2B,31653841
+Human,retina,"retinal bipolar neuron
+```",GRM6,31653841
+Human,retina,"retinal bipolar neuron
+```",TMEM215,31653841
+Human,retina,"retinal bipolar neuron
+```",TRPM1,31653841
+Human,retina,"amacrine cells
+```",GAD1,31653841
+Human,retina,"amacrine cells
+```",C1QL2,31653841
+Human,retina,"cell_ontology_class='retina horizontal cell', free_annotation='retina - horizontal cells'
+```",ONECUT1,31653841
+Human,retina,"cell_ontology_class='retina horizontal cell', free_annotation='retina - horizontal cells'
+```",ONECUT2,31653841
+Human,retina,"cell_ontology_class='retina horizontal cell', free_annotation='retina - horizontal cells'
+```",LHX1,31653841
+Human,retina,"muller cell
+```",GLUL,31653841
+Human,retina,"muller cell
+```",CLU,31653841
+Human,retina,"muller cell
+```",APOE,31653841
+Human,eye,"cell_ontology_class='microglial cell', free_annotation='retina - microglia'
+```",C1QA,31653841
+Human,eye,"cell_ontology_class='microglial cell', free_annotation='retina - microglia'
+```",TMEM119,31653841
+Human,eye,"cell_ontology_class='microglial cell', free_annotation='retina - microglia'
+```",AIF1,31653841
+Human,eye,"cell_ontology_class='microglial cell', free_annotation='retina - microglia'
+```",CD163,31653841
+Human,eye,"retinal blood vessel endothelial cell
+```",CD34,31653841
+Human,eye,"retinal blood vessel endothelial cell
+```",CDH5,31653841
+Human,eye,"retinal blood vessel endothelial cell
+```",RGS5,31653841
+Human,eye,"retinal blood vessel endothelial cell
+```",ADAMTS9,31653841
+Human,retina,"microglial cell
+```",FOS,31653841
+Human,retina,"microglial cell
+```",FTL,31653841
+Human,retina,"microglial cell
+```",COL4A3,31653841
+Human,retina,"astrocyte
+```",GFAP,31653841
+Human,retina,"astrocyte
+```",SPARCL1,31653841
+Human,retina,"astrocyte
+```",FOS,31653841
+Human,retina,"astrocyte
+```",FOSB,31653841
+Human,retina,"astrocyte
+```",JUN,31653841
+Human,retina,"astrocyte
+```",EGR1,31653841
+Human,retina,"astrocyte
+```",CD44,31653841
+Human,retina,"müller cell
+```",COL4A3,31653841
+Human,retina,"müller cell
+```",VEGFA,31653841
+Human,retina,"müller cell
+```",HTRA1,31653841
+Human,retina,"müller cell
+```",SLC2A1,31653841
+Human,retina,"müller cell
+```",SLC1A3,31653841
+Human,retina,"müller cell
+```",SHMT2,31653841
+Human,retina,"müller cell
+```",HIF1A,31653841
+Human,retina,"Müller cell (subtype 3)
+```",FTH1,31653841
+Human,retina,"Müller cell (subtype 3)
+```",FTL,31653841
+Human,retina,"Müller cell (subtype 3)
+```",DBI,31653841
+Human,eye,"muller cell
+```",GS,31653841
+Human,eye,"muller cell
+```",FOS,31653841
+Human,eye,"muller cell
+```",COL4A3,31653841
+Human,eye,"muller cell
+```",FTL,31653841
+Human,eye,"microglial cell
+```",GS,31653841
+Human,eye,"microglial cell
+```",FOS,31653841
+Human,eye,"microglial cell
+```",COL4A3,31653841
+Human,eye,"microglial cell
+```",FTL,31653841
+Human,eye,"muller cell
+```",APOE,31653841
+Human,eye,"retinal blood vessel endothelial cell
+```",TM4SF1,31653841
+Human,eye,"muller cell
+```",TIMP3,31653841
+Human,eye,"retinal blood vessel endothelial cell
+```",TIMP3,31653841
+Human,retina,"macroglia
+```",FTL,31653841
+Human,retina,"macroglia
+```",FOS,31653841
+Human,retina,"macroglia
+```",COL4A3,31653841
+Human,retina,"macroglia
+```",Glutamine synthetase,31653841
+Human,retina,"macroglia
+```",FTL,31653841
+Human,retina,"macroglia
+```",FOS,31653841
+Human,retina,"macroglia
+```",COL4A3,31653841
+Human,retina,"macroglia
+```",Glutamine synthetase,31653841
+Human,eye,"muller cell
+```",APOE,31653841
+Human,eye,"muller cell
+```",GS,31653841
+Human,eye,"retinal blood vessel endothelial cell
+```",TM4SF1,31653841
+Human,eye,"muller cell
+```",CFI,31653841
+Human,eye,"muller cell
+```",TIMP3,31653841
+Human,eye,"retinal blood vessel endothelial cell
+```",TIMP3,31653841
+Human,eye,"muller cell
+```",APOE,31653841
+Human,eye,"muller cell
+```",GS,31653841
+Human,eye,"muller cell
+```",CFI,31653841
+Human,eye,"muller cell
+```",TIMP3,31653841
+Human,eye,"retinal blood vessel endothelial cell
+```",TM4SF1,31653841
+Human,eye,"retinal blood vessel endothelial cell
+```",TIMP3,31653841
+Human,rpe-choroid,"capillary endothelial cell
+```",RGCC,31712411
+Human,choroid,"endothelial cell
+```",HLA class I self-peptides,31712411
+Human,choroid,"endothelial cell
+```",ICAM-1,31712411
+Human,choroid,"endothelial cell
+```",CA4,31712411
+Human,tongue,"schwann cell
+```",PLP1,31712411
+Human,retina,"endothelial cell
+```",VWF,31712411
+Human,retina,"endothelial cell
+```",CD34,31712411
+Human,retina,"endothelial cell
+```",ICAM2,31712411
+Human,muscle,"smooth muscle cell
+```",ACTA2,31712411
+Human,muscle,"smooth muscle cell
+```",RGS5,31712411
+Human,rpe/choroid,"fibroblast
+```",IGF2,31712411
+Human,rpe/choroid,"retinal pigment epithelial cell
+```",RPE65,31712411
+Human,rpe/choroid,"retinal pigment epithelial cell
+```",BEST1,31712411
+Human,rpe/choroid,"leukocyte
+```",PTPRC,31712411
+Human,eye,"b cells
+```",CD79A,31712411
+Human,blood,"t cell
+```",CD2,31712411
+Human,blood,"macrophage
+```",AIF1,31712411
+Human,rpe/choroid,"mast cell
+```",KIT,31712411
+Human,eye,"retinal ganglion cell
+```",MPZ,31712411
+Human,eye,"retinal ganglion cell
+```",MBP,31712411
+Human,eye,"retina horizontal cell
+```",SCN7A,31712411
+Human,eye,"retina horizontal cell
+```",NGFR,31712411
+Human,eye,"retina horizontal cell
+```",NCAM1,31712411
+Human,eye,"retina horizontal cell
+```",L1CAM,31712411
+Human,eye,"retinal pigment epithelial cell
+```",CXCL14,31712411
+Human,eye,"retinal pigment epithelial cell
+```",WFDC1,31712411
+Human,eye,"retinal pigment epithelial cell
+```",TFPI2,31712411
+Human,eye,"retinal pigment epithelial cell
+```",IGFBP5,31712411
+Human,retina,"retinal blood vessel endothelial cell
+```",ACKR1,31712411
+Human,retina,"retinal blood vessel endothelial cell
+```",MMRN1,31712411
+Human,retina,"choriocapillaris endothelial cell
+```",CA4,31712411
+Human,retina,"choriocapillaris endothelial cell
+```",PLVAP,31712411
+Human,retina,"retinal blood vessel endothelial cell
+```",FBLN2,31712411
+Human,retina,"retinal blood vessel endothelial cell
+```",SEMA3G,31712411
+Human,retina,"retinal blood vessel endothelial cell
+```",GJA4,31712411
+Human,retina,"retinal blood vessel endothelial cell
+```",GJA5,31712411
+Human,retina,"retinal blood vessel endothelial cell
+```",HEY1,31712411
+Human,eye,"retinal blood vessel endothelial cell
+```",SELE,31712411
+Human,eye,"retinal blood vessel endothelial cell
+```",VCAM1,31712411
+Human,eye,"retinal blood vessel endothelial cell
+```",CCL23,31712411
+Human,retina,"choriocapillaris endothelial cell
+```",SIPR3,31712411
+Human,retina,"choriocapillaris endothelial cell
+```",SPARC,31712411
+Human,retina,"choriocapillaris endothelial cell
+```",PCDH12,31712411
+Human,eye,"endothelial cell
+```",VWF,31712411
+Human,lung,"vein endothelial cell
+```",ACKR1,31712411
+Human,lung,"vein endothelial cell
+```",MMRN1,31712411
+Human,choroid,"capillary endothelial cell
+```",CA4,31712411
+Human,choroid,"capillary endothelial cell
+```",PLVAP,31712411
+Human,vasculature,"artery endothelial cell
+```",HEY1,31712411
+Human,vasculature,"artery endothelial cell
+```",SEMA3G,31712411
+Human,choroid,"capillary endothelial cell
+```",RGCC,31712411
+Human,choroid,"endothelial cell
+```",ICAM1,31712411
+Human,choroid,"endothelial cell
+```",PLVAP,31712411
+Human,choroid,"endothelial cell
+```",MHC class I antigens,31712411
+Human,choroid,"endothelial cell
+```",CA4,31712411
+Human,choroid,"choriocapillaris endothelial cell
+```",S1PR3,31712411
+Human,choroid,"endothelial cell
+```",CD34,31712411
+Human,choroid,"endothelial cell
+```",PECAM1,31712411
+Human,retina,"eye photoreceptor cell
+```",PDE6A,31848347
+Human,retina,"retinal bipolar neuron
+```",NETO1,31848347
+Human,retina,"muller cell
+```",SLC1A3,31848347
+Human,retina,"amacrine cells
+```",GAD1,31848347
+Human,retina,"cell_ontology_class='retina horizontal cell', free_annotation='retina - horizontal cells'
+```",SEPTIN4,31848347
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",ARR3,31848347
+Human,retina,"retinal ganglion cell
+```",RBPMS,31848347
+Human,retina,"eye photoreceptor cell
+```",AHI1,31848347
+Human,retina,"eye photoreceptor cell
+```",ATXN7,31848347
+Human,retina,"eye photoreceptor cell
+```",KCNV2,31848347
+Human,retina,"eye photoreceptor cell
+```",PROM1,31848347
+Human,retina,"eye photoreceptor cell
+```",RD3,31848347
+Human,retina,"eye photoreceptor cell
+```",RPGRIP1,31848347
+Human,retina,"eye photoreceptor cell
+```",RHO,31848347
+Human,retina,"eye photoreceptor cell
+```",RHO,31848347
+Human,retina,"eye photoreceptor cell
+```",RPGRIP1,31848347
+Human,retina,"eye photoreceptor cell
+```",RPGRIP1,31848347
+Human,retina,"eye photoreceptor cell
+```",RD3,31848347
+Human,retina,"eye photoreceptor cell
+```",RD3,31848347
+Human,eye,"cd8-positive
+```",LAG3,31980621
+Human,eye,"cd8-positive
+```",LAG3,31980621
+Human,eye,"cd8-positive
+```",TIGIT,31980621
+Human,eye,"cd8-positive
+```",PDCD1,31980621
+Human,eye,"cd8-positive
+```",CTLA4,31980621
+Human,eye,"cd8-positive
+```",HAVCR2,31980621
+Human,eye,"cd8-positive
+```",TNFRSF9,31980621
+Human,uveal melanoma,"regulatory t cell
+```",FOXP3,31980621
+Human,uveal melanoma,"regulatory t cell
+```",TNFRSF4,31980621
+Human,uveal melanoma,"regulatory t cell
+```",IKZF2,31980621
+Human,uveal melanoma,"regulatory t cell
+```",IL2RA,31980621
+Human,eye,"melanocyte
+```",CD200,31980621
+Human,eye,"melanocyte
+```",GNG4,31980621
+Human,eye,"melanocyte
+```",CHN1,31980621
+Human,eye,"melanocyte
+```",IGFL2,31980621
+Human,eye,"melanocyte
+```",ITM2A,31980621
+Human,eye,"melanocyte
+```",CPM,31980621
+Human,eye,"melanocyte
+```",NR3C1,31980621
+Human,eye,"t cell
+```",IL7R,31980621
+Human,eye,"cd8-positive
+```",CD8A,31980621
+Human,eye,"cd8-positive
+```",ZNF683,31980621
+Human,eye,"cd8-positive resident memory T cells
+```",KLRK1,31980621
+Human,eye,"cd8-positive resident memory T cells
+```",ITGAE [CD103],31980621
+Human,eye,"cd8-positive
+```",PRF1,31980621
+Human,eye,"cd8-positive
+```",GZMA,31980621
+Human,eye,"cd8-positive
+```",GZMK,31980621
+Human,eye,"cd8-positive
+```",NKG7,31980621
+Human,retina,"radial glial cell
+```",SOX2,32023475
+Human,retina,"radial glial cell
+```",PAX6,32023475
+Human,retina,"retinal ganglion cell
+```",HUC/D,32023475
+Human,retina,"amacrine cells
+```",TFAP2A,32023475
+Human,retina,"cell_ontology_class='retina horizontal cell', free_annotation='retina - horizontal cells'
+```",ONECUT2,32023475
+Human,retina,"eye photoreceptor cell
+```",OTX2,32023475
+Human,eye,"radial glial cell
+```",MKI67,32023475
+Human,retina,"未定义（需进一步确认）
+```",ATOH7,32023475
+Human,eye,"radial glial cell
+```",VSX2,32023475
+Human,eye,"retinal ganglion cell
+```",SNGC,32023475
+Human,eye,"t1 transition cells
+```",ATOH7,32023475
+Human,eye,"t cell
+```",FABP7,32023475
+Human,eye,"t2 cells
+```",PRDM13,32023475
+Human,eye,"t cell
+```",DLL3,32023475
+Human,eye,"radial glial cell
+```",SOX2,32023475
+Human,retina,"differentiating neurons
+```",AP2A,32023475
+Human,retina,"differentiating neurons
+```",OTX2,32023475
+Human,retina,"eye photoreceptor cell
+```",OTX2,32023475
+Human,retina,"eye photoreceptor cell
+```",RCVRN,32023475
+Human,eye,"retinal bipolar neuron
+```",OTX2,32023475
+Human,eye,"retinal bipolar neuron
+```",VSX2,32023475
+Human,eye,"retinal bipolar neuron
+```",RCVRN,32023475
+Human,eye,"amacrine cells
+```",AP2A,32023475
+Human,eye,"amacrine cells
+```",CALB1,32023475
+Human,eye,"t cell
+```",SOX11,32023475
+Human,eye,"t cell
+```",GAL,32023475
+Human,eye,"t cell
+```",ELAVL3,32023475
+Human,eye,"cell_ontology_class='retinal ganglion cell', free_annotation='retina - ganglion cells'
+```",BRN3,32023475
+Human,retina,"eye photoreceptor cell
+```",RCVRN,32023475
+Human,retina,"radial glial cell
+```",PAX6,32023475
+Human,eye,"t cell
+```",ATOH7,32023475
+Human,eye,"t cell
+```",HES6,32023475
+Human,eye,"t cell
+```",DLL3,32023475
+Human,eye,"radial glial cell
+```",SOX2,32023475
+Human,eye,"radial glial cell
+```",LHX2,32023475
+Human,retina,"retinal ganglion cell
+```",POU4F1,32023475
+Human,retina,"retinal ganglion cell
+```",NEFL,32023475
+Human,retina,"eye photoreceptor cell
+```",NRL,32023475
+Human,retina,"amacrine cell
+```",HUC/D,32023475
+Human,eye,"t cell
+```",ATOH7,32023475
+Human,eye,"t cell
+```",FABP7,32023475
+Human,eye,"muller cell
+```",RLBP1,32023475
+Human,eye,"muller cell
+```",AQP4,32023475
+Human,eye,"muller cell
+```",SLC1A3,32023475
+Human,eye,"retinal bipolar neuron
+```",VSX1,32023475
+Human,eye,"retinal bipolar neuron
+```",CABP5,32023475
+Human,eye,"retinal bipolar neuron
+```",GRM6,32023475
+Human,eye,"radial glial cell
+```",ASCL1,32023475
+Human,eye,"t cell
+```",ATOH7,32023475
+Human,eye,"radial glial cell
+```",MKI67,32023475
+Human,eye,"radial glial cell
+```",ATOH7,32023475
+Human,eye,"radial glial cell
+```",OTX2,32023475
+Human,eye,"radial glial cell
+```",NEUROD1,32023475
+Human,eye,"radial glial cell
+```",Gal,32023475
+Human,eye,"radial glial cell
+```",Sox11,32023475
+Human,eye,"radial glial cell
+```",Elavl3,32023475
+Human,retina,"radial glial cell
+```",Rgs16,32023475
+Human,retina,"radial glial cell
+```",Fabp7,32023475
+Human,eye,"radial glial cell
+```",NFI family genes,32023475
+Human,uterus,"epithelial cell
+```",PGC,32060101
+Human,uterus,"epithelial cell
+```",TFF1,32060101
+Human,uterus,"epithelial cell
+```",MUC5AC,32060101
+Human,uterus,"epithelial cell
+```",EPCAM,32060101
+Human,uterus,"epithelial cell
+```",CBLIF,32060101
+Human,uterus,"epithelial cell
+```",CHGA,32060101
+Human,large_intestine,"fibroblast
+```",THY1,32060101
+Human,large_intestine,"fibroblast
+```",DCN,32060101
+Human,large_intestine,"fibroblast
+```",COL4A1,32060101
+Human,large_intestine,"fibroblast
+```",FAP,32060101
+Human,gastric tissue,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",PECAM,32060101
+Human,gastric tissue,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",ENG,32060101
+Human,gastric tissue,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",VWF,32060101
+Human,gastric tissue,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",SELE,32060101
+Human,large_intestine,"mast cell
+```",PTPRC,32060101
+Human,small_intestine,"cell_ontology_class='cd4-positive'
+```",CD3D,32060101
+Human,small_intestine,"cell_ontology_class='cd4-positive'
+```",CD4,32060101
+Human,small_intestine,"cell_ontology_class='cd4-positive'
+```",IL7R,32060101
+Human,gastric tissue,"t cell
+```",CD3D,32060101
+Human,gastric tissue,"t cell
+```",CD8A,32060101
+Human,gastric tissue,"t cell
+```",CD8B,32060101
+Human,gastric tissue,"regulatory T cell
+```",FOXP3,32060101
+Human,gastric tissue,"regulatory T cell
+```",IL2RA,32060101
+Human,pancreas,"nk cell
+```",NKG7,32060101
+Human,pancreas,"nk cell
+```",GNLY,32060101
+Human,large_intestine,"b cell
+```",MS4A1,32060101
+Human,gastric tissue,"plasma cell
+```",Immunoglobulin genes,32060101
+Human,gastric tissue,"mast cell
+```",TPSAB1,32060101
+Human,gastric tissue,"macrophages
+```",CD68,32060101
+Human,gastric tissue,"macrophages
+```",CD14,32060101
+Human,gastric tissue,"macrophages
+```",FCGR3A,32060101
+Human,small_intestine,"gut endothelial cell
+```",TFF3,32060101
+Human,small_intestine,"gut endothelial cell
+```",FABP1,32060101
+Human,small_intestine,"gut endothelial cell
+```",SPINK4,32060101
+Human,small_intestine,"gut endothelial cell
+```",MUC13,32060101
+Human,small_intestine,"gut endothelial cell
+```",REG4,32060101
+Human,small_intestine,"epithelial cell
+```",KRT7,32060101
+Human,small_intestine,"epithelial cell
+```",KRT17,32060101
+Human,small_intestine,"epithelial cell
+```",SOX4,32060101
+Human,small_intestine,"epithelial cell
+```",HES1,32060101
+Human,large_intestine,"cd4-positive helper t cell
+```",CD4,32060101
+Human,small_intestine,"cd8-positive
+```",CD8A,32060101
+Human,gastric tissue (未提供更合适的候选组织，需手动标注),"t cell
+```",Treg,32060101
+Human,large_intestine,"b cell
+```",HLA-B,32060101
+Human,small_intestine,"cell_ontology_class='cd8-positive'
+```",GZMB,32060101
+Human,small_intestine,"cell_ontology_class='cd8-positive'
+```",GZMA,32060101
+Human,small_intestine,"cell_ontology_class='cd8-positive'
+```",PRF1,32060101
+Human,small_intestine,"cell_ontology_class='cd8-positive'
+```",IFNG,32060101
+Human,small_intestine,"cell_ontology_class='cd8-positive'
+```",NKG7,32060101
+Human,gastric tme,"t cell
+```",PDCD1,32060101
+Human,gastric tme,"t cell
+```",TIGIT,32060101
+Human,gastric tme,"t cell
+```",CD96,32060101
+Human,gastric tme,"t cell
+```",HAVCR2 (TIM3),32060101
+Human,gastric tme,"t cell
+```",LAG3,32060101
+Human,gastric tme,"t cell
+```",CTLA4,32060101
+Human,gastric tme,"t cell
+```",VSIR,32060101
+Human,gastric tme,"t cell
+```",ICOS,32060101
+Human,gastric tme,"t cell
+```",TNFRSF18 (GITR),32060101
+Human,gastric tme,"t cell
+```",CD27,32060101
+Human,gastric tme,"t cell
+```",TNFRSF9,32060101
+Human,gastric tme,"t cell
+```",CD40,32060101
+Human,gastric tme,"t cell
+```",CD226,32060101
+Human,gastric tme,"t cell
+```",TNFRSF4,32060101
+Human,gastric tme,"t cell
+```",CXCL13,32060101
+Human,liver,"T cell
+```",CXCL13,32060101
+Human,liver,"T cell
+```",RBPJ,32060101
+Human,liver,"T cell
+```",NR3C1,32060101
+Human,liver,"T cell
+```",BATF,32060101
+Human,blood,"T cell
+```",CD45RO,32060101
+Human,blood,"t cell
+```",CD3,32060101
+Human,tumor,"exhausted effector t cells
+```",PDCD1,32060101
+Human,skin,"regulatory T cell
+```",MKI67,32060101
+Human,skin,"regulatory T cell
+```",TYMS,32060101
+Human,blood,"naive thymus-derived cd4-positive
+```",CCR7,32060101
+Human,blood,"naive thymus-derived cd4-positive
+```",SELL,32060101
+Human,thymus,"cd4-positive helper t cell
+```",GZMA,32060101
+Human,thymus,"cd4-positive helper t cell
+```",GZMB,32060101
+Human,thymus,"cd4-positive helper t cell
+```",CXCL13,32060101
+Human,thymus,"cd4-positive helper t cell
+```",BATF,32060101
+Human,thymus,"cd4-positive helper t cell
+```",HLA genes,32060101
+Human,Blood,NK cell,CD3-CD7+GZMB+,32114394
+Human,blood,"t cell
+```",CD3D,32114394
+Human,blood,"t cell
+```",CD3E,32114394
+Human,blood,"t cell
+```",IL32,32114394
+Human,blood,"t cell
+```",CD2,32114394
+Human,blood,"t cell
+```",IFITM1,32114394
+Human,blood,"t cell
+```",GIMAP7,32114394
+Human,blood,"t cell
+```",CD247,32114394
+Human,blood,"t cell
+```",LCK,32114394
+Human,blood,"myeloid progenitor
+```",Lyz,32114394
+Human,blood,"myeloid progenitor
+```",S100A9,32114394
+Human,blood,"myeloid progenitor
+```",S100A8,32114394
+Human,blood,"myeloid progenitor
+```",S100A12,32114394
+Human,blood,"myeloid progenitor
+```",CD14,32114394
+Human,blood,"myeloid progenitor
+```",FCN1,32114394
+Human,blood,"myeloid progenitor
+```",CST4,32114394
+Human,blood,"myeloid progenitor
+```",SERPINA1,32114394
+Human,blood,"myeloid progenitor
+```",MNDA,32114394
+Human,blood,"myeloid progenitor
+```",LST1,32114394
+Human,blood,"myeloid progenitor
+```",MS4A6A,32114394
+Human,blood,"memory b cell
+```",CD79A,32114394
+Human,blood,"memory b cell
+```",CD79B,32114394
+Human,blood,"memory b cell
+```",MS4A1,32114394
+Human,blood,"memory b cell
+```",BANK1,32114394
+Human,blood,"memory b cell
+```",VPREB3,32114394
+Human,blood,"memory b cell
+```",FCER2,32114394
+Human,blood,"memory b cell
+```",ADAM28,32114394
+Human,blood,"cd3-cd7+gzmb+ cells
+```",CD3-CD7+GZMB+,32114394
+Human,eye,"retinal pigment epithelial cell
+```",PDGFRB,32231223
+Human,eye,"retinal pigment epithelial cell
+```",NCAM1,32231223
+Human,eye,"retinal pigment epithelial cell
+```",GD2,32231223
+Human,eye,"retinal pigment epithelial cell
+```",CXCR4,32231223
+Human,eye,"retinal pigment epithelial cell
+```",PDGFRB,32231223
+Human,eye,"retinal pigment epithelial cell
+```",ITGB4,32231223
+Human,eye,"limbal stem cell
+```",GD2,32231223
+Human,eye,"limbal stem cell
+```",CXCR4,32231223
+Human,eye,"retinal pigment epithelial cell
+```",PDGFRB,32231223
+Human,eye,"retinal pigment epithelial cell
+```",BEST1,32231223
+Human,eye,"retinal pigment epithelial cell
+```",TYR,32231223
+Human,eye,"retinal pigment epithelial cell
+```",RPE65,32231223
+Human,eye,"retinal pigment epithelial cell
+```",POU5F1,32231223
+Human,eye,"retinal pigment epithelial cell
+```",MAP2,32231223
+Human,eye,"retinal pigment epithelial cell
+```",TUBB3,32231223
+Human,eye,"retinal pigment epithelial cell
+```",MITF,32231223
+Human,skin,"pigment cell (melanocyte)
+```",PDGFRB,32231223
+Human,skin,"pigment cell (melanocyte)
+```",GD2,32231223
+Human,skin,"pigment cell (melanocyte)
+```",CXCR4,32231223
+Human,retina,"retinal pigment epithelial cell
+```",BEST1,32231223
+Human,retina,"retinal pigment epithelial cell
+```",PDGFRB,32231223
+Human,retina,"retinal pigment epithelial cell
+```",PDGFRB,32231223
+Human,retina,"retinal pigment epithelial cell
+```",BEST1,32231223
+Human,retina,"retinal pigment epithelial cell
+```",MITF,32231223
+Human,retina,"retinal pigment epithelial cell
+```",RLBP1,32231223
+Human,retina,"retinal pigment epithelial cell
+```",RPE65,32231223
+Human,eye,"radial glial cell
+```",NCAM1,32231223
+Human,retina,"retinal pigment epithelial cell
+```",MITF,32231223
+Human,retina,"retinal pigment epithelial cell
+```",RLBP1,32231223
+Human,retina,"retinal pigment epithelial cell
+```",PMEL,32231223
+Human,retina,"retinal pigment epithelial cell
+```",TYR,32231223
+Human,retina,"retinal pigment epithelial cell
+```",RPE65,32231223
+Human,retina,"retinal pigment epithelial cell
+```",BEST1,32231223
+Human,retina,"retinal pigment epithelial cell
+```",PDGFRB,32231223
+Human,retina,"retinal pigment epithelial cell
+```",BEST1,32231223
+Human,retina,"retinal pigment epithelial cell
+```",MITF,32231223
+Human,retina,"retinal pigment epithelial cell
+```",RLBP1,32231223
+Human,blood,"hematopoietic stem cell
+```",TRA,32231223
+Human,eye,"radial glial cell
+```",SIX3,32231223
+Human,eye,"radial glial cell
+```",PAX6,32231223
+Human,eye,"radial glial cell
+```",LHX2,32231223
+Human,eye,"radial glial cell
+```",OTX2,32231223
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",MITF,32231223
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",BEST1,32231223
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",RLBP1,32231223
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",PMEL,32231223
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",TYR,32231223
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",RPE65,32231223
+Human,eye,"radial glial cell
+```",SIX6,32231223
+Human,eye,"radial glial cell
+```",VSX2,32231223
+Human,eye,"radial glial cell
+```",PAX6,32231223
+Human,eye,"radial glial cell
+```",OTX2,32231223
+Human,eye,"radial glial cell
+```",SIX3,32231223
+Human,eye,"radial glial cell
+```",LHX2,32231223
+Human,eye,"radial glial cell
+```",RAX,32231223
+Human,eye,"radial glial cell
+```",ZIC1,32231223
+Human,retina,"retinal pigment epithelial cell
+```",MYOZ2,32231223
+Human,retina,"retinal pigment epithelial cell
+```",CASQ2,32231223
+Human,retina,"retinal pigment epithelial cell
+```",MYOD1,32231223
+Human,retina,"retinal pigment epithelial cell
+```",KLHL41,32231223
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",CD56 (NCAM1),32231223
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",PDGFRB,32231223
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",ITGB4,32231223
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",CXCR4,32231223
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",GD2,32231223
+Human,blood,"naive thymus-derived cd4-positive
+```",CD4,32286271
+Human,blood,"t cell
+```",CCR7,32286271
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CCR7,32286271
+Human,blood,"t cell
+```",CCR7,32286271
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",FOXP3,32286271
+Human,peripheral blood mononuclear cells (PBMCs),"b cell
+```",CD19,32286626
+Human,blood,"t cells
+```",IL7R,32286626
+Human,blood,"monocyte
+```",LYZ,32286626
+Human,blood,"monocyte
+```",FCGR3A,32286626
+Human,blood,"monocyte
+```",CD14,32286626
+Human,blood,"plasmacytoid dendritic cell
+```",FCER1A,32286626
+Human,blood,"nk cell
+```",GNLY,32286626
+Human,trabecular meshwork and associated structures,"beam a cells
+```",FABP4,32341164
+Human,trabecular meshwork and associated structures,"B cell
+```",TMEFF2,32341164
+Human,trabecular meshwork and associated structures,"junctional cells (jct)
+```",CHI3L1,32341164
+Human,trabecular meshwork and associated structures,"junctional cells (jct)
+```",ANGPTL7,32341164
+Human,trabecular meshwork,"schwalbe line cell
+```",AQP1,32341164
+Human,trabecular meshwork and associated structures,"trabecular meshwork cells
+```",MYOC,32341164
+Human,trabecular meshwork and associated structures,"trabecular meshwork cells
+```",MGP,32341164
+Human,trabecular meshwork and associated structures,"trabecular meshwork cells
+```",PDPN,32341164
+Human,trabecular meshwork and associated structures,"trabecular meshwork cells
+```",RARRES1,32341164
+Human,vasculature,"endothelial cell
+```",PECAM1,32341164
+Human,vasculature,"endothelial cell
+```",CDH5,32341164
+Human,vasculature,"endothelial cell
+```",CLDN5,32341164
+Human,vasculature,"endothelial cell
+```",VWF,32341164
+Human,vasculature,"endothelial cell
+```",PLAT,32341164
+Human,vasculature,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",CCL21,32341164
+Human,vasculature,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",FLT4,32341164
+Human,vasculature,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",PROX1,32341164
+Human,vasculature,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",LYVE1,32341164
+Human,vasculature,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",POSTN,32341164
+Human,vasculature,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",TFF3,32341164
+Human,conventional outflow pathway,"trabecular meshwork cells
+```",PDPN,32341164
+Human,conventional outflow pathway,"trabecular meshwork cells
+```",RARRES1,32341164
+Human,vasculature,"cell_ontology_class='epithelial cell', free_annotation='epithelial cells'
+```",TMEFF2,32341164
+Human,vasculature,"cell_ontology_class='epithelial cell', free_annotation='epithelial cells'
+```",PPP1R1B,32341164
+Human,conventional outflow pathway,"junctional cells of the trabecular meshwork (JCT)
+```",ANGPTL7,32341164
+Human,conventional outflow pathway,"junctional cells of the trabecular meshwork (JCT)
+```",CHI3L1,32341164
+Human,eye,"cell_ontology_class='fibroblast', free_annotation='fibroblasts'
+```",ADH1B,32341164
+Human,conventional outflow pathway,"Schwalbe's line cells
+```",AQP1,32341164
+Human,eye,"cell_ontology_class='retinal ganglion cell', free_annotation='retina - ganglion cells'
+```",POU6F2,32341164
+Human,eye,"endothelial cell
+```",POU6F2,32341164
+Human,trabecular meshwork,"trabecular meshwork cells (including beam cells and juxtacanalicular tissue cells)
+```",LOXL1,32341164
+Human,eye,"cell_ontology_class='retinal ganglion cell', free_annotation='retina - ganglion cells'
+```",CACNA1A,32341164
+Human,trabecular meshwork,"tm cell types (c3, c5, and c8)
+```",PDPN,32341164
+Human,gastric cancer,"cancer stem cells (CSCs)
+```",YAP1,32345613
+Human,gastric cancer,"cancer stem cells (CSCs)
+```",SOX9,32345613
+Human,gastric cancer,"cancer stem cells (CSCs)
+```",ALDH1A1,32345613
+Human,pancreas,"pancreatic ductal cell
+```",YAP1,32345613
+Human,pancreas,"pancreatic ductal cell
+```",EpCAM,32345613
+Human,pancreas,"pancreatic ductal cell
+```",Cytokeratin,32345613
+Human,pancreatic cancer tissue,"nonepithelial cell
+```",VIM,32345613
+Human,pancreatic cancer tissue,"t cell
+```",CD3,32345613
+Human,pancreas,"pancreatic ductal cell
+```",EpCAM,32345613
+Human,pancreatic cancer tissue,"immune cell
+```",PTPRC,32345613
+Human,pancreas,"cell_ontology_class='macrophage', free_annotation='macrophage'
+```",CD163,32345613
+Human,pancreas,"pancreatic stellate cell
+```",VIM,32345613
+Human,pancreas,"pancreatic ductal cell
+```",YAP1,32345613
+Human,pancreas,"pancreatic ductal cell
+```",EpCAM,32345613
+Human,pancreas,"pancreatic ductal cell
+```",Cytokeratin,32345613
+Human,pancreatic cancer tissue,"nonepithelial cell
+```",VIM,32345613
+Human,pancreatic cancer tissue,"t cell
+```",CD3,32345613
+Human,pancreas,"pancreatic ductal cell
+```",EpCAM,32345613
+Human,pancreatic cancer tissue,"immune cell
+```",PTPRC,32345613
+Human,pancreas,"cell_ontology_class='macrophage', free_annotation='macrophage'
+```",CD163,32345613
+Human,pancreas,"pancreatic stellate cell
+```",VIM,32345613
+Human,Liver,T cell,CD3D,32351704
+Human,Liver,NK cell,KLRF1,32351704
+Human,lung,"b cell
+```",CD19,32351704
+Human,Liver,Plasma cell,SDC1,32351704
+Human,Liver,Monocyte,CD14,32351704
+Human,liver,"macrophage
+```",FCGR3A,32351704
+Human,liver,"t lymphocytes
+```",MT2A,32351704
+Human,liver,"t lymphocytes
+```",MT1X,32351704
+Human,liver,"t lymphocytes
+```",GZMA,32351704
+Human,liver,"t lymphocytes
+```",NKG7,32351704
+Human,liver,"t lymphocytes
+```",CCL4,32351704
+Human,liver,"t lymphocytes
+```",KLRB1,32351704
+Human,liver,"t lymphocytes
+```",IER2,32351704
+Human,liver,"natural killer cells
+```",CD69,32351704
+Human,liver,"natural killer cells
+```",CXCR6,32351704
+Human,liver,"cd8-positive tissue-resident memory t cell
+```",CD69,32351704
+Human,liver,"cd8-positive tissue-resident memory t cell
+```",CXCR6,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CD69,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CXCR6,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CD69,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CXCR6,32351704
+Human,liver,"t cell
+```",MT2A,32351704
+Human,liver,"t cell
+```",XCL2,32351704
+Human,liver,"t cell
+```",CCL3,32351704
+Human,liver,"t cell
+```",CCL4,32351704
+Human,liver,"t cell
+```",ICAM1,32351704
+Human,liver,"t cell
+```",VCAM1,32351704
+Human,liver,"t cell
+```",ITGAD,32351704
+Human,liver,"t cell
+```",EOMES,32351704
+Human,liver,"t cell
+```",IKZF2,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",SLC4A10,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",KLRB1,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CXCR6,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CCR5,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CCR6,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",ZBTB16,32351704
+Human,liver,"t cell
+```",KLRB1,32351704
+Human,liver,"t cell
+```",GZMK,32351704
+Human,liver,"t cell
+```",CD160,32351704
+Human,liver,"t cell
+```",CXCR6,32351704
+Human,liver,"t cell
+```",EOMES,32351704
+Human,liver,"t and nk cells (cycling)
+```",MKI67,32351704
+Human,liver,"natural killer cells
+```",NCAM1,32351704
+Human,liver,"natural killer cells
+```",KLRF1,32351704
+Human,liver,"natural killer cells
+```",CCR7,32351704
+Human,liver,"natural killer cells
+```",SELL,32351704
+Human,liver,"natural killer cells
+```",IL7R,32351704
+Human,liver,"natural killer cells
+```",IL18RAP,32351704
+Human,liver,"natural killer cells
+```",TNFRSF18,32351704
+Human,liver,"t cell
+```",CXCR6,32351704
+Human,liver,"t cell
+```",CD69,32351704
+Human,liver,"nk cell and t cell
+```",CXCR6,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CXCR6,32351704
+Human,liver,"t cell
+```",CCR7,32351704
+Human,liver,"T cells and NK cells
+```",GZMB,32351704
+Human,liver,"T cells and NK cells
+```",GZMK,32351704
+Human,liver,"cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+```",CD14,32351704
+Human,liver,"cell_ontology_class='monocyte', free_annotation='monocyte'
+```",CD14,32351704
+Human,liver,"cell_ontology_class='monocyte', free_annotation='monocytes'
+```",CD16,32351704
+Human,liver,"nk cell and t cell
+```",CXCR6,32351704
+Human,liver,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CXCR6,32351704
+Human,liver,"t cell
+```",CCR7,32351704
+Human,liver,"T cells and NK cells
+```",GZMB,32351704
+Human,liver,"T cells and NK cells
+```",GZMK,32351704
+Human,liver,"cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+```",CD14,32351704
+Human,liver,"cell_ontology_class='monocyte', free_annotation='monocyte'
+```",CD14,32351704
+Human,liver,"cell_ontology_class='monocyte', free_annotation='monocytes'
+```",CD16,32351704
+Human,spleen,"nk cell subsets (cxcr6+cd16−, cxcr6−cd16−, cxcr6−cd16+)
+```",ki67,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+```",MerTK,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+```",CD206 (MRC1),32351704
+Human,spleen,"memory b cell
+```",TXNIP,32351704
+Human,spleen,"memory b cell
+```",COCH,32351704
+Human,spleen,"memory b cell
+```",SSPN,32351704
+Human,spleen,"memory b cell
+```",ITGAX,32351704
+Human,spleen,"plasma cell
+```",Interferon stimulated genes (ISG),32351704
+Human,spleen,"memory b cell
+```",ZBTB32,32351704
+Human,spleen,"nk cell subsets (cxcr6+cd16−, cxcr6−cd16−, cxcr6−cd16+)
+```",ki67,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+```",MerTK,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+```",CD206 (MRC1),32351704
+Human,spleen,"memory b cell
+```",TXNIP,32351704
+Human,spleen,"memory b cell
+```",COCH,32351704
+Human,spleen,"memory b cell
+```",SSPN,32351704
+Human,spleen,"memory b cell
+```",ITGAX,32351704
+Human,spleen,"plasma cell
+```",Interferon stimulated genes (ISG),32351704
+Human,spleen,"memory b cell
+```",ZBTB32,32351704
+Human,liver,"t cell
+```",CXCR6,32351704
+Human,liver,"t lymphocytes
+```",CX3CR1,32351704
+Human,liver,"liver-resident natural killer cells
+```",CXCR6,32351704
+Human,liver,"natural killer cells
+```",CX3CR1,32351704
+Human,spleen,"classical monocyte
+```",CD14,32351704
+Human,spleen,"cell_ontology_class='classical monocyte', free_annotation='classical monocyte'
+```",FCGR3A,32351704
+Human,blood,"naive thymus-derived cd4-positive
+```",SELL,32351704
+Human,blood,"naive thymus-derived cd4-positive
+```",CCR7,32351704
+Human,blood,"naive thymus-derived cd4-positive
+```",SOCS3,32351704
+Human,blood,"naive thymus-derived cd4-positive
+```",MYC,32351704
+Human,blood,"naive thymus-derived cd4-positive
+```",LEF1,32351704
+Human,blood,"naive thymus-derived cd4-positive
+```",TSHZ2,32351704
+Human,blood,"naive thymus-derived cd4-positive
+```",MAL,32351704
+Human,blood,"naive thymus-derived cd4-positive
+```",NOSIP,32351704
+Human,blood,"naive thymus-derived cd4-positive
+```",TCF7,32351704
+Human,spleen,"cd4-positive
+```",LTB,32351704
+Human,spleen,"cd4-positive
+```",IL7R,32351704
+Human,spleen,"cd4-positive
+```",CD52,32351704
+Human,spleen,"cd4-positive
+```",TNFRSF4,32351704
+Human,spleen,"cd4-positive
+```",AQP3,32351704
+Human,spleen,"cd4-positive
+```",TIMP1,32351704
+Human,spleen,"naive thymus-derived cd4-positive
+```",GPR183,32351704
+Human,spleen,"naive thymus-derived cd4-positive
+```",LTB,32351704
+Human,spleen,"naive thymus-derived cd4-positive
+```",CD40LG,32351704
+Human,spleen,"naive thymus-derived cd4-positive
+```",CXCR5,32351704
+Human,spleen,"naive thymus-derived cd4-positive
+```",MALAT1,32351704
+Human,spleen,"cd4-positive regulatory T cell
+```",FOXP3,32351704
+Human,spleen,"cd4-positive regulatory T cell
+```",RTKN2,32351704
+Human,spleen,"cd4-positive regulatory T cell
+```",CTLA4,32351704
+Human,spleen,"cd4-positive regulatory T cell
+```",FANK1,32351704
+Human,spleen,"cd4-positive regulatory T cell
+```",IL2RA,32351704
+Human,spleen,"cd4-positive regulatory T cell
+```",ICA1,32351704
+Human,spleen,"cd4-positive regulatory T cell
+```",ARID5B,32351704
+Human,spleen,"cd4-positive regulatory T cell
+```",CORO1B,32351704
+Human,spleen,"cd4-positive regulatory T cell
+```",GBP2,32351704
+Human,spleen,"naive thymus-derived cd8-positive
+```",SELL,32351704
+Human,spleen,"naive thymus-derived cd8-positive
+```",CCR7,32351704
+Human,spleen,"naive thymus-derived cd8-positive
+```",MYC,32351704
+Human,spleen,"naive thymus-derived cd8-positive
+```",LEF1,32351704
+Human,spleen,"naive thymus-derived cd8-positive
+```",TSHZ2,32351704
+Human,spleen,"naive thymus-derived cd8-positive
+```",MAL,32351704
+Human,spleen,"naive thymus-derived cd8-positive
+```",NOSIP,32351704
+Human,spleen,"naive thymus-derived cd8-positive
+```",TCF7,32351704
+Human,spleen,"naive thymus-derived cd8-positive
+```",RCAN3,32351704
+Human,spleen,"naive thymus-derived cd8-positive
+```",SOCS3,32351704
+Human,blood,"cd8-positive T cell (effector memory)
+```",CD8A/CD8B,32351704
+Human,blood,"cd8-positive T cell (effector memory)
+```",CXCR3,32351704
+Human,blood,"cd8-positive T cell (effector memory)
+```",CD52,32351704
+Human,blood,"cd8-positive T cell (effector memory)
+```",ITGA1,32351704
+Human,spleen,"cd8-positive (trm)
+```",KLRG1,32351704
+Human,spleen,"cd8-positive (trm)
+```",CXCR6,32351704
+Human,spleen,"cd8-positive (trm)
+```",KLRD1,32351704
+Human,spleen,"cd8-positive (trm)
+```",CCL4,32351704
+Human,spleen,"cd8-positive (trm)
+```",CCL5,32351704
+Human,spleen,"cd8-positive (trm)
+```",XCL2,32351704
+Human,spleen,"cd8-positive (trm)
+```",GZMK,32351704
+Human,spleen,"cd8-positive (trm)
+```",CMC1,32351704
+Human,spleen,"cd8-positive
+```",KLRB1,32351704
+Human,spleen,"cd8-positive
+```",KLRG1,32351704
+Human,spleen,"cd8-positive
+```",NCR3,32351704
+Human,spleen,"cd8-positive
+```",SLC4A10,32351704
+Human,spleen,"cd8-positive
+```",CXCR6,32351704
+Human,spleen,"cd8-positive
+```",JAML,32351704
+Human,spleen,"cd8-positive
+```",IL7R,32351704
+Human,spleen,"cd8-positive
+```",CD160,32351704
+Human,blood,"cd8-positive
+```",CX3CR1,32351704
+Human,blood,"cd8-positive
+```",LGALS1,32351704
+Human,blood,"cd8-positive
+```",FGFBP2,32351704
+Human,blood,"cd8-positive
+```",GNLY,32351704
+Human,blood,"cd8-positive
+```",GZMB,32351704
+Human,blood,"cd8-positive
+```",PTGDS,32351704
+Human,blood,"cd8-positive
+```",SPON2,32351704
+Human,blood,"cd8-positive
+```",PRF1,32351704
+Human,blood,"cd8-positive
+```",ZNF683,32351704
+Human,blood,"cd8-positive
+```",NKG7,32351704
+Human,liver,"T cells
+```",CD8A,32351704
+Human,liver,"T cells
+```",TRGC2,32351704
+Human,liver,"T cells
+```",CMC1,32351704
+Human,liver,"T cells
+```",ITGAD,32351704
+Human,spleen,"type I NKT cell
+```",XCL1,32351704
+Human,spleen,"type I NKT cell
+```",XCL2,32351704
+Human,spleen,"type I NKT cell
+```",CCL3,32351704
+Human,spleen,"type I NKT cell
+```",KLRC1,32351704
+Human,spleen,"type I NKT cell
+```",CD160,32351704
+Human,spleen,"type I NKT cell
+```",IL2RB,32351704
+Human,spleen,"type I NKT cell
+```",GSTP1,32351704
+Human,spleen,"type I NKT cell
+```",FCER1G,32351704
+Human,spleen,"type I NKT cell
+```",TYROBP,32351704
+Human,spleen,"type I NKT cell
+```",CXCR6,32351704
+Human,spleen,"type I NKT cell
+```",GZMK,32351704
+Human,spleen,"type I NKT cell
+```",CX3CR1,32351704
+Human,spleen,"type I NKT cell
+```",LGALS1,32351704
+Human,spleen,"type I NKT cell
+```",FGFBP2,32351704
+Human,spleen,"type I NKT cell
+```",GNLY,32351704
+Human,spleen,"type I NKT cell
+```",GZMB,32351704
+Human,spleen,"type I NKT cell
+```",PTGDS,32351704
+Human,spleen,"type I NKT cell
+```",SPON2,32351704
+Human,spleen,"type I NKT cell
+```",PRF1,32351704
+Human,spleen,"type I NKT cell
+```",TYROBP,32351704
+Human,spleen,"type I NKT cell
+```",NKG7,32351704
+Human,spleen,"type I NKT cell
+```",FCGR3A,32351704
+Human,spleen,"type I NKT cell
+```",PRF1,32351704
+Human,spleen,"innate lymphoid cell
+```",LST1,32351704
+Human,spleen,"innate lymphoid cell
+```",FXYD5,32351704
+Human,spleen,"innate lymphoid cell
+```",OTUD5,32351704
+Human,spleen,"innate lymphoid cell
+```",SPINK2,32351704
+Human,spleen,"innate lymphoid cell
+```",IL1R1,32351704
+Human,spleen,"innate lymphoid cell
+```",ALDOC,32351704
+Human,spleen,"innate lymphoid cell
+```",IL4I1,32351704
+Human,spleen,"innate lymphoid cell
+```",TNFRSF4,32351704
+Human,spleen,"innate lymphoid cell
+```",IL7R,32351704
+Human,spleen,"innate lymphoid cell
+```",TNFSF13B,32351704
+Human,spleen,"type i nk t cell
+```",STMN1,32351704
+Human,spleen,"type i nk t cell
+```",H4C3,32351704
+Human,spleen,"type i nk t cell
+```",HMGB2,32351704
+Human,spleen,"type i nk t cell
+```",TUBA1B,32351704
+Human,spleen,"type i nk t cell
+```",TUBB,32351704
+Human,spleen,"type i nk t cell
+```",TYMS,32351704
+Human,spleen,"type i nk t cell
+```",PCLAF,32351704
+Human,spleen,"type i nk t cell
+```",PCNA,32351704
+Human,spleen,"type i nk t cell
+```",MKI67,32351704
+Human,spleen,"type i nk t cell
+```",RRM2,32351704
+Human,spleen,"type i nk t cell
+```",DUT,32351704
+Human,blood,"CD14-positive monocytes
+```",LGALS2,32351704
+Human,blood,"CD14-positive monocytes
+```",VIM,32351704
+Human,blood,"CD14-positive monocytes
+```",CLEC4E,32351704
+Human,blood,"CD14-positive monocytes
+```",CRIP1,32351704
+Human,blood,"CD14-positive monocytes
+```",S100A8,32351704
+Human,blood,"CD14-positive monocytes
+```",S100A9,32351704
+Human,blood,"CD14-positive monocytes
+```",S100A12,32351704
+Human,blood,"CD14-positive monocytes
+```",RNASE2,32351704
+Human,blood,"CD14-positive monocytes
+```",PLBD1,32351704
+Human,blood,"CD14-positive monocytes
+```",CLU,32351704
+Human,blood,"CD14-positive monocytes
+```",RETN,32351704
+Human,blood,"CD14-positive monocytes
+```",VCAN,32351704
+Human,blood,"CD14-positive monocytes
+```",MNDA,32351704
+Human,blood,"CD14-positive monocytes
+```",LYZ,32351704
+Human,spleen,"cd141-positive myeloid dendritic cell
+```",MT1X,32351704
+Human,spleen,"cd141-positive myeloid dendritic cell
+```",MT1E,32351704
+Human,spleen,"cd141-positive myeloid dendritic cell
+```",MT1G,32351704
+Human,spleen,"cd141-positive myeloid dendritic cell
+```",VCAN,32351704
+Human,spleen,"cd141-positive myeloid dendritic cell
+```",FOLR3,32351704
+Human,spleen,"cd141-positive myeloid dendritic cell
+```",IER2,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",HLA-DPB1,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",HLA-DPA1,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",CD74,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",HLA-DRB1,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",MS4A7,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",C1QA,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",C1QB,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",C1QC,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",FCGR3A,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",RHOC,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",PELATON,32351704
+Human,blood,"cd141-positive myeloid dendritic cell
+```",CSF1R,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",FTL,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",SELENOP,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",HMOX1,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",FABP5,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",CD5L,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",APOE,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",APOC1,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",FABP4,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",NUPR1,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",MARCO,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",LGMN,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",SLC40A1,32351704
+Human,spleen,"cell_ontology_class='macrophage', free_annotation='sorted myeloid'
+```",MRC1,32351704
+Human,blood,"megakaryocyte
+```",PPBP,32351704
+Human,blood,"megakaryocyte
+```",PF4,32351704
+Human,blood,"megakaryocyte
+```",GNG11,32351704
+Human,blood,"megakaryocyte
+```",CAVIN2,32351704
+Human,blood,"megakaryocyte
+```",NRGN,32351704
+Human,blood,"megakaryocyte
+```",MYL9,32351704
+Human,blood,"megakaryocyte
+```",SPARC,32351704
+Human,blood,"megakaryocyte
+```",TUBB1,32351704
+Human,blood,"megakaryocyte
+```",ITGA2B,32351704
+Human,blood,"megakaryocyte
+```",PIG6B,32351704
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",CLEC9A,32351704
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",PTTG1,32351704
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",H4C3,32351704
+Human,spleen,"plasma cell
+```",HLA-DQA1,32351704
+Human,spleen,"plasma cell
+```",HLA-DQB1,32351704
+Human,spleen,"plasma cell
+```",CD1C,32351704
+Human,spleen,"plasma cell
+```",PPA1,32351704
+Human,spleen,"plasma cell
+```",FCER1A,32351704
+Human,spleen,"b cell
+```",LILRA4,32351704
+Human,spleen,"b cell
+```",TCF4,32351704
+Human,spleen,"b cell
+```",CCDC50,32351704
+Human,spleen,"b cell
+```",IRF8,32351704
+Human,spleen,"b cell
+```",BCL11A,32351704
+Human,spleen,"b cell
+```",ITM2C,32351704
+Human,spleen,"b cell
+```",C12orf75,32351704
+Human,spleen,"b cell
+```",IRF7,32351704
+Human,spleen,"b cell
+```",SPIB,32351704
+Human,spleen,"naive b cell
+```",TCL1A,32351704
+Human,spleen,"naive b cell
+```",IGHD,32351704
+Human,spleen,"naive b cell
+```",IGHM,32351704
+Human,spleen,"naive b cell
+```",FCER2,32351704
+Human,spleen,"naive b cell
+```",CXCR4,32351704
+Human,spleen,"naive b cell
+```",APLP2,32351704
+Human,spleen,"naive b cell
+```",PLPP5,32351704
+Human,spleen,"naive b cell
+```",IL4R,32351704
+Human,spleen,"plasma cell
+```",SMIM14,32351704
+Human,spleen,"plasma cell
+```",CD27,32351704
+Human,spleen,"plasma cell
+```",CR2,32351704
+Human,spleen,"plasma cell
+```",KLK1,32351704
+Human,spleen,"plasma cell
+```",ITM2C,32351704
+Human,spleen,"plasma cell
+```",DNASE1L3,32351704
+Human,spleen,"plasma cell
+```",HES4,32351704
+Human,spleen,"plasma cell
+```",ABI3,32351704
+Human,spleen,"plasma cell
+```",CHI3L2,32351704
+Human,spleen,"hematopoietic stem cell
+```",TSC22D3,32351704
+Human,spleen,"hematopoietic stem cell
+```",CRIP1,32351704
+Human,spleen,"hematopoietic stem cell
+```",COCH,32351704
+Human,spleen,"hematopoietic stem cell
+```",CD27,32351704
+Human,spleen,"hematopoietic stem cell
+```",ITGB1,32351704
+Human,spleen,"hematopoietic stem cell
+```",ANXA2,32351704
+Human,spleen,"hematopoietic stem cell
+```",IGHA2,32351704
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",FGR,32351704
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",FCRL5,32351704
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",MPHOSPH6,32351704
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",FCRL3,32351704
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",MACROD2,32351704
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",HSPB1,32351704
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",CELC2D,32351704
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",CD72,32351704
+Human,spleen,"plasma cell
+```",EGR3,32351704
+Human,spleen,"plasma cell
+```",CD83,32351704
+Human,spleen,"plasma cell
+```",DUSP2,32351704
+Human,spleen,"plasma cell
+```",EGR2,32351704
+Human,spleen,"plasma cell
+```",NR4A1,32351704
+Human,spleen,"plasma cell
+```",MYC,32351704
+Human,spleen,"plasma cell
+```",TNF,32351704
+Human,spleen,"plasma cell
+```",NFKBID,32351704
+Human,spleen,"plasma cell
+```",NFKBIA,32351704
+Human,spleen,"plasma cell
+```",CD69,32351704
+Human,spleen,"naive b cell
+```",ISG15,32351704
+Human,spleen,"naive b cell
+```",IFI6,32351704
+Human,spleen,"naive b cell
+```",IFIT3,32351704
+Human,spleen,"naive b cell
+```",IFIT1,32351704
+Human,spleen,"naive b cell
+```",IFI44L,32351704
+Human,spleen,"naive b cell
+```",MX1,32351704
+Human,spleen,"naive b cell
+```",ISG20,32351704
+Human,spleen,"naive b cell
+```",IRF7,32351704
+Human,spleen,"naive b cell
+```",SAMD9L,32351704
+Human,spleen,"naive b cell
+```",IFI44,32351704
+Human,spleen,"memory b cell
+```",ARPC1B,32351704
+Human,spleen,"memory b cell
+```",CD1C,32351704
+Human,spleen,"memory b cell
+```",PCLAF,32351704
+Human,spleen,"memory b cell
+```",ZBTB32,32351704
+Human,spleen,"memory b cell
+```",STAC3,32351704
+Human,spleen,"memory b cell
+```",DUS2,32351704
+Human,spleen,"memory b cell
+```",PTPN1,32351704
+Human,spleen,"memory b cell
+```",CPNE5,32351704
+Human,spleen,"plasma cells
+```",UBE2C,32351704
+Human,spleen,"plasma cells
+```",TOP2A,32351704
+Human,spleen,"plasma cells
+```",CKS2,32351704
+Human,spleen,"plasma cells
+```",KPNA2,32351704
+Human,spleen,"plasma cells
+```",CDC20,32351704
+Human,spleen,"plasma cells
+```",UBE2S,32351704
+Human,spleen,"plasma cells
+```",TUBB4B,32351704
+Human,spleen,"plasma cells
+```",PTTG1,32351704
+Human,spleen,"plasma cells
+```",H4C3,32351704
+Human,spleen,"plasma cells
+```",RRM2,32351704
+Human,spleen,"plasma cells
+```",PCLAF,32351704
+Human,spleen,"plasma cells
+```",DUT,32351704
+Human,spleen,"plasma cells
+```",MKI67,32351704
+Human,spleen,"plasma cell
+```",JCHAIN,32351704
+Human,spleen,"plasma cell
+```",DPEP1,32351704
+Human,spleen,"plasma cell
+```",IGHA2,32351704
+Human,spleen,"plasma cell
+```",IGKC,32351704
+Human,spleen,"plasma cell
+```",HERPUD1,32351704
+Human,spleen,"plasma cell
+```",SLC3A2,32351704
+Human,spleen,"plasma cell
+```",PSAT1,32351704
+Human,spleen,"plasma cell
+```",SLC1A5,32351704
+Human,spleen,"plasma cell
+```",EIF1,32351704
+Human,spleen,"plasma cell
+```",MTHFD2,32351704
+Human,spleen,"plasma cell
+```",WARS1,32351704
+Human,spleen,"plasma cell
+```",EIF4EBP1,32351704
+Human,spleen,"plasma cell
+```",HSPA5,32351704
+Human,spleen,"cd4-positive
+```",IGLL5,32351704
+Human,spleen,"cd4-positive
+```",IGLL1,32351704
+Human,spleen,"cd4-positive
+```",SSR4,32351704
+Human,spleen,"cd4-positive
+```",SDC1,32351704
+Human,blood,"classical monocyte
+```",CD14,32377375
+Human,blood,"non-classical monocyte
+```",CD16,32377375
+Human,blood,"cell_ontology_class='monocyte', free_annotation='monocyte'
+```",CD14,32377375
+Human,blood,"cell_ontology_class='monocyte', free_annotation='monocyte'
+```",CD16,32377375
+Human,blood,"无法确定（建议进一步注释或补充数据库）
+```",CD1C,32377375
+Human,skin,"cd1c-positive myeloid dendritic cell
+```",CLEC9A,32377375
+Human,blood,"plasmacytoid dendritic cell
+```",CLEC4C,32377375
+Human,blood,"plasmacytoid dendritic cell
+```",IL3RA,32377375
+Human,blood,"classical monocyte
+```",IL1β,32377375
+Human,blood,"classical monocyte
+```",JUN,32377375
+Human,blood,"classical monocyte
+```",FOS,32377375
+Human,blood,"classical monocyte
+```",JUNB,32377375
+Human,blood,"classical monocyte
+```",KLF6,32377375
+Human,blood,"classical monocyte
+```",CCL4,32377375
+Human,blood,"classical monocyte
+```",CXCR4,32377375
+Human,blood,"classical monocyte
+```",IFRD1,32377375
+Human,blood,"classical monocyte
+```",IRF1,32377375
+Human,blood,"classical monocyte
+```",IFI6,32377375
+Human,Blood,NK cells,NCAM1,32377375
+Human,Blood,NK cells,KLRF1,32377375
+Human,Blood,NK cells,KLRC1,32377375
+Human,Blood,NK cells,KLRD1,32377375
+Human,blood,"cell_ontology_class='nk cell', free_annotation='nk cells'
+```",NCAM1,32377375
+Human,blood,"cell_ontology_class='nk cell', free_annotation='nk cells'
+```",CD16,32377375
+Human,blood,"cell_ontology_class='nk cell', free_annotation='nk cells'
+```",CD16,32377375
+Human,blood,"cell_ontology_class='nk cell', free_annotation='nk cells'
+```",NCAM1,32377375
+Human,blood,"cd4-positive
+```",CD3E,32377375
+Human,blood,"cd4-positive
+```",CD4,32377375
+Human,blood,"naive thymus-derived cd4-positive
+```",CCR7,32377375
+Human,blood,"naive thymus-derived cd4-positive
+```",LEF1,32377375
+Human,blood,"naive thymus-derived cd4-positive
+```",TCF7,32377375
+Human,blood,"cd4-positive
+```",CCR7,32377375
+Human,blood,"cd4-positive
+```",AQP3,32377375
+Human,blood,"cd4-positive
+```",CD69,32377375
+Human,blood,"effector memory cd4-positive t cell
+```",CCR6,32377375
+Human,blood,"effector memory cd4-positive t cell
+```",CXCR6,32377375
+Human,blood,"effector memory cd4-positive t cell
+```",CCL5,32377375
+Human,blood,"effector memory cd4-positive t cell
+```",PRDM1,32377375
+Human,blood,"regulatory T cell
+```",FOXP3,32377375
+Human,blood,"cd8-positive
+```",CD8A,32377375
+Human,blood,"cd8-positive
+```",CD8B,32377375
+Human,spleen,"naive thymus-derived cd8-positive
+```",CCR7,32377375
+Human,spleen,"naive thymus-derived cd8-positive
+```",LEF1,32377375
+Human,spleen,"naive thymus-derived cd8-positive
+```",TCF7,32377375
+Human,blood,"CD8-positive
+```",GZMK,32377375
+Human,blood,"cd8-positive cytotoxic t lymphocyte
+```",GZMB,32377375
+Human,blood,"cd8-positive cytotoxic t lymphocyte
+```",GNLY,32377375
+Human,blood,"cd8-positive cytotoxic t lymphocyte
+```",PRF1,32377375
+Human,blood,"cell_ontology_class='cd8-positive', free_annotation=''
+```",TYMS,32377375
+Human,blood,"cell_ontology_class='cd8-positive', free_annotation=''
+```",MKI67,32377375
+Human,blood,"myeloid progenitor
+```",CD14,32377375
+Human,blood,"myeloid progenitor
+```",CD1C,32377375
+Human,blood,"myeloid progenitor
+```",FCGR3A,32377375
+Human,blood,"cell_ontology_class='nk cell', free_annotation='nk cells'
+```",CD3E,32377375
+Human,blood,"cell_ontology_class='nk cell', free_annotation='nk cells'
+```",CD4,32377375
+Human,blood,"cell_ontology_class='nk cell', free_annotation='nk cells'
+```",CD8A,32377375
+Human,blood,"cell_ontology_class='nk cell', free_annotation='nk cells'
+```",NCAM1,32377375
+Human,peripheral blood mononuclear cells (PBMCs),"b cell
+```",CD19,32377375
+Human,blood,"naive b cell
+```",CD19,32377375
+Human,blood,"naive b cell
+```",CD20 (MS4A1),32377375
+Human,blood,"naive b cell
+```",IGHD,32377375
+Human,blood,"naive b cell
+```",IGHM,32377375
+Human,blood,"naive b cell
+```",IL4R,32377375
+Human,blood,"naive b cell
+```",TCL1A,32377375
+Human,blood,"memory b cell
+```",CD27,32377375
+Human,blood,"memory b cell
+```",CD38,32377375
+Human,blood,"memory b cell
+```",IGHG,32377375
+Human,peripheral blood,"immature B cell
+```",CD19,32377375
+Human,peripheral blood,"immature B cell
+```",CD20 (MS4A1),32377375
+Human,blood,"plasma cells
+```",XBP1,32377375
+Human,blood,"plasma cells
+```",MZB1,32377375
+Human,blood,"cell_ontology_class='classical monocyte', free_annotation='classical monocyte'
+```",CD14,32377375
+Human,blood,"non-classical monocyte
+```",FCGR3A,32377375
+Human,blood,"cd1c-positive myeloid dendritic cell
+```",CD1C,32377375
+Human,blood,"clec9a+ cdc1
+```",CLEC9A,32377375
+Human,blood,"plasmacytoid dendritic cell (clec4c+cd123+)
+```",CLEC4C,32377375
+Human,blood,"myeloid progenitor
+```",IL-1β,32377375
+Human,Blood,Classical monocyte,CD14,32377375
+Human,blood,"cell_ontology_class='classical monocyte', free_annotation='classical monocyte'
+```",CD14+IL1β,32377375
+Human,blood,"naive b cell
+```",MME,32377375
+Human,blood,"naive b cell
+```",IL4R,32377375
+Human,blood,"memory b cell
+```",CD38,32377375
+Human,blood,"memory b cell
+```",CD27,32377375
+Human,blood,"naive b cell
+```",MZB1,32377375
+Human,blood,"cell_ontology_class='plasma cell', free_annotation='plasma cells'
+```",IGHA1,32377375
+Human,skin,"dermal dendritic cells
+```",ITGAX (CD11c),32403085
+Human,skin,"cd1c-positive myeloid dendritic cell
+```",CD1a,32403085
+Human,skin,"cd1c-positive myeloid dendritic cell
+```",CD1a,32403085
+Human,skin,"dendritic cell (itgax+)
+```",ITGAX,32403085
+Human,blood,"t cell
+```",CD3D,32405063
+Human,blood,"t cell
+```",CD3E,32405063
+Human,blood,"cd8-positive alpha-beta t cell
+```",CD3E,32405063
+Human,blood,"cd8-positive alpha-beta t cell
+```",CD8A,32405063
+Human,blood,"cell_ontology_class='b cell', free_annotation='b cells'
+```",CD79A,32405063
+Human,blood,"cell_ontology_class='monocyte', free_annotation='monocyte'
+```",CD14,32405063
+Human,blood,"nk cell
+```",NKG7,32405063
+Human,trabecular meshwork,"trabecular meshwork cells
+```",CHI3L1,32439707
+Human,trabecular meshwork,"trabecular meshwork cells
+```",MGP,32439707
+Human,trabecular meshwork,"trabecular meshwork cells
+```",AQP1,32439707
+Human,trabecular meshwork,"trabecular meshwork cells
+```",MYOC,32439707
+Human,tongue,"schwann cell
+```",AQP7P1,32439707
+Human,tongue,"schwann cell
+```",SCN7A,32439707
+Human,trabecular meshwork,"fibroblast
+```",DCN,32439707
+Human,trabecular meshwork,"fibroblast
+```",PDGFRA,32439707
+Human,muscle,"smooth muscle cell
+```",MYH11,32439707
+Human,trabecular meshwork,"smooth muscle cell
+```",TAGLN,32439707
+Human,trabecular meshwork,"lymphatic-like endothelial cell
+```",LYVE1,32439707
+Human,trabecular meshwork,"lymphatic-like endothelial cell
+```",C1QB,32439707
+Human,trabecular meshwork,"lymphatic-like endothelial cell
+```",TYROBP,32439707
+Human,thymus,"thymocyte
+```",CHI3L1,32439707
+Human,blood,"t cell
+```",MGP,32439707
+Human,muscle,"smooth muscle cell
+```",AQP1,32439707
+Human,muscle,"smooth muscle cell
+```",CRYAB,32439707
+Human,vasculature,"lymphatic endothelial cell
+```",PLAT,32439707
+Human,未匹配（需进一步确认）,"未匹配（需进一步确认）
+```",PDPN (D2-40),32439707
+Human,trabecular meshwork,"trabecular meshwork cells
+```",Angpt1,32439707
+Human,vasculature,"lymphatic endothelial cell and endothelial cell
+```",Tek (Tie2),32439707
+Human,vasculature,"lymphatic endothelial cell and endothelial cell
+```",Angpt2,32439707
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",MYOC,32439707
+Human,未确定（需进一步确认原始数据背景）,"未确定（需进一步确认原始数据背景）
+```",PECAM1 (CD31),32439707
+Human,eye,"tm1 and tm2 cells (with preference for jct (tm1 cells))
+```",RSPO2,32439707
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelial cell'
+```",LYVE1,32439707
+Human,eye,"cell_ontology_class='ciliary body', free_annotation='ciliary body cells'
+```",MYH11,32439707
+Human,Eye,Macrophages,LYVE1,32439707
+Human,Eye,Macrophages,C1QB,32439707
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",FLT4,32439707
+Human,Eye,Vascular endothelial cells,FN1,32439707
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",MMRN1,32439707
+Human,Eye,Vascular endothelial cells,VWF,32439707
+Human,Eye,Vascular endothelial cells,FLT1,32439707
+Human,eye,"trabecular meshwork
+```",MYOC,32439707
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",ANGPTL7,32439707
+Human,eye,"ciliary body cells
+```",CAV1,32439707
+Human,eye,"ciliary body cells
+```",CAV2,32439707
+Human,eye,"ciliary body cells
+```",NOS3,32439707
+Human,eye,"ciliary body cells
+```",ANGPT1,32439707
+Human,eye,"ciliary body cells
+```",ANGPT2,32439707
+Human,eye,"ciliary body cells
+```",TEK,32439707
+Human,eye,"ciliary body cells
+```",CRYAB,32439707
+Human,eye,"ciliary body cells
+```",CHI3L1,32439707
+Human,eye,"ciliary body cells
+```",PDPN,32439707
+Human,eye,"ciliary body cells
+```",AQP1,32439707
+Human,eye,"ciliary body cells
+```",MGP,32439707
+Human,eye,"ciliary body cells
+```",PLAT,32439707
+Human,eye,"tm2-myofibroblast cell cluster
+```",RSPO2,32439707
+Human,eye,"tm2-myofibroblast cell cluster
+```",RSPO4,32439707
+Human,eye,"fibroblast
+```",DCN,32439707
+Human,eye,"fibroblast
+```",PDGFRA,32439707
+Human,eye,"endothelial cell
+```",FN1,32439707
+Human,eye,"未分类细胞簇 (unclassified cell clusters)
+```",MYOC,32439707
+Human,eye,"未分类细胞簇 (unclassified cell clusters)
+```",ANGPTL7,32439707
+Human,eye,"未分类细胞簇 (unclassified cell clusters)
+```",PDPN,32439707
+Human,eye,"未分类细胞簇 (unclassified cell clusters)
+```",CHI3L1,32439707
+Human,eye,"未分类细胞簇 (unclassified cell clusters)
+```",ANGPT1,32439707
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",CAV1,32439707
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",CAV2,32439707
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",NOS3,32439707
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",TEK,32439707
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",PLAT,32439707
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelial cells'
+```",ANGPT2,32439707
+Human,Eye,Macrophages,LYVE1,32439707
+Human,Eye,Macrophages,C1QB,32439707
+Human,Eye,Macrophages,TYROBP,32439707
+Human,Eye,Vascular endothelial cells,PECAM1,32439707
+Human,eye,"tm2 cell cluster
+```",RSPO2,32439707
+Human,stomach,"chief cell
+```",LIPF,32532891
+Human,stomach,"chief cell
+```",PGC,32532891
+Human,small_intestine,"mast cell
+```",LY6K,32532891
+Human,small_intestine,"mast cell
+```",Major histocompatibility complex class II,32532891
+Human,gastric tissue,"epithelial cell
+```",EPCAM,32532891
+Human,gastric tissue,"epithelial cell
+```",KRT18,32532891
+Human,gastric tissue,"epithelial cell
+```",KRT8,32532891
+Human,gastric tissue,"parietal cell
+```",ATP4A,32532891
+Human,gastric tissue,"endocrine cell
+```",CHGA,32532891
+Human,small_intestine,"b cell
+```",MS4A1,32532891
+Human,small_intestine,"b cell
+```",CD79A,32532891
+Human,gastric tissue,"t cell
+```",CD2,32532891
+Human,gastric tissue,"t cell
+```",CD3D,32532891
+Human,gastric tissue,"t cell
+```",CD3E,32532891
+Human,gastric tissue,"macrophage
+```",CD14,32532891
+Human,gastric tissue,"cell_ontology_class='mast cell', free_annotation='mast cell'
+```",CPA3,32532891
+Human,large_intestine,"fibroblast
+```",ACTA2,32532891
+Human,large_intestine,"fibroblast
+```",COL1A2,32532891
+Human,small_intestine,"gut endothelial cell
+```",ENG,32532891
+Human,small_intestine,"gut endothelial cell
+```",VWF,32532891
+Human,stomach,"malignant epithelial cell
+```",CLDN4,32532891
+Human,stomach,"malignant epithelial cell
+```",CLDN7,32532891
+Human,stomach,"malignant epithelial cell
+```",TFF3,32532891
+Human,stomach,"malignant epithelial cell
+```",REG4,32532891
+Human,uterus,"epithelial cell
+```",MUC5AC,32532891
+Human,uterus,"epithelial cell
+```",GKN1,32532891
+Human,uterus,"epithelial cell
+```",PGC,32532891
+Human,uterus,"epithelial cell
+```",LIPF,32532891
+Human,stomach,"gastric surface epithelial cell
+```",TFF2,32532891
+Human,stomach,"gastric surface epithelial cell
+```",GKN1,32532891
+Human,stomach,"gastric surface epithelial cell
+```",MUC5AC,32532891
+Human,stomach,"chief cells
+```",PGA3,32532891
+Human,stomach,"chief cells
+```",PGA4,32532891
+Human,stomach,"chief cells
+```",LIPF,32532891
+Human,stomach,"mucous neck cells
+```",PGA3,32532891
+Human,stomach,"mucous neck cells
+```",MUC6,32532891
+Human,stomach,"metaplasia cells
+```",TFF2,32532891
+Human,stomach,"metaplasia cells
+```",CD44,32532891
+Human,stomach,"metaplasia cells
+```",SOX9,32532891
+Human,stomach,"metaplasia cells
+```",HLA-DPA1,32532891
+Human,small_intestine,"small intestine goblet cell
+```",APOA1,32532891
+Human,small_intestine,"small intestine goblet cell
+```",FABP2,32532891
+Human,small_intestine,"gut endothelial cell
+```",CLDN18,32532891
+Human,small_intestine,"gut endothelial cell
+```",TFF2,32532891
+Human,salivary_gland,"chief cell-like exocrine cell
+```",LIPF,32532891
+Human,salivary_gland,"chief cell-like exocrine cell
+```",PGC,32532891
+Human,salivary_gland,"chief cell-like exocrine cell
+```",PGA3,32532891
+Human,small_intestine,"goblet cell
+```",MUC6,32532891
+Human,small_intestine,"goblet cell
+```",PGA3,32532891
+Human,stomach,"ga-fg-ccp cells (待进一步确认具体细胞本体分类)
+```",CTNNB1,32532891
+Human,large_intestine,"gut endothelial cell
+```",LY6K,32532891
+Human,large_intestine,"gut endothelial cell
+```",HLA-DPA1,32532891
+Human,large_intestine,"gut endothelial cell
+```",HLA-DPB1,32532891
+Human,small_intestine,"gut endothelial cell
+```",HLA-DPA1,32532891
+Human,small_intestine,"gut endothelial cell
+```",HLA-DPB1,32532891
+Human,gastric adenocarcinoma,"tumor cell
+```",LY6K,32532891
+Human,small_intestine,"gut endothelial cell
+```",HLA-DPA1,32532891
+Human,small_intestine,"gut endothelial cell
+```",HLA-DPB1,32532891
+Human,gastric adenocarcinoma,"tumor cell
+```",LY6K,32532891
+Human,blood,"myeloid progenitor
+```",FRZB,32614947
+Human,blood,"myeloid progenitor
+```",HBE1,32614947
+Human,blood,"myeloid progenitor
+```",SPINK1,32614947
+Human,blood,"myeloid progenitor
+```",SPINK2,32614947
+Human,fetal liver,"hematopoietic stem cells/multipotent progenitor cells (HSCs/MPPs)
+```",HLA genes,32614947
+Human,blood,"myeloid progenitor
+```",CD44,32614947
+Human,blood,"myeloid progenitor
+```",LMO4,32614947
+Human,fetal liver,"hematopoietic stem cells/multipotent progenitor cells (HSCs/MPPs)
+```",SPINK2,32614947
+Human,trachea,"fibroblast
+```",TNFRSF14,32712105
+Human,trachea,"fibroblast
+```",ICAM1,32712105
+Human,large_intestine,"cd8-positive
+```",CD8A,32712105
+Human,blood,"cd4-positive
+```",CD4,32712105
+Human,spleen,"regulatory t cell
+```",T7 (implied by regulatory T cell–associated phenotype),32712105
+Human,esophagus,"t cell
+```",IL13,32712105
+Human,esophagus,"t cell
+```",IL5,32712105
+Human,esophagus,"t cell
+```",LIGHT,32712105
+Human,blood,"cd8-positive
+```",IFNG (implied by interferon gamma–expressing),32712105
+Human,esophagus,"fibroblast
+```",THY1,32712105
+Human,esophagus,"fibroblast
+```",VIM,32712105
+Human,esophagus,"myofibroblast
+```",α-SMA,32712105
+Human,lung,"basophil
+```",EPX,32712105
+Human,esophagus,"fibroblast
+```",ICAM-1,32712105
+Human,esophagus,"fibroblast
+```",VCAM-1,32712105
+Human,large_intestine,"fibroblast
+```",ICAM1,32712105
+Human,large_intestine,"fibroblast
+```",CD74,32712105
+Human,large_intestine,"fibroblast
+```",IL32,32712105
+Human,large_intestine,"fibroblast
+```",IL33,32712105
+Human,large_intestine,"fibroblast
+```",C3,32712105
+Human,large_intestine,"fibroblast
+```",RBP5,32712105
+Human,large_intestine,"fibroblast
+```",TNFSF13B,32712105
+Human,large_intestine,"fibroblast
+```",IRF8,32712105
+Human,esophagus,"myofibroblast
+```",ACTA2,32712105
+Human,esophagus,"myofibroblast
+```",MYH11,32712105
+Human,esophagus,"myofibroblast
+```",TAGLN,32712105
+Human,esophagus,"myofibroblast
+```",FLNA,32712105
+Human,esophagus,"myofibroblast
+```",ACTG2,32712105
+Human,large_intestine,"fibroblast
+```",VCAM-1,32712105
+Human,esophagus,"myofibroblast
+```",a-SMA,32712105
+Human,esophagus,"t cell
+```",CD3,32712105
+Human,esophagus,"t cell
+```",LIGHT,32712105
+Human,esophagus,"fibroblast
+```",α-SMA,32712105
+Human,esophagus,"fibroblast
+```",ICAM-1,32712105
+Human,esophagus,"fibroblast
+```",VCAM-1,32712105
+Human,esophagus,"fibroblast
+```",THY1,32712105
+Human,esophagus,"fibroblast
+```",VIM,32712105
+Human,muscle,"smooth muscle cell
+```",FOXF1,32855417
+Human,muscle,"smooth muscle cell
+```",HOXA1,32855417
+Human,muscle,"smooth muscle cell
+```",HOXA5,32855417
+Human,muscle,"smooth muscle cell
+```",WNT2,32855417
+Human,skin,"cd1c-positive myeloid dendritic cell
+```",ITGAX,33187533
+Human,choroid,"cd1c-positive myeloid dendritic cell
+```",ITGAX,33187533
+Human,choroid,"macrophage
+```",MHCII,33187533
+Human,choroid,"MHCII+ CD11C+ Macrophages
+```",MHCII,33187533
+Human,choroid,"macrophage
+```",ITGAX,33187533
+Human,choroid,"MHCII+ CD11C+ Macrophages
+```",ITGAX,33187533
+Human,无法匹配,"macrophage
+```",CD68,33187533
+Human,无法匹配,"macrophage
+```",CD163,33187533
+Human,无法匹配,"macrophage
+```",CD14,33187533
+Human,无法匹配,"macrophage
+```",AIF1 (IBA1),33187533
+Human,无法匹配,"macrophage
+```",HLA-DMA,33187533
+Human,无法匹配,"macrophage
+```",ITGAX (CD11C),33187533
+Human,blood,"nk cell
+```",CD2,33187533
+Human,blood,"nk cell
+```",CD8B,33187533
+Human,blood,"nk cell
+```",NKG7,33187533
+Human,eye,"cell_ontology_class='b cell', free_annotation='b cells'
+```",CD79A,33187533
+Human,rpe-choroid,"mast cell
+```",KIT,33187533
+Human,rpe-choroid,"mast cell
+```",CPA3,33187533
+Human,无法匹配,"macrophage
+```",HLA-DMA,33187533
+Human,无法匹配,"macrophage
+```",ITGAX,33187533
+Human,choroid,"macrophage
+```",ITGAX,33187533
+Human,choroid,"mhcii+cd11c+ macrophage
+```",ITGAX,33187533
+Human,skin,"t cell
+```",CTLA4,33293583
+Human,skin,"t cell
+```",TIGIT,33293583
+Human,tumor,"b cell
+```",MS4A1,33293583
+Human,tumor,"b cell
+```",CD79A,33293583
+Human,tumor,"b cell
+```",BANK1,33293583
+Human,blood,"plasma cell
+```",IGHG1,33293583
+Human,blood,"plasma cell
+```",IGKV4-1,33293583
+Human,blood,"plasma cell
+```",IGLV2-14,33293583
+Human,blood,"nk cell
+```",TRDC,33293583
+Human,blood,"nk cell
+```",KLRD1,33293583
+Human,blood,"nk cell
+```",GNLY,33293583
+Human,blood,"macrophage
+```",LAMP3,33293583
+Human,blood,"macrophage
+```",PPA1,33293583
+Human,blood,"macrophage
+```",CST3,33293583
+Human,blood,"macrophage
+```",LYZ,33293583
+Human,blood,"macrophage
+```",APOE,33293583
+Human,blood,"macrophage
+```",S100A8,33293583
+Human,lymph_node,"cd1c-positive myeloid dendritic cell
+```",IL1RA4,33293583
+Human,lymph_node,"plasmacytoid dendritic cell
+```",PTGDS,33293583
+Human,fat,"mast cell
+```",CPA3,33293583
+Human,fat,"mast cell
+```",TPSB2,33293583
+Human,fat,"mast cell
+```",TPSAB1,33293583
+Human,lung,"cd4-positive alpha-beta t cell
+```",FOXP3,33293583
+Human,escc (esophageal squamous cell carcinoma) tissue,"cd8-positive
+```",PDCD1,33293583
+Human,esophageal squamous cell carcinoma tissue,"nk cell
+```",NKG2A,33293583
+Human,esophageal squamous cell carcinoma tissue,"tregs
+```",TNFSF1B,33293583
+Human,esophageal squamous cell carcinoma tissue,"tregs
+```",CCR8,33293583
+Human,esophageal squamous cell carcinoma tissue,"tregs
+```",IL1R2,33293583
+Human,tongue,"epithelial cell
+```",IL1R2,33293583
+Human,tongue,"epithelial cell
+```",HLA-A,33293583
+Human,tongue,"epithelial cell
+```",HLA-B,33293583
+Human,tongue,"epithelial cell
+```",HLA-C,33293583
+Human,trachea,"macrophage
+```",LILRB1,33293583
+Human,trachea,"macrophage
+```",CD163,33293583
+Human,trachea,"macrophage
+```",CD274,33293583
+Human,liver,"cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+```",THBS1,33293583
+Human,lymph_node,"cd1c-positive myeloid dendritic cell
+```",C1QC,33293583
+Human,liver,"macrophage
+```",APOE,33293583
+Human,liver,"macrophage
+```",C1QA,33293583
+Human,esophageal squamous cell carcinoma (escc),"macrophage (macro-c3-csf1)
+```",CSF1,33293583
+Human,lymph_node,"cd1c-positive myeloid dendritic cell
+```",CLEC9A,33293583
+Human,bone_marrow,"cd8-positive
+```",CLEC10A,33293583
+Human,skin,"cell_ontology_class='dendritic cell', free_annotation='lamp3+ dendritic cell'
+```",LAMP3,33293583
+Human,tumor microenvironment (TME),"monocyte
+```",FCER1A,33293583
+Human,skin,"cell_ontology_class='t cell', free_annotation='t cells'
+```",IL1R2,33293583
+Human,tumor microenvironment,"macrophage
+```",LILRB1,33293583
+Human,vasculature,"epithelial cell
+```",LAMP3,33293583
+Human,vasculature,"epithelial cell
+```",CD274,33293583
+Human,vasculature,"epithelial cell
+```",CCR7,33293583
+Human,vasculature,"epithelial cell
+```",CD83,33293583
+Human,vasculature,"epithelial cell
+```",ITGAX,33293583
+Human,vasculature,"epithelial cell
+```",IDO1,33293583
+Human,esophagus,"regulatory T cell
+```",FOXP3,33293583
+Human,vasculature,"macrophage
+```",CD68,33293583
+Human,vasculature,"macrophage
+```",LILRB1,33293583
+Human,eye,"retinal pigment epithelial cell
+```",CST3,33307245
+Human,eye,"retinal pigment epithelial cell
+```",EFEMP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",ITGAV,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CRISPLD1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",ITGB8,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PMEL,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TTR,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TYRP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TYR,33307245
+Human,eye,"retinal pigment epithelial cell
+```",DCT,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PTGDS,33307245
+Human,eye,"retinal pigment epithelial cell
+```",INPP5K,33307245
+Human,eye,"retinal pigment epithelial cell
+```",LRAT,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PLTP,33307245
+Human,eye,"retinal pigment epithelial cell
+```",ABHD2/RLBP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",RPE65,33307245
+Human,eye,"retinal pigment epithelial cell
+```",RGR,33307245
+Human,eye,"retinal pigment epithelial cell
+```",RBP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",BEST1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",SERPINF1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CST3,33307245
+Human,eye,"retinal pigment epithelial cell
+```",EFEMP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",ITGAV,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CRISPLD1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",ITGB8,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PMEL,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TTR,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TYRP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TYR,33307245
+Human,eye,"retinal pigment epithelial cell
+```",DCT,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PTGDS,33307245
+Human,eye,"retinal pigment epithelial cell
+```",INPP5K,33307245
+Human,eye,"retinal pigment epithelial cell
+```",LRAT,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PLTP,33307245
+Human,eye,"retinal pigment epithelial cell
+```",RLBP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",RPE65,33307245
+Human,eye,"retinal pigment epithelial cell
+```",RGR,33307245
+Human,eye,"retinal pigment epithelial cell
+```",RBP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",BEST1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",SERPINF1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",LRAT,33307245
+Human,eye,"retinal pigment epithelial cell
+```",RPE65,33307245
+Human,eye,"retinal pigment epithelial cell
+```",DCT,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PAX6,33307245
+Human,eye,"retinal pigment epithelial cell
+```",SOX1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",MDK,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CST3,33307245
+Human,eye,"retinal pigment epithelial cell
+```",EFEMP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",ITGAV,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CRISPLD1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",NDUFA4L2,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CA9,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PMEL,33307245
+Human,eye,"retinal pigment epithelial cell
+```",MITF,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TYR,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TYRP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",SOX4,33307245
+Human,eye,"retinal pigment epithelial cell
+```",BMP7,33307245
+Human,eye,"retinal pigment epithelial cell
+```",VIM,33307245
+Human,eye,"retinal pigment epithelial cell
+```",GJA1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PTN,33307245
+Human,eye,"retinal pigment epithelial cell
+```",RLBP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",BEST1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",VEGFA,33307245
+Human,eye,"retinal pigment epithelial cell
+```",ENPP2,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TIMP3,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TYRP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",SOX11,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PMEL,33307245
+Human,eye,"retinal pigment epithelial cell
+```",EFEMP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",BMP7,33307245
+Human,eye,"retinal pigment epithelial cell
+```",VIM,33307245
+Human,eye,"retinal pigment epithelial cell
+```",GJA1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PTN,33307245
+Human,eye,"retinal pigment epithelial cell
+```",INPP5K,33307245
+Human,eye,"retinal pigment epithelial cell
+```",RLBP1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TTR,33307245
+Human,eye,"retinal pigment epithelial cell
+```",DCT,33307245
+Human,eye,"retinal pigment epithelial cell
+```",SERPINF1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CST3,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CRISPLD1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",WFDC1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",SH3BGRL3,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TMSB4X,33307245
+Human,eye,"retinal pigment epithelial cell
+```",HSD17B2,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TPM1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",MYL9,33307245
+Human,eye,"retinal pigment epithelial cell
+```",NDUFA4L2,33307245
+Human,eye,"retinal pigment epithelial cell
+```",BNIP3,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CALD1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",FTH1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CRYAB,33307245
+Human,eye,"retinal pigment epithelial cell
+```",MT-CYB,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PCCA,33307245
+Human,eye,"retinal pigment epithelial cell
+```",WFDC1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",SERPINE2,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TMSB4X,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TTR,33307245
+Human,eye,"retinal pigment epithelial cell
+```",SPON2,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",DCT,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",CALD1,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",TTR,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",SOX9,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",RBP1,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",SERPINF1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",VEGFA,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",TMSB4X,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",CRYAB,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",MT1E,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",MT1F,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",MT1G,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",MT2A,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",DCT,33307245
+Human,eye,"retinal pigment epithelial cell
+```",MKI67,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TOP2A,33307245
+Human,eye,"retinal pigment epithelial cell
+```",TPX2,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PTTG1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PCLAF,33307245
+Human,eye,"retinal pigment epithelial cell
+```",RRM2,33307245
+Human,eye,"retinal pigment epithelial cell
+```",PAX6,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",TYR,33307245
+Human,eye,"cell_ontology_class='retinal pigment epithelial cell', free_annotation='retina - retinal pigment epithelium'
+```",PMEL,33307245
+Human,retina,"retinal pigment epithelial cell
+```",TTR,33307245
+Human,retina,"retinal pigment epithelial cell
+```",RPE65,33307245
+Human,retina,"retinal pigment epithelial cell
+```",BEST1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",CHRNA3,33307245
+Human,retina,"retinal pigment epithelial cell
+```",RBP1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",MYRIP,33307245
+Human,retina,"retinal pigment epithelial cell
+```",TFPI2,33307245
+Human,retina,"retinal pigment epithelial cell
+```",PTGDS,33307245
+Human,retina,"retinal pigment epithelial cell
+```",SERPINF1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",DUSP4,33307245
+Human,retina,"retinal pigment epithelial cell
+```",GEM,33307245
+Human,retina,"retinal pigment epithelial cell
+```",CRX,33307245
+Human,retina,"retinal pigment epithelial cell
+```",DCT,33307245
+Human,retina,"retinal pigment epithelial cell
+```",SFRP5,33307245
+Human,retina,"retinal pigment epithelial cell
+```",TYRP1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",SLC6A15,33307245
+Human,retina,"retinal pigment epithelial cell
+```",PMEL,33307245
+Human,retina,"retinal pigment epithelial cell
+```",CST3,33307245
+Human,retina,"retinal pigment epithelial cell
+```",CRISPLD1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",MT1E,33307245
+Human,eye,"retinal pigment epithelial cell
+```",MT1F,33307245
+Human,eye,"retinal pigment epithelial cell
+```",MT1G,33307245
+Human,eye,"retinal pigment epithelial cell
+```",MT2A,33307245
+Human,eye,"retinal pigment epithelial cell
+```",MT1X,33307245
+Human,eye,"retinal pigment epithelial cell
+```",DCT,33307245
+Human,eye,"retinal pigment epithelial cell
+```",MITF,33307245
+Human,eye,"retinal pigment epithelial cell
+```",OTX2,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CTNNB1,33307245
+Human,eye,"retinal pigment epithelial cell
+```",SOX11,33307245
+Human,eye,"retinal pigment epithelial cell
+```",CST3,33307245
+Human,retina,"retinal pigment epithelial cell
+```",SERPINF1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",BEST1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",TYR,33307245
+Human,retina,"retinal pigment epithelial cell
+```",TTR,33307245
+Human,retina,"retinal pigment epithelial cell
+```",RPE65,33307245
+Human,retina,"retinal pigment epithelial cell
+```",SFRP2,33307245
+Human,retina,"retinal pigment epithelial cell
+```",MKI67,33307245
+Human,retina,"retinal pigment epithelial cell
+```",DCT,33307245
+Human,retina,"retinal pigment epithelial cell
+```",PLTP,33307245
+Human,retina,"retinal pigment epithelial cell
+```",RGR,33307245
+Human,retina,"retinal pigment epithelial cell
+```",RLBP1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",LRAT,33307245
+Human,retina,"retinal pigment epithelial cell
+```",PMEL,33307245
+Human,retina,"retinal pigment epithelial cell
+```",TYRP1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",PTGDS,33307245
+Human,retina,"retinal pigment epithelial cell
+```",INPP5K,33307245
+Human,retina,"retinal pigment epithelial cell
+```",CST3,33307245
+Human,retina,"retinal pigment epithelial cell
+```",ITGB8,33307245
+Human,retina,"retinal pigment epithelial cell
+```",EFEMP1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",ITGAV,33307245
+Human,retina,"retinal pigment epithelial cell
+```",CRISPLD1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",GULP1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",VEGFA,33307245
+Human,retina,"retinal pigment epithelial cell
+```",CHRNA3,33307245
+Human,retina,"retinal pigment epithelial cell
+```",RBP1,33307245
+Human,retina,"retinal pigment epithelial cell
+```",MYRIP,33307245
+Human,retina,"retinal pigment epithelial cell
+```",DUSP4,33307245
+Human,retina,"retinal pigment epithelial cell
+```",GEM,33307245
+Human,retina,"retinal pigment epithelial cell
+```",CRX,33307245
+Human,retina,"retinal pigment epithelial cell
+```",TFPI2,33307245
+Human,retina,"retinal pigment epithelial cell
+```",SFRP5,33307245
+Human,retina,"retinal pigment epithelial cell
+```",SLC6A15,33307245
+Human,lymph_node,"cd4-positive alpha-beta t cell
+```",PDCD1,33332284
+Human,lymph_node,"cd4-positive alpha-beta t cell
+```",ENTPD1,33332284
+Human,lymph_node,"cd4-positive alpha-beta t cell
+```",TOX,33332284
+Human,lymph_node,"cd4-positive alpha-beta t cell
+```",CXCL13,33332284
+Human,lymph_node,"cd4-positive alpha-beta t cell
+```",TIGIT,33332284
+Human,lymph_node,"cd4-positive alpha-beta t cell
+```",CTLA4,33332284
+Human,lymph_node,"cd4-positive alpha-beta t cell
+```",HAVCR2,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",HAVCR2,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",PDCD1,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",TIGIT,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",CTLA4,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",ENTPD1,33332284
+Human,tumor,"cd4-positive helper t cell
+```",HAVCR2,33332284
+Human,tumor,"cd4-positive helper t cell
+```",PDCD1,33332284
+Human,tumor,"cd4-positive helper t cell
+```",TIGIT,33332284
+Human,tumor,"cd4-positive helper t cell
+```",CTLA4,33332284
+Human,tumor,"cd4-positive helper t cell
+```",ENTPD1,33332284
+Human,trachea,"cd4-positive helper t cell
+```",PDCD1,33332284
+Human,trachea,"cd4-positive helper t cell
+```",ENTPD1,33332284
+Human,trachea,"cd4-positive helper t cell
+```",HAVCR2,33332284
+Human,trachea,"cd4-positive helper t cell
+```",TIGIT,33332284
+Human,trachea,"cd4-positive helper t cell
+```",CTLA4,33332284
+Human,blood,"cd4-positive conventional t cell
+```",ENTPD1 (CD39),33332284
+Human,blood,"cd4-positive conventional t cell
+```",CTLA4,33332284
+Human,blood,"cd4-positive conventional t cell
+```",HAVCR2 (TIM-3),33332284
+Human,blood,"cd4-positive conventional t cell
+```",LAG3,33332284
+Human,blood,"cd4-positive conventional t cell
+```",PDCD1,33332284
+Human,blood,"cd4-positive conventional t cell
+```",TOX,33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",ENTPD1,33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",CTLA4,33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",HAVCR2,33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",LAG3,33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",IL2RA,33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",MHC class II presentation pathway genes,33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",Metabolic pathway genes,33332284
+Human,lung,"cd4-positive alpha-beta t cell
+```",CCR7,33332284
+Human,lung,"cd4-positive alpha-beta t cell
+```",TCF7 (TCF-1),33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",S1PR1 (downmodulated),33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",CXCR6,33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",SOX4,33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",CXCL13,33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",TOX,33332284
+Human,head and neck cancer,"cd4-positive helper t cell
+```",CD69,33332284
+Human,ovarian cancer,"cd4-positive helper t cell (TILs)
+```",PDCD1,33332284
+Human,ovarian cancer,"cd4-positive helper t cell (TILs)
+```",ENTPD1,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",PDCD1,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",ENTPD1,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",HAVCR2,33332284
+Human,skin,"cd4-positive helper t cell
+```",PDCD1,33332284
+Human,skin,"cd4-positive helper t cell
+```",ENTPD1,33332284
+Human,skin,"cd4-positive helper t cell
+```",HAVCR2,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",TOX,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",SOX10,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",CXCL13,33332284
+Human,skin,"cd4-positive helper t cell
+```",TOX,33332284
+Human,skin,"cd4-positive helper t cell
+```",SOX10,33332284
+Human,skin,"cd4-positive helper t cell
+```",CXCL13,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",ITGAE,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",CD69,33332284
+Human,tumor,"cd8-positive tumor-infiltrating lymphocytes
+```",ITGA1,33332284
+Human,skin,"cd4-positive helper t cell
+```",CD69,33332284
+Human,skin,"cd4-positive helper t cell
+```",CXCR6,33332284
+Human,skin,"cd4-positive helper t cell
+```",S1PR1,33332284
+Human,skin,"cd4-positive helper t cell
+```",CD4,33332284
+Human,blood,"cd8-positive
+```",CD8A,33332284
+Human,skin,"t cell
+```",CD3,33332284
+Human,skin,"t cell
+```",CD45RA,33332284
+Human,skin,"t cell
+```",PDCD1,33332284
+Human,skin,"t cell
+```",TIGIT,33332284
+Human,skin,"t cell
+```",HAVCR2,33332284
+Human,skin,"t cell
+```",ITGAE,33332284
+Human,skin,"t cell
+```",ITGA1,33332284
+Human,skin,"t cell
+```",CD69,33332284
+Human,skin,"t cell
+```",ENTPD1,33332284
+Human,skin,"t cell
+```",CTLA4,33332284
+Human,skin,"t cell
+```",FOXP3,33332284
+Human,skin,"t cell
+```",TOX,33332284
+Human,skin,"cd4-positive helper t cell
+```",IL2RA,33332284
+Human,skin,"cd4-positive helper t cell
+```",IL7R,33332284
+Human,retina,"eye photoreceptor cell
+```",Rhodopsin (RHO),33513359
+Human,eye,"eye photoreceptor cell
+```",S Opsin,33513359
+Human,eye,"eye photoreceptor cell
+```",L/M Opsin (OPN1MW),33513359
+Human,retina,"eye photoreceptor cell
+```",Peripherin2,33513359
+Human,retina,"eye photoreceptor cell
+```",RCVRN,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",GNGT1,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",GNAT1,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",ARR3,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",PDE6H,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",CRX,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",RCVRN,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",RHO,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",OPN1MW3,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",RHO,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",L/M Opsin,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",S Opsin,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",RCVRN,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",CRX,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",CRX,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",RCVRN,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",GNGT1,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",GNAT1,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",ARR3,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",PDE6H,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",RHO,33513359
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",L/M Opsin,33513359
+Human,skin,"mast cells
+```",TNF,33545035
+Human,skin,"mast cells
+```",VEGFA,33545035
+Human,skin,"cd1c-positive myeloid dendritic cell
+```",LAMP3,33545035
+Human,liver,"cd1c-positive myeloid dendritic cell
+```",MP3,33545035
+Human,multiple tissues,"tissue resident macrophage
+```",LYVE1,33545035
+Human,colon cancer,"tumor-associated macrophages (TAMs)
+```",SPP1,33545035
+Human,liver,"mast cell
+```",FOLR2,33545035
+Human,uterus,"epithelial cell
+```",TNF,33545035
+Human,uterus,"epithelial cell
+```",VEGFA,33545035
+Human,未匹配,"mast cell
+```",TNF,33545035
+Human,未匹配,"mast cell
+```",VEGFA,33545035
+Human,lung,"macrophage
+```",IL1B,33545035
+Human,skin,"cd1c-positive myeloid dendritic cell
+```",LAMP3,33545035
+Human,blood,"monocyte
+```",S100A8,33545035
+Human,blood,"monocyte
+```",S100A9,33545035
+Human,blood,"monocyte
+```",CSF3R,33545035
+Human,blood,"cell_ontology_class='monocyte', free_annotation='monocytes'
+```",HLA-DQA1,33545035
+Human,blood,"cell_ontology_class='monocyte', free_annotation='monocytes'
+```",HLA-DQB1,33545035
+Human,blood,"cell_ontology_class='monocyte', free_annotation='monocytes'
+```",CD163,33545035
+Human,blood,"cell_ontology_class='monocyte', free_annotation='monocytes'
+```",CD68,33545035
+Human,blood,"monocyte
+```",IL1B,33545035
+Human,blood,"monocyte
+```",CCL4,33545035
+Human,blood,"monocyte
+```",CXCL2,33545035
+Human,blood,"monocyte
+```",CXCR4,33545035
+Human,blood,"monocyte
+```",AREG,33545035
+Human,blood,"monocyte
+```",EGR1,33545035
+Human,blood,"monocyte
+```",NR4A1,33545035
+Human,blood,"monocyte
+```",NR4A2,33545035
+Human,blood,"monocyte
+```",NLRP3,33545035
+Human,blood,"monocyte
+```",NFKB1,33545035
+Human,blood,"monocyte
+```",NFKBIA,33545035
+Human,skin,"macrophage
+```",SPP1,33545035
+Human,skin,"macrophage
+```",C1QC,33545035
+Human,lymph_node,"cell_ontology_class='macrophage', free_annotation='macrophages'
+```",LYVE1,33545035
+Human,lymph_node,"macrophage
+```",NLRP3,33545035
+Human,thymus,"macrophage
+```",SPP1,33545035
+Human,tumor,"macrophage (C1QC+ TAMs)
+```",C1QC,33545035
+Human,tumor,"tumor-associated macrophage
+```",ISG15,33545035
+Human,fat,"fn1+ tams
+```",FN1,33545035
+Human,thymus,"mast cell
+```",LYVE1,33545035
+Human,tumor,"tumor-associated macrophages
+```",C1QC,33545035
+Human,tumor,"tumor-associated macrophages
+```",FOLR2,33545035
+Human,blood,"macrophage
+```",SPP1,33545035
+Human,kidney,"无法确定（建议补充候选匹配以准确定义 ""tams""）
+```",FN1,33545035
+Human,kidney,"无法确定（建议补充候选匹配以准确定义 ""tams""）
+```",CD52,33545035
+Human,skin,"macrophages
+```",VCAN,33545035
+Human,skin,"cd1c-positive myeloid dendritic cell
+```",LAMP3,33545035
+Human,lung,"cell_ontology_class='macrophage', free_annotation='tissue resident macrophage'
+```",PPARG,33545035
+Human,lung,"cell_ontology_class='macrophage', free_annotation='tissue resident macrophage'
+```",MARCO,33545035
+Human,lung,"cell_ontology_class='macrophage', free_annotation='tissue resident macrophage'
+```",MRC1,33545035
+Human,lung,"cell_ontology_class='macrophage', free_annotation='tissue resident macrophage'
+```",MSR1,33545035
+Human,retina,"retinal ganglion cell
+```",CD171(L1CAM),33712461
+Human,eye,"lacrimal gland functional unit cell
+```",PAX6,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",FOXC1,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",AQP5,33730555
+Human,salivary_gland,"myoepithelial cell
+```",ACTA2,33730555
+Human,salivary_gland,"myoepithelial cell
+```",MYH11,33730555
+Human,salivary_gland,"myoepithelial cell
+```",MYLK,33730555
+Human,salivary_gland,"myoepithelial cell
+```",TPM2,33730555
+Human,eye,"endothelial cell
+```",CDH5,33730555
+Human,eye,"endothelial cell
+```",PECAM1,33730555
+Human,eye,"lacrimal cells - unspecified
+```",PTPRC,33730555
+Human,eye,"lacrimal cells - unspecified
+```",CD2,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",TP63,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",LTF,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",LCN1,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",LYZ,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",PRR27,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",LACRT,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",SCGB1D1,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",SCGB2A1,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",CST1,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",CST4,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",HTN1,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",SMR3A,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",SMR3B,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",LCN2,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",WFDC2,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",C3,33730555
+Human,eye,"cell_ontology_class='lacrimal gland functional unit cell', free_annotation='lacrimal gland functional unit cells'
+```",LTF,33730555
+Human,eye,"cell_ontology_class='lacrimal gland functional unit cell', free_annotation='lacrimal gland functional unit cells'
+```",PRR27,33730555
+Human,eye,"cell_ontology_class='lacrimal gland functional unit cell', free_annotation='lacrimal gland functional unit cells'
+```",SCGB2A1,33730555
+Human,eye,"cell_ontology_class='lacrimal gland functional unit cell', free_annotation='lacrimal gland functional unit cells'
+```",HTN1,33730555
+Human,eye,"epithelial cell of lacrimal sac
+```",LCN2,33730555
+Human,eye,"epithelial cell of lacrimal sac
+```",WFDC2,33730555
+Human,eye,"epithelial cell of lacrimal sac
+```",KRT5,33730555
+Human,eye,"epithelial cell of lacrimal sac
+```",KRT14,33730555
+Human,eye,"epithelial cell of lacrimal sac
+```",NGFR,33730555
+Human,eye,"epithelial cell of lacrimal sac
+```",TP63,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",BPIFA1,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",AQP5,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",F3,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",MUC16,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",MUC5AC,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",PIGR,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",LCN2,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",WFDC2,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",CHRM1,33730555
+Human,eye,"cell_ontology_class='lacrimal gland functional unit cell', free_annotation='lacrimal gland functional unit cells'
+```",VIPR1,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",LYZ,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",LTF,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",LCN1,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",LCN2,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",C3,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",WFDC2,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",KRT5,33730555
+Human,eye,"lacrimal gland functional unit cell
+```",BPIFA1,33730555
+Human,esophagus (barrett's esophagus),"metaplastic columnar epithelial cells
+```",KRT8,33882290
+Human,esophagus (barrett's esophagus),"metaplastic columnar epithelial cells
+```",AGR2,33882290
+Human,esophagus (barrett's esophagus),"metaplastic columnar epithelial cells
+```",VIL1,33882290
+Human,esophagus (barrett's esophagus),"metaplastic columnar epithelial cells
+```",KRT7,33882290
+Human,esophagus (barrett's esophagus),"metaplastic columnar epithelial cells
+```",KRT20,33882290
+Human,esophagus,"barrett's esophagus cells
+```",KRT8,33882290
+Human,esophagus,"barrett's esophagus cells
+```",AGR2,33882290
+Human,esophagus,"barrett's esophagus cells
+```",VIL1,33882290
+Human,esophagus,"barrett's esophagus cells
+```",KRT7,33882290
+Human,esophagus,"barrett's esophagus cells
+```",KRT20,33882290
+Human,barrett's esophagus,"epithelial cells
+```",Foxa2,33882290
+Human,barrett's esophagus,"epithelial cells
+```",Agr2,33882290
+Human,barrett's esophagus,"epithelial cells
+```",Muc2,33882290
+Human,esophagus,"columnar metaplasia cells
+```",EpCam,33882290
+Human,esophagus,"columnar metaplasia cells
+```",Krt8,33882290
+Human,esophagus,"columnar metaplasia cells
+```",Sox9,33882290
+Human,lateral ganglionic eminence,"d1 medium spiny neurons
+```",ISL1,33958447
+Human,lge (lateral ganglionic eminence),"d2-msns (d2 medium spiny neurons)
+```",SIX3,33958447
+Human,lge (lateral ganglionic eminence),"mge interneurons
+```",NKX2-1,33958447
+Human,lge (lateral ganglionic eminence),"mge interneurons
+```",LHX6,33958447
+Human,lge (lateral ganglionic eminence),"mge interneurons
+```",LHX8,33958447
+Human,lateral ganglionic eminence (lge),"dorsal lge (dlge) interneurons
+```",SP8,33958447
+Human,lateral ganglionic eminence (lge),"dorsal lge (dlge) interneurons
+```",COUP-TFII (NR2F2),33958447
+Human,lateral ganglionic eminence (lge),"dorsal lge (dlge) interneurons
+```",PAX6,33958447
+Human,striatum,"pre-msn
+```",OCT6 (POU3F1),33958447
+Human,striatum,"pre-msn
+```",ISL1,33958447
+Human,striatum,"pre-msn
+```",SIX3,33958447
+Human,striatum,"pre-msn
+```",BCL11B,33958447
+Human,striatum,"d1-medium spiny neurons (D1-MSNs)
+```",PDYN,33958447
+Human,striatum,"d1-medium spiny neurons (D1-MSNs)
+```",TSHZ1,33958447
+Human,striatum,"D2-type medium spiny neuron
+```",PDYN,33958447
+Human,striatum,"D2-type medium spiny neuron
+```",TSHZ1,33958447
+Human,eye,"radial glial cell
+```",SALL3,33958447
+Human,eye,"radial glial cell
+```",LINC01896,33958447
+Human,striatum,"d1-msns
+```",ZNF467,33958447
+Human,striatum,"d2-msns
+```",ZNF467,33958447
+Human,striatum,"d1-msns
+```",OCT6,33958447
+Human,striatum,"d2-msns
+```",OCT6,33958447
+Human,striatum,"d1-msns
+```",IKZF1,33958447
+Human,striatum,"d2-msns
+```",MAFB,33958447
+Human,brain,"medium spiny neuron
+```",PDYN,33958447
+Human,brain,"medium spiny neuron
+```",TSHZ1,33958447
+Human,brain,"medium spiny neuron
+```",ISL1,33958447
+Human,brain,"medium spiny neuron
+```",SIX3,33958447
+Human,eye,"limbal stem cell
+```",GPHA2,33984282
+Human,eye,"limbal stem cell
+```",IFITM3,33984282
+Human,colonic tissue,"cd8-positive
+```",IL26,34163487
+Human,liver,"macrophage
+```",CXCL10,34171432
+Human,gallbladder,"t cell
+```",CXCR3,34171432
+Human,liver,"macrophage
+```",CXCL10,34171432
+Human,gallbladder,"t cell
+```",CXCR3,34171432
+Human,kidney,"kidney epithelial cell
+```",KRT19,34171432
+Human,kidney,"kidney epithelial cell
+```",EPCAM,34171432
+Human,kidney,"kidney epithelial cell
+```",CLDN7,34171432
+Human,kidney,"kidney epithelial cell
+```",CDH1,34171432
+Human,gallbladder,"capillary endothelial cell
+```",PECAM1,34171432
+Human,gallbladder,"capillary endothelial cell
+```",VWF,34171432
+Human,gallbladder,"capillary endothelial cell
+```",ENG,34171432
+Human,eye,"adipocyte
+```",FABP4,34171432
+Human,eye,"adipocyte
+```",RBP7,34171432
+Human,eye,"adipocyte
+```",CD36,34171432
+Human,unmatched,"pericyte cell
+```",RGS5,34171432
+Human,unmatched,"pericyte cell
+```",MYL9,34171432
+Human,unmatched,"pericyte cell
+```",MYLK,34171432
+Human,unmatched,"pericyte cell
+```",MCAM,34171432
+Human,liver,"fibroblast
+```",COL14A1,34171432
+Human,liver,"fibroblast
+```",MFAP5,34171432
+Human,liver,"fibroblast
+```",IL6,34171432
+Human,liver,"fibroblast
+```",PLA2G2A,34171432
+Human,liver,"fibroblast
+```",CFD,34171432
+Human,liver,"fibroblast
+```",DCN,34171432
+Human,liver,"fibroblast
+```",CXCL14,34171432
+Human,bladder,"myofibroblast cell
+```",ACTA2,34171432
+Human,bladder,"myofibroblast cell
+```",MMP11,34171432
+Human,bladder,"myofibroblast cell
+```",CTHRC1,34171432
+Human,bladder,"myofibroblast cell
+```",COL1A1,34171432
+Human,bladder,"myofibroblast cell
+```",COL3A1,34171432
+Human,bladder,"myofibroblast cell
+```",COL1A2,34171432
+Human,bladder,"myofibroblast cell
+```",FN1,34171432
+Human,gallbladder cancer,"mast cell
+```",TPSB2,34171432
+Human,gallbladder cancer,"mast cell
+```",MS4A2,34171432
+Human,gallbladder cancer,"mast cell
+```",TPSAB1,34171432
+Human,gallbladder cancer,"mast cell
+```",KIT,34171432
+Human,bladder,"b lymphocytes
+```",CD79A,34171432
+Human,bladder,"b lymphocytes
+```",MS4A1,34171432
+Human,gallbladder,"plasma cell
+```",IGHM,34171432
+Human,gallbladder,"plasma cell
+```",IGHA1,34171432
+Human,gallbladder,"plasma cell
+```",IGHG1,34171432
+Human,gallbladder,"plasma cell
+```",IGHG4,34171432
+Human,gallbladder,"plasma cell
+```",IGKC,34171432
+Human,gallbladder,"plasma cell
+```",MZB1,34171432
+Human,gallbladder cancer,"t cell
+```",TIGIT,34171432
+Human,gallbladder cancer,"t cell
+```",CTLA4,34171432
+Human,gallbladder cancer,"t cell
+```",FOXP3,34171432
+Human,gallbladder cancer,"t cell
+```",TRAC,34171432
+Human,gallbladder cancer,"t cell
+```",IL2RA,34171432
+Human,gallbladder cancer,"t cell
+```",IL7R,34171432
+Human,gallbladder cancer,"t cell
+```",CCR7,34171432
+Human,gallbladder cancer,"t cell
+```",CCL20,34171432
+Human,blood,"cd4-positive helper t cell
+```",CD4,34171432
+Human,blood,"cd4-positive helper t cell
+```",CD2,34171432
+Human,blood,"cd4-positive helper t cell
+```",CD3D,34171432
+Human,blood,"cd4-positive helper t cell
+```",TRBC1,34171432
+Human,blood,"cd4-positive helper t cell
+```",TRBC2,34171432
+Human,blood,"cd4-positive helper t cell
+```",CD3E,34171432
+Human,blood,"cd4-positive helper t cell
+```",FYB1,34171432
+Human,blood,"cd4-positive helper t cell
+```",IL32,34171432
+Human,blood,"cd4-positive helper t cell
+```",CD7,34171432
+Human,blood,"cd8-positive
+```",GZMA,34171432
+Human,blood,"cd8-positive
+```",CD8A,34171432
+Human,blood,"cd8-positive
+```",CD8B,34171432
+Human,blood,"cd8-positive
+```",CCL5,34171432
+Human,blood,"cd8-positive
+```",GNLY,34171432
+Human,blood,"cd8-positive
+```",CST7,34171432
+Human,blood,"cd8-positive
+```",CCL4,34171432
+Human,blood,"cd8-positive
+```",GZMH,34171432
+Human,blood,"cd8-positive
+```",GZMK,34171432
+Human,blood,"cd8-positive
+```",GZMB,34171432
+Human,liver,"monocyte
+```",FCN1,34171432
+Human,liver,"monocyte
+```",EREG,34171432
+Human,liver,"monocyte
+```",S100A12,34171432
+Human,liver,"monocyte
+```",CXCL10,34171432
+Human,bladder,"cell_ontology_class='macrophage', free_annotation='macrophage'
+```",MARCO,34171432
+Human,bladder,"cell_ontology_class='macrophage', free_annotation='macrophage'
+```",SNX10,34171432
+Human,bladder,"cell_ontology_class='macrophage', free_annotation='macrophage'
+```",CSF1R,34171432
+Human,bladder,"cell_ontology_class='macrophage', free_annotation='macrophage'
+```",CD163,34171432
+Human,bladder,"cell_ontology_class='macrophage', free_annotation='macrophage'
+```",MRC1,34171432
+Human,bladder,"cell_ontology_class='macrophage', free_annotation='macrophage'
+```",S100B,34171432
+Human,liver,"liver dendritic cell
+```",FCER1A,34171432
+Human,liver,"liver dendritic cell
+```",HLA-DQA1,34171432
+Human,liver,"liver dendritic cell
+```",HLA-DPA1,34171432
+Human,liver,"liver dendritic cell
+```",HLA-DPB1,34171432
+Human,liver,"liver dendritic cell
+```",HLA-DRB1,34171432
+Human,gallbladder,"squamous cell （建议进一步核实是否应更改为 columnar epithelial cell）
+```",TP63,34171432
+Human,gallbladder,"squamous cell （建议进一步核实是否应更改为 columnar epithelial cell）
+```",KRTDAP,34171432
+Human,gallbladder,"squamous cell （建议进一步核实是否应更改为 columnar epithelial cell）
+```",FAT2,34171432
+Human,gallbladder,"adenocyte
+```",KRT19,34171432
+Human,gallbladder cancer tissue,"regulatory T cell
+```",FOXP3,34171432
+Human,gallbladder cancer tissue,"cell_ontology_class='macrophage', free_annotation='macrophage'
+```",CD163,34171432
+Human,bladder,"bladder urothelial cell
+```",CD24,34171432
+Human,bladder,"bladder urothelial cell
+```",MDK,34171432
+Human,bladder,"bladder urothelial cell
+```",SERPINA1,34171432
+Human,gallbladder cancer,"epithelial cancer cells (subtype 2)
+```",MDK,34171432
+Human,gallbladder cancer,"epithelial cancer cells (subtype 2)
+```",CD24,34171432
+Human,gallbladder cancer,"epithelial cancer cells (subtype 2)
+```",SERPINA1,34171432
+Human,无法匹配,"无法匹配
+```",FOXP3,34171432
+Human,gallbladder cancer tissue,"macrophages
+```",CD163,34171432
+Human,gallbladder cancer tissue,"macrophages
+```",MDK,34171432
+Human,gallbladder cancer tissue,"capillary endothelial cell
+```",DCN,34171432
+Human,bladder,"fibroblast
+```",ACTA2,34171432
+Human,gallbladder_cancer,"myofibroblast cell
+```",MFAP5,34171432
+Human,Blood,T cell,CD3,34183838
+Human,blood,"t cell
+```",CD4,34183838
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CD8a,34183838
+Human,blood,"memory b cell
+```",MS4A1,34183838
+Human,blood,"t cell
+```",γδTCR,34183838
+Human,blood,"t cell
+```",Vδ2-TCR,34183838
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",Vα7.2 TCR,34183838
+Human,blood,"type i nk t cell
+```",Vα24-Jα18,34183838
+Human,Blood,Natural killer cell,NCAM1,34183838
+Human,Blood,T cell,PDCD1,34183838
+Human,esophageal tissue,"epithelial cell
+```",KRT13,34192657
+Human,esophageal tissue,"epithelial cell
+```",SPRR3,34192657
+Human,trachea,"cell_ontology_class='mast cell', free_annotation='mast cells'
+```",TPSB2,34192657
+Human,trachea,"cell_ontology_class='mast cell', free_annotation='mast cells'
+```",CPA3,34192657
+Human,esophageal tissue,"endothelial cell
+```",VWF,34192657
+Human,esophageal tissue,"endothelial cell
+```",RAMP2,34192657
+Human,esophageal tissue,"fibroblasts
+```",DCN,34192657
+Human,esophageal tissue,"fibroblasts
+```",COL1A1,34192657
+Human,esophageal tissue,"t cell
+```",CD3D,34192657
+Human,esophageal tissue,"t cell
+```",CD3E,34192657
+Human,trachea,"sorted myeloid
+```",LYZ,34192657
+Human,trachea,"sorted myeloid
+```",C1QB,34192657
+Human,trachea,"b cells
+```",CD79A,34192657
+Human,trachea,"b cells
+```",IGKC,34192657
+Human,无法确定,"无法确定
+```",EPCAM,34192657
+Human,无法确定,"无法确定
+```",SOX2,34192657
+Human,trachea,"b cell
+```",MZB1,34192657
+Human,trachea,"b cell
+```",FKBP11,34192657
+Human,trachea,"b cell
+```",IGHG3,34192657
+Human,trachea,"b cell
+```",CD74,34192657
+Human,trachea,"b cell
+```",S100A8,34192657
+Human,trachea,"b cell
+```",CXCR4,34192657
+Human,trachea,"B cell
+```",HLA-DQA2,34192657
+Human,trachea,"B cell
+```",CCR7,34192657
+Human,trachea,"B cell
+```",JUND,34192657
+Human,trachea,"macrophage
+```",CXCR4,34192657
+Human,trachea,"macrophage
+```",TGFB1,34192657
+Human,trachea,"macrophage
+```",HAVCR2,34192657
+Human,esophageal tissue,"dendritic cell
+```",CD274,34192657
+Human,trachea,"macrophage
+```",CD276,34192657
+Human,large_intestine,"cd8-positive
+```",GZMB,34192657
+Human,large_intestine,"cd8-positive
+```",NKG7,34192657
+Human,large_intestine,"cd8-positive
+```",GNLY,34192657
+Human,trachea,"cd4-positive
+```",CD4,34192657
+Human,trachea,"cd4-positive
+```",IL2RA,34192657
+Human,trachea,"cd4-positive
+```",FOXP3,34192657
+Human,thymus,"t follicular helper cell
+```",MAF,34192657
+Human,thymus,"t follicular helper cell
+```",ICOS,34192657
+Human,thymus,"t follicular helper cell
+```",BTAF,34192657
+Human,trachea,"macrophage
+```",HLA-DQA2,34192657
+Human,trachea,"macrophage
+```",HLA-DPB1,34192657
+Human,trachea,"macrophage
+```",HLA-DRB5,34192657
+Human,large_intestine,"cd8-positive
+```",LAG3,34192657
+Human,large_intestine,"cd8-positive
+```",PDCD1,34192657
+Human,large_intestine,"cd8-positive
+```",HAVCR2,34192657
+Human,blood,"circulating tumor cell
+```",CSPG4,34225455
+Human,blood,"circulating tumor cell
+```",MCAM,34225455
+Human,blood,"circulating tumor cell
+```",LNGFR,34225455
+Human,blood,"cd8-positive
+```",CD8A,34282123
+Human,blood,"cd4-positive
+```",CD4,34282123
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",TRAV1-2,34282123
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",TRAJ33,34282123
+Human,blood,"cell_ontology_class='cd4-positive', free_annotation=''
+```",GZMA,34282123
+Human,blood,"cell_ontology_class='cd4-positive', free_annotation=''
+```",GZMB,34282123
+Human,blood,"cell_ontology_class='cd4-positive', free_annotation=''
+```",GZMH,34282123
+Human,blood,"cell_ontology_class='cd4-positive', free_annotation=''
+```",NKG7,34282123
+Human,blood,"cd8-positive
+```",VLA-4,34282123
+Human,blood,"cd8-positive
+```",ITGAL,34282123
+Human,blood,"cd8-positive
+```",ITGAM,34282123
+Human,blood,"cd8-positive
+```",CCL4,34282123
+Human,blood,"cd8-positive
+```",CCL5,34282123
+Human,blood,"cd8-positive
+```",CX3CR1,34282123
+Human,blood,"cd8-positive
+```",CD99,34282123
+Human,blood,"cd8-positive
+```",SELPLG,34282123
+Human,blood,"cd4-positive
+```",VLA-4,34282123
+Human,blood,"cd4-positive
+```",ITGAL,34282123
+Human,blood,"cd4-positive
+```",ITGAM,34282123
+Human,blood,"cd4-positive
+```",CCL4,34282123
+Human,blood,"cd4-positive
+```",CCL5,34282123
+Human,blood,"cd4-positive
+```",CX3CR1,34282123
+Human,blood,"cd4-positive
+```",CD99,34282123
+Human,blood,"cd4-positive
+```",SELPLG,34282123
+Human,blood,"cd8-positive
+```",ITGAM,34282123
+Human,blood,"cd8-positive
+```",ITGB1,34282123
+Human,blood,"cd8-positive
+```",PRSS23,34282123
+Human,blood,"cd8-positive
+```",SPON2,34282123
+Human,blood,"cd8-positive
+```",ZNF683,34282123
+Human,blood,"naive thymus-derived cd4-positive
+```",SELL,34282123
+Human,blood,"naive thymus-derived cd4-positive
+```",CCR7,34282123
+Human,blood,"naive thymus-derived cd4-positive
+```",TCF7,34282123
+Human,blood,"naive thymus-derived cd4-positive
+```",LEF1,34282123
+Human,blood,"t cell
+```",CD3,34282123
+Human,blood,"cd8-positive
+```",CD8A,34282123
+Human,blood,"cd4-positive helper t cell
+```",CD4,34282123
+Human,yolk sac,"myeloid progenitor
+```",MYB,34284135
+Human,yolk sac,"myeloid progenitor
+```",CD34,34284135
+Human,yolk sac,"myeloid progenitor
+```",PTPRC,34284135
+Human,yolk sac,"myeloid progenitor
+```",CD44,34284135
+Human,blood,"Regulatory T cell
+```",CD4+CD25+CD127lo/–,34324441
+Human,blood,"non-regulatory T cell
+```",CD4+CD25loCD127hi CD45RO+,34324441
+Human,blood,"non-regulatory T cell
+```",CD45RO+CD62Llo,34324441
+Human,blood,"non-regulatory T cell
+```",CD45RO+CD62Lhi,34324441
+Human,blood,"Regulatory T cell
+```",FOXP3,34324441
+Human,blood,"Regulatory T cell
+```",CD27,34324441
+Human,blood,"Regulatory T cell
+```",CTLA4,34324441
+Human,blood,"Regulatory T cell
+```",HLA-DR,34324441
+Human,Blood,NKT cell,CXCR4,34326311
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",IFNGR1,34326311
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",STAT1,34326311
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",TNFRSF1B,34326311
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",TNFAIP3,34326311
+Human,blood,"cell_ontology_class='t cell', free_annotation='t cells'
+```",TNFSF8,34326311
+Human,Blood,Monocyte,CD83,34326311
+Human,Blood,Monocyte,FCGR1A,34326311
+Human,Blood,Monocyte,HLA-DRA,34326311
+Human,Blood,Monocyte,HLA-DPB1,34326311
+Human,Blood,Monocyte,HLA-DMA,34326311
+Human,Blood,Non-classical monocyte,FCGR3A,34326311
+Human,salivary gland,"duct cells, oncocytes, mucous cells, myoepithelial cells
+```",CDH1,34385390
+Human,salivary gland,"duct cells, oncocytes, mucous cells, myoepithelial cells
+```",KRT5,34385390
+Human,salivary gland,"duct cells, oncocytes, mucous cells, myoepithelial cells
+```",KRT8,34385390
+Human,salivary gland,"duct cells, oncocytes, mucous cells, myoepithelial cells
+```",KRT7,34385390
+Human,mammary,"basal cell
+```",TP63,34385390
+Human,mammary,"basal cell
+```",KRT5,34385390
+Human,mammary,"basal cell
+```",KRT7,34385390
+Human,tongue,"epithelial cell
+```",MUC5B,34385390
+Human,tongue,"epithelial cell
+```",KRT23,34385390
+Human,tongue,"epithelial cell
+```",AGR2,34385390
+Human,muscle,"smooth muscle cell
+```",MKI67,34385390
+Human,trachea,"basal cell
+```",TP63,34385390
+Human,trachea,"basal cell
+```",KRT5,34385390
+Human,trachea,"basal cell
+```",KRT7,34385390
+Human,skin,"epithelial cell
+```",KRT7,34385390
+Human,skin,"epithelial cell
+```",MUC4,34385390
+Human,lung,"muc5bhigh cell type (c4)
+```",MUC5B,34385390
+Human,salivary_gland,"cell_ontology_class='duct epithelial cell', free_annotation='ductal cell'
+```",TP63,34385390
+Human,salivary_gland,"cell_ontology_class='duct epithelial cell', free_annotation='ductal cell'
+```",KRT5,34385390
+Human,salivary_gland,"cell_ontology_class='duct epithelial cell', free_annotation='ductal cell'
+```",KRT7,34385390
+Human,barrett's esophagus (be),"columnar epithelial cells
+```",MUC5AC,34385390
+Human,barrett's esophagus (be),"columnar epithelial cells
+```",KRT20,34385390
+Human,small_intestine,"small intestine goblet cell
+```",MUC2,34385390
+Human,small_intestine,"small intestine goblet cell
+```",TFF3,34385390
+Human,small_intestine,"intestinal enteroendocrine cell
+```",NEUROG3,34385390
+Human,small_intestine,"intestinal enteroendocrine cell
+```",CHGA,34385390
+Human,barrett's esophagus (be),"undifferentiated cells
+```",OLFM4,34385390
+Human,esophagus,"barrett's esophagus cell
+```",MYC,34385390
+Human,esophagus,"barrett's esophagus cell
+```",HNF4A,34385390
+Human,fat,"t cell
+```",GPR15,34389613
+Human,blood,"memory CD4-positive alpha-beta T cell
+```",PTGDR2,34389613
+Human,fat,"Th17 cells
+```",IL26,34389613
+Human,fat,"Th17 cells
+```",IL17A,34389613
+Human,fat,"Th17 cells
+```",IL17F,34389613
+Human,large_intestine,"cd8-positive
+```",IFNG,34389613
+Human,large_intestine,"cd8-positive
+```",GZMB,34389613
+Human,large_intestine,"cd8-positive
+```",GNLY,34389613
+Human,pancreas,"t cell
+```",ITGA4,34389613
+Human,pancreas,"t cell
+```",ITGB7,34389613
+Human,small_intestine,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CCR9,34389613
+Human,trachea,"cd4-positive
+```",GPR15,34389613
+Human,lung,"macrophage
+```",GPR15,34389613
+Human,vasculature,"pericyte cell
+```",PTGDR2,34389613
+Human,vasculature,"pericyte cell
+```",KLRB1,34389613
+Human,blood,"cd4-positive
+```",CD40LG,34389613
+Human,vasculature,"pericyte cell
+```",FFAR3,34389613
+Human,lung,"macrophage
+```",GPR15,34389613
+Human,lung,"macrophage
+```",KLRB1,34389613
+Human,lung,"macrophage
+```",IL25,34389613
+Human,lung,"macrophage
+```",IL-33R,34389613
+Human,lung,"macrophage
+```",CCR8,34389613
+Human,lung,"macrophage
+```",FFAR3,34389613
+Human,lung,"macrophage
+```",HPGDS,34389613
+Human,lung,"macrophage
+```",PPAR-γ,34389613
+Human,blood,"memory cd4-positive t cell
+```",CD3,34389613
+Human,blood,"memory cd4-positive t cell
+```",CD4,34389613
+Human,blood,"memory cd4-positive t cell
+```",CD45RA,34389613
+Human,blood,"memory cd4-positive t cell
+```",PTGDR2,34389613
+Human,blood,"memory cd4-positive t cell
+```",KLRB1,34389613
+Human,blood,"t cells
+```",GPR15,34389613
+Human,blood,"t cells
+```",FFAR3,34389613
+Human,esophagus,"stratified squamous epithelial cell
+```",TP63,34416429
+Human,tongue,"epithelial cell
+```",EPCAM,34416429
+Human,small_intestine,"goblet cell
+```",MUC2,34416429
+Human,small_intestine,"goblet cell
+```",MUC5AC,34416429
+Human,small_intestine,"goblet cell
+```",TFF1,34416429
+Human,small_intestine,"goblet cell
+```",TFF2,34416429
+Human,small_intestine,"goblet cell
+```",TFF3,34416429
+Human,esophageal tissue,"immune cells
+```",CD247,34416429
+Human,esophageal tissue,"immune cells
+```",CD3D,34416429
+Human,esophageal tissue,"immune cells
+```",CD3E,34416429
+Human,esophageal tissue,"columnar epithelial cell
+```",MUC2,34416429
+Human,esophageal tissue,"columnar epithelial cell (esophageal-gastro junction-like)
+```",MUC5AC,34416429
+Human,esophageal tissue,"columnar epithelial cell (esophageal-gastro junction-like)
+```",TFF1,34416429
+Human,esophageal tissue,"columnar epithelial cell (esophageal-gastro junction-like)
+```",TFF2,34416429
+Human,tongue,"epithelial cell
+```",CDH1,34416429
+Human,esophageal tissue,"macrophage
+```",VIM,34416429
+Human,skin,"cell_ontology_class='epithelial cell', free_annotation='epithelial cells'
+```",TP63,34416429
+Human,Barrett's esophagus,"BE-specific cell
+```",EPCAM,34416429
+Human,Barrett's esophagus,"BE-specific cell
+```",TFF3,34416429
+Human,Barrett's esophagus,"BE-specific cell
+```",TFF1,34416429
+Human,Barrett's esophagus,"BE-specific cell
+```",TFF2,34416429
+Human,skin,"cell_ontology_class='epithelial cell', free_annotation='epithelial cells'
+```",KRT4,34416429
+Human,skin,"cell_ontology_class='epithelial cell', free_annotation='epithelial cells'
+```",KRT15,34416429
+Human,esophageal tissue,"squamous epithelial cell
+```",TP63,34416429
+Human,tongue,"epithelial cell
+```",EPCAM,34416429
+Human,esophageal tissue,"intestinal enteroendocrine cell
+```",MUC2,34416429
+Human,esophageal tissue,"intestinal enteroendocrine cell
+```",VIL1,34416429
+Human,esophageal tissue,"macrophage
+```",CLDN18,34416429
+Human,esophageal tissue,"macrophage
+```",TFF2,34416429
+Human,blood,"platelet
+```",Tubb1,34488842
+Human,PBMC,"B cell
+```",Cd79a,34488842
+Human,blood,"monocyte
+```",Lyz,34488842
+Human,vasculature,"epithelial cell
+```",S100P,34489433
+Human,vasculature,"epithelial cell
+```",CXCL17,34489433
+Human,vasculature,"epithelial cell
+```",AGR2,34489433
+Human,vasculature,"epithelial cell
+```",MUC20,34489433
+Human,esophagus,"squamous epithelial cell
+```",EGR1,34489433
+Human,esophagus,"squamous epithelial cell
+```",JUN,34489433
+Human,esophagus,"squamous epithelial cell
+```",FOS,34489433
+Human,esophagus,"antigen-presenting cells
+```",CD74,34489433
+Human,esophagus,"antigen-presenting cells
+```",HLA-DPA1,34489433
+Human,esophagus,"antigen-presenting cells
+```",HLA-DRA,34489433
+Human,skin,"cell_ontology_class='epithelial cell', free_annotation='cycling epithelial cells'
+```",CENPW,34489433
+Human,skin,"cell_ontology_class='epithelial cell', free_annotation='cycling epithelial cells'
+```",CKS1B,34489433
+Human,skin,"cell_ontology_class='epithelial cell', free_annotation='cycling epithelial cells'
+```",BIRC5,34489433
+Human,vasculature,"epithelial cell
+```",KRT72,34489433
+Human,vasculature,"epithelial cell
+```",KRT16,34489433
+Human,vasculature,"epithelial cell
+```",KRT17,34489433
+Human,esophagus,"epithelial cell
+```",SPRR1A,34489433
+Human,esophagus,"epithelial cell
+```",SPRR1B,34489433
+Human,esophagus,"epithelial cell
+```",S100A8,34489433
+Human,esophagus,"epithelial cell
+```",S100A9,34489433
+Human,esophagus,"mesenchymal-like cells
+```",VIM,34489433
+Human,esophagus,"mesenchymal-like cells
+```",SPARC,34489433
+Human,thymus,"t follicular helper cell
+```",CXCR5,34489433
+Human,esophagus (esophageal squamous cell carcinoma),"exhausted t cell
+```",CD39 (ENTPD1),34489433
+Human,esophagus (esophageal squamous cell carcinoma),"exhausted t cell
+```",CD103 (ITGAE),34489433
+Human,esophagus (esophageal squamous cell carcinoma),"exhausted t cell
+```",KLRG1,34489433
+Human,esophagus,"germinal center b cell
+```",MKI67,34489433
+Human,esophagus,"germinal center b cell
+```",TOP2A,34489433
+Human,esophagus,"tumor-associated macrophages (TAMs)
+```",TGFB1,34489433
+Human,esophagus,"tumor-associated macrophages (TAMs)
+```",COX2,34489433
+Human,esophagus,"monocyte
+```",VEGFA,34489433
+Human,esophagus,"cell_ontology_class='macrophage', free_annotation='tumor-associated macrophages (TAMs)'
+```",MMP9,34489433
+Human,esophagus,"cell_ontology_class='macrophage', free_annotation='tumor-associated macrophages (TAMs)'
+```",MMP12,34489433
+Human,esophagus,"conventional dendritic cell (cDC)
+```",HLA-DRA,34489433
+Human,esophagus,"conventional dendritic cell (cDC)
+```",CD80,34489433
+Human,esophagus,"conventional dendritic cell (cDC)
+```",CD86,34489433
+Human,esophagus,"conventional dendritic cell (cDC)
+```",TNF,34489433
+Human,esophagus,"conventional dendritic cell (cDC)
+```",IL1B,34489433
+Human,escc tumor and adjacent normal tissues,"tolerogenic dendritic cell (tdc)
+```",HLA-DRA,34489433
+Human,escc tumor and adjacent normal tissues,"tolerogenic dendritic cell (tdc)
+```",CD80,34489433
+Human,escc tumor and adjacent normal tissues,"tolerogenic dendritic cell (tdc)
+```",CD86,34489433
+Human,escc tumor and adjacent normal tissues,"tolerogenic dendritic cell (tdc)
+```",CCR7,34489433
+Human,escc tumor and adjacent normal tissues,"plasmacytoid dendritic cell
+```",ICOSLG,34489433
+Human,esophageal squamous cell carcinoma tissue,"tumor-associated dendritic cells
+```",IDO1,34489433
+Human,esophageal squamous cell carcinoma tissue,"tumor-associated dendritic cells
+```",CD274,34489433
+Human,esophageal squamous cell carcinoma tissue,"tumor-associated dendritic cells
+```",PDCD1LG2,34489433
+Human,escc tumor,"tumor-infiltrating dendritic cells
+```",PTPRC,34489433
+Human,escc tumor,"tumor-infiltrating dendritic cells
+```",CCR7,34489433
+Human,escc tumor,"tumor-infiltrating dendritic cells
+```",CD274,34489433
+Human,blood,"cell_ontology_class='cd8-positive'
+```",CD8A,34489433
+Human,escc tumor,"tumor-infiltrating dendritic cells
+```",PTPRC,34489433
+Human,escc tumor,"tumor-infiltrating dendritic cells
+```",CCR7,34489433
+Human,escc tumor,"tumor-infiltrating dendritic cells
+```",CD274,34489433
+Human,blood,"cell_ontology_class='cd8-positive'
+```",CD8A,34489433
+Human,eye,"eye photoreceptor cell
+```",GUCA1C,34552068
+Human,eye,"eye photoreceptor cell
+```",GNAT2,34552068
+Human,eye,"eye photoreceptor cell
+```",ARR3,34552068
+Human,eye,"eye photoreceptor cell
+```",GUCA1A,34552068
+Human,eye,"eye photoreceptor cell
+```",GUCA1B,34552068
+Human,eye,"eye photoreceptor cell
+```",GNGT2,34552068
+Human,eye,"eye photoreceptor cell
+```",PDE6C,34552068
+Human,eye,"eye photoreceptor cell
+```",PDE6H,34552068
+Human,eye,"eye photoreceptor cell
+```",OPN1SW,34552068
+Human,eye,"retinal ganglion cell
+```",EBF3,34552068
+Human,eye,"retinal ganglion cell
+```",DCX,34552068
+Human,eye,"retinal ganglion cell
+```",ROBO1,34552068
+Human,eye,"retinal ganglion cell
+```",SOX11,34552068
+Human,eye,"retinal ganglion cell
+```",GAP43,34552068
+Human,eye,"retinal ganglion cell
+```",PCDHB10,34552068
+Human,eye,"retinal ganglion cell
+```",STMN2,34552068
+Human,eye,"retinal ganglion cell
+```",NEFM,34552068
+Human,eye,"retinal ganglion cell
+```",POU4F2,34552068
+Human,eye,"retinal ganglion cell
+```",EBF1,34552068
+Human,eye,"retinoblastoma cell
+```",CD24,34552068
+Human,eye,"retinal ganglion cell
+```",EBF3,34552068
+Human,eye,"retinal ganglion cell
+```",EBF1,34552068
+Human,eye,"retinal ganglion cell
+```",GAP43,34552068
+Human,eye,"retinal ganglion cell
+```",POU4F2,34552068
+Human,eye,"retinal ganglion cell
+```",NEFM,34552068
+Human,eye,"retinal ganglion cell
+```",ALCAM,34552068
+Human,eye,"retinal ganglion cell
+```",NRN1,34552068
+Human,eye,"retinal ganglion cell
+```",CNTN2,34552068
+Human,retina,"eye photoreceptor cell
+```",OTX2,34552068
+Human,retina,"eye photoreceptor cell
+```",CRX,34552068
+Human,retina,"eye photoreceptor cell
+```",THRB,34552068
+Human,retina,"eye photoreceptor cell
+```",RXRG,34552068
+Human,retina,"eye photoreceptor cell
+```",PDE6H,34552068
+Human,retina,"eye photoreceptor cell
+```",GNAT2,34552068
+Human,retina,"eye photoreceptor cell
+```",ARR3,34552068
+Human,retina,"eye photoreceptor cell
+```",GUCA1C,34552068
+Human,eye,"retinal ganglion cell
+```",EBF3,34552068
+Human,eye,"retinal ganglion cell
+```",GAP43,34552068
+Human,retina,"photoreceptor cell
+```",CRX,34552068
+Human,retina,"photoreceptor cell
+```",ARR3,34552068
+Human,eye,"amacrine cell
+```",EBF3,34552068
+Human,retina,"eye photoreceptor cell
+```",OTX2,34552068
+Human,retina,"eye photoreceptor cell
+```",CRX,34552068
+Human,retina,"eye photoreceptor cell
+```",THRB,34552068
+Human,retina,"eye photoreceptor cell
+```",RXRG,34552068
+Human,retina,"retinal ganglion cell
+```",GAP43,34552068
+Human,retina,"retinal ganglion cell
+```",SOX11,34552068
+Human,retina,"retinal ganglion cell
+```",UCHL1,34552068
+Human,retina,"retinal ganglion cell
+```",DCX,34552068
+Human,retina,"retinal ganglion cell
+```",EBF3,34552068
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",ARR3,34552068
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",GUCA1C,34552068
+Human,eye,"proliferating retinal cells
+```",MKI67,34552068
+Human,eye,"hypoxic cells
+```",BNIP3,34552068
+Human,eye,"microglial cell
+```",CD14,34552068
+Human,eye,"microglial cell
+```",AIF1,34552068
+Human,eye,"t cell
+```",CD3D,34552068
+Human,eye,"t cell
+```",TRAC,34552068
+Human,eye,"retinal ganglion cell
+```",EBF3,34552068
+Human,retina,"eye photoreceptor cell
+```",OTX2,34552068
+Human,retina,"eye photoreceptor cell
+```",CRX,34552068
+Human,retina,"eye photoreceptor cell
+```",THRB,34552068
+Human,retina,"eye photoreceptor cell
+```",RXRG,34552068
+Human,retina,"eye photoreceptor cell
+```",PDE6H,34552068
+Human,retina,"eye photoreceptor cell
+```",GNAT2,34552068
+Human,retina,"eye photoreceptor cell
+```",ARR3,34552068
+Human,retina,"eye photoreceptor cell
+```",GUCA1C,34552068
+Human,eye,"retinal ganglion cell
+```",POU4F2,34552068
+Human,eye,"retinal ganglion cell
+```",EBF1,34552068
+Human,eye,"retinal ganglion cell
+```",GAP43,34552068
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",CRX,34552068
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",OTX2,34552068
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",ARR3,34552068
+Human,eye,"cell_ontology_class='eye photoreceptor cell', free_annotation='retina - photoreceptor cells'
+```",GUCA1C,34552068
+Human,retina,"retinal ganglion cell
+```",EBF3,34552068
+Human,retina,"retinal ganglion cell
+```",GAP43,34552068
+Human,retina,"retinal ganglion cell
+```",DCX,34552068
+Human,eye,"proliferation (未明确具体细胞类型，可能涉及多种视网膜细胞的增殖状态)
+```",MKI67,34552068
+Human,eye,"retinal ganglion cell
+```",BNIP3,34552068
+Human,eye,"tissue resident macrophage
+```",CD14,34552068
+Human,eye,"t cell
+```",CD3D,34552068
+Human,retina,"eye photoreceptor cell
+```",CRX,34552068
+Human,retina,"eye photoreceptor cell
+```",RCVRN,34552068
+Human,retina,"eye photoreceptor cell
+```",NRL,34552068
+Human,retina,"eye photoreceptor cell
+```",NR2E3,34552068
+Human,retina,"eye photoreceptor cell
+```",ARR3,34552068
+Human,retina,"eye photoreceptor cell
+```",RHO,34552068
+Human,retina,"eye photoreceptor cell
+```",OPSINs,34552068
+Human,eye,"retinal ganglion cell
+```",TFF1,34552068
+Human,eye,"retinal ganglion cell
+```",EBF3,34552068
+Human,eye,"retinal ganglion cell
+```",MKI67,34552068
+Human,eye,"muller cell
+```",TRDN,34584087
+Human,eye,"muller cell
+```",VIM,34584087
+Human,eye,"retinal bipolar neuron
+```",NIF3L1,34584087
+Human,eye,"retinal bipolar neuron
+```",PRKCA,34584087
+Human,retina,"photoreceptor cell
+```",RAB41,34584087
+Human,retina,"photoreceptor cell
+```",OPN1SW,34584087
+Human,eye,"conjunctival epithelial cell
+```",ACE2,34584087
+Human,eye,"conjunctival epithelial cell
+```",TMPRSS2,34584087
+Human,eye,"conjunctival epithelial cell
+```",BSG,34584087
+Human,eye,"conjunctival epithelial cell
+```",CTSB,34584087
+Human,eye,"conjunctival epithelial cell
+```",CTSL,34584087
+Human,eye,"limbal stem cell
+```",COL9A1,34584087
+Human,eye,"ciliary body
+```",COL9A1,34584087
+Human,eye,"cell_ontology_class='ciliary body', free_annotation='ciliary body cells'
+```",COL9A1,34584087
+Human,eye,"limbal stem cell
+```",OTX2,34584087
+Human,eye,"corneal basal cells
+```",CPAMD8,34584087
+Human,eye,"limbal stem cell
+```",PAX6,34584087
+Human,eye,"limbal stem cell
+```",SIX3,34584087
+Human,eye,"corneal basal cells
+```",PAX6,34584087
+Human,eye,"corneal basal cells
+```",SIX3,34584087
+Human,eye,"B cell
+```",PAX6,34584087
+Human,eye,"B cell
+```",SIX3,34584087
+Human,eye,"limbal stem cell
+```",OTX2,34584087
+Human,eye,"corneal basal cells
+```",CPAMD8,34584087
+Human,eye,"limbal stem cell
+```",PAX6,34584087
+Human,eye,"limbal stem cell
+```",SIX3,34584087
+Human,eye,"corneal basal cells
+```",PAX6,34584087
+Human,eye,"corneal basal cells
+```",SIX3,34584087
+Human,eye,"B cell
+```",PAX6,34584087
+Human,eye,"B cell
+```",SIX3,34584087
+Human,aqueous humor,"无法确定
+```",ITGAX,34783307
+Human,aqueous humor,"无法确定
+```",CLEC7A,34783307
+Human,blood,"memory b cell
+```",CLEC10A,34783307
+Human,blood,"memory b cell
+```",MRC1,34783307
+Human,tongue,"pericyte cell
+```",IL3RA,34783307
+Human,tongue,"pericyte cell
+```",CLEC4C,34783307
+Human,aqueous humor,"mast cell
+```",TMEM176B,34783307
+Human,aqueous humor,"mast cell
+```",IDO1,34783307
+Human,aqueous humor,"mast cell
+```",FSCN1,34783307
+Human,aqueous humor,"mast cell
+```",LAMP3,34783307
+Human,aqueous humor,"mast cell
+```",CD83,34783307
+Human,blood,"granulocyte
+```",S100A12,34783307
+Human,blood,"granulocyte
+```",S100A8,34783307
+Human,blood,"granulocyte
+```",CCL2,34783307
+Human,blood,"macrophage
+```",S100A12,34783307
+Human,blood,"macrophage
+```",S100A8,34783307
+Human,blood,"macrophage
+```",CCL2,34783307
+Human,lymph_node,"cd1c-positive myeloid dendritic cell
+```",CLEC9A,34783307
+Human,lymph_node,"cd1c-positive myeloid dendritic cell
+```",XCR1,34783307
+Human,lymph_node,"cd1c-positive myeloid dendritic cell
+```",BATF3,34783307
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",CD1C,34783307
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",FCER1A,34783307
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",CLEC10A,34783307
+Human,vasculature,"pericyte cell
+```",CLEC9A,34783307
+Human,vasculature,"pericyte cell
+```",C1ORF54,34783307
+Human,vasculature,"pericyte cell
+```",HLA-DPA1,34783307
+Human,vasculature,"pericyte cell
+```",CADM1,34783307
+Human,vasculature,"pericyte cell
+```",CAMK2D,34783307
+Human,peripheral blood,"需进一步明确具体细胞类型，可能为 ""CD4+ T cell"" 或其他免疫细胞类型
+```",CD1C,34783307
+Human,peripheral blood,"需进一步明确具体细胞类型，可能为 ""CD4+ T cell"" 或其他免疫细胞类型
+```",FCER1A,34783307
+Human,peripheral blood,"需进一步明确具体细胞类型，可能为 ""CD4+ T cell"" 或其他免疫细胞类型
+```",CLEC10A,34783307
+Human,peripheral blood,"需进一步明确具体细胞类型，可能为 ""CD4+ T cell"" 或其他免疫细胞类型
+```",ADAM8,34783307
+Human,blood,"cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+```",CD14,34783307
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",CD1C,34783307
+Human,eye,"mast cell
+```",FSCN1,34783307
+Human,eye,"mast cell
+```",CD83,34783307
+Human,eye,"mast cell
+```",LAMP3,34783307
+Human,eye,"endothelial cell
+```",AXL,34783307
+Human,eye,"endothelial cell
+```",SIGLEC6,34783307
+Human,eye,"macrophage
+```",S100A8/S100A9,34783307
+Human,blood,"cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+```",CD14,34783307
+Human,spleen,"cd1c-positive myeloid dendritic cell
+```",CD1C,34783307
+Human,eye,"mast cell
+```",FSCN1,34783307
+Human,eye,"mast cell
+```",CD83,34783307
+Human,eye,"mast cell
+```",LAMP3,34783307
+Human,eye,"endothelial cell
+```",AXL,34783307
+Human,eye,"endothelial cell
+```",SIGLEC6,34783307
+Human,eye,"macrophage
+```",S100A8/S100A9,34783307
+Human,eye,"retinal pigment epithelial cell
+```",BEST1,35030321
+Human,eye,"retinal pigment epithelial cell
+```",RPE65,35030321
+Human,lung,"fibroblast
+```",S100A4,35030321
+Human,eye,"retinal pigment epithelial cell
+```",TJP1,35030321
+Human,eye,"retinal pigment epithelial cell
+```",BEST1,35030321
+Human,eye,"retinal pigment epithelial cell
+```",RPE65,35030321
+Human,eye,"retinal pigment epithelial cell
+```",TYRP1,35030321
+Human,eye,"retinal pigment epithelial cell
+```",CRX,35030321
+Human,eye,"retinal pigment epithelial cell
+```",TYR,35030321
+Human,eye,"retinal pigment epithelial cell
+```",MERTK,35030321
+Human,eye,"retinal pigment epithelial cell
+```",LHX2,35030321
+Human,retina,"retinal pigment epithelial cell
+```",BSG,35030321
+Human,retina,"retinal pigment epithelial cell
+```",RPE65,35030321
+Human,eye,"retinal pigment epithelial cell
+```",STEM121,35030321
+Human,esophageal epithelium,"epithelial progenitor cells
+```",NT5E,35108658
+Human,esophageal epithelium,"epithelial progenitor cells
+```",ITGB4,35108658
+Human,esophageal epithelium,"basal cell
+```",NT5E,35108658
+Human,esophageal epithelium,"basal cell
+```",ITGB4,35108658
+Human,esophageal epithelium,"basal cell
+```",SOX2,35108658
+Human,esophageal epithelium,"epithelial cell
+```",MKI67,35108658
+Human,esophageal epithelium,"basal cell
+```",SOX2,35108658
+Human,esophageal epithelium,"epithelial cell
+```",MKI67,35108658
+Human,esophagus,"basal cell
+```",NT5E,35108658
+Human,esophagus,"basal cell
+```",ITGB4,35108658
+Human,trachea,"basal cell
+```",TP63,35108658
+Human,trachea,"basal cell
+```",TP63,35108658
+Human,trachea,"basal cell
+```",MKI67,35108658
+Human,esophageal epithelium,"suprabasal epithelial cell
+```",IVL,35108658
+Human,esophageal epithelium,"suprabasal epithelial cell
+```",KRT13,35108658
+Human,esophageal epithelium,"superficial cell
+```",IVL,35108658
+Human,esophageal epithelium,"superficial cell
+```",FLG,35108658
+Human,trachea,"basal cell
+```",MKI67,35108658
+Human,trachea,"basal cell
+```",NT5E,35108658
+Human,trachea,"basal cell
+```",NT5E,35108658
+Human,trachea,"basal cell
+```",ITGB4,35108658
+Human,trachea,"basal cell
+```",ITGB4,35108658
+Human,esophageal epithelium,"cd73+cd104+ cells
+```",NT5E,35108658
+Human,esophageal epithelium,"cd73-cd104+ cells
+```",ITGB4,35108658
+Human,trachea,"basal cell
+```",NT5E,35108658
+Human,trachea,"basal cell
+```",ITGB4,35108658
+Human,trachea,"basal cell
+```",NT5E,35108658
+Human,trachea,"basal cell
+```",ITGB4,35108658
+Human,esophagus,"basal cell
+```",NT5E,35108658
+Human,esophagus,"basal cell
+```",ITGB4,35108658
+Human,esophageal epithelium,"basal cell
+```",MKI67,35108658
+Human,skin,"epithelial cell
+```",NT5E,35108658
+Human,esophagus,"epithelial cell
+```",NT5E,35108658
+Human,esophagus,"epithelial cell
+```",ITGB4,35108658
+Human,esophagus,"epithelial cell
+```",NT5E,35108658
+Human,esophagus,"epithelial cell
+```",ITGB4,35108658
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",ATP1A1,35141048
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",TJP1,35141048
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",CDH2,35141048
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",COL8A1,35141048
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",SLC4A11,35141048
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",AQP1,35141048
+Human,eye,"endothelial cell
+```",ALCAM,35141048
+Human,eye,"endothelial cell
+```",MGP,35141048
+Human,eye,"endothelial cell
+```",SLC12A2,35141048
+Human,eye,"endothelial cell
+```",SLC2A1,35141048
+Human,eye,"endothelial cell
+```",NQO1,35141048
+Human,eye,"endothelial cell (cell_ontology_class='endothelial cell', free_annotation='endothelium')
+```",MCM7,35141048
+Human,eye,"endothelial cell (cell_ontology_class='endothelial cell', free_annotation='endothelium')
+```",PCNA,35141048
+Human,eye,"endothelial cell (cell_ontology_class='endothelial cell', free_annotation='endothelium')
+```",MCM3,35141048
+Human,eye,"endothelial cell
+```",IL11,35141048
+Human,eye,"endothelial cell
+```",CXCL3,35141048
+Human,eye,"endothelial cell
+```",CXCL8,35141048
+Human,eye,"endothelial cell
+```",PCNA,35141048
+Human,eye,"endothelial cell
+```",MCM3,35141048
+Human,eye,"endothelial cell
+```",MCM7,35141048
+Human,eye,"cell_ontology_class='endothelial cell', free_annotation='endothelium'
+```",Interleukin-11 (IL-11),35141048
+Human,eye,"endothelial cell
+```",ITGA6,35141048
+Human,eye,"endothelial cell
+```",PCNA,35141048
+Human,eye,"endothelial cell
+```",IL11,35141048
+Human,eye,"endothelial cell
+```",ITGA6,35141048
+Human,eye,"cell_ontology_class='corneal epithelial cell', free_annotation='cornea - epithelial cells'
+```",PTPRC,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CD3,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CD8A,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CD4,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",IFN-g,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",Granzyme B,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",Granzyme A,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CD96,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CCR7,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",IDO1,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",HLA-A,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",HLA-B,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",and HLA-C,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",HLA-DR,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",HLA-DQ,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",IL10,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CXCL16,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",LNCRNA-ATB,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",Perforin 1,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",IL-32,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CXCL2,35280984
+Human,eye,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CXCR6,35280984
+Human,eye,"cell_ontology_class='corneal epithelial cell', free_annotation='cornea - epithelial cells'
+```",CD164,35280984
+Human,corneal limbus,"cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+```",CD68,35280984
+Human,corneal limbus,"cell_ontology_class='dendritic cell', free_annotation='dendritic cells'
+```",HLA subtypes,35280984
+Human,corneal limbus,"cell_ontology_class='dendritic cell', free_annotation='dendritic cells'
+```",CD74,35280984
+Human,corneal limbus,"t cell
+```",CD3E,35280984
+Human,corneal limbus,"t cell
+```",CD3D,35280984
+Human,corneal limbus,"t cell
+```",LCK,35280984
+Human,skin,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CD28,35280984
+Human,skin,"cell_ontology_class='t cell', free_annotation='t cells'
+```",CD27,35280984
+Human,skin,"cell_ontology_class='t cell', free_annotation='t cells'
+```",IL7R,35280984
+Human,skin,"cell_ontology_class='t cell', free_annotation='t cells'
+```",BATF,35280984
+Human,eye,"cd8-positive
+```",CD69,35280984
+Human,eye,"cd8-positive
+```",Lag3,35280984
+Human,eye,"cd8-positive
+```",GZMA,35280984
+Human,eye,"cd8-positive
+```",GZMB,35280984
+Human,eye,"cd8-positive
+```",PRF1,35280984
+Human,eye,"cd8-positive
+```",IFNG,35280984
+Human,eye,"cd8-positive
+```",IL32,35280984
+Human,eye,"cd8-positive
+```",CD96,35280984
+Human,eye,"cd8-positive
+```",IFN-g,35280984
+Human,eye,"cd8-positive
+```",Granzyme A,35280984
+Human,eye,"cd8-positive
+```",Granzyme B,35280984
+Human,eye,"cd8-positive
+```",Perforin 1,35280984
+Human,eye,"cd8-positive
+```",IL-32,35280984
+Human,eye,"corneal epithelial cell
+```",CD164,35280984
+Human,eye,"dendritic cell
+```",LAMP3,35280984
+Human,eye,"dendritic cell
+```",BIRC3,35280984
+Human,eye,"corneal epithelial cell
+```",CCR7,35280984
+Human,eye,"corneal epithelial cell
+```",CD74,35280984
+Human,eye,"corneal epithelial cell
+```",ID2,35280984
+Human,eye,"corneal epithelial cell
+```",GPR183,35280984
+Human,eye,"corneal epithelial cell
+```",CCL22,35280984
+Human,eye,"corneal epithelial cell
+```",IL4l1,35280984
+Human,eye,"corneal epithelial cell
+```",CD40,35280984
+Human,eye,"corneal epithelial cell
+```",TXN,35280984
+Human,eye,"corneal epithelial cell
+```",IL1B,35280984
+Human,eye,"corneal epithelial cell
+```",IL15,35280984
+Human,eye,"corneal epithelial cell
+```",IL23A,35280984
+Human,eye,"corneal epithelial cell
+```",IDO1,35280984
+Human,blood,"cd4-positive
+```",CD4,35280984
+Human,eye,"t cell
+```",BATF,35280984
+Human,eye,"cd8-positive
+```",CD96,35280984
+Human,eye,"cd8-positive
+```",Lag3,35280984
+Human,eye,"cd8-positive
+```",CD69,35280984
+Human,eye,"dendritic cell
+```",HLA-DQA1,35280984
+Human,eye,"dendritic cell
+```",HLA-DPA,35280984
+Human,eye,"dendritic cell
+```",HLA-DPB,35280984
+Human,eye,"microglial cell
+```",BIRC3,35280984
+Human,eye,"microglial cell
+```",LAMP3,35280984
+Human,eye,"microglial cell
+```",IL15,35280984
+Human,eye,"microglial cell
+```",CD40,35280984
+Human,eye,"microglial cell
+```",CCR7,35280984
+Human,eye,"microglial cell
+```",IDO1,35280984
+Human,liver,"无法确定（候选匹配不包含合适的细胞类型）
+```",SPP1,35303421
+Human,liver,"无法确定（候选匹配不包含合适的细胞类型）
+```",CD68,35303421
+Human,liver,"无法确定（候选匹配不包含合适的细胞类型）
+```",MARCO,35303421
+Human,liver,"c1qc+ tams
+```",C1QC,35303421
+Human,liver,"c1qc+ tams
+```",CXCL9,35303421
+Human,liver,"c1qc+ tams
+```",CXCL10,35303421
+Human,liver metastasis,"mki67+ tumor-associated macrophages
+```",MKI67,35303421
+Human,tumor microenvironment,"macrophage (tams, c1qc+)
+```",C1QC,35303421
+Human,tumor microenvironment,"macrophage
+```",SPP1,35303421
+Human,lymph_node,"cd1c-positive myeloid dendritic cell
+```",C1QC,35303421
+Human,liver,"natural killer cells
+```",CD56bright/CD16neg,35303421
+Human,thymus,"macrophage
+```",CD68,35303421
+Human,thymus,"macrophage
+```",MARCO,35303421
+Human,thymus,"dn3 thymocyte
+```",CD1C,35303421
+Human,thymus,"dn3 thymocyte
+```",CD14,35303421
+Human,thymus,"dn3 thymocyte
+```",CD163,35303421
+Human,eye,"conjunctival epithelial cell
+```",IL5,35361907
+Human,eye,"conjunctival epithelial cell
+```",IL13,35361907
+Human,conjunctiva,"goblet cell
+```",WGA lectin,35361907
+Human,eye,"cell_ontology_class='macrophage', free_annotation='macrophages'
+```",RETNLA,35361907
+Human,eye,"cell_ontology_class='macrophage', free_annotation='macrophages'
+```",MRC1,35361907
+Human,eye,"macrophage
+```",CCR7,35361907
+Human,eye,"macrophage
+```",MHC-II,35361907
+Human,eye,"conjunctival epithelial cell
+```",CST3,35361907
+Human,eye,"endothelial cell of lymphatic vessel
+```",LYVE1,35361907
+Human,eye,"macrophage
+```",Alox15,35361907
+Human,eye,"macrophage
+```",Adgre (F4/80),35361907
+Human,eye,"macrophage
+```",Serpinb2,35361907
+Human,eye,"monocyte
+```",Apoe,35361907
+Human,eye,"conjunctival epithelial cell
+```",Fascn1,35361907

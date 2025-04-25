@@ -1,0 +1,135 @@
+species,tissue_type,cell_name,marker,pmid
+Human,Tumor,Mast cells,TNF,33545035
+Human,Tumor,Mast cells,VEGFA,33545035
+Human,Tumor,cDCs (conventional dendritic cells),LAMP3,33545035
+Human,Hepatocellular carcinoma,cDCs,MP3,33545035
+Human,Multiple tissues,Resident tissue macrophages (RTMs),LYVE1,33545035
+Human,Colon cancer,TAMs,SPP1,33545035
+Human,Hepatocellular carcinoma,TAMs,FOLR2,33545035
+Human,Uterus,Mast cell,TNF,33545035
+Human,Uterus,Mast cell,VEGFA,33545035
+Human,Thyroid tumor,Mast cell,TNF,33545035
+Human,Thyroid tumor,Mast cell,VEGFA,33545035
+Human,Tumor tissue,Macrophage,IL1B,33545035
+Human,Multiple cancer types,cDCs,LAMP3,33545035
+Human,Tumor,Monocytes,S100A8,33545035
+Human,Tumor,Monocytes,S100A9,33545035
+Human,Tumor,Monocytes,CSF3R,33545035
+Human,Tumor or adjacent normal tissue,Monocytes,HLA-DQA1,33545035
+Human,Tumor or adjacent normal tissue,Monocytes,HLA-DQB1,33545035
+Human,Tumor or adjacent normal tissue,Monocytes,CD163,33545035
+Human,Tumor or adjacent normal tissue,Monocytes,CD68,33545035
+Human,Tumor,Monocytes,IL1B,33545035
+Human,Tumor,Monocytes,CCL4,33545035
+Human,Tumor,Monocytes,CXCL2,33545035
+Human,Tumor,Monocytes,CXCR4,33545035
+Human,Tumor,Monocytes,AREG,33545035
+Human,Tumor,Monocytes,EGR1,33545035
+Human,Tumor,Monocytes,NR4A1,33545035
+Human,Tumor,Monocytes,NR4A2,33545035
+Human,Tumor,Monocytes,NLRP3,33545035
+Human,Tumor,Monocytes,NFKB1,33545035
+Human,Tumor,Monocytes,NFKBIA,33545035
+Human,Multiple cancer types,Macrophages,SPP1,33545035
+Human,Multiple cancer types,Macrophages,C1QC,33545035
+Human,Multiple cancer types,LYVE1+ Macrophages,LYVE1,33545035
+Human,Non-cancer tissues,NLRP3+ Macrophages,NLRP3,33545035
+Human,Tumor,SPP1+ TAMs,SPP1,33545035
+Human,Tumor,C1QC+ TAMs,C1QC,33545035
+Human,Tumor,ISG15+ TAMs,ISG15,33545035
+Human,Tumor,FN1+ TAMs,FN1,33545035
+Human,Tumor,RTMs,LYVE1,33545035
+Human,Tumor,TAMs,C1QC,33545035
+Human,Tumor,TAMs,FOLR2,33545035
+Human,Tumor,Macrophages,SPP1,33545035
+Human,KIDNEY tumor,TAMs,FN1,33545035
+Human,KIDNEY tumor,TAMs,CD52,33545035
+Human,SKCM tumor,Macrophages,VCAN,33545035
+Human,Tumor,cDCs,LAMP3,33545035
+Human,Lung cancer,Macrophage,PPARG,33545035
+Human,Lung cancer,Macrophage,MARCO,33545035
+Human,Lung cancer,Macrophage,MRC1,33545035
+Human,Lung cancer,Macrophage,MSR1,33545035
+Human,Lacrimal gland,Epithelial cell,PAX6,33730555
+Human,Lacrimal gland,Epithelial cell,FOXC1,33730555
+Human,Lacrimal gland,Epithelial cell,AQP5,33730555
+Human,Lacrimal gland,Myoepithelial cell,ACTA2,33730555
+Human,Lacrimal gland,Myoepithelial cell,MYH11,33730555
+Human,Lacrimal gland,Myoepithelial cell,MYLK,33730555
+Human,Lacrimal gland,Myoepithelial cell,TPM2,33730555
+Human,Lacrimal gland,Endothelial cell,CDH5,33730555
+Human,Lacrimal gland,Endothelial cell,PECAM1,33730555
+Human,Lacrimal gland,Lymphocyte,PTPRC,33730555
+Human,Lacrimal gland,Lymphocyte,CD2,33730555
+Human,Lacrimal gland,Basal cell,TP63,33730555
+Human,Lacrimal gland,Acinar cell,LTF,33730555
+Human,Lacrimal gland,Acinar cell,LCN1,33730555
+Human,Lacrimal gland,Acinar cell,LYZ,33730555
+Human,Lacrimal gland,Acinar cell,PRR27,33730555
+Human,Lacrimal gland,Acinar cell,LACRT,33730555
+Human,Lacrimal gland,Acinar cell,SCGB1D1,33730555
+Human,Lacrimal gland,Acinar cell,SCGB2A1,33730555
+Human,Lacrimal gland,Acinar cell,CST1,33730555
+Human,Lacrimal gland,Acinar cell,CST4,33730555
+Human,Lacrimal gland,Acinar cell,HTN1,33730555
+Human,Lacrimal gland,Acinar cell,SMR3A,33730555
+Human,Lacrimal gland,Acinar cell,SMR3B,33730555
+Human,Lacrimal gland,Ductal cell,LCN2,33730555
+Human,Lacrimal gland,Ductal cell,WFDC2,33730555
+Human,Lacrimal gland,Ductal cell,C3,33730555
+Human,Lacrimal gland tissue,Acinar cell,LTF,33730555
+Human,Lacrimal gland tissue,Acinar cell,PRR27,33730555
+Human,Lacrimal gland tissue,Acinar cell,SCGB2A1,33730555
+Human,Lacrimal gland tissue,Acinar cell,HTN1,33730555
+Human,Lacrimal gland tissue,Ductal cell,LCN2,33730555
+Human,Lacrimal gland tissue,Ductal cell,WFDC2,33730555
+Human,Lacrimal gland organoid,Basal cell,KRT5,33730555
+Human,Lacrimal gland organoid,Basal cell,KRT14,33730555
+Human,Lacrimal gland organoid,Basal cell,NGFR,33730555
+Human,Lacrimal gland organoid,Basal cell,TP63,33730555
+Human,Lacrimal gland organoid,Acinar cell,BPIFA1,33730555
+Human,Lacrimal gland organoid,Differentiated cell,AQP5,33730555
+Human,Lacrimal gland organoid,Differentiated cell,F3,33730555
+Human,Lacrimal gland organoid,Differentiated cell,MUC16,33730555
+Human,Lacrimal gland organoid,Differentiated cell,MUC5AC,33730555
+Human,Lacrimal gland organoid,Differentiated cell,PIGR,33730555
+Human,Lacrimal gland,Ductal cell,LCN2,33730555
+Human,Lacrimal gland,Ductal cell,WFDC2,33730555
+Human,Lacrimal gland,Acinar cell,CHRM1,33730555
+Human,Lacrimal gland,Ductal and acinar cells,VIPR1,33730555
+Human,Lacrimal gland,Acinar cell,LYZ,33730555
+Human,Lacrimal gland,Acinar cell,LTF,33730555
+Human,Lacrimal gland,Acinar cell,LCN1,33730555
+Human,Lacrimal gland,Ductal cell,LCN2,33730555
+Human,Lacrimal gland,Ductal cell,C3,33730555
+Human,Lacrimal gland,Ductal cell,WFDC2,33730555
+Human,Lacrimal gland,Ductal progenitor,KRT5,33730555
+Human,Lacrimal gland,Acinar cell,BPIFA1,33730555
+Human,LGE (Lateral Ganglionic Eminence),D1-MSNs (D1 medium spiny neurons),ISL1,33958447
+Human,LGE (Lateral Ganglionic Eminence),D2-MSNs (D2 medium spiny neurons),SIX3,33958447
+Human,LGE (Lateral Ganglionic Eminence),MGE interneurons,NKX2-1,33958447
+Human,LGE (Lateral Ganglionic Eminence),MGE interneurons,LHX6,33958447
+Human,LGE (Lateral Ganglionic Eminence),MGE interneurons,LHX8,33958447
+Human,LGE (Lateral Ganglionic Eminence),dorsal LGE (dLGE) interneurons,SP8,33958447
+Human,LGE (Lateral Ganglionic Eminence),dorsal LGE (dLGE) interneurons,COUP-TFII (NR2F2),33958447
+Human,LGE (Lateral Ganglionic Eminence),dorsal LGE (dLGE) interneurons,PAX6,33958447
+Human,Striatum,Pre-MSN,OCT6 (POU3F1),33958447
+Human,Striatum,Pre-MSN,ISL1,33958447
+Human,Striatum,Pre-MSN,SIX3,33958447
+Human,Striatum,Pre-MSN,BCL11B,33958447
+Human,Striatum,D1-MSNs (patch cells),PDYN,33958447
+Human,Striatum,D1-MSNs (patch cells),TSHZ1,33958447
+Human,Striatum,D2-MSNs (patch cells),PDYN,33958447
+Human,Striatum,D2-MSNs (patch cells),TSHZ1,33958447
+Human,LGE (Lateral Ganglionic Eminence),Apical Progenitors,SALL3,33958447
+Human,LGE (Lateral Ganglionic Eminence),Apical Progenitors,LINC01896,33958447
+Human,Striatum,D1-MSNs,ZNF467,33958447
+Human,Striatum,D2-MSNs,ZNF467,33958447
+Human,Striatum,D1-MSNs,POU3F1,33958447
+Human,Striatum,D2-MSNs,POU3F1,33958447
+Human,Striatum,D1-MSNs,IKZF1,33958447
+Human,Striatum,D2-MSNs,MAFB,33958447
+Human,Brain,Medium Spiny Neurons (MSNs),PDYN,33958447
+Human,Brain,Medium Spiny Neurons (MSNs),TSHZ1,33958447
+Human,Brain,D1 MSNs,ISL1,33958447
+Human,Brain,D2 MSNs,SIX3,33958447

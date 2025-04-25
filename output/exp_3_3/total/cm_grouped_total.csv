@@ -1,0 +1,23 @@
+pmid,species,tissue_type,cell_name,markers
+33545035,Human,Esophagus,Conventional dendritic cell(cDC),"['FCER1A', 'HLA-DQA1']"
+33545035,Human,Esophagus,Langerhans cell,"['CD207', 'CD1A']"
+33545035,Human,Esophagus,Macrophage,['CD163']
+33545035,Human,Esophagus,Mast cell,['KIT']
+33545035,Human,Esophagus,Monocyte,"['CD68', 'CD16', 'CD14']"
+33545035,Human,Esophagus,Plasmacytoid dendritic cell(pDC),['LILRA4']
+33730555,Human,Lacrimal gland,Acinar cell,"['PRR27', 'HTN1', 'LTF', 'SCGB2A1']"
+33730555,Human,Lacrimal gland,Ductal cell,"['LCN2', 'WFDC2']"
+33730555,Human,Lacrimal gland,Endothelial cell,"['PECAM1', 'CDH5']"
+33730555,Human,Lacrimal gland,Epithelial cell,"['FOXC1', 'AQP5', 'PAX6']"
+33730555,Human,Lacrimal gland,Lymphocyte,"['PTPRC', 'CD2']"
+33730555,Human,Lacrimal gland,Myoepithelial cell,"['MYH11', 'TPM2', 'KRT5', 'ACTA2', 'MYLK']"
+33958447,Human,Lateral ganglionic eminence,D1-MSN(medium spiny neuron),"['TAC1', 'ISL1', 'EBF1', 'hfb_G_000352']"
+33958447,Human,Lateral ganglionic eminence,D2-MSN(medium spiny neuron),"['GRIK3', 'SIX3', 'SP9', 'SIX3-AS1']"
+33958447,Human,Lateral ganglionic eminence,Early progenitor cell,['GSX2']
+33958447,Human,Lateral ganglionic eminence,GABAergic neuron,['GAD2']
+33958447,Human,Lateral ganglionic eminence,Intermediate progenitor cell,['ASCL1']
+33958447,Human,Lateral ganglionic eminence,LGE-lineage cell (lateral ganglionic eminence),['MEIS2']
+33958447,Human,Lateral ganglionic eminence,Mature MSN(medium spiny neuron),['CTIP2']
+33958447,Human,Lateral ganglionic eminence,Medium spiny neuron(MSN),['FOXP1']
+33958447,Human,Lateral ganglionic eminence,Neuron,['DCX']
+33958447,Human,Lateral ganglionic eminence,pre-MSN(medium spiny neuron),['OCT6']

@@ -1,0 +1,555 @@
+ori_tissue,ori_cell_type,prompt,corrected_tissue,corrected_cell,reason,status
+heart muscle,cardiomyocyte,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: heart muscle
+    - 原始细胞类型: cardiomyocyte
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 3: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+  候选细胞 4: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",heart,"cardiac muscle cell
+```","原始数据中提到的 ""heart muscle"" 和 ""cardiomyocyte"" 明确指向心脏相关的肌肉组织和心肌细胞。在候选匹配中，""heart"" 是最合适的组织类型，因为它准确描述了心脏这一解剖结构；而 ""cell_ontology_class='cardiac muscle cell'"" 是最符合原始细胞类型 ""cardiomyocyte"" 的标准化标注，因为心肌细胞是心脏肌肉的主要功能单位。",found
+heart muscle,cardiomyocyte,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: heart muscle
+    - 原始细胞类型: cardiomyocyte
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 3: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+  候选细胞 4: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",heart,"cardiac muscle cell
+```","原始数据中的 ""heart muscle"" 和 ""cardiomyocyte"" 分别对应心脏组织和心肌细胞。在候选匹配中，""heart"" 是最接近的标准化组织类型，而 ""cardiac muscle cell""（候选细胞 1）是心肌细胞的标准术语，与原始细胞类型一致。其他候选细胞类型（如 hepatocyte、macrophage 和 fibroblast）与原始数据不符。",found
+heart muscle,cardiomyocyte,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: heart muscle
+    - 原始细胞类型: cardiomyocyte
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 3: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+  候选细胞 4: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",heart,"cardiac muscle cell
+```","原始数据中的 ""heart muscle"" 实际上指的是心脏的肌肉组织，这在解剖学上更准确地对应于 ""heart""。原始细胞类型 ""cardiomyocyte"" 是心脏肌肉细胞的标准术语，与候选匹配中的 ""cardiac muscle cell"" 完全一致，因此是最合适的修正结果。",found
+heart muscle,cardiomyocyte,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: heart muscle
+    - 原始细胞类型: cardiomyocyte
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 3: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+  候选细胞 4: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",heart,"cardiac muscle cell
+```","原始数据中的 ""heart muscle"" 实际上指的是心脏组织，而更标准化的标注应为 ""heart""。原始细胞类型 ""cardiomyocyte"" 是指心肌细胞，这与候选匹配中的 ""cardiac muscle cell""（心肌细胞）完全一致，因此选择该细胞类型作为修正结果。",found
+heart muscle,neuron,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: heart muscle
+    - 原始细胞类型: neuron
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 3: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage'
+  候选细胞 4: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",heart,"cardiac muscle cell
+```","原始数据中的组织类型为 ""heart muscle""，这通常指的是心脏的肌肉组织，而候选匹配中 ""heart"" 是更合适的标准化标注。原始细胞类型标注为 ""neuron""，但神经元（neuron）并不是心脏的主要细胞类型，因此需要修正。根据候选细胞列表，""cardiac muscle cell"" 是心脏肌肉组织中最主要的功能性细胞类型，与原始数据的语义最为贴合。",found
+esophagus,regulatory t(treg) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: regulatory t(treg) cell
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='cardiac endothelial cell', free_annotation='endothelial cells'
+  候选细胞 3: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 4: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",esophagus,"regulatory T cell (Treg)
+```","原始数据中提供的组织类型为食管（esophagus），而候选匹配中的组织类型为心脏（heart），与原始数据不符。此外，原始细胞类型为调节性T细胞（regulatory T cell, Treg），这是一种免疫细胞，通常存在于多种组织中，包括食管，但不会特异性地归类于心脏相关的细胞类型。因此，候选匹配的组织和细胞均不适用。基于原始数据，最合适的修正是保留原始标注。",found
+esophagus,t helper 2(th2) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: t helper 2(th2) cell
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='cardiac endothelial cell', free_annotation='endothelial cells'
+  候选细胞 3: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 4: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",esophagus,"T helper 2 cell (cell_ontology_class='T helper 2 cell', free_annotation='Th2 cell')
+```",原始数据中组织类型为食管（esophagus），而候选匹配中的组织类型为心脏（heart），与原始数据不符。此外，原始细胞类型为Th2细胞（T helper 2 cell），这是一种免疫细胞，通常存在于淋巴组织或炎症部位，而不是心脏或其相关细胞类型。因此，候选匹配的组织和细胞类型均不适用于修正。基于原始数据，应保留原始组织类型，并寻找更合适的细胞类型描述。,found
+esophagus,regulatory t(treg) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: regulatory t(treg) cell
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='cardiac endothelial cell', free_annotation='endothelial cells'
+  候选细胞 3: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 4: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",esophagus,"regulatory T cell (Treg)
+```","原始数据中提供的组织类型为食管（esophagus），而候选匹配中的组织类型为心脏（heart），与原始数据不符。此外，原始细胞类型为调节性T细胞（regulatory T cell, Treg），这是一种免疫细胞，广泛分布于多种组织中，包括食管。然而，候选匹配中的细胞类型均与心脏相关，且没有一个直接对应调节性T细胞。因此，候选匹配无法提供合适的修正结果，应保留原始标注或进一步查找更相关的匹配。",found
+esophagus,regulatory t(treg) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: regulatory t(treg) cell
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='cardiac endothelial cell', free_annotation='endothelial cells'
+  候选细胞 3: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 4: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",esophagus,"regulatory T cell (Treg cell)
+```",原始数据中的组织类型为'esophagus'（食管），而候选匹配中提供的组织类型为'heart'（心脏），两者并不一致。此外，原始细胞类型为'regulatory T (Treg) cell'（调节性T细胞），这是一种免疫细胞，广泛分布于多种组织中，包括食管。然而，候选匹配中的细胞类型主要与心脏相关，无法准确反映原始数据的生物学背景。因此，基于原始数据和候选匹配的不一致性，应保留原始组织类型，并选择更符合原始细胞类型的标准化标注。,found
+esophagus,regulatory t(treg) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: regulatory t(treg) cell
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='cardiac endothelial cell', free_annotation='endothelial cells'
+  候选细胞 3: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 4: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",esophagus,"regulatory T cell (Treg)
+```","原始数据中提供的组织类型为食管（esophagus），而候选匹配中的组织类型为心脏（heart），与原始数据不符。此外，原始细胞类型为调节性T细胞（regulatory T cell, Treg），这是一种免疫细胞，广泛分布于多种组织中，包括食管。然而，候选匹配中的细胞类型均与心脏相关，且没有一种是调节性T细胞。因此，候选匹配无法用于修正原始数据，应保持原始标注不变。",found
+esophagus,effector th2-like cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: effector th2-like cell
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='cardiac endothelial cell', free_annotation='endothelial cells'
+  候选细胞 3: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 4: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",esophagus,"effector Th2-like cell
+```",原始数据中的组织类型为食管（esophagus），而候选匹配中提供的组织类型为心脏（heart），与原始数据不符。此外，原始细胞类型为效应Th2样细胞（effector Th2-like cell），这是一种免疫细胞，通常不会特异性地归类于心脏组织或其相关细胞类型。因此，候选匹配中的组织和细胞类型均不适用于修正。基于此，应保留原始标注并进一步确认其准确性。,found
+esophagus,effector th2 cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: effector th2 cell
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='cardiac endothelial cell', free_annotation='endothelial cells'
+  候选细胞 3: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 4: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",esophagus,"effector Th2 cell (cell_ontology_class='CD4-positive, alpha-beta T cell', free_annotation='effector Th2 cell')
+```",原始数据中的组织类型为食管（esophagus），而候选匹配中提供的组织类型为心脏（heart），与原始数据不符。此外，原始细胞类型为效应Th2细胞（effector Th2 cell），这是一种免疫细胞，通常不会特异性地归类于心脏组织或其相关细胞类型。因此，候选匹配中的组织和细胞类型均不适用于修正。基于此，应保留原始标注的组织类型，并对细胞类型进行更精确的标准化描述。,found
+esophagus,regulatory t(treg) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: regulatory t(treg) cell
+
+    候选匹配:
+候选组织 1: heart
+  候选细胞 1: cell_ontology_class='cardiac muscle cell', free_annotation='cardiac muscle cells'
+  候选细胞 2: cell_ontology_class='cardiac endothelial cell', free_annotation='endothelial cells'
+  候选细胞 3: cell_ontology_class='fibroblast of cardiac tissue', free_annotation='cardiac fibroblast'
+  候选细胞 4: cell_ontology_class='hepatocyte', free_annotation='hepatocyte'
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",esophagus,"regulatory T cell (Treg)
+```","原始数据中提供的组织类型为食管（esophagus），而候选匹配中的组织类型为心脏（heart），与原始数据不符。此外，原始细胞类型为调节性T细胞（regulatory T cell, Treg），这是一种免疫细胞，通常存在于多种组织中，包括食管，但不会特异性地归类于心脏相关细胞类型。因此，候选匹配中的组织和细胞类型均不适用。基于原始数据的准确性，应保留原始标注。",found
+esophagus,regulatory t(treg) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: regulatory t(treg) cell
+
+    候选匹配:
+候选组织 1: skin
+  候选细胞 1: cell_ontology_class='regulatory t cell', free_annotation='regulatory t cell'
+
+候选组织 2: spleen
+  候选细胞 1: cell_ontology_class='regulatory t cell', free_annotation='regulatory t cell'
+
+候选组织 3: lymph_node
+  候选细胞 1: cell_ontology_class='regulatory t cell', free_annotation='regulatory t cell'
+
+候选组织 4: fat
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t cells'
+  候选细胞 2: cell_ontology_class='t cell', free_annotation='t cell'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",spleen,"regulatory t cell
+```",原始数据中提供的组织类型为'esophagus'，但候选匹配中没有直接与'esophagus'相关的组织选项。因此，我们需要选择一个在生物学上最可能含有'regulatory t cell'（调节性T细胞）的组织。调节性T细胞通常存在于免疫相关组织中，例如脾脏（spleen）和淋巴结（lymph_node）。在这两个选项中，脾脏是更典型的免疫器官，且广泛参与全身免疫调节，因此更为合适。对于细胞类型，原始数据中的'regulatory t(treg) cell'与候选匹配中的'regulatory t cell'完全一致。,found
+esophagus,t helper 2(th2) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: t helper 2(th2) cell
+
+    候选匹配:
+候选组织 1: thymus
+  候选细胞 1: cell_ontology_class='macrophage', free_annotation='macrophages'
+  候选细胞 2: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+候选组织 2: fat
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t cells'
+  候选细胞 2: cell_ontology_class='t cell', free_annotation='t-cells'
+  候选细胞 3: cell_ontology_class='t cell', free_annotation='t_cells'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",esophagus,"t cell
+```",原始数据中提供的组织类型为食管（esophagus），而候选匹配中的胸腺（thymus）和脂肪组织（fat）均不符合原始描述。因此，修正组织应保留为 esophagus。对于细胞类型，原始数据标注为 t helper 2 (th2) cell，但候选匹配中没有直接提到 th2 细胞。然而，候选组织 2 中的候选细胞标注为广义的 t 细胞（t cell），这与 th2 细胞属于同一类免疫细胞，且更符合标准化的分类需求。因此，修正细胞类型为 t cell。,found
+esophagus,t helper 2(th2) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: t helper 2(th2) cell
+
+    候选匹配:
+候选组织 1: thymus
+  候选细胞 1: cell_ontology_class='macrophage', free_annotation='macrophages'
+  候选细胞 2: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+候选组织 2: fat
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t cells'
+  候选细胞 2: cell_ontology_class='t cell', free_annotation='t-cells'
+  候选细胞 3: cell_ontology_class='t cell', free_annotation='t_cells'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",fat,"t cell
+```","原始数据中组织类型为食管(esophagus)，细胞类型为Th2细胞(t helper 2 cell)。候选匹配中没有直接与食管相关的组织，但根据生物学知识，Th2细胞是一种T细胞亚型，通常在外周免疫器官或炎症部位发挥作用，而脂肪组织(fat)是可能的免疫相关部位之一。候选组织""thymus""主要与T细胞发育相关，但不特异于Th2细胞功能。因此，选择""fat""作为修正组织更为合理。对于细胞类型，候选匹配中的""T cell""涵盖了Th2细胞这一亚型，且标注一致。",found
+esophagus,regulatory t(treg) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: regulatory t(treg) cell
+
+    候选匹配:
+候选组织 1: thymus
+  候选细胞 1: cell_ontology_class='macrophage', free_annotation='macrophages'
+  候选细胞 2: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+候选组织 2: fat
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t cells'
+  候选细胞 2: cell_ontology_class='t cell', free_annotation='t-cells'
+  候选细胞 3: cell_ontology_class='t cell', free_annotation='t_cells'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",esophagus,"t cell
+```",原始数据中提供的组织类型为'esophagus'，而候选匹配中的'thymus'和'fat'均与食管无关，因此无法直接从候选组织中选择。原始细胞类型为'regulatory t(treg) cell'，但候选细胞中没有明确标注为调节性T细胞（Treg）的选项。然而，候选组织2中的'fat'组织包含多个与'T细胞'相关的候选细胞，尽管它们未具体标注为Treg细胞，但仍属于T细胞类别，与原始细胞类型最为接近。因此，基于现有信息，最合适的修正是保留原始组织类型，并选择与T细胞相关的细胞类型。,found
+esophagus,t helper 2(th2) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: t helper 2(th2) cell
+
+    候选匹配:
+候选组织 1: thymus
+  候选细胞 1: cell_ontology_class='macrophage', free_annotation='macrophages'
+  候选细胞 2: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+候选组织 2: fat
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t cells'
+  候选细胞 2: cell_ontology_class='t cell', free_annotation='t-cells'
+  候选细胞 3: cell_ontology_class='t cell', free_annotation='t_cells'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",esophagus,"t cell
+```",原始数据中组织类型为食管(esophagus)，而候选匹配中的胸腺(thymus)和脂肪组织(fat)均与食管不一致，因此组织类型应保持原始标注不变。对于细胞类型，原始标注为“t helper 2(th2) cell”，但候选匹配中没有明确的Th2细胞选项；最接近的是“t cell”相关的标注，这可以作为合理替代，因为Th2细胞属于T细胞的一个亚型。,found
+esophagus,regulatory t(treg) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: esophagus
+    - 原始细胞类型: regulatory t(treg) cell
+
+    候选匹配:
+候选组织 1: thymus
+  候选细胞 1: cell_ontology_class='macrophage', free_annotation='macrophages'
+  候选细胞 2: cell_ontology_class='macrophage', free_annotation='macrophage'
+
+候选组织 2: fat
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t cells'
+  候选细胞 2: cell_ontology_class='t cell', free_annotation='t-cells'
+  候选细胞 3: cell_ontology_class='t cell', free_annotation='t_cells'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",fat,"t cell
+```",原始数据中提供的组织类型为'esophagus'，但候选匹配中没有直接与食管相关的组织。原始细胞类型为'regulatory t(treg) cell'，而候选匹配中在脂肪组织(fat)中有多个与T细胞相关的注释，尽管它们未明确标注为调节性T细胞(Treg)，但'T cell'是其父类，因此更符合原始数据的语义。相比之下，胸腺(thymus)中的巨噬细胞(macrophage)与原始数据不符。因此，选择脂肪组织及其相关T细胞注释作为最佳匹配。,found
+gut,regulatory t(treg) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: gut
+    - 原始细胞类型: regulatory t(treg) cell
+
+    候选匹配:
+候选组织 1: lymph_node
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t lymphocytes'
+  候选细胞 2: cell_ontology_class='t cell', free_annotation='t cell'
+
+候选组织 2: blood
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t lymphocytes'
+
+候选组织 3: eye
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t lymphocytes'
+
+候选组织 4: skin
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t lymphocytes'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",gut,"regulatory T cell
+```","原始数据中提到的组织是""gut""，而候选匹配中的组织类型（如lymph_node、blood、eye、skin）均未直接与gut相关。然而，Treg细胞（调节性T细胞）是一种免疫细胞，广泛分布于多种组织中，包括肠道（gut）。因此，原始组织""gut""更符合生物学背景知识。在细胞类型方面，候选匹配中的""t cell""和""t lymphocytes""描述过于宽泛，未能准确反映原始数据中明确标注的""regulatory t(treg) cell""。综合考虑，修正结果应保留原始组织为""gut""，并精确标注细胞类型为""regulatory T cell""。",found
+gut,regulatory t(treg) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: gut
+    - 原始细胞类型: regulatory t(treg) cell
+
+    候选匹配:
+候选组织 1: skin
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t cells'
+  候选细胞 2: cell_ontology_class='t cell', free_annotation='t cell'
+  候选细胞 3: cell_ontology_class='t cell', free_annotation='t-cells'
+  候选细胞 4: cell_ontology_class='t cell', free_annotation='t_cells'
+
+候选组织 2: blood
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t cells'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",blood,"regulatory t cell
+```","原始数据中组织类型为""gut""，但候选匹配中没有直接与""gut""相关的组织选项。在候选组织中，""blood""相较于""skin""更符合免疫细胞（如Treg细胞）的常见分布环境，因为调节性T细胞（Treg）主要存在于淋巴组织和血液中，而非皮肤。此外，候选细胞类型中的""t cell""与原始数据中的""regulatory t(treg) cell""一致，尽管未明确标注""Treg""，但其属于""T cell""的一个亚型，因此可接受。",found
+gut,regulatory t(treg) cell,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和预检索得到的候选匹配，给出最合适的修正结果。
+
+    原始数据:
+    - 原始组织: gut
+    - 原始细胞类型: regulatory t(treg) cell
+
+    候选匹配:
+候选组织 1: skin
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t cells'
+  候选细胞 2: cell_ontology_class='t cell', free_annotation='t cell'
+  候选细胞 3: cell_ontology_class='t cell', free_annotation='t-cells'
+  候选细胞 4: cell_ontology_class='t cell', free_annotation='t_cells'
+
+候选组织 2: blood
+  候选细胞 1: cell_ontology_class='t cell', free_annotation='t cells'
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",blood,"cell_ontology_class='t cell', free_annotation='regulatory t cell (treg)'
+```","原始数据中组织类型为""gut""，而候选匹配中没有直接与""gut""相关的组织选项。在缺乏""gut""相关组织的情况下，选择一个更通用的组织类型是合理的。""blood""比""skin""更适合，因为Treg细胞（调节性T细胞）通常在外周血中有较高分布和功能意义。对于细胞类型，原始标注为""regulatory t(treg) cell""，而候选匹配中的""t cell""虽然宽泛，但可以通过补充注释明确为Treg细胞。",found

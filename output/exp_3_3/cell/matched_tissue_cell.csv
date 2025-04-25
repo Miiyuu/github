@@ -1,0 +1,135 @@
+ori_tissue,ori_cell_type,corrected_tissue,corrected_cell_type,corrected
+tumor,mast cells,,,False
+tumor,mast cells,,,False
+tumor,cdcs (conventional dendritic cells),,,False
+hepatocellular carcinoma,cdcs,,,False
+multiple tissues,resident tissue macrophages (rtms),,,False
+colon cancer,tams,,,False
+hepatocellular carcinoma,tams,,,False
+uterus,mast cell,,,False
+uterus,mast cell,,,False
+thyroid tumor,mast cell,,,False
+thyroid tumor,mast cell,,,False
+tumor tissue,macrophage,,,False
+multiple cancer types,cdcs,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+tumor or adjacent normal tissue,monocytes,,,False
+tumor or adjacent normal tissue,monocytes,,,False
+tumor or adjacent normal tissue,monocytes,,,False
+tumor or adjacent normal tissue,monocytes,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+tumor,monocytes,,,False
+multiple cancer types,macrophages,,,False
+multiple cancer types,macrophages,,,False
+multiple cancer types,lyve1+ macrophages,,,False
+non-cancer tissues,nlrp3+ macrophages,,,False
+tumor,spp1+ tams,,,False
+tumor,c1qc+ tams,,,False
+tumor,isg15+ tams,,,False
+tumor,fn1+ tams,,,False
+tumor,rtms,,,False
+tumor,tams,,,False
+tumor,tams,,,False
+tumor,macrophages,,,False
+kidney tumor,tams,,,False
+kidney tumor,tams,,,False
+skcm tumor,macrophages,,,False
+tumor,cdcs,,,False
+lung cancer,macrophage,,,False
+lung cancer,macrophage,,,False
+lung cancer,macrophage,,,False
+lung cancer,macrophage,,,False
+lacrimal gland,epithelial cell,,,False
+lacrimal gland,epithelial cell,,,False
+lacrimal gland,epithelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,endothelial cell,,,False
+lacrimal gland,endothelial cell,,,False
+lacrimal gland,lymphocyte,,,False
+lacrimal gland,lymphocyte,,,False
+lacrimal gland,basal cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland tissue,acinar cell,,,False
+lacrimal gland tissue,acinar cell,,,False
+lacrimal gland tissue,acinar cell,,,False
+lacrimal gland tissue,acinar cell,,,False
+lacrimal gland tissue,ductal cell,,,False
+lacrimal gland tissue,ductal cell,,,False
+lacrimal gland organoid,basal cell,,,False
+lacrimal gland organoid,basal cell,,,False
+lacrimal gland organoid,basal cell,,,False
+lacrimal gland organoid,basal cell,,,False
+lacrimal gland organoid,acinar cell,,,False
+lacrimal gland organoid,differentiated cell,,,False
+lacrimal gland organoid,differentiated cell,,,False
+lacrimal gland organoid,differentiated cell,,,False
+lacrimal gland organoid,differentiated cell,,,False
+lacrimal gland organoid,differentiated cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,ductal and acinar cells,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland,ductal progenitor,,,False
+lacrimal gland,acinar cell,,,False
+lge (lateral ganglionic eminence),d1-msns (d1 medium spiny neurons),,,False
+lge (lateral ganglionic eminence),d2-msns (d2 medium spiny neurons),,,False
+lge (lateral ganglionic eminence),mge interneurons,,,False
+lge (lateral ganglionic eminence),mge interneurons,,,False
+lge (lateral ganglionic eminence),mge interneurons,,,False
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons,,,False
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons,,,False
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons,,,False
+striatum,pre-msn,,,False
+striatum,pre-msn,,,False
+striatum,pre-msn,,,False
+striatum,pre-msn,,,False
+striatum,d1-msns (patch cells),,,False
+striatum,d1-msns (patch cells),,,False
+striatum,d2-msns (patch cells),,,False
+striatum,d2-msns (patch cells),,,False
+lge (lateral ganglionic eminence),apical progenitors,,,False
+lge (lateral ganglionic eminence),apical progenitors,,,False
+striatum,d1-msns,,,False
+striatum,d2-msns,,,False
+striatum,d1-msns,,,False
+striatum,d2-msns,,,False
+striatum,d1-msns,,,False
+striatum,d2-msns,,,False
+brain,medium spiny neurons (msns),,,False
+brain,medium spiny neurons (msns),,,False
+brain,d1 msns,,,False
+brain,d2 msns,,,False

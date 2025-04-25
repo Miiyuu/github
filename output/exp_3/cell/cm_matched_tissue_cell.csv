@@ -1,0 +1,23 @@
+ori_tissue,ori_cell_type,corrected_tissue,corrected_cell_type,corrected
+heart muscle,cardiomyocyte,,,False
+heart muscle,cardiomyocyte,,,False
+heart muscle,cardiomyocyte,,,False
+heart muscle,cardiomyocyte,,,False
+heart muscle,neuron,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,t helper 2(th2) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,effector th2-like cell,,,False
+esophagus,effector th2 cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,t helper 2(th2) cell,,,False
+esophagus,t helper 2(th2) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,t helper 2(th2) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+gut,regulatory t(treg) cell,,,False
+gut,regulatory t(treg) cell,,,False
+gut,regulatory t(treg) cell,,,False

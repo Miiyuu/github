@@ -1,0 +1,223 @@
+ori_tissue,ori_cell_type,prompt,corrected_tissue,corrected_cell,reason,status
+tumor,mast cells,,tumor,mast cells,候选匹配为空,unfound
+tumor,mast cells,,tumor,mast cells,候选匹配为空,unfound
+tumor,cdcs (conventional dendritic cells),,tumor,cdcs (conventional dendritic cells),候选匹配为空,unfound
+hepatocellular carcinoma,cdcs,,hepatocellular carcinoma,cdcs,候选匹配为空,unfound
+multiple tissues,resident tissue macrophages (rtms),,multiple tissues,resident tissue macrophages (rtms),候选匹配为空,unfound
+colon cancer,tams,,colon cancer,tams,候选匹配为空,unfound
+hepatocellular carcinoma,tams,,hepatocellular carcinoma,tams,候选匹配为空,unfound
+uterus,mast cell,,uterus,mast cell,候选匹配为空,unfound
+uterus,mast cell,,uterus,mast cell,候选匹配为空,unfound
+thyroid tumor,mast cell,,thyroid tumor,mast cell,候选匹配为空,unfound
+thyroid tumor,mast cell,,thyroid tumor,mast cell,候选匹配为空,unfound
+tumor tissue,macrophage,,tumor tissue,macrophage,候选匹配为空,unfound
+multiple cancer types,cdcs,,multiple cancer types,cdcs,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor or adjacent normal tissue,monocytes,,tumor or adjacent normal tissue,monocytes,候选匹配为空,unfound
+tumor or adjacent normal tissue,monocytes,,tumor or adjacent normal tissue,monocytes,候选匹配为空,unfound
+tumor or adjacent normal tissue,monocytes,,tumor or adjacent normal tissue,monocytes,候选匹配为空,unfound
+tumor or adjacent normal tissue,monocytes,,tumor or adjacent normal tissue,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+tumor,monocytes,,tumor,monocytes,候选匹配为空,unfound
+multiple cancer types,macrophages,,multiple cancer types,macrophages,候选匹配为空,unfound
+multiple cancer types,macrophages,,multiple cancer types,macrophages,候选匹配为空,unfound
+multiple cancer types,lyve1+ macrophages,,multiple cancer types,lyve1+ macrophages,候选匹配为空,unfound
+non-cancer tissues,nlrp3+ macrophages,,non-cancer tissues,nlrp3+ macrophages,候选匹配为空,unfound
+tumor,spp1+ tams,,tumor,spp1+ tams,候选匹配为空,unfound
+tumor,c1qc+ tams,,tumor,c1qc+ tams,候选匹配为空,unfound
+tumor,isg15+ tams,,tumor,isg15+ tams,候选匹配为空,unfound
+tumor,fn1+ tams,,tumor,fn1+ tams,候选匹配为空,unfound
+tumor,rtms,,tumor,rtms,候选匹配为空,unfound
+tumor,tams,,tumor,tams,候选匹配为空,unfound
+tumor,tams,,tumor,tams,候选匹配为空,unfound
+tumor,macrophages,,tumor,macrophages,候选匹配为空,unfound
+kidney tumor,tams,,kidney tumor,tams,候选匹配为空,unfound
+kidney tumor,tams,,kidney tumor,tams,候选匹配为空,unfound
+skcm tumor,macrophages,,skcm tumor,macrophages,候选匹配为空,unfound
+tumor,cdcs,,tumor,cdcs,候选匹配为空,unfound
+lung cancer,macrophage,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和从标准文件中检索得到的候选匹配，给出最合适的修正结果。修正时，优先选择与原始数据最匹配的组织-细胞类型组合。如果原始细胞类型与候选匹配中的细胞类型是包含关系，或细胞之间有发育关系等，也认为其匹配。注意，如果细胞类型匹配的是free_annotation，需要用其对应的cell_ontology_class作为细胞修正的结果。如果你认为没有合适的匹配，则保持原始数据不变。
+
+    原始数据:
+    - 原始组织: lung cancer
+    - 原始细胞类型: macrophage
+
+    候选匹配:
+候选组织 1: lung
+  候选细胞 1: cell_ontology_class='macrophage', free_annotation='macrophage' (相似度: 0.84)
+  候选细胞 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (相似度: 0.69)
+  候选细胞 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (相似度: 0.57)
+  候选细胞 4: cell_ontology_class='macrophage', free_annotation='macrophages' (相似度: 0.48)
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (相似度: 0.36)
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",lung cancer,macrophage,LLM调用失败，保持原始数据,unfound
+lung cancer,macrophage,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和从标准文件中检索得到的候选匹配，给出最合适的修正结果。修正时，优先选择与原始数据最匹配的组织-细胞类型组合。如果原始细胞类型与候选匹配中的细胞类型是包含关系，或细胞之间有发育关系等，也认为其匹配。注意，如果细胞类型匹配的是free_annotation，需要用其对应的cell_ontology_class作为细胞修正的结果。如果你认为没有合适的匹配，则保持原始数据不变。
+
+    原始数据:
+    - 原始组织: lung cancer
+    - 原始细胞类型: macrophage
+
+    候选匹配:
+候选组织 1: lung
+  候选细胞 1: cell_ontology_class='macrophage', free_annotation='macrophage' (相似度: 0.84)
+  候选细胞 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (相似度: 0.69)
+  候选细胞 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (相似度: 0.57)
+  候选细胞 4: cell_ontology_class='macrophage', free_annotation='macrophages' (相似度: 0.48)
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (相似度: 0.36)
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",lung cancer,macrophage,LLM调用失败，保持原始数据,unfound
+lung cancer,macrophage,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和从标准文件中检索得到的候选匹配，给出最合适的修正结果。修正时，优先选择与原始数据最匹配的组织-细胞类型组合。如果原始细胞类型与候选匹配中的细胞类型是包含关系，或细胞之间有发育关系等，也认为其匹配。注意，如果细胞类型匹配的是free_annotation，需要用其对应的cell_ontology_class作为细胞修正的结果。如果你认为没有合适的匹配，则保持原始数据不变。
+
+    原始数据:
+    - 原始组织: lung cancer
+    - 原始细胞类型: macrophage
+
+    候选匹配:
+候选组织 1: lung
+  候选细胞 1: cell_ontology_class='macrophage', free_annotation='macrophage' (相似度: 0.84)
+  候选细胞 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (相似度: 0.69)
+  候选细胞 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (相似度: 0.57)
+  候选细胞 4: cell_ontology_class='macrophage', free_annotation='macrophages' (相似度: 0.48)
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (相似度: 0.36)
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",lung cancer,macrophage,LLM调用失败，保持原始数据,unfound
+lung cancer,macrophage,"
+    你是一个生物医学专家，正在帮助标准化细胞和组织类型的标注。请根据以下原始数据和从标准文件中检索得到的候选匹配，给出最合适的修正结果。修正时，优先选择与原始数据最匹配的组织-细胞类型组合。如果原始细胞类型与候选匹配中的细胞类型是包含关系，或细胞之间有发育关系等，也认为其匹配。注意，如果细胞类型匹配的是free_annotation，需要用其对应的cell_ontology_class作为细胞修正的结果。如果你认为没有合适的匹配，则保持原始数据不变。
+
+    原始数据:
+    - 原始组织: lung cancer
+    - 原始细胞类型: macrophage
+
+    候选匹配:
+候选组织 1: lung
+  候选细胞 1: cell_ontology_class='macrophage', free_annotation='macrophage' (相似度: 0.84)
+  候选细胞 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (相似度: 0.69)
+  候选细胞 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (相似度: 0.57)
+  候选细胞 4: cell_ontology_class='macrophage', free_annotation='macrophages' (相似度: 0.48)
+  候选细胞 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (相似度: 0.36)
+
+
+    请严格按照如下格式输出：
+    ```
+    理由: <你的判断理由>
+    修正组织: <修正后的组织类型>
+    修正细胞: <修正后的细胞类型>
+    ```
+    ",lung cancer,macrophage,LLM调用失败，保持原始数据,unfound
+lacrimal gland,epithelial cell,,lacrimal gland,epithelial cell,候选匹配为空,unfound
+lacrimal gland,epithelial cell,,lacrimal gland,epithelial cell,候选匹配为空,unfound
+lacrimal gland,epithelial cell,,lacrimal gland,epithelial cell,候选匹配为空,unfound
+lacrimal gland,myoepithelial cell,,lacrimal gland,myoepithelial cell,候选匹配为空,unfound
+lacrimal gland,myoepithelial cell,,lacrimal gland,myoepithelial cell,候选匹配为空,unfound
+lacrimal gland,myoepithelial cell,,lacrimal gland,myoepithelial cell,候选匹配为空,unfound
+lacrimal gland,myoepithelial cell,,lacrimal gland,myoepithelial cell,候选匹配为空,unfound
+lacrimal gland,endothelial cell,,lacrimal gland,endothelial cell,候选匹配为空,unfound
+lacrimal gland,endothelial cell,,lacrimal gland,endothelial cell,候选匹配为空,unfound
+lacrimal gland,lymphocyte,,lacrimal gland,lymphocyte,候选匹配为空,unfound
+lacrimal gland,lymphocyte,,lacrimal gland,lymphocyte,候选匹配为空,unfound
+lacrimal gland,basal cell,,lacrimal gland,basal cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,ductal cell,,lacrimal gland,ductal cell,候选匹配为空,unfound
+lacrimal gland,ductal cell,,lacrimal gland,ductal cell,候选匹配为空,unfound
+lacrimal gland,ductal cell,,lacrimal gland,ductal cell,候选匹配为空,unfound
+lacrimal gland tissue,acinar cell,,lacrimal gland tissue,acinar cell,候选匹配为空,unfound
+lacrimal gland tissue,acinar cell,,lacrimal gland tissue,acinar cell,候选匹配为空,unfound
+lacrimal gland tissue,acinar cell,,lacrimal gland tissue,acinar cell,候选匹配为空,unfound
+lacrimal gland tissue,acinar cell,,lacrimal gland tissue,acinar cell,候选匹配为空,unfound
+lacrimal gland tissue,ductal cell,,lacrimal gland tissue,ductal cell,候选匹配为空,unfound
+lacrimal gland tissue,ductal cell,,lacrimal gland tissue,ductal cell,候选匹配为空,unfound
+lacrimal gland organoid,basal cell,,lacrimal gland organoid,basal cell,候选匹配为空,unfound
+lacrimal gland organoid,basal cell,,lacrimal gland organoid,basal cell,候选匹配为空,unfound
+lacrimal gland organoid,basal cell,,lacrimal gland organoid,basal cell,候选匹配为空,unfound
+lacrimal gland organoid,basal cell,,lacrimal gland organoid,basal cell,候选匹配为空,unfound
+lacrimal gland organoid,acinar cell,,lacrimal gland organoid,acinar cell,候选匹配为空,unfound
+lacrimal gland organoid,differentiated cell,,lacrimal gland organoid,differentiated cell,候选匹配为空,unfound
+lacrimal gland organoid,differentiated cell,,lacrimal gland organoid,differentiated cell,候选匹配为空,unfound
+lacrimal gland organoid,differentiated cell,,lacrimal gland organoid,differentiated cell,候选匹配为空,unfound
+lacrimal gland organoid,differentiated cell,,lacrimal gland organoid,differentiated cell,候选匹配为空,unfound
+lacrimal gland organoid,differentiated cell,,lacrimal gland organoid,differentiated cell,候选匹配为空,unfound
+lacrimal gland,ductal cell,,lacrimal gland,ductal cell,候选匹配为空,unfound
+lacrimal gland,ductal cell,,lacrimal gland,ductal cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,ductal and acinar cells,,lacrimal gland,ductal and acinar cells,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lacrimal gland,ductal cell,,lacrimal gland,ductal cell,候选匹配为空,unfound
+lacrimal gland,ductal cell,,lacrimal gland,ductal cell,候选匹配为空,unfound
+lacrimal gland,ductal cell,,lacrimal gland,ductal cell,候选匹配为空,unfound
+lacrimal gland,ductal progenitor,,lacrimal gland,ductal progenitor,候选匹配为空,unfound
+lacrimal gland,acinar cell,,lacrimal gland,acinar cell,候选匹配为空,unfound
+lge (lateral ganglionic eminence),d1-msns (d1 medium spiny neurons),,lge (lateral ganglionic eminence),d1-msns (d1 medium spiny neurons),候选匹配为空,unfound
+lge (lateral ganglionic eminence),d2-msns (d2 medium spiny neurons),,lge (lateral ganglionic eminence),d2-msns (d2 medium spiny neurons),候选匹配为空,unfound
+lge (lateral ganglionic eminence),mge interneurons,,lge (lateral ganglionic eminence),mge interneurons,候选匹配为空,unfound
+lge (lateral ganglionic eminence),mge interneurons,,lge (lateral ganglionic eminence),mge interneurons,候选匹配为空,unfound
+lge (lateral ganglionic eminence),mge interneurons,,lge (lateral ganglionic eminence),mge interneurons,候选匹配为空,unfound
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons,,lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons,候选匹配为空,unfound
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons,,lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons,候选匹配为空,unfound
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons,,lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons,候选匹配为空,unfound
+striatum,pre-msn,,striatum,pre-msn,候选匹配为空,unfound
+striatum,pre-msn,,striatum,pre-msn,候选匹配为空,unfound
+striatum,pre-msn,,striatum,pre-msn,候选匹配为空,unfound
+striatum,pre-msn,,striatum,pre-msn,候选匹配为空,unfound
+striatum,d1-msns (patch cells),,striatum,d1-msns (patch cells),候选匹配为空,unfound
+striatum,d1-msns (patch cells),,striatum,d1-msns (patch cells),候选匹配为空,unfound
+striatum,d2-msns (patch cells),,striatum,d2-msns (patch cells),候选匹配为空,unfound
+striatum,d2-msns (patch cells),,striatum,d2-msns (patch cells),候选匹配为空,unfound
+lge (lateral ganglionic eminence),apical progenitors,,lge (lateral ganglionic eminence),apical progenitors,候选匹配为空,unfound
+lge (lateral ganglionic eminence),apical progenitors,,lge (lateral ganglionic eminence),apical progenitors,候选匹配为空,unfound
+striatum,d1-msns,,striatum,d1-msns,候选匹配为空,unfound
+striatum,d2-msns,,striatum,d2-msns,候选匹配为空,unfound
+striatum,d1-msns,,striatum,d1-msns,候选匹配为空,unfound
+striatum,d2-msns,,striatum,d2-msns,候选匹配为空,unfound
+striatum,d1-msns,,striatum,d1-msns,候选匹配为空,unfound
+striatum,d2-msns,,striatum,d2-msns,候选匹配为空,unfound
+brain,medium spiny neurons (msns),,brain,medium spiny neurons (msns),候选匹配为空,unfound
+brain,medium spiny neurons (msns),,brain,medium spiny neurons (msns),候选匹配为空,unfound
+brain,d1 msns,,brain,d1 msns,候选匹配为空,unfound
+brain,d2 msns,,brain,d2 msns,候选匹配为空,unfound

@@ -1,0 +1,333 @@
+cell_ontology_class,free_annotation,number of cells
+acinar cell of salivary gland,Mucinous acini,1961
+acinar cell of salivary gland,Serous acini,8186
+adipocyte,adipocytes,44
+adventitial cell,Adventitial Fibroblast,119
+adventitial cell,Adventitial fibroblast,323
+adventitial cell,adventitial cell,373
+alveolar fibroblast,alveolar fibroblast,324
+artery endothelial cell,artery endothelial cell,138
+b cell,B cell,15873
+b cell,B cells,2064
+b cell,B lymphocytes,10
+b cell,B_Cells,23
+b cell,b cell,1837
+basal cell,Basal,880
+basal cell,Basal cell,42
+basal cell,basal cell,6386
+basal cell,basal cells,476
+basal cell,basal_cells_confirmed,6281
+basal cell of prostate epithelium,Basal Epithelial Cell,3298
+basophil,basophil,715
+bladder urothelial cell,bladder urothelial cell,4151
+bronchial smooth muscle cell,bronchial smooth muscle cell,81
+bronchial vessel endothelial cell,Bronchial vessel endothelial cell,47
+capillary aerocyte,capillary aerocyte,569
+capillary endothelial cell,capillary endothelial cell,4036
+capillary endothelial cell,capillary_endothelial_confirmed,101
+capillary endothelial cell,vascular capillary endothelial cell,383
+cardiac endothelial cell,Endothelial Cells,2665
+cardiac muscle cell,Cardiac Muscle Cells,7205
+cd141-positive myeloid dendritic cell,CD141-positive myeloid dendritic cell,48
+cd142-positive myeloid dendritic cell,Cd141 positive myeloid dendritic cell,15
+cd143-positive myeloid dendritic cell,cd141-positive myeloid dendritic cell,104
+cd144-positive myeloid dendritic cell,classic dendritic cells type 1,17
+cd1c-positive myeloid dendritic cell,CD1c-positive myeloid dendritic cell,68
+cd2c-positive myeloid dendritic cell,cd1c-positive myeloid dendritic cell,73
+cd3c-positive myeloid dendritic cell,classic dendritic cells type 2,165
+cd24 neutrophil,CD24 Neutrophil,2340
+cd4-positive alpha-beta t cell,CD4-positive alpha-beta thymocyte,6908
+cd5-positive alpha-beta t cell,cd4-positive alpha-beta t cell,132
+cd4-positive helper t cell,CD4 Helper T cell,1221
+cd5-positive helper t cell,CD4 helper T cell-like,3356
+cd6-positive helper t cell,CD4-positive helper T cells,59
+cd7-positive helper t cell,cd4-positive helper t cell,4436
+"cd4-positive, alpha-beta memory t cell",CD4-positive memory T cell,339
+"cd5-positive, alpha-beta memory t cell","cd4-positive, alpha-beta memory t cell",4154
+"cd4-positive, alpha-beta t cell",CD4 T cell,93
+"cd5-positive, alpha-beta t cell",CD4 T cell-low RNA,89
+"cd6-positive, alpha-beta t cell",CD4 t cell,4888
+"cd7-positive, alpha-beta t cell",Cd4-positive alpha-beta T cell,5257
+"cd8-positive, alpha-beta t cell",cd4 T cell,65
+"cd9-positive, alpha-beta t cell",cd4-positive alpha-beta T cell,2872
+"cd10-positive, alpha-beta t cell",cd4-positive t cells,23
+"cd11-positive, alpha-beta t cell","cd4-positive, alpha-beta t cell",764
+cd8-positive alpha-beta t cell,CD8-positive alpha-beta thymocyte,5860
+cd9-positive alpha-beta t cell,cd8-positive alpha-beta t cell,80
+"cd8-positive, alpha-beta cytokine secreting effector t cell","cd8-positive, alpha-beta cytokine secreting effector t cell",1493
+"cd8-positive, alpha-beta cytotoxic t cell",CD8-positive cytotoxic T cells,129
+"cd9-positive, alpha-beta cytotoxic t cell","innate-like CD8 alpha beta T, thymic resident",501
+"cd8-positive, alpha-beta memory t cell",CD8-positive memory T cell,857
+"cd9-positive, alpha-beta memory t cell","cd8-positive, alpha-beta memory t cell",5165
+"cd8-positive, alpha-beta t cell",CD8 T cell,1979
+"cd9-positive, alpha-beta t cell",CD8 t cell,2093
+"cd10-positive, alpha-beta t cell",CD8+ T-Cell,1081
+"cd11-positive, alpha-beta t cell",Cd8-positive alpha-beta T cell,2231
+"cd12-positive, alpha-beta t cell",cd8 T cell,464
+"cd13-positive, alpha-beta t cell",cd8-positive alpha-beta T cell,2105
+"cd14-positive, alpha-beta t cell",cd8-positive t cells,8
+"cd15-positive, alpha-beta t cell","cd8-positive, alpha-beta t cell",2231
+cd8b-positive nk t cell,CD8B+ Natural Killer T-Cell,255
+cell of skeletal muscle,skeletal muscle cells,10
+ciliary body,ciliary body cells,17
+ciliated cell,ciliated cell,317
+ciliated epithelial cell,Ciliated epithelium,31
+classical monocyte,classical monocyte,13387
+club cell,club cell,1038
+club cell of prostate epithelium,PIGR High Club Epithelial Cell,512
+club cell of prostate epithelium,SCGB3A1 High Club Epithelial Cell,276
+conjunctival epithelial cell,conjunctiva - epithelial cells,4587
+connective tissue cell,connective tissue cell,249
+corneal epithelial cell,cornea - epithelial cells,1488
+corneal keratocyte,cornea - mesenchymal cells - stromal keratinocytes,595
+dendritic cell,dendritic cell,351
+dendritic cell,dendritic cells,182
+dn1 thymic pro-t cell,double negative alpha beta T cell (DN2),985
+dn3 thymocyte,double negative alpha beta T cell (DN1),1788
+dn4 thymocyte,double negative alpha beta T cell effector memory (DN3),32
+"double-positive, alpha-beta thymocyte",cd4 cd8 T cell,6
+duct epithelial cell,Ductal,990
+duct epithelial cell,Ductal cell,703
+duodenum glandular cell,duodenum glandular cell,44
+endothelial cell,Endothelial,200
+endothelial cell,Endothelial Cell,585
+endothelial cell,Endothelial cells,123
+endothelial cell,Endothelial/Kuppfer,267
+endothelial cell,Endothelial_cells,3748
+endothelial cell,Endothelium,2077
+endothelial cell,endothelial cell,4627
+endothelial cell,endothelial cells,1414
+endothelial cell,enodthelial cell,143
+endothelial cell of artery,Artery cells (Endothelial Cells),168
+endothelial cell of artery,endothelial cell of artery,501
+endothelial cell of artery,endothelial_cell_of_artery_confirmed,40
+endothelial cell of artery,vascular arterial endothelial cell,355
+endothelial cell of hepatic sinusoid,Endothelial,421
+endothelial cell of lymphatic vessel,Lymphatic Cells,32
+endothelial cell of lymphatic vessel,Lymphatic endothelial cell,63
+endothelial cell of lymphatic vessel,Lymphatic endothelium,343
+endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel,270
+endothelial cell of lymphatic vessel,endothelial_cell_of_lymphatic_vessel_confirmed,44
+endothelial cell of lymphatic vessel,lymphatic endothelial cell,256
+endothelial cell of vascular tree,endothelial cell of vascular tree,3602
+enterocyte of epithelium of large intestine,immature enterocyte,2178
+enterocyte of epithelium of large intestine,mature enterocyte,586
+enterocyte of epithelium of small intestine,immature enterocyte,836
+enterocyte of epithelium of small intestine,mature enterocyte,264
+epithelial cell,Cycling epithelial cells,68
+epithelial cell,LTF+ Epithelial Cell,350
+epithelial cell,Other Epithelial Cell,6287
+epithelial cell,epithelial cell,26
+epithelial cell,epithelial cells,106
+epithelial cell,epithelium_of_tongue_lowquality_TSP7_Anterior,2114
+epithelial cell of lacrimal sac,lacrimal cells - unspecified,52
+epithelial cell of uterus,Unciliated epithelium,194
+erythrocyte,Erythrocyte,108
+erythrocyte,Erythrocytes,39
+erythrocyte,erythrocyte,10857
+erythroid lineage cell,erythroid cells,30
+erythroid progenitor,Erythroid Progenitor Cell,34
+erythroid progenitor,erythroid progenitor,757
+erythroid progenitor,not-existing,52
+eye photoreceptor cell,retina - photoreceptor cells,891
+fast muscle cell,fast muscle cell,352
+fibroblast,Endometrial stromal fibbroblast,1870
+fibroblast,Fibroblast,2392
+fibroblast,Fibroblasts,8459
+fibroblast,Stellate/Fibroblast,76
+fibroblast,Uterine fibroblast,1144
+fibroblast,fibroblast,17963
+fibroblast,fibroblasts,95
+fibroblast of breast,Fibroblasts (Lipofibroblasts),2066
+fibroblast of cardiac tissue,Cardiac Fibroblast,250
+goblet cell,goblet cell,311
+granulocyte,granulocyte,855
+gut endothelial cell,gut endothelial cell,99
+hematopoietic stem cell,Hematopoietic stem cell,73
+hematopoietic stem cell,hematopoietic stem cell,721
+hepatocyte,Hepatocyte,2647
+hillock cell of prostate epithelium,Hillock Epithelial Cell,211
+hillock-club cell of prostate epithelium,Hillock/Club Epithelial Cell,290
+immature enterocyte,immature enterocyte,1288
+immature natural killer cell,immature natural killer cell,44
+immune cell,Cycling immune cells,17
+immune cell,Immune_notvalidated,2109
+innate lymphoid cell,Innate lymphoid cells,2594
+innate lymphoid cell,innate lymphoid cell,2537
+intermediate monocyte,intermediate monocyte,689
+intestinal crypt stem cell,intestinal crypt stem cell,245
+intestinal crypt stem cell of large intestine,intestinal crypt stem cell,114
+intestinal crypt stem cell of small intestine,intestinal crypt stem cell,71
+intestinal enteroendocrine cell,intestinal enteroendocrine cell,113
+intestinal tuft cell,intestinal tuft cell,193
+intrahepatic cholangiocyte,BECS,42
+ionocyte,Ionocytes,87
+ionocyte,ionocyte,13
+keratinocyte,tongue_keratinized_epithelium,3667
+kidney epithelial cell,kidney epithelial cell,8331
+lacrimal gland functional unit cell,lacrimal gland functional unit cells,250
+langerhans cell,Langerhans cells,36
+large intestine goblet cell,goblet cell,385
+leucocyte,Leucocytes,160
+limbal stem cell,limbal stem cells,144
+limbal stromal cell,limbal stromal cells,75
+liver dendritic cell,Dendritic cell,34
+luminal cell of prostate epithelium,CPE High Luminal Epithelial Cell,944
+luminal cell of prostate epithelium,CPE Low Luminal Epithelial Cell,88
+luminal cell of prostate epithelium,Luminal Epithelial Cell,60
+luminal epithelial cell of mammary gland,Luminal Progenitor Cells,2893
+luminal epithelial cell of mammary gland,Mature luminal cells,2485
+lung ciliated cell,lung ciliated cell,602
+lung microvascular endothelial cell,lung microvascular endothelial cell,485
+lymphatic endothelial cell,lymphatic endothelial cell,44
+macrophage,Macrophage,1020
+macrophage,Macrophages,3747
+macrophage,Monocyte/Macrophage,1246
+macrophage,Sorted Myeloid,69
+macrophage,Tissue resident macrophage,1124
+macrophage,macrophage,27890
+macrophage,macrophages,108
+mast cell,Mast Cell,9
+mast cell,Mast cell,18
+mast cell,Mast_Cells,4
+mast cell,mast cell,1557
+mast cell,mast cells,650
+mature conventional dendritic cell,conventional dendritic cell,17
+mature enterocyte,mature enterocyte,1118
+mature nk t cell,mature nk t cell,705
+medullary thymic epithelial cell,medullary thymic epithelial cell,166
+melanocyte,melanocytes,64
+melanocyte,melanocytes or limbal stem cells,144
+memory b cell,Memory B cell,2888
+memory b cell,memory b cell,12788
+mesenchymal stem cell,Mesenchymal Stem Cells,1311
+mesenchymal stem cell,mesenchymal stem cell,14148
+mesothelial cell,mesothelial cell,41
+microglial cell,retina - microglia,209
+monocyte,Monocyte,1071
+monocyte,Monocytes,88
+monocyte,monocyte,11311
+monocyte,monocytes,44
+mucus secreting cell,mucus secreting cell,64
+muller cell,retina - muller glia,360
+muscle cell,muscle cells,437
+myeloid cell,Monocyte/Macrophage,365
+myeloid cell,myeloid cell,1862
+myeloid dendritic cell,Myeloid Dendritic cells,3
+myeloid progenitor,myeloid progenitor,290
+myoepithelial cell,Myoepithelial,196
+myofibroblast cell,Myofibroblasts,982
+myofibroblast cell,myofibroblast cell,2088
+myometrial cell,Myometrial smooth muscle,199
+naive b cell,Naive B cell,1127
+naive b cell,naive b cell,5634
+naive regulatory t cell,na?ve regulatory T cell,761
+"naive thymus-derived cd4-positive, alpha-beta t cell",Naive CD4-positive helper T cells,71
+"naive thymus-derived cd5-positive, alpha-beta t cell","naive thymus-derived cd4-positive, alpha-beta t cell",3172
+"naive thymus-derived cd8-positive, alpha-beta t cell",Naive CD8-positive T cell,88
+"naive thymus-derived cd9-positive, alpha-beta t cell","naive thymus-derived cd8-positive, alpha-beta t cell",610
+nampt neutrophil,NAMPT neutrophil,464
+neutrophil,Neutrophil,654
+neutrophil,neutrophil,14236
+nk cell,NK cell,1801
+nk cell,NK cells,19
+nk cell,Natural Killer Cell,257
+nk cell,Natural killer cells,80
+nk cell,Natural_Killar_cells,572
+nk cell,Proliferating NK cell,102
+nk cell,Uterine NK cells,53
+nk cell,nk cell,5972
+nkt cell,NKT cell,348
+nkt cell,Natural Killer T-Cell,175
+non-classical monocyte,non-classical monocyte,1044
+ocular surface cell,inflamed ocular surface cells,54
+pancreatic acinar cell,pancreatic acinar cell,4364
+pancreatic acinar cell,pancreatic acing cell,1170
+pancreatic alpha cell,pancreatic alpha cell,71
+pancreatic beta cell,pancreatic beta cell,99
+pancreatic delta cell,pancreatic delta cell,9
+pancreatic ductal cell,pancreatic ductal cell,2431
+pancreatic pp cell,pancreatic pp cell,71
+pancreatic stellate cell,pancreatic stellate cell,39
+pancreatic stellate cell,pancreatic stellate cell activated,172
+pancreatic stellate cell,pancreatic stellate cell quiescent,182
+paneth cell of epithelium of large intestine,paneth cell of epithelium of large intestine,57
+paneth cell of epithelium of large intestine,paneth-like cell,831
+paneth cell of epithelium of small intestine,paneth cell,177
+paneth cell of epithelium of small intestine,paneth cell of epithelium of small intestine,470
+pericyte cell,Pericyte,142
+pericyte cell,Pericytes,106
+pericyte cell,Perivascular,99
+pericyte cell,pericyte cell,4075
+pericyte cell,pericyte_cell_confirmed,117
+plasma cell,Plasma,34
+plasma cell,Plasma cell,60
+plasma cell,Plasma cells,1968
+plasma cell,Plasma_cells,26
+plasma cell,plasma cell,9411
+plasma cell,plasma cells,46
+plasmablast,plasmablast,14
+plasmacytoid dendritic cell,plasmacytoid dendritic cell,96
+platelet,platelet,268
+pulmonary ionocyte,pulmonary ionocyte,19
+radial glial cell,radial glia progenitor cells,195
+regulatory t cell,Regulatory T cell,126
+regulatory t cell,regulatory T cell,881
+regulatory t cell,regulatory t cell,296
+respiratory goblet cell,respiratory goblet cell,754
+respiratory mucous cell,respiratory mucous cell,8
+retina horizontal cell,retina - horizontal cells,6
+retinal bipolar neuron,retina - bipolar cells,34
+retinal blood vessel endothelial cell,vascular endothelial cells,466
+retinal ganglion cell,retina - ganglion cells,5
+retinal pigment epithelial cell,retina - retinal pigment epithelium,49
+salivary gland cell,Cycling cells,45
+schwann cell,Schwann_cell,10
+secretory cell,secretory cell,253
+serous cell of epithelium of bronchus,serous cell of epithelium of bronchus,15
+serous cell of epithelium of trachea,serous cell of epithelium of trachea,41
+skeletal muscle satellite stem cell,skeletal muscle satellite stem cell,4831
+slow muscle cell,slow muscle cell,163
+small intestine goblet cell,goblet cell,300
+smooth muscle cell,Smooth Muscle Cell,285
+smooth muscle cell,Smooth Muscle Cells,222
+smooth muscle cell,Smooth_muscle_cells,16
+smooth muscle cell,smooth muscle cell,3544
+smooth muscle cell,smooth muscle cells,13
+sperm,Sperm Cell,11
+stromal cell,Stromal,32
+stromal cell,stromal cell,111
+stromal cell,stromal cells,2943
+t cell,AREG High T-Cell,39
+t cell,AREG Low T-Cell,547
+t cell,T cell,4749
+t cell,T cell-low RNA,77
+t cell,T cells,70
+t cell,T lymphocytes,546
+t cell,T-cells,2324
+t cell,T_Cells,1715
+t cell,alpha beta T cell,31
+t cell,alpha-beta T cell,519
+t cell,t cell,3828
+t cell,t cells,237
+t follicular helper cell,T follicular helper cell-like,398
+tendon cell,tendon cell,234
+thymocyte,thymocyte,553
+tongue muscle cell,tongue_muscle_cell,60
+tracheal goblet cell,tracheal goblet cell,77
+transit amplifying cell of large intestine,intestinal transient amplifying cell,52
+transit amplifying cell of large intestine,transit amplifying cell of large intestine,156
+transit amplifying cell of small intestine,intestinal transient amplifying cell,127
+transit amplifying cell of small intestine,transit amplifying cell of small intestine,100
+type i nk t cell,NK T cell,3758
+type i nk t cell,nkt cell,1038
+type i nk t cell,type I NK T cell,518
+type i pneumocyte,type i pneumocyte,211
+type ii pneumocyte,type ii pneumocyte,9146
+vascular associated smooth muscle cell,Vascular smooth muscle,1829
+vascular associated smooth muscle cell,Vasuclar Smooth Muscle Cell,71
+vascular associated smooth muscle cell,vascular associated smooth muscle cell,771
+vein endothelial cell,Vein Cell (Endothelial Cell),263
+vein endothelial cell,vascular venous endothelial cell,1442
+vein endothelial cell,vein endothelial cell,1448
+vein endothelial cell,vein_endothelial_cell,226

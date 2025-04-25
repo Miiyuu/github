@@ -1,0 +1,1914 @@
+[
+  {
+    "query": "LAMB2",
+    "_id": "3913",
+    "_score": 17.838308,
+    "entrezgene": "3913",
+    "name": "laminin subunit beta 2",
+    "symbol": "LAMB2",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMC1",
+    "_id": "3915",
+    "_score": 17.640165,
+    "entrezgene": "3915",
+    "name": "laminin subunit gamma 1",
+    "symbol": "LAMC1",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMB1",
+    "_id": "3912",
+    "_score": 18.232685,
+    "entrezgene": "3912",
+    "name": "laminin subunit beta 1",
+    "symbol": "LAMB1",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMA2",
+    "_id": "3908",
+    "_score": 17.648697,
+    "entrezgene": "3908",
+    "name": "laminin subunit alpha 2",
+    "symbol": "LAMA2",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMA5",
+    "_id": "3911",
+    "_score": 17.67461,
+    "entrezgene": "3911",
+    "name": "laminin subunit alpha 5",
+    "symbol": "LAMA5",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMA4",
+    "_id": "3910",
+    "_score": 17.627617,
+    "entrezgene": "3910",
+    "name": "laminin subunit alpha 4",
+    "symbol": "LAMA4",
+    "taxid": 9606
+  },
+  {
+    "query": "TNNT2",
+    "_id": "7139",
+    "_score": 18.119179,
+    "entrezgene": "7139",
+    "name": "troponin T2, cardiac type",
+    "symbol": "TNNT2",
+    "taxid": 9606
+  },
+  {
+    "query": "ACTC1",
+    "_id": "70",
+    "_score": 18.248219,
+    "entrezgene": "70",
+    "name": "actin alpha cardiac muscle 1",
+    "symbol": "ACTC1",
+    "taxid": 9606
+  },
+  {
+    "query": "MYH7",
+    "_id": "4625",
+    "_score": 20.246555,
+    "entrezgene": "4625",
+    "name": "myosin heavy chain 7",
+    "symbol": "MYH7",
+    "taxid": 9606
+  },
+  {
+    "query": "SIRPA",
+    "_id": "140885",
+    "_score": 19.929342,
+    "entrezgene": "140885",
+    "name": "signal regulatory protein alpha",
+    "symbol": "SIRPA",
+    "taxid": 9606
+  },
+  {
+    "query": "TNNI3",
+    "_id": "7137",
+    "_score": 18.76746,
+    "entrezgene": "7137",
+    "name": "troponin I3, cardiac type",
+    "symbol": "TNNI3",
+    "taxid": 9606
+  },
+  {
+    "query": "TNNT2",
+    "_id": "7139",
+    "_score": 18.119257,
+    "entrezgene": "7139",
+    "name": "troponin T2, cardiac type",
+    "symbol": "TNNT2",
+    "taxid": 9606
+  },
+  {
+    "query": "a-actinin",
+    "notfound": true
+  },
+  {
+    "query": "NKX2-5",
+    "_id": "1482",
+    "_score": 18.312078,
+    "entrezgene": "1482",
+    "name": "NK2 homeobox 5",
+    "symbol": "NKX2-5",
+    "taxid": 9606
+  },
+  {
+    "query": "MYH1",
+    "_id": "4619",
+    "_score": 20.465744,
+    "entrezgene": "4619",
+    "name": "myosin heavy chain 1",
+    "symbol": "MYH1",
+    "taxid": 9606
+  },
+  {
+    "query": "T (brachyury)",
+    "notfound": true
+  },
+  {
+    "query": "MESP1",
+    "_id": "55897",
+    "_score": 19.441412,
+    "entrezgene": "55897",
+    "name": "mesoderm posterior bHLH transcription factor 1",
+    "symbol": "MESP1",
+    "taxid": 9606
+  },
+  {
+    "query": "ISL1",
+    "_id": "3670",
+    "_score": 18.226503,
+    "entrezgene": "3670",
+    "name": "ISL LIM homeobox 1",
+    "symbol": "ISL1",
+    "taxid": 9606
+  },
+  {
+    "query": "TBX5",
+    "_id": "6910",
+    "_score": 18.21108,
+    "entrezgene": "6910",
+    "name": "T-box transcription factor 5",
+    "symbol": "TBX5",
+    "taxid": 9606
+  },
+  {
+    "query": "MEF2C",
+    "_id": "4208",
+    "_score": 18.171925,
+    "entrezgene": "4208",
+    "name": "myocyte enhancer factor 2C",
+    "symbol": "MEF2C",
+    "taxid": 9606
+  },
+  {
+    "query": "NKX2-5",
+    "_id": "1482",
+    "_score": 18.312086,
+    "entrezgene": "1482",
+    "name": "NK2 homeobox 5",
+    "symbol": "NKX2-5",
+    "taxid": 9606
+  },
+  {
+    "query": "C-KIT",
+    "notfound": true
+  },
+  {
+    "query": "GATA3",
+    "_id": "2625",
+    "_score": 17.676771,
+    "entrezgene": "2625",
+    "name": "GATA binding protein 3",
+    "symbol": "GATA3",
+    "taxid": 9606
+  },
+  {
+    "query": "TTN",
+    "_id": "7273",
+    "_score": 18.299126,
+    "entrezgene": "7273",
+    "name": "titin",
+    "symbol": "TTN",
+    "taxid": 9606
+  },
+  {
+    "query": "LUM",
+    "_id": "4060",
+    "_score": 17.659302,
+    "entrezgene": "4060",
+    "name": "lumican",
+    "symbol": "LUM",
+    "taxid": 9606
+  },
+  {
+    "query": "EPCAM",
+    "_id": "4072",
+    "_score": 17.652945,
+    "entrezgene": "4072",
+    "name": "epithelial cell adhesion molecule",
+    "symbol": "EPCAM",
+    "taxid": 9606
+  },
+  {
+    "query": "ISL1",
+    "_id": "3670",
+    "_score": 18.226482,
+    "entrezgene": "3670",
+    "name": "ISL LIM homeobox 1",
+    "symbol": "ISL1",
+    "taxid": 9606
+  },
+  {
+    "query": "NKX2-5",
+    "_id": "1482",
+    "_score": 18.312094,
+    "entrezgene": "1482",
+    "name": "NK2 homeobox 5",
+    "symbol": "NKX2-5",
+    "taxid": 9606
+  },
+  {
+    "query": "FUT4",
+    "_id": "2526",
+    "_score": 18.202202,
+    "entrezgene": "2526",
+    "name": "fucosyltransferase 4",
+    "symbol": "FUT4",
+    "taxid": 9606
+  },
+  {
+    "query": "MESP1",
+    "_id": "55897",
+    "_score": 19.441233,
+    "entrezgene": "55897",
+    "name": "mesoderm posterior bHLH transcription factor 1",
+    "symbol": "MESP1",
+    "taxid": 9606
+  },
+  {
+    "query": "KDR",
+    "_id": "3791",
+    "_score": 17.608788,
+    "entrezgene": "3791",
+    "name": "kinase insert domain receptor",
+    "symbol": "KDR",
+    "taxid": 9606
+  },
+  {
+    "query": "SSEA-1",
+    "notfound": true
+  },
+  {
+    "query": "POU5F1",
+    "_id": "5460",
+    "_score": 19.09196,
+    "entrezgene": "5460",
+    "name": "POU class 5 homeobox 1",
+    "symbol": "POU5F1",
+    "taxid": 9606
+  },
+  {
+    "query": "Tra1-60",
+    "notfound": true
+  },
+  {
+    "query": "TNNT2",
+    "_id": "7139",
+    "_score": 18.116562,
+    "entrezgene": "7139",
+    "name": "troponin T2, cardiac type",
+    "symbol": "TNNT2",
+    "taxid": 9606
+  },
+  {
+    "query": "MYH1",
+    "_id": "4619",
+    "_score": 20.465767,
+    "entrezgene": "4619",
+    "name": "myosin heavy chain 1",
+    "symbol": "MYH1",
+    "taxid": 9606
+  },
+  {
+    "query": "TNNI3",
+    "_id": "7137",
+    "_score": 18.771582,
+    "entrezgene": "7137",
+    "name": "troponin I3, cardiac type",
+    "symbol": "TNNI3",
+    "taxid": 9606
+  },
+  {
+    "query": "NKX2-5",
+    "_id": "1482",
+    "_score": 18.312078,
+    "entrezgene": "1482",
+    "name": "NK2 homeobox 5",
+    "symbol": "NKX2-5",
+    "taxid": 9606
+  },
+  {
+    "query": "a-actinin",
+    "notfound": true
+  },
+  {
+    "query": "FOXP3",
+    "_id": "50943",
+    "_score": 18.838852,
+    "entrezgene": "50943",
+    "name": "forkhead box P3",
+    "symbol": "FOXP3",
+    "taxid": 9606
+  },
+  {
+    "query": "GATA3",
+    "_id": "2625",
+    "_score": 17.676771,
+    "entrezgene": "2625",
+    "name": "GATA binding protein 3",
+    "symbol": "GATA3",
+    "taxid": 9606
+  },
+  {
+    "query": "HPGDS",
+    "_id": "27306",
+    "_score": 18.361794,
+    "entrezgene": "27306",
+    "name": "hematopoietic prostaglandin D synthase",
+    "symbol": "HPGDS",
+    "taxid": 9606
+  },
+  {
+    "query": "CRTH2",
+    "notfound": true
+  },
+  {
+    "query": "IL-17RB",
+    "notfound": true
+  },
+  {
+    "query": "FFAR3",
+    "_id": "2865",
+    "_score": 19.7795,
+    "entrezgene": "2865",
+    "name": "free fatty acid receptor 3",
+    "symbol": "FFAR3",
+    "taxid": 9606
+  },
+  {
+    "query": "IL-5",
+    "notfound": true
+  },
+  {
+    "query": "IL-17RB",
+    "notfound": true
+  },
+  {
+    "query": "CD25/IL-2R\u03b1",
+    "notfound": true
+  },
+  {
+    "query": "CD25/IL-2R\u03b1",
+    "notfound": true
+  },
+  {
+    "query": "ITGAE (CD103)",
+    "notfound": true
+  },
+  {
+    "query": "CXCR4",
+    "_id": "7852",
+    "_score": 18.16598,
+    "entrezgene": "7852",
+    "name": "C-X-C motif chemokine receptor 4",
+    "symbol": "CXCR4",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR5",
+    "_id": "1234",
+    "_score": 20.36449,
+    "entrezgene": "1234",
+    "name": "C-C motif chemokine receptor 5",
+    "symbol": "CCR5",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR8",
+    "_id": "1237",
+    "_score": 19.054876,
+    "entrezgene": "1237",
+    "name": "C-C motif chemokine receptor 8",
+    "symbol": "CCR8",
+    "taxid": 9606
+  },
+  {
+    "query": "IL-25 receptor",
+    "notfound": true
+  },
+  {
+    "query": "HPGDS",
+    "_id": "27306",
+    "_score": 18.361794,
+    "entrezgene": "27306",
+    "name": "hematopoietic prostaglandin D synthase",
+    "symbol": "HPGDS",
+    "taxid": 9606
+  },
+  {
+    "query": "CD4",
+    "_id": "920",
+    "_score": 18.661577,
+    "entrezgene": "920",
+    "name": "CD4 molecule",
+    "symbol": "CD4",
+    "taxid": 9606
+  },
+  {
+    "query": "MAF",
+    "_id": "4094",
+    "_score": 18.09066,
+    "entrezgene": "4094",
+    "name": "MAF bZIP transcription factor",
+    "symbol": "MAF",
+    "taxid": 9606
+  },
+  {
+    "query": "FOXP3",
+    "_id": "50943",
+    "_score": 18.838789,
+    "entrezgene": "50943",
+    "name": "forkhead box P3",
+    "symbol": "FOXP3",
+    "taxid": 9606
+  },
+  {
+    "query": "CTLA4",
+    "_id": "1493",
+    "_score": 18.260735,
+    "entrezgene": "1493",
+    "name": "cytotoxic T-lymphocyte associated protein 4",
+    "symbol": "CTLA4",
+    "taxid": 9606
+  },
+  {
+    "query": "IL-10",
+    "notfound": true
+  },
+  {
+    "query": "KLRB1 (CD161)",
+    "notfound": true
+  },
+  {
+    "query": "ICOS",
+    "_id": "29851",
+    "_score": 18.843428,
+    "entrezgene": "29851",
+    "name": "inducible T cell costimulator",
+    "symbol": "ICOS",
+    "taxid": 9606
+  },
+  {
+    "query": "CD25 (IL2RA)",
+    "notfound": true
+  },
+  {
+    "query": "CCR6",
+    "_id": "1235",
+    "_score": 18.32518,
+    "entrezgene": "1235",
+    "name": "C-C motif chemokine receptor 6",
+    "symbol": "CCR6",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR4",
+    "_id": "1233",
+    "_score": 18.263939,
+    "entrezgene": "1233",
+    "name": "C-C motif chemokine receptor 4",
+    "symbol": "CCR4",
+    "taxid": 9606
+  },
+  {
+    "query": "CD4",
+    "_id": "920",
+    "_score": 18.661577,
+    "entrezgene": "920",
+    "name": "CD4 molecule",
+    "symbol": "CD4",
+    "taxid": 9606
+  },
+  {
+    "query": "GATA3",
+    "_id": "2625",
+    "_score": 17.678741,
+    "entrezgene": "2625",
+    "name": "GATA binding protein 3",
+    "symbol": "GATA3",
+    "taxid": 9606
+  },
+  {
+    "query": "Th2 signature markers",
+    "notfound": true
+  },
+  {
+    "query": "KLRB1 (CD161)",
+    "notfound": true
+  },
+  {
+    "query": "CXCR4",
+    "_id": "7852",
+    "_score": 18.165995,
+    "entrezgene": "7852",
+    "name": "C-X-C motif chemokine receptor 4",
+    "symbol": "CXCR4",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR4",
+    "_id": "1233",
+    "_score": 18.263954,
+    "entrezgene": "1233",
+    "name": "C-C motif chemokine receptor 4",
+    "symbol": "CCR4",
+    "taxid": 9606
+  },
+  {
+    "query": "CD294/CRTH2/PTGDR2",
+    "notfound": true
+  },
+  {
+    "query": "ITGA4",
+    "_id": "3676",
+    "_score": 17.62969,
+    "entrezgene": "3676",
+    "name": "integrin subunit alpha 4",
+    "symbol": "ITGA4",
+    "taxid": 9606
+  },
+  {
+    "query": "CD4",
+    "_id": "920",
+    "_score": 18.661623,
+    "entrezgene": "920",
+    "name": "CD4 molecule",
+    "symbol": "CD4",
+    "taxid": 9606
+  },
+  {
+    "query": "FOXP3",
+    "_id": "50943",
+    "_score": 18.838837,
+    "entrezgene": "50943",
+    "name": "forkhead box P3",
+    "symbol": "FOXP3",
+    "taxid": 9606
+  },
+  {
+    "query": "IL-10",
+    "notfound": true
+  },
+  {
+    "query": "CTLA4",
+    "_id": "1493",
+    "_score": 18.260813,
+    "entrezgene": "1493",
+    "name": "cytotoxic T-lymphocyte associated protein 4",
+    "symbol": "CTLA4",
+    "taxid": 9606
+  },
+  {
+    "query": "IL-2A (CD25)",
+    "notfound": true
+  },
+  {
+    "query": "IL-1R1",
+    "notfound": true
+  },
+  {
+    "query": "IL-1R2",
+    "notfound": true
+  },
+  {
+    "query": "GATA3",
+    "_id": "2625",
+    "_score": 17.676771,
+    "entrezgene": "2625",
+    "name": "GATA binding protein 3",
+    "symbol": "GATA3",
+    "taxid": 9606
+  },
+  {
+    "query": "IL-4",
+    "notfound": true
+  },
+  {
+    "query": "IL-5",
+    "notfound": true
+  },
+  {
+    "query": "IL-13",
+    "notfound": true
+  },
+  {
+    "query": "HPGDS",
+    "_id": "27306",
+    "_score": 18.361715,
+    "entrezgene": "27306",
+    "name": "hematopoietic prostaglandin D synthase",
+    "symbol": "HPGDS",
+    "taxid": 9606
+  },
+  {
+    "query": "IL-17RB",
+    "notfound": true
+  },
+  {
+    "query": "CD40LG",
+    "_id": "959",
+    "_score": 17.689548,
+    "entrezgene": "959",
+    "name": "CD40 ligand",
+    "symbol": "CD40LG",
+    "taxid": 9606
+  },
+  {
+    "query": "NFAT1",
+    "notfound": true
+  },
+  {
+    "query": "NF\u03baB1",
+    "notfound": true
+  },
+  {
+    "query": "AHR",
+    "_id": "196",
+    "_score": 18.214216,
+    "entrezgene": "196",
+    "name": "aryl hydrocarbon receptor",
+    "symbol": "AHR",
+    "taxid": 9606
+  },
+  {
+    "query": "NR3C1",
+    "_id": "2908",
+    "_score": 16.721912,
+    "entrezgene": "2908",
+    "name": "nuclear receptor subfamily 3 group C member 1",
+    "symbol": "NR3C1",
+    "taxid": 9606
+  },
+  {
+    "query": "PPARG",
+    "_id": "5468",
+    "_score": 17.60473,
+    "entrezgene": "5468",
+    "name": "peroxisome proliferator activated receptor gamma",
+    "symbol": "PPARG",
+    "taxid": 9606
+  },
+  {
+    "query": "PTGDR2 (CRTH2)",
+    "notfound": true
+  },
+  {
+    "query": "IL1RL1 (ST2L)",
+    "notfound": true
+  },
+  {
+    "query": "GATA3",
+    "_id": "2625",
+    "_score": 17.678755,
+    "entrezgene": "2625",
+    "name": "GATA binding protein 3",
+    "symbol": "GATA3",
+    "taxid": 9606
+  },
+  {
+    "query": "FOXP3",
+    "_id": "50943",
+    "_score": 18.83887,
+    "entrezgene": "50943",
+    "name": "forkhead box P3",
+    "symbol": "FOXP3",
+    "taxid": 9606
+  },
+  {
+    "query": "PPARG",
+    "_id": "5468",
+    "_score": 17.604912,
+    "entrezgene": "5468",
+    "name": "peroxisome proliferator activated receptor gamma",
+    "symbol": "PPARG",
+    "taxid": 9606
+  },
+  {
+    "query": "AHR",
+    "_id": "196",
+    "_score": 18.214191,
+    "entrezgene": "196",
+    "name": "aryl hydrocarbon receptor",
+    "symbol": "AHR",
+    "taxid": 9606
+  },
+  {
+    "query": "NR3C1",
+    "_id": "2908",
+    "_score": 16.722092,
+    "entrezgene": "2908",
+    "name": "nuclear receptor subfamily 3 group C member 1",
+    "symbol": "NR3C1",
+    "taxid": 9606
+  },
+  {
+    "query": "NFKBIZ",
+    "_id": "64332",
+    "_score": 17.683275,
+    "entrezgene": "64332",
+    "name": "NFKB inhibitor zeta",
+    "symbol": "NFKBIZ",
+    "taxid": 9606
+  },
+  {
+    "query": "NFATC3",
+    "_id": "4775",
+    "_score": 18.264149,
+    "entrezgene": "4775",
+    "name": "nuclear factor of activated T cells 3",
+    "symbol": "NFATC3",
+    "taxid": 9606
+  },
+  {
+    "query": "NFAT5",
+    "_id": "10725",
+    "_score": 18.223604,
+    "entrezgene": "10725",
+    "name": "nuclear factor of activated T cells 5",
+    "symbol": "NFAT5",
+    "taxid": 9606
+  },
+  {
+    "query": "JUN",
+    "_id": "3725",
+    "_score": 17.570192,
+    "entrezgene": "3725",
+    "name": "Jun proto-oncogene, AP-1 transcription factor subunit",
+    "symbol": "JUN",
+    "taxid": 9606
+  },
+  {
+    "query": "IL-4",
+    "notfound": true
+  },
+  {
+    "query": "IL-5",
+    "notfound": true
+  },
+  {
+    "query": "IL-13",
+    "notfound": true
+  },
+  {
+    "query": "IFNG",
+    "_id": "3458",
+    "_score": 18.318619,
+    "entrezgene": "3458",
+    "name": "interferon gamma",
+    "symbol": "IFNG",
+    "taxid": 9606
+  },
+  {
+    "query": "IFNG",
+    "_id": "3458",
+    "_score": 18.318611,
+    "entrezgene": "3458",
+    "name": "interferon gamma",
+    "symbol": "IFNG",
+    "taxid": 9606
+  },
+  {
+    "query": "IL4",
+    "_id": "3565",
+    "_score": 18.861902,
+    "entrezgene": "3565",
+    "name": "interleukin 4",
+    "symbol": "IL4",
+    "taxid": 9606
+  },
+  {
+    "query": "IL5",
+    "_id": "3567",
+    "_score": 19.2153,
+    "entrezgene": "3567",
+    "name": "interleukin 5",
+    "symbol": "IL5",
+    "taxid": 9606
+  },
+  {
+    "query": "IL13",
+    "_id": "3596",
+    "_score": 18.977617,
+    "entrezgene": "3596",
+    "name": "interleukin 13",
+    "symbol": "IL13",
+    "taxid": 9606
+  },
+  {
+    "query": "IFNG",
+    "_id": "3458",
+    "_score": 18.318565,
+    "entrezgene": "3458",
+    "name": "interferon gamma",
+    "symbol": "IFNG",
+    "taxid": 9606
+  },
+  {
+    "query": "IL4",
+    "_id": "3565",
+    "_score": 18.861856,
+    "entrezgene": "3565",
+    "name": "interleukin 4",
+    "symbol": "IL4",
+    "taxid": 9606
+  },
+  {
+    "query": "IL5",
+    "_id": "3567",
+    "_score": 19.215363,
+    "entrezgene": "3567",
+    "name": "interleukin 5",
+    "symbol": "IL5",
+    "taxid": 9606
+  },
+  {
+    "query": "IL13",
+    "_id": "3596",
+    "_score": 18.97767,
+    "entrezgene": "3596",
+    "name": "interleukin 13",
+    "symbol": "IL13",
+    "taxid": 9606
+  },
+  {
+    "query": "IL-2",
+    "notfound": true
+  },
+  {
+    "query": "TNF-\u03b1",
+    "notfound": true
+  },
+  {
+    "query": "IFN-\u03b3",
+    "notfound": true
+  },
+  {
+    "query": "IFN-\u03b3",
+    "notfound": true
+  },
+  {
+    "query": "TNF-\u03b1",
+    "notfound": true
+  },
+  {
+    "query": "IL10",
+    "_id": "3586",
+    "_score": 17.592358,
+    "entrezgene": "3586",
+    "name": "interleukin 10",
+    "symbol": "IL10",
+    "taxid": 9606
+  },
+  {
+    "query": "FOXP3",
+    "_id": "50943",
+    "_score": 18.838789,
+    "entrezgene": "50943",
+    "name": "forkhead box P3",
+    "symbol": "FOXP3",
+    "taxid": 9606
+  },
+  {
+    "query": "IL10",
+    "_id": "3586",
+    "_score": 17.592363,
+    "entrezgene": "3586",
+    "name": "interleukin 10",
+    "symbol": "IL10",
+    "taxid": 9606
+  },
+  {
+    "query": "TGFB1",
+    "_id": "7040",
+    "_score": 18.73695,
+    "entrezgene": "7040",
+    "name": "transforming growth factor beta 1",
+    "symbol": "TGFB1",
+    "taxid": 9606
+  },
+  {
+    "query": "IL10",
+    "_id": "3586",
+    "_score": 17.59239,
+    "entrezgene": "3586",
+    "name": "interleukin 10",
+    "symbol": "IL10",
+    "taxid": 9606
+  },
+  {
+    "query": "IL10",
+    "_id": "3586",
+    "_score": 17.59239,
+    "entrezgene": "3586",
+    "name": "interleukin 10",
+    "symbol": "IL10",
+    "taxid": 9606
+  },
+  {
+    "query": "IL2RA/CD25",
+    "notfound": true
+  },
+  {
+    "query": "IL2RA/CD25",
+    "notfound": true
+  },
+  {
+    "query": "TGFB1",
+    "_id": "7040",
+    "_score": 18.737154,
+    "entrezgene": "7040",
+    "name": "transforming growth factor beta 1",
+    "symbol": "TGFB1",
+    "taxid": 9606
+  },
+  {
+    "query": "TGFB1",
+    "_id": "7040",
+    "_score": 18.737154,
+    "entrezgene": "7040",
+    "name": "transforming growth factor beta 1",
+    "symbol": "TGFB1",
+    "taxid": 9606
+  },
+  {
+    "query": "IL17A",
+    "_id": "3605",
+    "_score": 18.793726,
+    "entrezgene": "3605",
+    "name": "interleukin 17A",
+    "symbol": "IL17A",
+    "taxid": 9606
+  },
+  {
+    "query": "IL17A",
+    "_id": "3605",
+    "_score": 18.793741,
+    "entrezgene": "3605",
+    "name": "interleukin 17A",
+    "symbol": "IL17A",
+    "taxid": 9606
+  },
+  {
+    "query": "IL5",
+    "_id": "3567",
+    "_score": 19.2153,
+    "entrezgene": "3567",
+    "name": "interleukin 5",
+    "symbol": "IL5",
+    "taxid": 9606
+  },
+  {
+    "query": "FFAR3",
+    "_id": "2865",
+    "_score": 19.779509,
+    "entrezgene": "2865",
+    "name": "free fatty acid receptor 3",
+    "symbol": "FFAR3",
+    "taxid": 9606
+  },
+  {
+    "query": "FFAR3",
+    "_id": "2865",
+    "_score": 19.779509,
+    "entrezgene": "2865",
+    "name": "free fatty acid receptor 3",
+    "symbol": "FFAR3",
+    "taxid": 9606
+  },
+  {
+    "query": "IL-4",
+    "notfound": true
+  },
+  {
+    "query": "CD4+ FOXP3+ IL-10+ CTLA4+ IL-2A(CD25)+ IL-1R1/R2+",
+    "notfound": true
+  },
+  {
+    "query": "CD4+ GATA3+ IL-4+ IL-5+ IL-13+ HPGDS+ CRTH2+ IL-17RB+ CD40LG (CD154)+ NFAT1+ NF\u03ba-B1+ AHR+ NR3C1+ PPARG+",
+    "notfound": true
+  },
+  {
+    "query": "MKI67",
+    "_id": "4288",
+    "_score": 17.793295,
+    "entrezgene": "4288",
+    "name": "marker of proliferation Ki-67",
+    "symbol": "MKI67",
+    "taxid": 9606
+  },
+  {
+    "query": "IL10",
+    "_id": "3586",
+    "_score": 17.592363,
+    "entrezgene": "3586",
+    "name": "interleukin 10",
+    "symbol": "IL10",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.606773,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "CTLA4",
+    "_id": "1493",
+    "_score": 18.260798,
+    "entrezgene": "1493",
+    "name": "cytotoxic T-lymphocyte associated protein 4",
+    "symbol": "CTLA4",
+    "taxid": 9606
+  },
+  {
+    "query": "LAYN",
+    "_id": "143903",
+    "_score": 18.177906,
+    "entrezgene": "143903",
+    "name": "layilin",
+    "symbol": "LAYN",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QC",
+    "_id": "714",
+    "_score": 18.242184,
+    "entrezgene": "714",
+    "name": "complement C1q C chain",
+    "symbol": "C1QC",
+    "taxid": 9606
+  },
+  {
+    "query": "NLRP3",
+    "_id": "114548",
+    "_score": 19.049623,
+    "entrezgene": "114548",
+    "name": "NLR family pyrin domain containing 3",
+    "symbol": "NLRP3",
+    "taxid": 9606
+  },
+  {
+    "query": "IL23R",
+    "_id": "149233",
+    "_score": 17.800356,
+    "entrezgene": "149233",
+    "name": "interleukin 23 receptor",
+    "symbol": "IL23R",
+    "taxid": 9606
+  },
+  {
+    "query": "RORC",
+    "_id": "6097",
+    "_score": 17.950315,
+    "entrezgene": "6097",
+    "name": "RAR related orphan receptor C",
+    "symbol": "RORC",
+    "taxid": 9606
+  },
+  {
+    "query": "ITGAE",
+    "_id": "3682",
+    "_score": 18.605505,
+    "entrezgene": "3682",
+    "name": "integrin subunit alpha E",
+    "symbol": "ITGAE",
+    "taxid": 9606
+  },
+  {
+    "query": "CXCL13",
+    "_id": "10563",
+    "_score": 18.87586,
+    "entrezgene": "10563",
+    "name": "C-X-C motif chemokine ligand 13",
+    "symbol": "CXCL13",
+    "taxid": 9606
+  },
+  {
+    "query": "PDCD1",
+    "_id": "5133",
+    "_score": 18.451876,
+    "entrezgene": "5133",
+    "name": "programmed cell death 1",
+    "symbol": "PDCD1",
+    "taxid": 9606
+  },
+  {
+    "query": "IL10",
+    "_id": "3586",
+    "_score": 17.59231,
+    "entrezgene": "3586",
+    "name": "interleukin 10",
+    "symbol": "IL10",
+    "taxid": 9606
+  },
+  {
+    "query": "IL23R",
+    "_id": "149233",
+    "_score": 17.800362,
+    "entrezgene": "149233",
+    "name": "interleukin 23 receptor",
+    "symbol": "IL23R",
+    "taxid": 9606
+  },
+  {
+    "query": "IL1R1",
+    "_id": "3554",
+    "_score": 18.93325,
+    "entrezgene": "3554",
+    "name": "interleukin 1 receptor type 1",
+    "symbol": "IL1R1",
+    "taxid": 9606
+  },
+  {
+    "query": "LAYN",
+    "_id": "143903",
+    "_score": 18.177889,
+    "entrezgene": "143903",
+    "name": "layilin",
+    "symbol": "LAYN",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR8",
+    "_id": "1237",
+    "_score": 19.054667,
+    "entrezgene": "1237",
+    "name": "C-C motif chemokine receptor 8",
+    "symbol": "CCR8",
+    "taxid": 9606
+  },
+  {
+    "query": "TIGIT",
+    "_id": "201633",
+    "_score": 19.002909,
+    "entrezgene": "201633",
+    "name": "T cell immunoreceptor with Ig and ITIM domains",
+    "symbol": "TIGIT",
+    "taxid": 9606
+  },
+  {
+    "query": "CTLA4",
+    "_id": "1493",
+    "_score": 18.260782,
+    "entrezgene": "1493",
+    "name": "cytotoxic T-lymphocyte associated protein 4",
+    "symbol": "CTLA4",
+    "taxid": 9606
+  },
+  {
+    "query": "FOXP3",
+    "_id": "50943",
+    "_score": 18.838837,
+    "entrezgene": "50943",
+    "name": "forkhead box P3",
+    "symbol": "FOXP3",
+    "taxid": 9606
+  },
+  {
+    "query": "IL10",
+    "_id": "3586",
+    "_score": 17.592358,
+    "entrezgene": "3586",
+    "name": "interleukin 10",
+    "symbol": "IL10",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.606783,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "CTLA4",
+    "_id": "1493",
+    "_score": 18.260782,
+    "entrezgene": "1493",
+    "name": "cytotoxic T-lymphocyte associated protein 4",
+    "symbol": "CTLA4",
+    "taxid": 9606
+  },
+  {
+    "query": "FOXP3",
+    "_id": "50943",
+    "_score": 18.839046,
+    "entrezgene": "50943",
+    "name": "forkhead box P3",
+    "symbol": "FOXP3",
+    "taxid": 9606
+  },
+  {
+    "query": "IL10",
+    "_id": "3586",
+    "_score": 17.592373,
+    "entrezgene": "3586",
+    "name": "interleukin 10",
+    "symbol": "IL10",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.606977,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.606773,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.318565,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "MARCO",
+    "_id": "8685",
+    "_score": 17.814486,
+    "entrezgene": "8685",
+    "name": "macrophage receptor with collagenous structure",
+    "symbol": "MARCO",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QC",
+    "_id": "714",
+    "_score": 18.245047,
+    "entrezgene": "714",
+    "name": "complement C1q C chain",
+    "symbol": "C1QC",
+    "taxid": 9606
+  },
+  {
+    "query": "CXCL9",
+    "_id": "4283",
+    "_score": 19.203667,
+    "entrezgene": "4283",
+    "name": "C-X-C motif chemokine ligand 9",
+    "symbol": "CXCL9",
+    "taxid": 9606
+  },
+  {
+    "query": "CXCL10",
+    "_id": "3627",
+    "_score": 19.2628,
+    "entrezgene": "3627",
+    "name": "C-X-C motif chemokine ligand 10",
+    "symbol": "CXCL10",
+    "taxid": 9606
+  },
+  {
+    "query": "MKI67",
+    "_id": "4288",
+    "_score": 17.793552,
+    "entrezgene": "4288",
+    "name": "marker of proliferation Ki-67",
+    "symbol": "MKI67",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.606796,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QA",
+    "_id": "712",
+    "_score": 18.12501,
+    "entrezgene": "712",
+    "name": "complement C1q A chain",
+    "symbol": "C1QA",
+    "taxid": 9606
+  },
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.318626,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "CD163",
+    "_id": "9332",
+    "_score": 19.299328,
+    "entrezgene": "9332",
+    "name": "CD163 molecule",
+    "symbol": "CD163",
+    "taxid": 9606
+  },
+  {
+    "query": "CD14",
+    "_id": "929",
+    "_score": 18.562769,
+    "entrezgene": "929",
+    "name": "CD14 molecule",
+    "symbol": "CD14",
+    "taxid": 9606
+  },
+  {
+    "query": "CCR7",
+    "_id": "1236",
+    "_score": 17.640244,
+    "entrezgene": "1236",
+    "name": "C-C motif chemokine receptor 7",
+    "symbol": "CCR7",
+    "taxid": 9606
+  },
+  {
+    "query": "EREG",
+    "_id": "2069",
+    "_score": 18.308775,
+    "entrezgene": "2069",
+    "name": "epiregulin",
+    "symbol": "EREG",
+    "taxid": 9606
+  },
+  {
+    "query": "CREM",
+    "_id": "1390",
+    "_score": 18.16593,
+    "entrezgene": "1390",
+    "name": "cAMP responsive element modulator",
+    "symbol": "CREM",
+    "taxid": 9606
+  },
+  {
+    "query": "VEGFA",
+    "_id": "7422",
+    "_score": 18.196142,
+    "entrezgene": "7422",
+    "name": "vascular endothelial growth factor A",
+    "symbol": "VEGFA",
+    "taxid": 9606
+  },
+  {
+    "query": "CD1C",
+    "_id": "911",
+    "_score": 21.64167,
+    "entrezgene": "911",
+    "name": "CD1c molecule",
+    "symbol": "CD1C",
+    "taxid": 9606
+  },
+  {
+    "query": "CD163",
+    "_id": "9332",
+    "_score": 19.299343,
+    "entrezgene": "9332",
+    "name": "CD163 molecule",
+    "symbol": "CD163",
+    "taxid": 9606
+  },
+  {
+    "query": "CD14",
+    "_id": "929",
+    "_score": 18.562769,
+    "entrezgene": "929",
+    "name": "CD14 molecule",
+    "symbol": "CD14",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QC",
+    "_id": "714",
+    "_score": 18.245047,
+    "entrezgene": "714",
+    "name": "complement C1q C chain",
+    "symbol": "C1QC",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.606773,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QC",
+    "_id": "714",
+    "_score": 18.245047,
+    "entrezgene": "714",
+    "name": "complement C1q C chain",
+    "symbol": "C1QC",
+    "taxid": 9606
+  },
+  {
+    "query": "CD56bright/CD16neg",
+    "notfound": true
+  },
+  {
+    "query": "CD1C",
+    "_id": "911",
+    "_score": 21.641466,
+    "entrezgene": "911",
+    "name": "CD1c molecule",
+    "symbol": "CD1C",
+    "taxid": 9606
+  },
+  {
+    "query": "CD14",
+    "_id": "929",
+    "_score": 18.562948,
+    "entrezgene": "929",
+    "name": "CD14 molecule",
+    "symbol": "CD14",
+    "taxid": 9606
+  },
+  {
+    "query": "CD163",
+    "_id": "9332",
+    "_score": 19.299522,
+    "entrezgene": "9332",
+    "name": "CD163 molecule",
+    "symbol": "CD163",
+    "taxid": 9606
+  },
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.318611,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "Osteopontin",
+    "notfound": true
+  },
+  {
+    "query": "MARCO",
+    "_id": "8685",
+    "_score": 17.81451,
+    "entrezgene": "8685",
+    "name": "macrophage receptor with collagenous structure",
+    "symbol": "MARCO",
+    "taxid": 9606
+  },
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.318644,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "MARCO",
+    "_id": "8685",
+    "_score": 17.81451,
+    "entrezgene": "8685",
+    "name": "macrophage receptor with collagenous structure",
+    "symbol": "MARCO",
+    "taxid": 9606
+  },
+  {
+    "query": "CD1C",
+    "_id": "911",
+    "_score": 21.64146,
+    "entrezgene": "911",
+    "name": "CD1c molecule",
+    "symbol": "CD1C",
+    "taxid": 9606
+  },
+  {
+    "query": "CD14",
+    "_id": "929",
+    "_score": 18.566526,
+    "entrezgene": "929",
+    "name": "CD14 molecule",
+    "symbol": "CD14",
+    "taxid": 9606
+  },
+  {
+    "query": "CD163",
+    "_id": "9332",
+    "_score": 19.299265,
+    "entrezgene": "9332",
+    "name": "CD163 molecule",
+    "symbol": "CD163",
+    "taxid": 9606
+  },
+  {
+    "query": "CD45",
+    "notfound": true
+  },
+  {
+    "query": "CD3",
+    "notfound": true
+  },
+  {
+    "query": "CD19",
+    "_id": "930",
+    "_score": 18.94303,
+    "entrezgene": "930",
+    "name": "CD19 molecule",
+    "symbol": "CD19",
+    "taxid": 9606
+  },
+  {
+    "query": "CD56",
+    "notfound": true
+  },
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.318626,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "OPN",
+    "notfound": true
+  },
+  {
+    "query": "CD45",
+    "notfound": true
+  },
+  {
+    "query": "CD3",
+    "notfound": true
+  },
+  {
+    "query": "CD19",
+    "_id": "930",
+    "_score": 18.942951,
+    "entrezgene": "930",
+    "name": "CD19 molecule",
+    "symbol": "CD19",
+    "taxid": 9606
+  },
+  {
+    "query": "CD56",
+    "notfound": true
+  },
+  {
+    "query": "CD1C",
+    "_id": "911",
+    "_score": 21.64167,
+    "entrezgene": "911",
+    "name": "CD1c molecule",
+    "symbol": "CD1C",
+    "taxid": 9606
+  },
+  {
+    "query": "CD14",
+    "_id": "929",
+    "_score": 18.562948,
+    "entrezgene": "929",
+    "name": "CD14 molecule",
+    "symbol": "CD14",
+    "taxid": 9606
+  },
+  {
+    "query": "CD163",
+    "_id": "9332",
+    "_score": 19.299522,
+    "entrezgene": "9332",
+    "name": "CD163 molecule",
+    "symbol": "CD163",
+    "taxid": 9606
+  },
+  {
+    "query": "CD3D",
+    "_id": "915",
+    "_score": 19.336739,
+    "entrezgene": "915",
+    "name": "CD3 delta subunit of T-cell receptor complex",
+    "symbol": "CD3D",
+    "taxid": 9606
+  },
+  {
+    "query": "CD3E",
+    "_id": "916",
+    "_score": 18.633247,
+    "entrezgene": "916",
+    "name": "CD3 epsilon subunit of T-cell receptor complex",
+    "symbol": "CD3E",
+    "taxid": 9606
+  },
+  {
+    "query": "NKG7",
+    "_id": "4818",
+    "_score": 19.22121,
+    "entrezgene": "4818",
+    "name": "natural killer cell granule protein 7",
+    "symbol": "NKG7",
+    "taxid": 9606
+  },
+  {
+    "query": "CD79A",
+    "_id": "973",
+    "_score": 17.927263,
+    "entrezgene": "973",
+    "name": "CD79a molecule",
+    "symbol": "CD79A",
+    "taxid": 9606
+  },
+  {
+    "query": "CD19",
+    "_id": "930",
+    "_score": 18.943003,
+    "entrezgene": "930",
+    "name": "CD19 molecule",
+    "symbol": "CD19",
+    "taxid": 9606
+  },
+  {
+    "query": "CST3",
+    "_id": "1471",
+    "_score": 18.913895,
+    "entrezgene": "1471",
+    "name": "cystatin C",
+    "symbol": "CST3",
+    "taxid": 9606
+  },
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.318565,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "LYZ",
+    "_id": "4069",
+    "_score": 18.491621,
+    "entrezgene": "4069",
+    "name": "lysozyme",
+    "symbol": "LYZ",
+    "taxid": 9606
+  },
+  {
+    "query": "CAP3",
+    "notfound": true
+  },
+  {
+    "query": "CD3D",
+    "_id": "915",
+    "_score": 19.336771,
+    "entrezgene": "915",
+    "name": "CD3 delta subunit of T-cell receptor complex",
+    "symbol": "CD3D",
+    "taxid": 9606
+  },
+  {
+    "query": "CD3G",
+    "_id": "917",
+    "_score": 19.50316,
+    "entrezgene": "917",
+    "name": "CD3 gamma subunit of T-cell receptor complex",
+    "symbol": "CD3G",
+    "taxid": 9606
+  },
+  {
+    "query": "CD3D",
+    "_id": "915",
+    "_score": 19.336693,
+    "entrezgene": "915",
+    "name": "CD3 delta subunit of T-cell receptor complex",
+    "symbol": "CD3D",
+    "taxid": 9606
+  },
+  {
+    "query": "CD3G",
+    "_id": "917",
+    "_score": 19.50316,
+    "entrezgene": "917",
+    "name": "CD3 gamma subunit of T-cell receptor complex",
+    "symbol": "CD3G",
+    "taxid": 9606
+  },
+  {
+    "query": "CLEC10A",
+    "_id": "10462",
+    "_score": 20.88356,
+    "entrezgene": "10462",
+    "name": "C-type lectin domain containing 10A",
+    "symbol": "CLEC10A",
+    "taxid": 9606
+  },
+  {
+    "query": "CD1C",
+    "_id": "911",
+    "_score": 21.64146,
+    "entrezgene": "911",
+    "name": "CD1c molecule",
+    "symbol": "CD1C",
+    "taxid": 9606
+  },
+  {
+    "query": "BATF3",
+    "_id": "55509",
+    "_score": 17.707153,
+    "entrezgene": "55509",
+    "name": "basic leucine zipper ATF-like transcription factor 3",
+    "symbol": "BATF3",
+    "taxid": 9606
+  },
+  {
+    "query": "FCER1A",
+    "_id": "2205",
+    "_score": 19.244814,
+    "entrezgene": "2205",
+    "name": "Fc epsilon receptor Ia",
+    "symbol": "FCER1A",
+    "taxid": 9606
+  },
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.318611,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "MAFB",
+    "_id": "9935",
+    "_score": 17.932304,
+    "entrezgene": "9935",
+    "name": "MAF bZIP transcription factor B",
+    "symbol": "MAFB",
+    "taxid": 9606
+  },
+  {
+    "query": "CSF1R",
+    "_id": "1436",
+    "_score": 18.205032,
+    "entrezgene": "1436",
+    "name": "colony stimulating factor 1 receptor",
+    "symbol": "CSF1R",
+    "taxid": 9606
+  },
+  {
+    "query": "CD14",
+    "_id": "929",
+    "_score": 18.566574,
+    "entrezgene": "929",
+    "name": "CD14 molecule",
+    "symbol": "CD14",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.606773,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "MARCO",
+    "_id": "8685",
+    "_score": 17.81469,
+    "entrezgene": "8685",
+    "name": "macrophage receptor with collagenous structure",
+    "symbol": "MARCO",
+    "taxid": 9606
+  },
+  {
+    "query": "GPNMB",
+    "_id": "10457",
+    "_score": 17.652975,
+    "entrezgene": "10457",
+    "name": "glycoprotein nmb",
+    "symbol": "GPNMB",
+    "taxid": 9606
+  },
+  {
+    "query": "RGCC",
+    "_id": "28984",
+    "_score": 17.627602,
+    "entrezgene": "28984",
+    "name": "regulator of cell cycle",
+    "symbol": "RGCC",
+    "taxid": 9606
+  },
+  {
+    "query": "MMP19",
+    "_id": "4327",
+    "_score": 17.952913,
+    "entrezgene": "4327",
+    "name": "matrix metallopeptidase 19",
+    "symbol": "MMP19",
+    "taxid": 9606
+  },
+  {
+    "query": "OLR1",
+    "_id": "4973",
+    "_score": 19.287066,
+    "entrezgene": "4973",
+    "name": "oxidized low density lipoprotein receptor 1",
+    "symbol": "OLR1",
+    "taxid": 9606
+  },
+  {
+    "query": "APOE",
+    "_id": "348",
+    "_score": 18.829721,
+    "entrezgene": "348",
+    "name": "apolipoprotein E",
+    "symbol": "APOE",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QA",
+    "_id": "712",
+    "_score": 18.125025,
+    "entrezgene": "712",
+    "name": "complement C1q A chain",
+    "symbol": "C1QA",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QB",
+    "_id": "713",
+    "_score": 17.992191,
+    "entrezgene": "713",
+    "name": "complement C1q B chain",
+    "symbol": "C1QB",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QC",
+    "_id": "714",
+    "_score": 18.245125,
+    "entrezgene": "714",
+    "name": "complement C1q C chain",
+    "symbol": "C1QC",
+    "taxid": 9606
+  },
+  {
+    "query": "CCL4",
+    "_id": "6351",
+    "_score": 21.72761,
+    "entrezgene": "6351",
+    "name": "C-C motif chemokine ligand 4",
+    "symbol": "CCL4",
+    "taxid": 9606
+  }
+]

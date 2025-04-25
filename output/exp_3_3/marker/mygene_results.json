@@ -1,0 +1,2538 @@
+[
+  {
+    "query": "TNF",
+    "_id": "7124",
+    "_score": 18.986305,
+    "entrezgene": "7124",
+    "name": "tumor necrosis factor",
+    "symbol": "TNF",
+    "taxid": 9606
+  },
+  {
+    "query": "VEGFA",
+    "_id": "7422",
+    "_score": 18.198654,
+    "entrezgene": "7422",
+    "name": "vascular endothelial growth factor A",
+    "symbol": "VEGFA",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "CD14",
+    "_id": "929",
+    "_score": 18.572315,
+    "entrezgene": "929",
+    "name": "CD14 molecule",
+    "symbol": "CD14",
+    "taxid": 9606
+  },
+  {
+    "query": "CD16",
+    "notfound": true
+  },
+  {
+    "query": "XCR1",
+    "_id": "2829",
+    "_score": 18.233171,
+    "entrezgene": "2829",
+    "name": "X-C motif chemokine receptor 1",
+    "symbol": "XCR1",
+    "taxid": 9606
+  },
+  {
+    "query": "CADM1",
+    "_id": "23705",
+    "_score": 18.233171,
+    "entrezgene": "23705",
+    "name": "cell adhesion molecule 1",
+    "symbol": "CADM1",
+    "taxid": 9606
+  },
+  {
+    "query": "CD1A",
+    "_id": "909",
+    "_score": 22.482275,
+    "entrezgene": "909",
+    "name": "CD1a molecule",
+    "symbol": "CD1A",
+    "taxid": 9606
+  },
+  {
+    "query": "CD172A",
+    "notfound": true
+  },
+  {
+    "query": "MP3",
+    "notfound": true
+  },
+  {
+    "query": "LYVE1",
+    "_id": "10894",
+    "_score": 18.258766,
+    "entrezgene": "10894",
+    "name": "lymphatic vessel endothelial hyaluronan receptor 1",
+    "symbol": "LYVE1",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.609465,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "FOLR2",
+    "_id": "2350",
+    "_score": 20.164679,
+    "entrezgene": "2350",
+    "name": "folate receptor beta",
+    "symbol": "FOLR2",
+    "taxid": 9606
+  },
+  {
+    "query": "KIT",
+    "_id": "3815",
+    "_score": 18.22368,
+    "entrezgene": "3815",
+    "name": "KIT proto-oncogene, receptor tyrosine kinase",
+    "symbol": "KIT",
+    "taxid": 9606
+  },
+  {
+    "query": "LILRA4",
+    "_id": "23547",
+    "_score": 23.393343,
+    "entrezgene": "23547",
+    "name": "leukocyte immunoglobulin like receptor A4",
+    "symbol": "LILRA4",
+    "taxid": 9606
+  },
+  {
+    "query": "HLA/FCER1A",
+    "notfound": true
+  },
+  {
+    "query": "CD68/CD163",
+    "notfound": true
+  },
+  {
+    "query": "CLEC9A",
+    "_id": "283420",
+    "_score": 19.459093,
+    "entrezgene": "283420",
+    "name": "C-type lectin domain containing 9A",
+    "symbol": "CLEC9A",
+    "taxid": 9606
+  },
+  {
+    "query": "CD1C",
+    "_id": "911",
+    "_score": 21.7203,
+    "entrezgene": "911",
+    "name": "CD1c molecule",
+    "symbol": "CD1C",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "CD14hiCD16-",
+    "notfound": true
+  },
+  {
+    "query": "CD14+CD16hi",
+    "notfound": true
+  },
+  {
+    "query": "CD14hiCD16+",
+    "notfound": true
+  },
+  {
+    "query": "PPARG",
+    "_id": "5468",
+    "_score": 17.603113,
+    "entrezgene": "5468",
+    "name": "peroxisome proliferator activated receptor gamma",
+    "symbol": "PPARG",
+    "taxid": 9606
+  },
+  {
+    "query": "MARCO",
+    "_id": "8685",
+    "_score": 17.796412,
+    "entrezgene": "8685",
+    "name": "macrophage receptor with collagenous structure",
+    "symbol": "MARCO",
+    "taxid": 9606
+  },
+  {
+    "query": "MRC1",
+    "_id": "4360",
+    "_score": 18.8248,
+    "entrezgene": "4360",
+    "name": "mannose receptor C-type 1",
+    "symbol": "MRC1",
+    "taxid": 9606
+  },
+  {
+    "query": "MSR1",
+    "_id": "4481",
+    "_score": 18.761063,
+    "entrezgene": "4481",
+    "name": "macrophage scavenger receptor 1",
+    "symbol": "MSR1",
+    "taxid": 9606
+  },
+  {
+    "query": "TNF",
+    "_id": "7124",
+    "_score": 18.986305,
+    "entrezgene": "7124",
+    "name": "tumor necrosis factor",
+    "symbol": "TNF",
+    "taxid": 9606
+  },
+  {
+    "query": "VEGFA",
+    "_id": "7422",
+    "_score": 18.198654,
+    "entrezgene": "7422",
+    "name": "vascular endothelial growth factor A",
+    "symbol": "VEGFA",
+    "taxid": 9606
+  },
+  {
+    "query": "TNF",
+    "_id": "7124",
+    "_score": 18.986305,
+    "entrezgene": "7124",
+    "name": "tumor necrosis factor",
+    "symbol": "TNF",
+    "taxid": 9606
+  },
+  {
+    "query": "VEGFA",
+    "_id": "7422",
+    "_score": 18.198654,
+    "entrezgene": "7422",
+    "name": "vascular endothelial growth factor A",
+    "symbol": "VEGFA",
+    "taxid": 9606
+  },
+  {
+    "query": "IL1B",
+    "_id": "3553",
+    "_score": 18.180145,
+    "entrezgene": "3553",
+    "name": "interleukin 1 beta",
+    "symbol": "IL1B",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "CMTM6",
+    "_id": "54918",
+    "_score": 17.698997,
+    "entrezgene": "54918",
+    "name": "CKLF like MARVEL transmembrane domain containing 6",
+    "symbol": "CMTM6",
+    "taxid": 9606
+  },
+  {
+    "query": "PD-L1",
+    "notfound": true
+  },
+  {
+    "query": "AXL",
+    "_id": "558",
+    "_score": 18.502815,
+    "entrezgene": "558",
+    "name": "AXL receptor tyrosine kinase",
+    "symbol": "AXL",
+    "taxid": 9606
+  },
+  {
+    "query": "TRL3",
+    "notfound": true
+  },
+  {
+    "query": "CD40",
+    "_id": "958",
+    "_score": 17.685568,
+    "entrezgene": "958",
+    "name": "CD40 molecule",
+    "symbol": "CD40",
+    "taxid": 9606
+  },
+  {
+    "query": "IL12B",
+    "_id": "3593",
+    "_score": 18.278242,
+    "entrezgene": "3593",
+    "name": "interleukin 12B",
+    "symbol": "IL12B",
+    "taxid": 9606
+  },
+  {
+    "query": "BTLA",
+    "_id": "151888",
+    "_score": 18.73015,
+    "entrezgene": "151888",
+    "name": "B and T lymphocyte associated",
+    "symbol": "BTLA",
+    "taxid": 9606
+  },
+  {
+    "query": "CD1E",
+    "_id": "913",
+    "_score": 20.812576,
+    "entrezgene": "913",
+    "name": "CD1e molecule",
+    "symbol": "CD1E",
+    "taxid": 9606
+  },
+  {
+    "query": "CCL17",
+    "_id": "6361",
+    "_score": 19.022839,
+    "entrezgene": "6361",
+    "name": "C-C motif chemokine ligand 17",
+    "symbol": "CCL17",
+    "taxid": 9606
+  },
+  {
+    "query": "CD1A",
+    "_id": "909",
+    "_score": 22.482275,
+    "entrezgene": "909",
+    "name": "CD1a molecule",
+    "symbol": "CD1A",
+    "taxid": 9606
+  },
+  {
+    "query": "CD207 (langerin)",
+    "notfound": true
+  },
+  {
+    "query": "not EPCAM",
+    "notfound": true
+  },
+  {
+    "query": "IL1B",
+    "_id": "3553",
+    "_score": 18.180145,
+    "entrezgene": "3553",
+    "name": "interleukin 1 beta",
+    "symbol": "IL1B",
+    "taxid": 9606
+  },
+  {
+    "query": "TNF",
+    "_id": "7124",
+    "_score": 18.986305,
+    "entrezgene": "7124",
+    "name": "tumor necrosis factor",
+    "symbol": "TNF",
+    "taxid": 9606
+  },
+  {
+    "query": "CCL3",
+    "_id": "6348",
+    "_score": 22.809805,
+    "entrezgene": "6348",
+    "name": "C-C motif chemokine ligand 3",
+    "symbol": "CCL3",
+    "taxid": 9606
+  },
+  {
+    "query": "CCL4",
+    "_id": "6351",
+    "_score": 21.845623,
+    "entrezgene": "6351",
+    "name": "C-C motif chemokine ligand 4",
+    "symbol": "CCL4",
+    "taxid": 9606
+  },
+  {
+    "query": "ISG15",
+    "_id": "9636",
+    "_score": 18.450832,
+    "entrezgene": "9636",
+    "name": "ISG15 ubiquitin like modifier",
+    "symbol": "ISG15",
+    "taxid": 9606
+  },
+  {
+    "query": "IFI6",
+    "_id": "2537",
+    "_score": 19.445162,
+    "entrezgene": "2537",
+    "name": "interferon alpha inducible protein 6",
+    "symbol": "IFI6",
+    "taxid": 9606
+  },
+  {
+    "query": "IFIT1",
+    "_id": "3434",
+    "_score": 21.576683,
+    "entrezgene": "3434",
+    "name": "interferon induced protein with tetratricopeptide repeats 1",
+    "symbol": "IFIT1",
+    "taxid": 9606
+  },
+  {
+    "query": "CXCL9",
+    "_id": "4283",
+    "_score": 19.243834,
+    "entrezgene": "4283",
+    "name": "C-X-C motif chemokine ligand 9",
+    "symbol": "CXCL9",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "CXCL9",
+    "_id": "4283",
+    "_score": 19.243834,
+    "entrezgene": "4283",
+    "name": "C-X-C motif chemokine ligand 9",
+    "symbol": "CXCL9",
+    "taxid": 9606
+  },
+  {
+    "query": "IDO1",
+    "_id": "3620",
+    "_score": 18.167933,
+    "entrezgene": "3620",
+    "name": "indoleamine 2,3-dioxygenase 1",
+    "symbol": "IDO1",
+    "taxid": 9606
+  },
+  {
+    "query": "FCN1",
+    "_id": "2219",
+    "_score": 22.018024,
+    "entrezgene": "2219",
+    "name": "ficolin 1",
+    "symbol": "FCN1",
+    "taxid": 9606
+  },
+  {
+    "query": "IL1B",
+    "_id": "3553",
+    "_score": 18.180145,
+    "entrezgene": "3553",
+    "name": "interleukin 1 beta",
+    "symbol": "IL1B",
+    "taxid": 9606
+  },
+  {
+    "query": "CD14",
+    "_id": "929",
+    "_score": 18.572315,
+    "entrezgene": "929",
+    "name": "CD14 molecule",
+    "symbol": "CD14",
+    "taxid": 9606
+  },
+  {
+    "query": "CD16",
+    "notfound": true
+  },
+  {
+    "query": "FCN1",
+    "_id": "2219",
+    "_score": 22.018024,
+    "entrezgene": "2219",
+    "name": "ficolin 1",
+    "symbol": "FCN1",
+    "taxid": 9606
+  },
+  {
+    "query": "S100A8",
+    "_id": "6279",
+    "_score": 19.4041,
+    "entrezgene": "6279",
+    "name": "S100 calcium binding protein A8",
+    "symbol": "S100A8",
+    "taxid": 9606
+  },
+  {
+    "query": "S100A9",
+    "_id": "6280",
+    "_score": 19.357529,
+    "entrezgene": "6280",
+    "name": "S100 calcium binding protein A9",
+    "symbol": "S100A9",
+    "taxid": 9606
+  },
+  {
+    "query": "CSF3R",
+    "_id": "1441",
+    "_score": 17.710278,
+    "entrezgene": "1441",
+    "name": "colony stimulating factor 3 receptor",
+    "symbol": "CSF3R",
+    "taxid": 9606
+  },
+  {
+    "query": "HLA-DQA1",
+    "_id": "3117",
+    "_score": 25.49844,
+    "entrezgene": "3117",
+    "name": "major histocompatibility complex, class II, DQ alpha 1",
+    "symbol": "HLA-DQA1",
+    "taxid": 9606
+  },
+  {
+    "query": "HLA-DQB1",
+    "_id": "3119",
+    "_score": 27.201292,
+    "entrezgene": "3119",
+    "name": "major histocompatibility complex, class II, DQ beta 1",
+    "symbol": "HLA-DQB1",
+    "taxid": 9606
+  },
+  {
+    "query": "CD163",
+    "_id": "9332",
+    "_score": 19.305965,
+    "entrezgene": "9332",
+    "name": "CD163 molecule",
+    "symbol": "CD163",
+    "taxid": 9606
+  },
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.331408,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "IL1B",
+    "_id": "3553",
+    "_score": 18.180145,
+    "entrezgene": "3553",
+    "name": "interleukin 1 beta",
+    "symbol": "IL1B",
+    "taxid": 9606
+  },
+  {
+    "query": "CCL4",
+    "_id": "6351",
+    "_score": 21.845623,
+    "entrezgene": "6351",
+    "name": "C-C motif chemokine ligand 4",
+    "symbol": "CCL4",
+    "taxid": 9606
+  },
+  {
+    "query": "CXCL2",
+    "_id": "2920",
+    "_score": 22.936405,
+    "entrezgene": "2920",
+    "name": "C-X-C motif chemokine ligand 2",
+    "symbol": "CXCL2",
+    "taxid": 9606
+  },
+  {
+    "query": "CXCR4",
+    "_id": "7852",
+    "_score": 18.170977,
+    "entrezgene": "7852",
+    "name": "C-X-C motif chemokine receptor 4",
+    "symbol": "CXCR4",
+    "taxid": 9606
+  },
+  {
+    "query": "AREG",
+    "_id": "374",
+    "_score": 17.714815,
+    "entrezgene": "374",
+    "name": "amphiregulin",
+    "symbol": "AREG",
+    "taxid": 9606
+  },
+  {
+    "query": "EGR1",
+    "_id": "1958",
+    "_score": 17.717087,
+    "entrezgene": "1958",
+    "name": "early growth response 1",
+    "symbol": "EGR1",
+    "taxid": 9606
+  },
+  {
+    "query": "NR4A1",
+    "_id": "3164",
+    "_score": 17.751583,
+    "entrezgene": "3164",
+    "name": "nuclear receptor subfamily 4 group A member 1",
+    "symbol": "NR4A1",
+    "taxid": 9606
+  },
+  {
+    "query": "NR4A2",
+    "_id": "4929",
+    "_score": 18.297968,
+    "entrezgene": "4929",
+    "name": "nuclear receptor subfamily 4 group A member 2",
+    "symbol": "NR4A2",
+    "taxid": 9606
+  },
+  {
+    "query": "NLRP3",
+    "_id": "114548",
+    "_score": 19.109728,
+    "entrezgene": "114548",
+    "name": "NLR family pyrin domain containing 3",
+    "symbol": "NLRP3",
+    "taxid": 9606
+  },
+  {
+    "query": "NFKB1",
+    "_id": "4790",
+    "_score": 17.717087,
+    "entrezgene": "4790",
+    "name": "nuclear factor kappa B subunit 1",
+    "symbol": "NFKB1",
+    "taxid": 9606
+  },
+  {
+    "query": "NFKBIA",
+    "_id": "4792",
+    "_score": 18.314596,
+    "entrezgene": "4792",
+    "name": "NFKB inhibitor alpha",
+    "symbol": "NFKBIA",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.609465,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QC",
+    "_id": "714",
+    "_score": 18.239529,
+    "entrezgene": "714",
+    "name": "complement C1q C chain",
+    "symbol": "C1QC",
+    "taxid": 9606
+  },
+  {
+    "query": "LYVE1",
+    "_id": "10894",
+    "_score": 18.258766,
+    "entrezgene": "10894",
+    "name": "lymphatic vessel endothelial hyaluronan receptor 1",
+    "symbol": "LYVE1",
+    "taxid": 9606
+  },
+  {
+    "query": "NLRP3",
+    "_id": "114548",
+    "_score": 19.109728,
+    "entrezgene": "114548",
+    "name": "NLR family pyrin domain containing 3",
+    "symbol": "NLRP3",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.609465,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QC",
+    "_id": "714",
+    "_score": 18.239529,
+    "entrezgene": "714",
+    "name": "complement C1q C chain",
+    "symbol": "C1QC",
+    "taxid": 9606
+  },
+  {
+    "query": "ISG15",
+    "_id": "9636",
+    "_score": 18.450832,
+    "entrezgene": "9636",
+    "name": "ISG15 ubiquitin like modifier",
+    "symbol": "ISG15",
+    "taxid": 9606
+  },
+  {
+    "query": "FN1",
+    "_id": "2335",
+    "_score": 18.22053,
+    "entrezgene": "2335",
+    "name": "fibronectin 1",
+    "symbol": "FN1",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.609465,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QC",
+    "_id": "714",
+    "_score": 18.239529,
+    "entrezgene": "714",
+    "name": "complement C1q C chain",
+    "symbol": "C1QC",
+    "taxid": 9606
+  },
+  {
+    "query": "ISG15",
+    "_id": "9636",
+    "_score": 18.450832,
+    "entrezgene": "9636",
+    "name": "ISG15 ubiquitin like modifier",
+    "symbol": "ISG15",
+    "taxid": 9606
+  },
+  {
+    "query": "VCAN",
+    "_id": "1462",
+    "_score": 18.288073,
+    "entrezgene": "1462",
+    "name": "versican",
+    "symbol": "VCAN",
+    "taxid": 9606
+  },
+  {
+    "query": "INHBA",
+    "_id": "3624",
+    "_score": 18.261993,
+    "entrezgene": "3624",
+    "name": "inhibin subunit beta A",
+    "symbol": "INHBA",
+    "taxid": 9606
+  },
+  {
+    "query": "FN1",
+    "_id": "2335",
+    "_score": 18.22053,
+    "entrezgene": "2335",
+    "name": "fibronectin 1",
+    "symbol": "FN1",
+    "taxid": 9606
+  },
+  {
+    "query": "LYVE1",
+    "_id": "10894",
+    "_score": 18.258766,
+    "entrezgene": "10894",
+    "name": "lymphatic vessel endothelial hyaluronan receptor 1",
+    "symbol": "LYVE1",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QC",
+    "_id": "714",
+    "_score": 18.239529,
+    "entrezgene": "714",
+    "name": "complement C1q C chain",
+    "symbol": "C1QC",
+    "taxid": 9606
+  },
+  {
+    "query": "FOLR2",
+    "_id": "2350",
+    "_score": 20.164679,
+    "entrezgene": "2350",
+    "name": "folate receptor beta",
+    "symbol": "FOLR2",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.609465,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "FN1",
+    "_id": "2335",
+    "_score": 18.22053,
+    "entrezgene": "2335",
+    "name": "fibronectin 1",
+    "symbol": "FN1",
+    "taxid": 9606
+  },
+  {
+    "query": "CD52",
+    "_id": "1043",
+    "_score": 20.699507,
+    "entrezgene": "1043",
+    "name": "CD52 molecule",
+    "symbol": "CD52",
+    "taxid": 9606
+  },
+  {
+    "query": "VCAN",
+    "_id": "1462",
+    "_score": 18.288073,
+    "entrezgene": "1462",
+    "name": "versican",
+    "symbol": "VCAN",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "AXL",
+    "_id": "558",
+    "_score": 18.502815,
+    "entrezgene": "558",
+    "name": "AXL receptor tyrosine kinase",
+    "symbol": "AXL",
+    "taxid": 9606
+  },
+  {
+    "query": "PYCR1",
+    "_id": "5831",
+    "_score": 18.382967,
+    "entrezgene": "5831",
+    "name": "pyrroline-5-carboxylate reductase 1",
+    "symbol": "PYCR1",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "CXCL9",
+    "_id": "4283",
+    "_score": 19.243834,
+    "entrezgene": "4283",
+    "name": "C-X-C motif chemokine ligand 9",
+    "symbol": "CXCL9",
+    "taxid": 9606
+  },
+  {
+    "query": "IDO1",
+    "_id": "3620",
+    "_score": 18.167933,
+    "entrezgene": "3620",
+    "name": "indoleamine 2,3-dioxygenase 1",
+    "symbol": "IDO1",
+    "taxid": 9606
+  },
+  {
+    "query": "IL1B",
+    "_id": "3553",
+    "_score": 18.180145,
+    "entrezgene": "3553",
+    "name": "interleukin 1 beta",
+    "symbol": "IL1B",
+    "taxid": 9606
+  },
+  {
+    "query": "TNF",
+    "_id": "7124",
+    "_score": 18.986305,
+    "entrezgene": "7124",
+    "name": "tumor necrosis factor",
+    "symbol": "TNF",
+    "taxid": 9606
+  },
+  {
+    "query": "ISG15",
+    "_id": "9636",
+    "_score": 18.450832,
+    "entrezgene": "9636",
+    "name": "ISG15 ubiquitin like modifier",
+    "symbol": "ISG15",
+    "taxid": 9606
+  },
+  {
+    "query": "IFIT1",
+    "_id": "3434",
+    "_score": 21.576683,
+    "entrezgene": "3434",
+    "name": "interferon induced protein with tetratricopeptide repeats 1",
+    "symbol": "IFIT1",
+    "taxid": 9606
+  },
+  {
+    "query": "IFITM1",
+    "_id": "8519",
+    "_score": 21.52276,
+    "entrezgene": "8519",
+    "name": "interferon induced transmembrane protein 1",
+    "symbol": "IFITM1",
+    "taxid": 9606
+  },
+  {
+    "query": "TNFSF10",
+    "_id": "8743",
+    "_score": 17.751583,
+    "entrezgene": "8743",
+    "name": "TNF superfamily member 10",
+    "symbol": "TNFSF10",
+    "taxid": 9606
+  },
+  {
+    "query": "CASP1",
+    "_id": "834",
+    "_score": 20.389885,
+    "entrezgene": "834",
+    "name": "caspase 1",
+    "symbol": "CASP1",
+    "taxid": 9606
+  },
+  {
+    "query": "CASP4",
+    "_id": "837",
+    "_score": 22.092735,
+    "entrezgene": "837",
+    "name": "caspase 4",
+    "symbol": "CASP4",
+    "taxid": 9606
+  },
+  {
+    "query": "CXCL10",
+    "_id": "3627",
+    "_score": 19.299639,
+    "entrezgene": "3627",
+    "name": "C-X-C motif chemokine ligand 10",
+    "symbol": "CXCL10",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.609465,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "TPSAB1",
+    "_id": "7177",
+    "_score": 24.340258,
+    "entrezgene": "7177",
+    "name": "tryptase alpha/beta 1",
+    "symbol": "TPSAB1",
+    "taxid": 9606
+  },
+  {
+    "query": "TNF",
+    "_id": "7124",
+    "_score": 18.986305,
+    "entrezgene": "7124",
+    "name": "tumor necrosis factor",
+    "symbol": "TNF",
+    "taxid": 9606
+  },
+  {
+    "query": "VEGFA",
+    "_id": "7422",
+    "_score": 18.198654,
+    "entrezgene": "7422",
+    "name": "vascular endothelial growth factor A",
+    "symbol": "VEGFA",
+    "taxid": 9606
+  },
+  {
+    "query": "CD4",
+    "_id": "920",
+    "_score": 18.670116,
+    "entrezgene": "920",
+    "name": "CD4 molecule",
+    "symbol": "CD4",
+    "taxid": 9606
+  },
+  {
+    "query": "CD8",
+    "notfound": true
+  },
+  {
+    "query": "FOXP3",
+    "_id": "50943",
+    "_score": 18.867207,
+    "entrezgene": "50943",
+    "name": "forkhead box P3",
+    "symbol": "FOXP3",
+    "taxid": 9606
+  },
+  {
+    "query": "DC_LAMP",
+    "notfound": true
+  },
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.331408,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.609465,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "CD52",
+    "_id": "1043",
+    "_score": 20.699507,
+    "entrezgene": "1043",
+    "name": "CD52 molecule",
+    "symbol": "CD52",
+    "taxid": 9606
+  },
+  {
+    "query": "PTPRC",
+    "_id": "5788",
+    "_score": 17.471506,
+    "entrezgene": "5788",
+    "name": "protein tyrosine phosphatase receptor type C",
+    "symbol": "PTPRC",
+    "taxid": 9606
+  },
+  {
+    "query": "CST3",
+    "_id": "1471",
+    "_score": 19.120937,
+    "entrezgene": "1471",
+    "name": "cystatin C",
+    "symbol": "CST3",
+    "taxid": 9606
+  },
+  {
+    "query": "CD3E",
+    "_id": "916",
+    "_score": 18.64508,
+    "entrezgene": "916",
+    "name": "CD3 epsilon subunit of T-cell receptor complex",
+    "symbol": "CD3E",
+    "taxid": 9606
+  },
+  {
+    "query": "KIT",
+    "_id": "3815",
+    "_score": 18.22368,
+    "entrezgene": "3815",
+    "name": "KIT proto-oncogene, receptor tyrosine kinase",
+    "symbol": "KIT",
+    "taxid": 9606
+  },
+  {
+    "query": "TPSAB1",
+    "_id": "7177",
+    "_score": 24.340258,
+    "entrezgene": "7177",
+    "name": "tryptase alpha/beta 1",
+    "symbol": "TPSAB1",
+    "taxid": 9606
+  },
+  {
+    "query": "CPA3",
+    "_id": "1359",
+    "_score": 19.225668,
+    "entrezgene": "1359",
+    "name": "carboxypeptidase A3",
+    "symbol": "CPA3",
+    "taxid": 9606
+  },
+  {
+    "query": "TPSB2",
+    "_id": "64499",
+    "_score": 23.393343,
+    "entrezgene": "64499",
+    "name": "tryptase beta 2",
+    "symbol": "TPSB2",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.609465,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "FN1",
+    "_id": "2335",
+    "_score": 18.22053,
+    "entrezgene": "2335",
+    "name": "fibronectin 1",
+    "symbol": "FN1",
+    "taxid": 9606
+  },
+  {
+    "query": "VCAN",
+    "_id": "1462",
+    "_score": 18.288073,
+    "entrezgene": "1462",
+    "name": "versican",
+    "symbol": "VCAN",
+    "taxid": 9606
+  },
+  {
+    "query": "PPARG",
+    "_id": "5468",
+    "_score": 17.603113,
+    "entrezgene": "5468",
+    "name": "peroxisome proliferator activated receptor gamma",
+    "symbol": "PPARG",
+    "taxid": 9606
+  },
+  {
+    "query": "MARCO",
+    "_id": "8685",
+    "_score": 17.796412,
+    "entrezgene": "8685",
+    "name": "macrophage receptor with collagenous structure",
+    "symbol": "MARCO",
+    "taxid": 9606
+  },
+  {
+    "query": "MRC1",
+    "_id": "4360",
+    "_score": 18.8248,
+    "entrezgene": "4360",
+    "name": "mannose receptor C-type 1",
+    "symbol": "MRC1",
+    "taxid": 9606
+  },
+  {
+    "query": "MSR1",
+    "_id": "4481",
+    "_score": 18.761063,
+    "entrezgene": "4481",
+    "name": "macrophage scavenger receptor 1",
+    "symbol": "MSR1",
+    "taxid": 9606
+  },
+  {
+    "query": "TNF",
+    "_id": "7124",
+    "_score": 18.986305,
+    "entrezgene": "7124",
+    "name": "tumor necrosis factor",
+    "symbol": "TNF",
+    "taxid": 9606
+  },
+  {
+    "query": "VEGFA",
+    "_id": "7422",
+    "_score": 18.198654,
+    "entrezgene": "7422",
+    "name": "vascular endothelial growth factor A",
+    "symbol": "VEGFA",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "CXCL9",
+    "_id": "4283",
+    "_score": 19.243834,
+    "entrezgene": "4283",
+    "name": "C-X-C motif chemokine ligand 9",
+    "symbol": "CXCL9",
+    "taxid": 9606
+  },
+  {
+    "query": "IDO1",
+    "_id": "3620",
+    "_score": 18.167933,
+    "entrezgene": "3620",
+    "name": "indoleamine 2,3-dioxygenase 1",
+    "symbol": "IDO1",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QC",
+    "_id": "714",
+    "_score": 18.239529,
+    "entrezgene": "714",
+    "name": "complement C1q C chain",
+    "symbol": "C1QC",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.609465,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "LAMP3",
+    "_id": "27074",
+    "_score": 18.006296,
+    "entrezgene": "27074",
+    "name": "lysosomal associated membrane protein 3",
+    "symbol": "LAMP3",
+    "taxid": 9606
+  },
+  {
+    "query": "CXCL9",
+    "_id": "4283",
+    "_score": 19.243834,
+    "entrezgene": "4283",
+    "name": "C-X-C motif chemokine ligand 9",
+    "symbol": "CXCL9",
+    "taxid": 9606
+  },
+  {
+    "query": "IDO1",
+    "_id": "3620",
+    "_score": 18.167933,
+    "entrezgene": "3620",
+    "name": "indoleamine 2,3-dioxygenase 1",
+    "symbol": "IDO1",
+    "taxid": 9606
+  },
+  {
+    "query": "C1QC",
+    "_id": "714",
+    "_score": 18.239529,
+    "entrezgene": "714",
+    "name": "complement C1q C chain",
+    "symbol": "C1QC",
+    "taxid": 9606
+  },
+  {
+    "query": "SPP1",
+    "_id": "6696",
+    "_score": 17.609465,
+    "entrezgene": "6696",
+    "name": "secreted phosphoprotein 1",
+    "symbol": "SPP1",
+    "taxid": 9606
+  },
+  {
+    "query": "Krt5",
+    "_id": "3852",
+    "_score": 18.955662,
+    "entrezgene": "3852",
+    "name": "keratin 5",
+    "symbol": "KRT5",
+    "taxid": 9606
+  },
+  {
+    "query": "Pax6",
+    "_id": "5080",
+    "_score": 18.183218,
+    "entrezgene": "5080",
+    "name": "paired box 6",
+    "symbol": "PAX6",
+    "taxid": 9606
+  },
+  {
+    "query": "Aqp5",
+    "_id": "362",
+    "_score": 18.57627,
+    "entrezgene": "362",
+    "name": "aquaporin 5",
+    "symbol": "AQP5",
+    "taxid": 9606
+  },
+  {
+    "query": "Ltf",
+    "_id": "4057",
+    "_score": 19.237755,
+    "entrezgene": "4057",
+    "name": "lactotransferrin",
+    "symbol": "LTF",
+    "taxid": 9606
+  },
+  {
+    "query": "Lcn2",
+    "_id": "3934",
+    "_score": 19.424494,
+    "entrezgene": "3934",
+    "name": "lipocalin 2",
+    "symbol": "LCN2",
+    "taxid": 9606
+  },
+  {
+    "query": "Lgr5",
+    "_id": "8549",
+    "_score": 18.093683,
+    "entrezgene": "8549",
+    "name": "leucine rich repeat containing G protein-coupled receptor 5",
+    "symbol": "LGR5",
+    "taxid": 9606
+  },
+  {
+    "query": "Axin2",
+    "_id": "8313",
+    "_score": 17.730795,
+    "entrezgene": "8313",
+    "name": "axin 2",
+    "symbol": "AXIN2",
+    "taxid": 9606
+  },
+  {
+    "query": "Tnfrsf19",
+    "_id": "55504",
+    "_score": 17.827848,
+    "entrezgene": "55504",
+    "name": "TNF receptor superfamily member 19",
+    "symbol": "TNFRSF19",
+    "taxid": 9606
+  },
+  {
+    "query": "Krt5",
+    "_id": "3852",
+    "_score": 18.955662,
+    "entrezgene": "3852",
+    "name": "keratin 5",
+    "symbol": "KRT5",
+    "taxid": 9606
+  },
+  {
+    "query": "Acta2",
+    "_id": "59",
+    "_score": 17.648138,
+    "entrezgene": "59",
+    "name": "actin alpha 2, smooth muscle",
+    "symbol": "ACTA2",
+    "taxid": 9606
+  },
+  {
+    "query": "Myl9",
+    "_id": "10398",
+    "_score": 18.351828,
+    "entrezgene": "10398",
+    "name": "myosin light chain 9",
+    "symbol": "MYL9",
+    "taxid": 9606
+  },
+  {
+    "query": "Pigr",
+    "_id": "5284",
+    "_score": 17.947138,
+    "entrezgene": "5284",
+    "name": "polymeric immunoglobulin receptor",
+    "symbol": "PIGR",
+    "taxid": 9606
+  },
+  {
+    "query": "C3",
+    "_id": "718",
+    "_score": 18.28479,
+    "entrezgene": "718",
+    "name": "complement C3",
+    "symbol": "C3",
+    "taxid": 9606
+  },
+  {
+    "query": "Lcn2",
+    "_id": "3934",
+    "_score": 19.424494,
+    "entrezgene": "3934",
+    "name": "lipocalin 2",
+    "symbol": "LCN2",
+    "taxid": 9606
+  },
+  {
+    "query": "Ltf",
+    "_id": "4057",
+    "_score": 19.237755,
+    "entrezgene": "4057",
+    "name": "lactotransferrin",
+    "symbol": "LTF",
+    "taxid": 9606
+  },
+  {
+    "query": "Sftpd",
+    "_id": "6441",
+    "_score": 19.155067,
+    "entrezgene": "6441",
+    "name": "surfactant protein D",
+    "symbol": "SFTPD",
+    "taxid": 9606
+  },
+  {
+    "query": "Serpinb2",
+    "_id": "5055",
+    "_score": 19.452114,
+    "entrezgene": "5055",
+    "name": "serpin family B member 2",
+    "symbol": "SERPINB2",
+    "taxid": 9606
+  },
+  {
+    "query": "Serpinb5",
+    "_id": "5268",
+    "_score": 18.245914,
+    "entrezgene": "5268",
+    "name": "serpin family B member 5",
+    "symbol": "SERPINB5",
+    "taxid": 9606
+  },
+  {
+    "query": "Cstb",
+    "_id": "1476",
+    "_score": 19.012312,
+    "entrezgene": "1476",
+    "name": "cystatin B",
+    "symbol": "CSTB",
+    "taxid": 9606
+  },
+  {
+    "query": "Cst6",
+    "_id": "1474",
+    "_score": 19.178246,
+    "entrezgene": "1474",
+    "name": "cystatin E/M",
+    "symbol": "CST6",
+    "taxid": 9606
+  },
+  {
+    "query": "Aqp5",
+    "_id": "362",
+    "_score": 18.57627,
+    "entrezgene": "362",
+    "name": "aquaporin 5",
+    "symbol": "AQP5",
+    "taxid": 9606
+  },
+  {
+    "query": "PAX6",
+    "_id": "5080",
+    "_score": 18.183218,
+    "entrezgene": "5080",
+    "name": "paired box 6",
+    "symbol": "PAX6",
+    "taxid": 9606
+  },
+  {
+    "query": "FOXC1",
+    "_id": "2296",
+    "_score": 18.351828,
+    "entrezgene": "2296",
+    "name": "forkhead box C1",
+    "symbol": "FOXC1",
+    "taxid": 9606
+  },
+  {
+    "query": "AQP5",
+    "_id": "362",
+    "_score": 18.57627,
+    "entrezgene": "362",
+    "name": "aquaporin 5",
+    "symbol": "AQP5",
+    "taxid": 9606
+  },
+  {
+    "query": "ACTA2",
+    "_id": "59",
+    "_score": 17.648138,
+    "entrezgene": "59",
+    "name": "actin alpha 2, smooth muscle",
+    "symbol": "ACTA2",
+    "taxid": 9606
+  },
+  {
+    "query": "MYH11",
+    "_id": "4629",
+    "_score": 18.245914,
+    "entrezgene": "4629",
+    "name": "myosin heavy chain 11",
+    "symbol": "MYH11",
+    "taxid": 9606
+  },
+  {
+    "query": "MYLK",
+    "_id": "4638",
+    "_score": 18.167933,
+    "entrezgene": "4638",
+    "name": "myosin light chain kinase",
+    "symbol": "MYLK",
+    "taxid": 9606
+  },
+  {
+    "query": "TPM2",
+    "_id": "7169",
+    "_score": 17.698997,
+    "entrezgene": "7169",
+    "name": "tropomyosin 2",
+    "symbol": "TPM2",
+    "taxid": 9606
+  },
+  {
+    "query": "CDH5",
+    "_id": "1003",
+    "_score": 17.667841,
+    "entrezgene": "1003",
+    "name": "cadherin 5",
+    "symbol": "CDH5",
+    "taxid": 9606
+  },
+  {
+    "query": "PECAM1",
+    "_id": "5175",
+    "_score": 18.16489,
+    "entrezgene": "5175",
+    "name": "platelet and endothelial cell adhesion molecule 1",
+    "symbol": "PECAM1",
+    "taxid": 9606
+  },
+  {
+    "query": "PTPRC",
+    "_id": "5788",
+    "_score": 17.471506,
+    "entrezgene": "5788",
+    "name": "protein tyrosine phosphatase receptor type C",
+    "symbol": "PTPRC",
+    "taxid": 9606
+  },
+  {
+    "query": "CD2",
+    "_id": "914",
+    "_score": 18.386465,
+    "entrezgene": "914",
+    "name": "CD2 molecule",
+    "symbol": "CD2",
+    "taxid": 9606
+  },
+  {
+    "query": "TP63",
+    "_id": "8626",
+    "_score": 17.617977,
+    "entrezgene": "8626",
+    "name": "tumor protein p63",
+    "symbol": "TP63",
+    "taxid": 9606
+  },
+  {
+    "query": "LTF",
+    "_id": "4057",
+    "_score": 19.237755,
+    "entrezgene": "4057",
+    "name": "lactotransferrin",
+    "symbol": "LTF",
+    "taxid": 9606
+  },
+  {
+    "query": "LCN1",
+    "_id": "3933",
+    "_score": 21.470654,
+    "entrezgene": "3933",
+    "name": "lipocalin 1",
+    "symbol": "LCN1",
+    "taxid": 9606
+  },
+  {
+    "query": "LYZ",
+    "_id": "4069",
+    "_score": 18.458153,
+    "entrezgene": "4069",
+    "name": "lysozyme",
+    "symbol": "LYZ",
+    "taxid": 9606
+  },
+  {
+    "query": "PRR27",
+    "_id": "401137",
+    "_score": 20.027515,
+    "entrezgene": "401137",
+    "name": "proline rich 27",
+    "symbol": "PRR27",
+    "taxid": 9606
+  },
+  {
+    "query": "LACRT",
+    "_id": "90070",
+    "_score": 21.047329,
+    "entrezgene": "90070",
+    "name": "lacritin",
+    "symbol": "LACRT",
+    "taxid": 9606
+  },
+  {
+    "query": "SCGB1D1",
+    "_id": "10648",
+    "_score": 22.75018,
+    "entrezgene": "10648",
+    "name": "secretoglobin family 1D member 1",
+    "symbol": "SCGB1D1",
+    "taxid": 9606
+  },
+  {
+    "query": "SCGB2A1",
+    "_id": "4246",
+    "_score": 23.074274,
+    "entrezgene": "4246",
+    "name": "secretoglobin family 2A member 1",
+    "symbol": "SCGB2A1",
+    "taxid": 9606
+  },
+  {
+    "query": "CST1",
+    "_id": "1469",
+    "_score": 25.887978,
+    "entrezgene": "1469",
+    "name": "cystatin SN",
+    "symbol": "CST1",
+    "taxid": 9606
+  },
+  {
+    "query": "CST4",
+    "_id": "1472",
+    "_score": 25.49844,
+    "entrezgene": "1472",
+    "name": "cystatin S",
+    "symbol": "CST4",
+    "taxid": 9606
+  },
+  {
+    "query": "HTN1",
+    "_id": "3346",
+    "_score": 23.484547,
+    "entrezgene": "3346",
+    "name": "histatin 1",
+    "symbol": "HTN1",
+    "taxid": 9606
+  },
+  {
+    "query": "SMR3A",
+    "_id": "26952",
+    "_score": 21.781696,
+    "entrezgene": "26952",
+    "name": "submaxillary gland androgen regulated protein 3A",
+    "symbol": "SMR3A",
+    "taxid": 9606
+  },
+  {
+    "query": "SMR3B",
+    "_id": "10879",
+    "_score": 23.148098,
+    "entrezgene": "10879",
+    "name": "submaxillary gland androgen regulated protein 3B",
+    "symbol": "SMR3B",
+    "taxid": 9606
+  },
+  {
+    "query": "LCN2",
+    "_id": "3934",
+    "_score": 19.424494,
+    "entrezgene": "3934",
+    "name": "lipocalin 2",
+    "symbol": "LCN2",
+    "taxid": 9606
+  },
+  {
+    "query": "WFDC2",
+    "_id": "10406",
+    "_score": 17.944502,
+    "entrezgene": "10406",
+    "name": "WAP four-disulfide core domain 2",
+    "symbol": "WFDC2",
+    "taxid": 9606
+  },
+  {
+    "query": "C3",
+    "_id": "718",
+    "_score": 18.28479,
+    "entrezgene": "718",
+    "name": "complement C3",
+    "symbol": "C3",
+    "taxid": 9606
+  },
+  {
+    "query": "LTF",
+    "_id": "4057",
+    "_score": 19.237755,
+    "entrezgene": "4057",
+    "name": "lactotransferrin",
+    "symbol": "LTF",
+    "taxid": 9606
+  },
+  {
+    "query": "PRR27",
+    "_id": "401137",
+    "_score": 20.027515,
+    "entrezgene": "401137",
+    "name": "proline rich 27",
+    "symbol": "PRR27",
+    "taxid": 9606
+  },
+  {
+    "query": "SCGB2A1",
+    "_id": "4246",
+    "_score": 23.074274,
+    "entrezgene": "4246",
+    "name": "secretoglobin family 2A member 1",
+    "symbol": "SCGB2A1",
+    "taxid": 9606
+  },
+  {
+    "query": "HTN1",
+    "_id": "3346",
+    "_score": 23.484547,
+    "entrezgene": "3346",
+    "name": "histatin 1",
+    "symbol": "HTN1",
+    "taxid": 9606
+  },
+  {
+    "query": "LCN2",
+    "_id": "3934",
+    "_score": 19.424494,
+    "entrezgene": "3934",
+    "name": "lipocalin 2",
+    "symbol": "LCN2",
+    "taxid": 9606
+  },
+  {
+    "query": "WFDC2",
+    "_id": "10406",
+    "_score": 17.944502,
+    "entrezgene": "10406",
+    "name": "WAP four-disulfide core domain 2",
+    "symbol": "WFDC2",
+    "taxid": 9606
+  },
+  {
+    "query": "KRT5",
+    "_id": "3852",
+    "_score": 18.955662,
+    "entrezgene": "3852",
+    "name": "keratin 5",
+    "symbol": "KRT5",
+    "taxid": 9606
+  },
+  {
+    "query": "KRT14",
+    "_id": "3861",
+    "_score": 20.763105,
+    "entrezgene": "3861",
+    "name": "keratin 14",
+    "symbol": "KRT14",
+    "taxid": 9606
+  },
+  {
+    "query": "NGFR",
+    "_id": "4804",
+    "_score": 18.274977,
+    "entrezgene": "4804",
+    "name": "nerve growth factor receptor",
+    "symbol": "NGFR",
+    "taxid": 9606
+  },
+  {
+    "query": "TP63",
+    "_id": "8626",
+    "_score": 17.617977,
+    "entrezgene": "8626",
+    "name": "tumor protein p63",
+    "symbol": "TP63",
+    "taxid": 9606
+  },
+  {
+    "query": "BPIFA1",
+    "_id": "51297",
+    "_score": 19.538046,
+    "entrezgene": "51297",
+    "name": "BPI fold containing family A member 1",
+    "symbol": "BPIFA1",
+    "taxid": 9606
+  },
+  {
+    "query": "AQP5",
+    "_id": "362",
+    "_score": 18.57627,
+    "entrezgene": "362",
+    "name": "aquaporin 5",
+    "symbol": "AQP5",
+    "taxid": 9606
+  },
+  {
+    "query": "F3",
+    "_id": "2152",
+    "_score": 18.183218,
+    "entrezgene": "2152",
+    "name": "coagulation factor III, tissue factor",
+    "symbol": "F3",
+    "taxid": 9606
+  },
+  {
+    "query": "MUC16",
+    "_id": "94025",
+    "_score": 19.692787,
+    "entrezgene": "94025",
+    "name": "mucin 16, cell surface associated",
+    "symbol": "MUC16",
+    "taxid": 9606
+  },
+  {
+    "query": "MUC5AC",
+    "_id": "4586",
+    "_score": 19.038763,
+    "entrezgene": "4586",
+    "name": "mucin 5AC, oligomeric mucus/gel-forming",
+    "symbol": "MUC5AC",
+    "taxid": 9606
+  },
+  {
+    "query": "PIGR",
+    "_id": "5284",
+    "_score": 17.947138,
+    "entrezgene": "5284",
+    "name": "polymeric immunoglobulin receptor",
+    "symbol": "PIGR",
+    "taxid": 9606
+  },
+  {
+    "query": "LCN2",
+    "_id": "3934",
+    "_score": 19.424494,
+    "entrezgene": "3934",
+    "name": "lipocalin 2",
+    "symbol": "LCN2",
+    "taxid": 9606
+  },
+  {
+    "query": "WFDC2",
+    "_id": "10406",
+    "_score": 17.944502,
+    "entrezgene": "10406",
+    "name": "WAP four-disulfide core domain 2",
+    "symbol": "WFDC2",
+    "taxid": 9606
+  },
+  {
+    "query": "CHRM1",
+    "_id": "1128",
+    "_score": 18.93058,
+    "entrezgene": "1128",
+    "name": "cholinergic receptor muscarinic 1",
+    "symbol": "CHRM1",
+    "taxid": 9606
+  },
+  {
+    "query": "VIPR1",
+    "_id": "7433",
+    "_score": 18.53332,
+    "entrezgene": "7433",
+    "name": "vasoactive intestinal peptide receptor 1",
+    "symbol": "VIPR1",
+    "taxid": 9606
+  },
+  {
+    "query": "CFTR",
+    "_id": "1080",
+    "_score": 17.371897,
+    "entrezgene": "1080",
+    "name": "CF transmembrane conductance regulator",
+    "symbol": "CFTR",
+    "taxid": 9606
+  },
+  {
+    "query": "CLCN3",
+    "_id": "1182",
+    "_score": 17.620111,
+    "entrezgene": "1182",
+    "name": "chloride voltage-gated channel 3",
+    "symbol": "CLCN3",
+    "taxid": 9606
+  },
+  {
+    "query": "SLC12A4",
+    "_id": "6560",
+    "_score": 17.632984,
+    "entrezgene": "6560",
+    "name": "solute carrier family 12 member 4",
+    "symbol": "SLC12A4",
+    "taxid": 9606
+  },
+  {
+    "query": "LRRC26",
+    "_id": "389816",
+    "_score": 18.414743,
+    "entrezgene": "389816",
+    "name": "leucine rich repeat containing 26",
+    "symbol": "LRRC26",
+    "taxid": 9606
+  },
+  {
+    "query": "LYZ",
+    "_id": "4069",
+    "_score": 18.458153,
+    "entrezgene": "4069",
+    "name": "lysozyme",
+    "symbol": "LYZ",
+    "taxid": 9606
+  },
+  {
+    "query": "LTF",
+    "_id": "4057",
+    "_score": 19.237755,
+    "entrezgene": "4057",
+    "name": "lactotransferrin",
+    "symbol": "LTF",
+    "taxid": 9606
+  },
+  {
+    "query": "LCN1",
+    "_id": "3933",
+    "_score": 21.470654,
+    "entrezgene": "3933",
+    "name": "lipocalin 1",
+    "symbol": "LCN1",
+    "taxid": 9606
+  },
+  {
+    "query": "LCN2",
+    "_id": "3934",
+    "_score": 19.424494,
+    "entrezgene": "3934",
+    "name": "lipocalin 2",
+    "symbol": "LCN2",
+    "taxid": 9606
+  },
+  {
+    "query": "C3",
+    "_id": "718",
+    "_score": 18.28479,
+    "entrezgene": "718",
+    "name": "complement C3",
+    "symbol": "C3",
+    "taxid": 9606
+  },
+  {
+    "query": "WFDC2",
+    "_id": "10406",
+    "_score": 17.944502,
+    "entrezgene": "10406",
+    "name": "WAP four-disulfide core domain 2",
+    "symbol": "WFDC2",
+    "taxid": 9606
+  },
+  {
+    "query": "KRT5",
+    "_id": "3852",
+    "_score": 18.955662,
+    "entrezgene": "3852",
+    "name": "keratin 5",
+    "symbol": "KRT5",
+    "taxid": 9606
+  },
+  {
+    "query": "BPIFA1",
+    "_id": "51297",
+    "_score": 19.538046,
+    "entrezgene": "51297",
+    "name": "BPI fold containing family A member 1",
+    "symbol": "BPIFA1",
+    "taxid": 9606
+  },
+  {
+    "query": "KRT5",
+    "_id": "3852",
+    "_score": 18.955662,
+    "entrezgene": "3852",
+    "name": "keratin 5",
+    "symbol": "KRT5",
+    "taxid": 9606
+  },
+  {
+    "query": "PAX6",
+    "_id": "5080",
+    "_score": 18.183218,
+    "entrezgene": "5080",
+    "name": "paired box 6",
+    "symbol": "PAX6",
+    "taxid": 9606
+  },
+  {
+    "query": "AQP5",
+    "_id": "362",
+    "_score": 18.57627,
+    "entrezgene": "362",
+    "name": "aquaporin 5",
+    "symbol": "AQP5",
+    "taxid": 9606
+  },
+  {
+    "query": "LTF",
+    "_id": "4057",
+    "_score": 19.237755,
+    "entrezgene": "4057",
+    "name": "lactotransferrin",
+    "symbol": "LTF",
+    "taxid": 9606
+  },
+  {
+    "query": "KRT5",
+    "_id": "3852",
+    "_score": 18.955662,
+    "entrezgene": "3852",
+    "name": "keratin 5",
+    "symbol": "KRT5",
+    "taxid": 9606
+  },
+  {
+    "query": "KI67",
+    "notfound": true
+  },
+  {
+    "query": "ACTA2",
+    "_id": "59",
+    "_score": 17.648138,
+    "entrezgene": "59",
+    "name": "actin alpha 2, smooth muscle",
+    "symbol": "ACTA2",
+    "taxid": 9606
+  },
+  {
+    "query": "LYZ",
+    "_id": "4069",
+    "_score": 18.458153,
+    "entrezgene": "4069",
+    "name": "lysozyme",
+    "symbol": "LYZ",
+    "taxid": 9606
+  },
+  {
+    "query": "LCN2",
+    "_id": "3934",
+    "_score": 19.424494,
+    "entrezgene": "3934",
+    "name": "lipocalin 2",
+    "symbol": "LCN2",
+    "taxid": 9606
+  },
+  {
+    "query": "BPIFA1",
+    "_id": "51297",
+    "_score": 19.538046,
+    "entrezgene": "51297",
+    "name": "BPI fold containing family A member 1",
+    "symbol": "BPIFA1",
+    "taxid": 9606
+  },
+  {
+    "query": "PRR27",
+    "_id": "401137",
+    "_score": 20.027515,
+    "entrezgene": "401137",
+    "name": "proline rich 27",
+    "symbol": "PRR27",
+    "taxid": 9606
+  },
+  {
+    "query": "WFDC2",
+    "_id": "10406",
+    "_score": 17.944502,
+    "entrezgene": "10406",
+    "name": "WAP four-disulfide core domain 2",
+    "symbol": "WFDC2",
+    "taxid": 9606
+  },
+  {
+    "query": "SCGB2A1",
+    "_id": "4246",
+    "_score": 23.074274,
+    "entrezgene": "4246",
+    "name": "secretoglobin family 2A member 1",
+    "symbol": "SCGB2A1",
+    "taxid": 9606
+  },
+  {
+    "query": "HTN1",
+    "_id": "3346",
+    "_score": 23.484547,
+    "entrezgene": "3346",
+    "name": "histatin 1",
+    "symbol": "HTN1",
+    "taxid": 9606
+  },
+  {
+    "query": "LCN1",
+    "_id": "3933",
+    "_score": 21.470654,
+    "entrezgene": "3933",
+    "name": "lipocalin 1",
+    "symbol": "LCN1",
+    "taxid": 9606
+  },
+  {
+    "query": "ISL1",
+    "_id": "3670",
+    "_score": 18.226837,
+    "entrezgene": "3670",
+    "name": "ISL LIM homeobox 1",
+    "symbol": "ISL1",
+    "taxid": 9606
+  },
+  {
+    "query": "SIX3",
+    "_id": "6496",
+    "_score": 18.255543,
+    "entrezgene": "6496",
+    "name": "SIX homeobox 3",
+    "symbol": "SIX3",
+    "taxid": 9606
+  },
+  {
+    "query": "NKX2.1",
+    "notfound": true
+  },
+  {
+    "query": "LHX6",
+    "_id": "26468",
+    "_score": 18.102406,
+    "entrezgene": "26468",
+    "name": "LIM homeobox 6",
+    "symbol": "LHX6",
+    "taxid": 9606
+  },
+  {
+    "query": "LHX8",
+    "_id": "431707",
+    "_score": 18.167933,
+    "entrezgene": "431707",
+    "name": "LIM homeobox 8",
+    "symbol": "LHX8",
+    "taxid": 9606
+  },
+  {
+    "query": "SP8",
+    "_id": "221833",
+    "_score": 18.307924,
+    "entrezgene": "221833",
+    "name": "Sp8 transcription factor",
+    "symbol": "SP8",
+    "taxid": 9606
+  },
+  {
+    "query": "COUP-TFII (NR2F2)",
+    "notfound": true
+  },
+  {
+    "query": "PAX6",
+    "_id": "5080",
+    "_score": 18.183218,
+    "entrezgene": "5080",
+    "name": "paired box 6",
+    "symbol": "PAX6",
+    "taxid": 9606
+  },
+  {
+    "query": "OCT6 (POU3F1)",
+    "notfound": true
+  },
+  {
+    "query": "ISL1",
+    "_id": "3670",
+    "_score": 18.226837,
+    "entrezgene": "3670",
+    "name": "ISL LIM homeobox 1",
+    "symbol": "ISL1",
+    "taxid": 9606
+  },
+  {
+    "query": "SIX3",
+    "_id": "6496",
+    "_score": 18.255543,
+    "entrezgene": "6496",
+    "name": "SIX homeobox 3",
+    "symbol": "SIX3",
+    "taxid": 9606
+  },
+  {
+    "query": "CTIP2",
+    "notfound": true
+  },
+  {
+    "query": "ISL1",
+    "_id": "3670",
+    "_score": 18.226837,
+    "entrezgene": "3670",
+    "name": "ISL LIM homeobox 1",
+    "symbol": "ISL1",
+    "taxid": 9606
+  },
+  {
+    "query": "SIX3",
+    "_id": "6496",
+    "_score": 18.255543,
+    "entrezgene": "6496",
+    "name": "SIX homeobox 3",
+    "symbol": "SIX3",
+    "taxid": 9606
+  },
+  {
+    "query": "OCT6",
+    "notfound": true
+  },
+  {
+    "query": "NEFM",
+    "_id": "4741",
+    "_score": 18.281511,
+    "entrezgene": "4741",
+    "name": "neurofilament medium chain",
+    "symbol": "NEFM",
+    "taxid": 9606
+  },
+  {
+    "query": "OCT6",
+    "notfound": true
+  },
+  {
+    "query": "OTX1",
+    "_id": "5013",
+    "_score": 17.672253,
+    "entrezgene": "5013",
+    "name": "orthodenticle homeobox 1",
+    "symbol": "OTX1",
+    "taxid": 9606
+  },
+  {
+    "query": "VAX1",
+    "_id": "11023",
+    "_score": 17.617977,
+    "entrezgene": "11023",
+    "name": "ventral anterior homeobox 1",
+    "symbol": "VAX1",
+    "taxid": 9606
+  },
+  {
+    "query": "POU2F2",
+    "_id": "5452",
+    "_score": 18.717087,
+    "entrezgene": "5452",
+    "name": "POU class 2 homeobox 2",
+    "symbol": "POU2F2",
+    "taxid": 9606
+  },
+  {
+    "query": "NANOG",
+    "_id": "79923",
+    "_score": 18.386465,
+    "entrezgene": "79923",
+    "name": "Nanog homeobox",
+    "symbol": "NANOG",
+    "taxid": 9606
+  },
+  {
+    "query": "FOXO1",
+    "_id": "2308",
+    "_score": 18.195557,
+    "entrezgene": "2308",
+    "name": "forkhead box O1",
+    "symbol": "FOXO1",
+    "taxid": 9606
+  },
+  {
+    "query": "IKZF1",
+    "_id": "10320",
+    "_score": 17.624392,
+    "entrezgene": "10320",
+    "name": "IKAROS family zinc finger 1",
+    "symbol": "IKZF1",
+    "taxid": 9606
+  },
+  {
+    "query": "IKZF1",
+    "_id": "10320",
+    "_score": 17.624392,
+    "entrezgene": "10320",
+    "name": "IKAROS family zinc finger 1",
+    "symbol": "IKZF1",
+    "taxid": 9606
+  },
+  {
+    "query": "MAFB",
+    "_id": "9935",
+    "_score": 17.915798,
+    "entrezgene": "9935",
+    "name": "MAF bZIP transcription factor B",
+    "symbol": "MAFB",
+    "taxid": 9606
+  },
+  {
+    "query": "OCT6",
+    "notfound": true
+  },
+  {
+    "query": "PDYN",
+    "_id": "5173",
+    "_score": 17.690031,
+    "entrezgene": "5173",
+    "name": "prodynorphin",
+    "symbol": "PDYN",
+    "taxid": 9606
+  },
+  {
+    "query": "TSHZ1",
+    "_id": "10194",
+    "_score": 17.667841,
+    "entrezgene": "10194",
+    "name": "teashirt zinc finger homeobox 1",
+    "symbol": "TSHZ1",
+    "taxid": 9606
+  },
+  {
+    "query": "PDYN",
+    "_id": "5173",
+    "_score": 17.690031,
+    "entrezgene": "5173",
+    "name": "prodynorphin",
+    "symbol": "PDYN",
+    "taxid": 9606
+  },
+  {
+    "query": "TSHZ1",
+    "_id": "10194",
+    "_score": 17.667841,
+    "entrezgene": "10194",
+    "name": "teashirt zinc finger homeobox 1",
+    "symbol": "TSHZ1",
+    "taxid": 9606
+  },
+  {
+    "query": "SALL3",
+    "_id": "27164",
+    "_score": 18.22368,
+    "entrezgene": "27164",
+    "name": "spalt like transcription factor 3",
+    "symbol": "SALL3",
+    "taxid": 9606
+  },
+  {
+    "query": "LINC01896",
+    "_id": "ENSG00000262280",
+    "_score": 25.49844,
+    "name": "long intergenic non-protein coding RNA 1896",
+    "symbol": "LINC01896",
+    "taxid": 9606
+  },
+  {
+    "query": "LINC01896",
+    "_id": "ENSG00000282765",
+    "_score": 25.49844,
+    "name": "long intergenic non-protein coding RNA 1896",
+    "symbol": "LINC01896",
+    "taxid": 9606
+  },
+  {
+    "query": "LINC01896",
+    "_id": "ENSG00000263146",
+    "_score": 25.49844,
+    "name": "long intergenic non-protein coding RNA 1896",
+    "symbol": "LINC01896",
+    "taxid": 9606
+  },
+  {
+    "query": "LINC01896",
+    "_id": "645321",
+    "_score": 25.49844,
+    "entrezgene": "645321",
+    "name": "long intergenic non-protein coding RNA 1896",
+    "symbol": "LINC01896",
+    "taxid": 9606
+  },
+  {
+    "query": "ZNF467",
+    "_id": "168544",
+    "_score": 18.8248,
+    "entrezgene": "168544",
+    "name": "zinc finger protein 467",
+    "symbol": "ZNF467",
+    "taxid": 9606
+  },
+  {
+    "query": "ZNF467",
+    "_id": "168544",
+    "_score": 18.8248,
+    "entrezgene": "168544",
+    "name": "zinc finger protein 467",
+    "symbol": "ZNF467",
+    "taxid": 9606
+  },
+  {
+    "query": "OCT6",
+    "notfound": true
+  },
+  {
+    "query": "OCT6",
+    "notfound": true
+  },
+  {
+    "query": "IKZF1",
+    "_id": "10320",
+    "_score": 17.624392,
+    "entrezgene": "10320",
+    "name": "IKAROS family zinc finger 1",
+    "symbol": "IKZF1",
+    "taxid": 9606
+  },
+  {
+    "query": "MAFB",
+    "_id": "9935",
+    "_score": 17.915798,
+    "entrezgene": "9935",
+    "name": "MAF bZIP transcription factor B",
+    "symbol": "MAFB",
+    "taxid": 9606
+  },
+  {
+    "query": "PDYN",
+    "_id": "5173",
+    "_score": 17.690031,
+    "entrezgene": "5173",
+    "name": "prodynorphin",
+    "symbol": "PDYN",
+    "taxid": 9606
+  },
+  {
+    "query": "TSHZ1",
+    "_id": "10194",
+    "_score": 17.667841,
+    "entrezgene": "10194",
+    "name": "teashirt zinc finger homeobox 1",
+    "symbol": "TSHZ1",
+    "taxid": 9606
+  },
+  {
+    "query": "ISL1",
+    "_id": "3670",
+    "_score": 18.226837,
+    "entrezgene": "3670",
+    "name": "ISL LIM homeobox 1",
+    "symbol": "ISL1",
+    "taxid": 9606
+  },
+  {
+    "query": "SIX3",
+    "_id": "6496",
+    "_score": 18.255543,
+    "entrezgene": "6496",
+    "name": "SIX homeobox 3",
+    "symbol": "SIX3",
+    "taxid": 9606
+  }
+]

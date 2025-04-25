@@ -1,0 +1,11 @@
+cluster,degs,annotated_species,annotated_tissue,annotated_cell_type,reference_markers,score
+cluster_0,"['C1QC', 'CXCL9', 'CXCL10']",Human,Liver Metastasis (Liv.Mets),C1QC+ TAMs,"['C1QC', 'CXCL9', 'CXCL10']",1.3083333333333333
+cluster_0,"['C1QC', 'CXCL9', 'CXCL10']",Human,Tumor microenvironment,TAMs (C1QC+),['C1QC'],1.0
+cluster_0,"['C1QC', 'CXCL9', 'CXCL10']",Human,Tumor microenvironment,cDC2s (C1QC+),['C1QC'],1.0
+cluster_0,"['C1QC', 'CXCL9', 'CXCL10']",Human,,Macrophage,"['SPP1', 'C1QC', 'NLRP3']",0.55
+cluster_0,"['C1QC', 'CXCL9', 'CXCL10']",,,c38_cDC2-C1QC cells,"['C1QA', 'C1QB', 'C1QC', 'CCL4']",0.4
+cluster_1,"['SPP1', 'C1QC', 'NLRP3']",Human,,Macrophage,"['SPP1', 'C1QC', 'NLRP3']",1.3083333333333333
+cluster_1,"['SPP1', 'C1QC', 'NLRP3']",Human,Liver Metastasis (Liv.Mets),SPP1+ TAMs,"['SPP1', 'CD68', 'MARCO']",1.0
+cluster_1,"['SPP1', 'C1QC', 'NLRP3']",Human,Tumor microenvironment,TAMs (SPP1+),['SPP1'],1.0
+cluster_1,"['SPP1', 'C1QC', 'NLRP3']",Human,,TAMs,['SPP1'],1.0
+cluster_1,"['SPP1', 'C1QC', 'NLRP3']",,,SPP1+ TAMs,"['SPP1', 'MARCO', 'GPNMB', 'RGCC', 'MMP19', 'OLR1', 'APOE']",1.0

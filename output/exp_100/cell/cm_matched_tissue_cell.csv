@@ -1,0 +1,1389 @@
+ori_tissue,ori_cell_type,corrected_tissue,corrected_cell_type,corrected
+heart muscle,cardiomyocyte,,,False
+heart muscle,cardiomyocyte,,,False
+heart muscle,cardiomyocyte,,,False
+heart muscle,cardiomyocyte,,,False
+heart muscle,neuron,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,t helper 2(th2) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,effector th2-like cell,,,False
+esophagus,effector th2 cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,t helper 2(th2) cell,,,False
+esophagus,t helper 2(th2) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+esophagus,t helper 2(th2) cell,,,False
+esophagus,regulatory t(treg) cell,,,False
+heart,endothelial cell,,,False
+heart,hematopoietic cell,,,False
+heart,hematopoietic cell,,,False
+heart,myofibroblast,,,False
+heart,endothelial cell,,,False
+heart,hematopoietic cell,,,False
+heart,hematopoietic cell,,,False
+heart,endothelial cell,,,False
+heart,endocardial cell,,,False
+heart,endothelial cell,,,False
+heart,hematopoietic cell,,,False
+heart,hematopoietic cell,,,False
+heart,endothelial cell,,,False
+heart,hematopoietic cell,,,False
+heart,hematopoietic cell,,,False
+heart,endocardial cell,,,False
+heart,endocardial cell,,,False
+heart,endocardial cell,,,False
+heart,endocardial cell,,,False
+retina,cone photoreceptor cell,,,False
+retina,horizontal cell,,,False
+retina,microglial cell,,,False
+retina,müller glial cell,,,False
+retina,cone photoreceptor cell,,,False
+retina,cone photoreceptor cell,,,False
+retina,cone photoreceptor cell,,,False
+retina,retinal ganglion cell,,,False
+retina,cone photoreceptor cell,,,False
+retina,cone photoreceptor cell,,,False
+retina,cone photoreceptor cell,,,False
+retina,retinal ganglion cell,,,False
+retina,müller glial cell,,,False
+retina,cone photoreceptor cell,,,False
+retina,horizontal cell,,,False
+retina,retinal astrocyte,,,False
+retina,rod cell,,,False
+retina,retinal ganglion cell,,,False
+retina,rod cell,,,False
+retina,amacrine cell,,,False
+retina,cone photoreceptor cell,,,False
+retina,bipolar cell,,,False
+retina,rod cell,,,False
+retina,bipolar cell,,,False
+retina,microglial cell,,,False
+retina,amacrine cell,,,False
+retina,amacrine cell,,,False
+retina,cone photoreceptor cell,,,False
+retina,cone photoreceptor cell,,,False
+retina,microglial cell,,,False
+retina,neurogenic retinal progenitor cell,,,False
+retina,neurogenic retinal progenitor cell,,,False
+retina,multipotent retinal progenitor cell,,,False
+retina,multipotent retinal progenitor cell,,,False
+retina,neurogenic retinal progenitor cell,,,False
+retina,neuron,,,False
+retina,neurogenic retinal progenitor cell,,,False
+retina,neurogenic retinal progenitor cell,,,False
+retina,multipotent retinal progenitor cell,,,False
+retina,neurogenic retinal progenitor cell,,,False
+retina,neurogenic retinal progenitor cell,,,False
+retina,neurogenic retinal progenitor cell,,,False
+retina,multipotent retinal progenitor cell,,,False
+retina,multipotent retinal progenitor cell,,,False
+retina,neuron,,,False
+retina,neurogenic retinal progenitor cell,,,False
+retina,multipotent retinal progenitor cell,,,False
+retina,multipotent retinal progenitor cell,,,False
+retina,neuron,,,False
+retina,multipotent retinal progenitor cell,,,False
+retina,multipotent retinal progenitor cell,,,False
+retina,adult neural stem cell,,,False
+retina,multipotent retinal progenitor cell,,,False
+retina,adult neural stem cell,,,False
+retina,neurogenic retinal progenitor cell,,,False
+retina,neuron,,,False
+retina,microglial cell,,,False
+retina,horizontal cell,,,False
+retina,microglial cell,,,False
+retina,vascular cell,,,False
+retina,retinal ganglion cell,,,False
+retina,vascular cell,,,False
+retina,rod cell,,,False
+retina,cone cell,,,False
+retina,bipolar cell,,,False
+retina,amacrine cell,,,False
+retina,retinal ganglion cell,,,False
+retina,vascular cell,,,False
+retina,vascular cell,,,False
+retina,cone cell,,,False
+retina,müller glial cell,,,False
+retina,rod cell,,,False
+retina,amacrine cell,,,False
+retina,astrocyte,,,False
+retina,rod cell,,,False
+retina,astrocyte,,,False
+retina,cone cell,,,False
+retina,macroglial cell,,,False
+retina,retinal ganglion cell,,,False
+retina,vascular cell,,,False
+retina,microglial cell,,,False
+retina,cone cell,,,False
+retina,horizontal cell,,,False
+retina,macroglial cell,,,False
+retina,müller glial cell,,,False
+retina,müller glial cell,,,False
+retina,bipolar cell,,,False
+retina,microglial cell,,,False
+retina,horizontal cell,,,False
+retina,macroglial cell,,,False
+retina,retinal ganglion cell,,,False
+retina,bipolar cell,,,False
+retina,bipolar cell,,,False
+retina,astrocyte,,,False
+retina,astrocyte,,,False
+retina,astrocyte,,,False
+choroid,artery cell,,,False
+choroid,macrophage,,,False
+choroid,retinal pigment epithelial cell,,,False
+choroid,nonmyelinating schwann cell,,,False
+choroid,fibroblast,,,False
+choroid,vein cell,,,False
+choroid,artery cell,,,False
+choroid,mast cell,,,False
+choroid,nonmyelinating schwann cell,,,False
+choroid,leukocyte,,,False
+choroid,vein cell,,,False
+choroid,endothelial cell,,,False
+choroid,melanocyte,,,False
+choroid,myelinating schwann cell,,,False
+choroid,smooth muscle cell,,,False
+choroid,melanocyte,,,False
+choroid,melanocyte,,,False
+choroid,nonmyelinating schwann cell,,,False
+choroid,myelinating schwann cell,,,False
+choroid,endothelial cell,,,False
+choroid,melanocyte,,,False
+choroid,choriocapillaris cell,,,False
+choroid,schwann cell,,,False
+choroid,t cell,,,False
+choroid,choriocapillaris cell,,,False
+choroid,pericyte,,,False
+choroid,nonmyelinating schwann cell,,,False
+choroid,retinal pigment epithelial cell,,,False
+choroid,natural killer cell,,,False
+choroid,b cell,,,False
+choroid,endothelial cell,,,False
+eye,horizontal cell,,,False
+eye,rod cell,,,False
+eye,mueller glia cell,,,False
+eye,bipolar cell,,,False
+eye,amacrine cell,,,False
+eye,retinal ganglion cell,eye,retinal ganglion cell,True
+eye,cone cell,,,False
+esophagus,monocyte,,,False
+esophagus,immune cell,,,False
+esophagus,cytotoxic t cell,,,False
+esophagus,cd8+ t cell,,,False
+esophagus,conventional dendritic cell 2(cdc2),,,False
+esophagus,endothelial cell,,,False
+esophagus,stratified keratinocyte,,,False
+esophagus,b cell,,,False
+esophagus,b cell,,,False
+esophagus,b cell,,,False
+esophagus,cytotoxic t cell,,,False
+esophagus,cd4+ t cell,,,False
+esophagus,cytotoxic t cell,,,False
+esophagus,conventional dendritic cell 2(cdc2),,,False
+esophagus,vascular cell,,,False
+esophagus,gland ductal cell,,,False
+esophagus,gland cell,,,False
+esophagus,natural killer cell,,,False
+esophagus,b cell,,,False
+esophagus,gland ductal cell,,,False
+esophagus,b cell,,,False
+esophagus,cd8+ t cell,,,False
+esophagus,stromal cell,,,False
+esophagus,natural killer cell,,,False
+esophagus,mast cell,,,False
+esophagus,cd8+ t cell,,,False
+esophagus,monocyte,,,False
+esophagus,macrophage,,,False
+esophagus,dividing cell,,,False
+esophagus,cd4+ t cell,,,False
+esophagus,gland cell,,,False
+esophagus,vascular cell,,,False
+esophagus,stromal cell,,,False
+esophagus,b cell,,,False
+esophagus,basal epithelial cell,,,False
+esophagus,monocyte,,,False
+esophagus,basal epithelial cell,,,False
+esophagus,basal epithelial cell,,,False
+esophagus,stromal cell,,,False
+esophagus,endothelial cell,,,False
+esophagus,cd4+ t cell,,,False
+esophagus,b cell,,,False
+lung,cytotoxic t cell,,,False
+lung,cd8+ t cell,,,False
+lung,alveolar cell type 1,,,False
+lung,cytotoxic t cell,,,False
+lung,cytotoxic t cell,,,False
+lung,cd8+ t cell,,,False
+lung,cd8+ t cell,,,False
+lung,plasmacytoid dendritic cell(pdc),,,False
+lung,ciliated cell,,,False
+lung,monocyte,,,False
+lung,cd4+ t cell,,,False
+lung,dividing cell,,,False
+lung,natural killer cell,lung,nk cell,True
+lung,plasmacytoid dendritic cell(pdc),,,False
+lung,ciliated cell,,,False
+lung,alveolar cell type 1,,,False
+lung,macrophage,lung,macrophage,True
+lung,macrophage,lung,macrophage,True
+lung,vascular cell,,,False
+lung,b cell,lung,b cell,True
+lung,alveolar cell type 1,,,False
+lung,ciliated cell,,,False
+lung,conventional dendritic cell 2(cdc2),,,False
+lung,conventional dendritic cell 1(cdc1),,,False
+lung,fibroblast,lung,fibroblast,True
+lung,cd4+ t cell,,,False
+lung,monocyte,,,False
+lung,monocyte,,,False
+lung,macrophage,lung,macrophage,True
+lung,natural killer cell,lung,nk cell,True
+lung,fibroblast,lung,fibroblast,True
+lung,regulatory t(treg) cell,,,False
+lung,activated dendritic cell,,,False
+lung,conventional dendritic cell 1(cdc1),,,False
+lung,alveolar cell type 2,,,False
+lung,b cell,lung,b cell,True
+lung,conventional dendritic cell 2(cdc2),,,False
+lung,alveolar cell type 1,,,False
+lung,plasma cell,lung,plasma cell,True
+lung,b cell,lung,b cell,True
+lung,natural killer cell,lung,nk cell,True
+lung,alveolar cell type 2,,,False
+lung,regulatory t(treg) cell,,,False
+lung,plasma cell,lung,plasma cell,True
+lung,muscularis cell,,,False
+lung,muscularis cell,,,False
+lung,dividing cell,,,False
+lung,vascular cell,,,False
+lung,alveolar cell type 2,,,False
+lung,alveolar cell type 2,,,False
+lung,cd4+ t cell,,,False
+lung,vascular cell,,,False
+lung,mast cell,,,False
+lung,plasma cell,lung,plasma cell,True
+spleen,regulatory t(treg) cell,,,False
+spleen,regulatory t(treg) cell,,,False
+spleen,cd34+ progenitor cell,,,False
+spleen,cytotoxic t cell,,,False
+spleen,dividing cell,,,False
+spleen,cd34+ progenitor cell,,,False
+spleen,follicular b cell,,,False
+spleen,t follicular helper(tfh) cell,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,cd34+ progenitor cell,,,False
+spleen,follicular b cell,,,False
+spleen,cd4+ t cell,,,False
+spleen,follicular b cell,,,False
+spleen,monocyte,,,False
+spleen,somatic hypermutation b cell,,,False
+spleen,conventional dendritic cell 2(cdc2),,,False
+spleen,cd4+ t cell,,,False
+spleen,follicular b cell,,,False
+spleen,innate lymphoid cell,spleen,innate lymphoid cell,True
+spleen,t follicular helper(tfh) cell,,,False
+spleen,cd4+ t cell,,,False
+spleen,natural killer cell,spleen,nk cell,True
+spleen,monocyte,,,False
+spleen,natural killer cell,spleen,nk cell,True
+spleen,conventional dendritic cell 2(cdc2),,,False
+spleen,mait-like cell,,,False
+spleen,platelet,spleen,platelet,True
+spleen,platelet,spleen,platelet,True
+spleen,mait-like cell,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,t follicular helper(tfh) cell,,,False
+spleen,plasmacytoid dendritic cell,spleen,plasmacytoid dendritic cell,True
+spleen,dividing cell,,,False
+spleen,natural killer cell,spleen,nk cell,True
+spleen,immune cell,,,False
+spleen,γ δ t cell,,,False
+spleen,plasma cell,spleen,plasma cell,True
+spleen,plasmacytoid dendritic cell,spleen,plasmacytoid dendritic cell,True
+spleen,monocyte,,,False
+spleen,cd8+ t cell,,,False
+spleen,innate lymphoid cell,spleen,innate lymphoid cell,True
+spleen,mantle b cell,,,False
+spleen,γ δ t cell,,,False
+spleen,follicular b cell,,,False
+spleen,plasma cell,spleen,plasma cell,True
+spleen,natural killer cell,spleen,nk cell,True
+spleen,dividing cell,,,False
+spleen,conventional dendritic cell 1(cdc1),,,False
+spleen,dividing cell,,,False
+spleen,cytotoxic t cell,,,False
+spleen,b cell,,,False
+spleen,innate lymphoid cell,spleen,innate lymphoid cell,True
+spleen,innate lymphoid cell,spleen,innate lymphoid cell,True
+spleen,cd8+ t cell,,,False
+spleen,plasma cell,spleen,plasma cell,True
+spleen,conventional dendritic cell 1(cdc1),,,False
+spleen,plasma cell,spleen,plasma cell,True
+spleen,mantle b cell,,,False
+spleen,cytotoxic t cell,,,False
+spleen,activated dendritic cell,,,False
+spleen,b cell,,,False
+spleen,naïve cell,,,False
+spleen,b cell,,,False
+spleen,cd8+ t cell,,,False
+spleen,plasma cell,spleen,plasma cell,True
+eye,cd8+ t cell,,,False
+retina,rod cell,,,False
+retina,neuron,,,False
+retina,later-stage progenitor cell,,,False
+retina,glial cell,,,False
+retina,forebrain cell,,,False
+retina,glial cell,,,False
+retina,neuron,,,False
+retina,forebrain cell,,,False
+retina,progenitor cell,,,False
+retina,later-stage progenitor cell,,,False
+retina,photoreceptor cell,,,False
+retina,bipolar cell,,,False
+retina,t helper 1(th1) cell,,,False
+retina,bipolar cell,,,False
+retina,bipolar cell,,,False
+retina,bipolar cell,,,False
+retina,neuron,,,False
+retina,neuron,,,False
+retina,progenitor cell,,,False
+retina,ganglion cell,,,False
+retina,photoreceptor cell,,,False
+stomach,naïve or central memory  t cell,,,False
+stomach,cytotoxic cell,,,False
+stomach,cd8 t cell,,,False
+stomach,fibroblast,,,False
+stomach,cytotoxic cell,,,False
+stomach,cd8 t cell,,,False
+stomach,smooth muscle cell,,,False
+stomach,gastric neuroendocrine cell,,,False
+stomach,endothelial cell,,,False
+stomach,fibroblast,,,False
+stomach,macrophage,,,False
+stomach,cytotoxic cell,,,False
+stomach,cytotoxic cell,,,False
+stomach,intestinal epithelial cell,,,False
+stomach,pericyte,,,False
+stomach,myofibroblast,,,False
+stomach,natural killer cell,,,False
+stomach,natural killer cell,,,False
+stomach,cytotoxic cell,,,False
+stomach,antrum gastric epithelial cell,,,False
+stomach,fibroblast,,,False
+stomach,macrophage,,,False
+stomach,dendritic cell,,,False
+stomach,gastric neuroendocrine cell,,,False
+stomach,cytotoxic cell,,,False
+stomach,fibroblast,,,False
+stomach,mast cell,,,False
+stomach,naïve or central memory  t cell,,,False
+stomach,endothelial cell,,,False
+stomach,regulatory t(treg) cell,,,False
+stomach,macrophage,,,False
+stomach,myofibroblast,,,False
+stomach,gastric parietal cell,,,False
+stomach,endothelial cell,,,False
+stomach,cytotoxic cell,,,False
+stomach,dendritic cell,,,False
+stomach,dendritic cell,,,False
+stomach,myofibroblast,,,False
+stomach,t cell,,,False
+stomach,myofibroblast,,,False
+stomach,fibroblast,,,False
+stomach,tissue resident effector memory t cell,,,False
+stomach,myofibroblast,,,False
+stomach,mast cell,,,False
+stomach,antrum gastric epithelial cell,,,False
+stomach,monocyte,,,False
+stomach,gastric stem cell,,,False
+stomach,b cell,,,False
+stomach,gastric neuroendocrine cell,,,False
+stomach,t cell,,,False
+stomach,dendritic cell,,,False
+stomach,endothelial cell,,,False
+stomach,epithelial cell,,,False
+stomach,gastric neuroendocrine cell,,,False
+stomach,t cell,,,False
+stomach,monocyte,,,False
+stomach,epithelial cell,,,False
+stomach,cytotoxic cell,,,False
+stomach,myofibroblast,,,False
+stomach,regulatory t(treg) cell,,,False
+stomach,natural killer cell,,,False
+stomach,cytotoxic cell,,,False
+stomach,macrophage,,,False
+stomach,gastric stem cell,,,False
+stomach,fibroblast,,,False
+stomach,cytotoxic cell,,,False
+stomach,myofibroblast,,,False
+stomach,plasma cell,,,False
+stomach,natural killer cell,,,False
+stomach,tissue resident effector memory t cell,,,False
+stomach,epithelial cell,,,False
+stomach,gastric neuroendocrine cell,,,False
+stomach,dendritic cell,,,False
+stomach,b cell,,,False
+stomach,dendritic cell,,,False
+stomach,mast cell,,,False
+stomach,b cell,,,False
+stomach,endothelial cell,,,False
+stomach,tissue resident effector memory t cell,,,False
+stomach,pericyte,,,False
+stomach,mast cell,,,False
+stomach,epithelial cell,,,False
+stomach,epithelial cell,,,False
+blood,myeloid cell,,,False
+blood,plasmacytoid dendritic cell(pdc),,,False
+blood,b cell,,,False
+blood,myeloid cell,,,False
+blood,dendritic cell,,,False
+blood,t cell,blood,t cell,True
+blood,b cell,,,False
+blood,b cell,,,False
+blood,t cell,blood,t cell,True
+blood,myeloid cell,,,False
+blood,myeloid cell,,,False
+blood,plasmacytoid dendritic cell(pdc),,,False
+blood,b cell,,,False
+blood,t cell,blood,t cell,True
+blood,t cell,blood,t cell,True
+blood,b cell,,,False
+blood,myeloid cell,,,False
+blood,plasmacytoid dendritic cell(pdc),,,False
+blood,myeloid cell,,,False
+blood,b cell,,,False
+blood,b cell,,,False
+blood,cd4+ t cell,,,False
+blood,myeloid cell,,,False
+blood,b cell,,,False
+blood,myeloid cell,,,False
+blood,b cell,,,False
+blood,b cell,,,False
+blood,myeloid cell,,,False
+blood,myeloid cell,,,False
+blood,myeloid cell,,,False
+blood,plasmacytoid dendritic cell(pdc),,,False
+blood,myeloid cell,,,False
+retina,neuron,,,False
+retina,epithelial cell,,,False
+retina,epithelial cell,,,False
+retina,epithelial cell,,,False
+retina,neuron,,,False
+retina,epithelial cell,,,False
+retina,neuron,,,False
+peripheral blood,natural killer cell,,,False
+peripheral blood,natural killer cell,,,False
+blood,natural regulatory t cell,,,False
+blood,natural regulatory t cell,,,False
+blood,natural regulatory t cell,,,False
+blood,finally highly effector (temra) memory t cell,,,False
+blood,finally highly effector (temra) memory t cell,,,False
+blood,cd4+ t cell,,,False
+blood,effector memory t cell,,,False
+blood,finally highly effector (temra) memory t cell,,,False
+blood,finally highly effector (temra) memory t cell,,,False
+blood,cd4+ t cell,,,False
+blood,finally highly effector (temra) memory t cell,,,False
+blood,natural regulatory t cell,,,False
+blood,natural regulatory t cell,,,False
+blood,finally highly effector (temra) memory t cell,,,False
+blood,naive t(th0) cell,,,False
+blood,natural regulatory t cell,,,False
+blood,natural regulatory t cell,,,False
+blood,finally highly effector (temra) memory t cell,,,False
+blood,naive t(th0) cell,,,False
+blood,naive t(th0) cell,,,False
+blood,effector memory t cell,,,False
+blood,natural regulatory t cell,,,False
+blood,effector memory t cell,,,False
+blood,cd4+ t cell,,,False
+blood,naive t(th0) cell,,,False
+blood,natural regulatory t cell,,,False
+blood,central memory t cell,,,False
+blood,natural regulatory t cell,,,False
+blood,natural regulatory t cell,,,False
+blood,effector memory t cell,,,False
+blood,natural regulatory t cell,,,False
+blood,monocyte,blood,monocyte,True
+blood,monocyte,blood,monocyte,True
+blood,dendritic cell,,,False
+blood,monocyte,blood,monocyte,True
+blood,natural killer cell,blood,nk cell,True
+blood,t cell,blood,t cell,True
+blood,b cell,,,False
+eye,endothelial cell,eye,endothelial cell,True
+eye,endothelial cell,eye,endothelial cell,True
+eye,endothelial cell,eye,endothelial cell,True
+gastrointestinal tract,stem cell,,,False
+undefined,macrophage,,,False
+undefined,stromal cell,,,False
+undefined,cancer stem cell,,,False
+undefined,cancer stem cell,,,False
+undefined,cancer stem cell,,,False
+undefined,cancer stem cell,,,False
+undefined,cancer stem cell,,,False
+undefined,cancer stem cell,,,False
+undefined,immune cell,,,False
+undefined,epithelial cell,,,False
+umbilical cord blood,cd4+ t cell,,,False
+umbilical cord blood,cd4+ t cell,,,False
+umbilical cord blood,cd4+ t cell,,,False
+umbilical cord blood,cd4+ t cell,,,False
+blood,naive cd4 t cell,,,False
+blood,naive cd4 t cell,,,False
+blood,naive cd4 t cell,,,False
+blood,naive cd4 t cell,,,False
+blood,megakaryocyte,,,False
+blood,effector memory t cell,,,False
+blood,megakaryocyte,,,False
+blood,naive cd8+ t cell,,,False
+blood,megakaryocyte,,,False
+blood,megakaryocyte,,,False
+blood,naive cd8+ t cell,,,False
+blood,megakaryocyte,,,False
+blood,megakaryocyte,,,False
+blood,central memory cd4+ t cell,,,False
+blood,naive cd4 t cell,,,False
+blood,naive cd8+ t cell,,,False
+blood,effector memory t cell,,,False
+blood,effector memory t cell,,,False
+blood,megakaryocyte,,,False
+blood,central memory cd8+ t cell,,,False
+blood,effector memory t cell,,,False
+blood,naive cd8+ t cell,,,False
+blood,megakaryocyte,,,False
+blood,naive cd8+ t cell,,,False
+blood,conventional dendritic cell 2(cdc2),,,False
+blood,megakaryocyte,,,False
+blood,central memory cd4+ t cell,,,False
+blood,regulatory t(treg) cell,,,False
+blood,central memory cd8+ t cell,,,False
+blood,naive b cell,blood,naive b cell,True
+blood,naive cd8+ t cell,,,False
+blood,central memory cd4+ t cell,,,False
+blood,central memory cd4+ t cell,,,False
+blood,conventional dendritic cell 2(cdc2),,,False
+blood,effector memory cd8+ t cell,,,False
+blood,naive b cell,blood,naive b cell,True
+blood,megakaryocyte,,,False
+blood,regulatory t(treg) cell,,,False
+blood,central memory cd4+ t cell,,,False
+blood,conventional dendritic cell 2(cdc2),,,False
+blood,naive b cell,blood,naive b cell,True
+blood,naive cd8+ t cell,,,False
+blood,regulatory t(treg) cell,,,False
+blood,effector memory cd8+ t cell,,,False
+blood,regulatory t(treg) cell,,,False
+blood,central memory cd8+ t cell,,,False
+blood,effector memory t cell,,,False
+blood,effector memory t cell,,,False
+blood,regulatory t(treg) cell,,,False
+blood,central memory cd4+ t cell,,,False
+blood,effector memory cd8+ t cell,,,False
+blood,plasma cell,blood,plasma cell,True
+blood,naive cd4 t cell,,,False
+blood,naive cd4 t cell,,,False
+blood,central memory cd8+ t cell,,,False
+blood,plasma cell,blood,plasma cell,True
+blood,naive b cell,blood,naive b cell,True
+blood,central memory cd8+ t cell,,,False
+blood,naive b cell,blood,naive b cell,True
+blood,central memory cd8+ t cell,,,False
+blood,naive b cell,blood,naive b cell,True
+blood,central memory cd8+ t cell,,,False
+blood,conventional dendritic cell 2(cdc2),,,False
+blood,central memory cd4+ t cell,,,False
+blood,effector memory cd8+ t cell,,,False
+blood,effector memory cd8+ t cell,,,False
+blood,naive b cell,blood,naive b cell,True
+blood,naive b cell,blood,naive b cell,True
+blood,central memory cd8+ t cell,,,False
+blood,regulatory t(treg) cell,,,False
+blood,central memory cd8+ t cell,,,False
+blood,central memory cd4+ t cell,,,False
+blood,central memory cd4+ t cell,,,False
+blood,naive cd8+ t cell,,,False
+blood,regulatory t(treg) cell,,,False
+blood,plasma cell,blood,plasma cell,True
+blood,naive cd8+ t cell,,,False
+blood,naive cd8+ t cell,,,False
+blood,plasma cell,blood,plasma cell,True
+blood,conventional dendritic cell 2(cdc2),,,False
+blood,naive cd4 t cell,,,False
+blood,regulatory t(treg) cell,,,False
+blood,central memory cd8+ t cell,,,False
+blood,naive cd4 t cell,,,False
+blood,regulatory t(treg) cell,,,False
+liver,effector memory t cell,,,False
+liver,effector memory t cell,,,False
+liver,central memory cd4+ t cell,,,False
+liver,central memory cd4+ t cell,,,False
+liver,central memory cd4+ t cell,,,False
+liver,central memory cd4+ t cell,,,False
+liver,plasmacytoid dendritic cell(pdc),,,False
+liver,effector memory t cell,,,False
+liver,naive b cell,,,False
+liver,t follicular helper(tfh) cell,,,False
+liver,plasma cell,liver,plasma cell,True
+liver,macrophage,liver,macrophage,True
+liver,t follicular helper(tfh) cell,,,False
+liver,central memory cd4+ t cell,,,False
+liver,central memory cd4+ t cell,,,False
+liver,naive cd4 t cell,,,False
+liver,t follicular helper(tfh) cell,,,False
+liver,macrophage,liver,macrophage,True
+liver,effector memory t cell,,,False
+liver,effector memory t cell,,,False
+liver,macrophage,liver,macrophage,True
+liver,naive cd8+ t cell,,,False
+liver,effector memory cd8+ t cell,,,False
+liver,naive b cell,,,False
+liver,t follicular helper(tfh) cell,,,False
+liver,naive cd4 t cell,,,False
+liver,naive cd8+ t cell,,,False
+liver,macrophage,liver,macrophage,True
+liver,plasmacytoid dendritic cell(pdc),,,False
+liver,plasma cell,liver,plasma cell,True
+liver,central memory cd8+ t cell,,,False
+liver,conventional dendritic cell 2(cdc2),,,False
+liver,naive cd4 t cell,,,False
+liver,plasmacytoid dendritic cell(pdc),,,False
+liver,plasmacytoid dendritic cell(pdc),,,False
+liver,central memory cd8+ t cell,,,False
+liver,plasmacytoid dendritic cell(pdc),,,False
+liver,central memory cd4+ t cell,,,False
+liver,effector memory cd8+ t cell,,,False
+liver,central memory cd8+ t cell,,,False
+liver,regulatory t(treg) cell,,,False
+liver,macrophage,liver,macrophage,True
+liver,naive b cell,,,False
+liver,naive cd8+ t cell,,,False
+liver,naive cd8+ t cell,,,False
+liver,naive cd8+ t cell,,,False
+liver,naive cd4 t cell,,,False
+liver,regulatory t(treg) cell,,,False
+liver,macrophage,liver,macrophage,True
+liver,t follicular helper(tfh) cell,,,False
+liver,plasmacytoid dendritic cell(pdc),,,False
+liver,regulatory t(treg) cell,,,False
+liver,plasmacytoid dendritic cell(pdc),,,False
+liver,effector memory cd8+ t cell,,,False
+liver,regulatory t(treg) cell,,,False
+liver,effector memory cd8+ t cell,,,False
+liver,naive b cell,,,False
+liver,conventional dendritic cell 2(cdc2),,,False
+liver,naive cd4 t cell,,,False
+liver,central memory cd8+ t cell,,,False
+liver,effector memory cd8+ t cell,,,False
+liver,macrophage,liver,macrophage,True
+liver,macrophage,liver,macrophage,True
+liver,regulatory t(treg) cell,,,False
+liver,central memory cd4+ t cell,,,False
+liver,central memory cd4+ t cell,,,False
+liver,plasmacytoid dendritic cell(pdc),,,False
+liver,macrophage,liver,macrophage,True
+liver,effector memory t cell,,,False
+liver,plasmacytoid dendritic cell(pdc),,,False
+liver,naive cd4 t cell,,,False
+liver,naive cd4 t cell,,,False
+liver,central memory cd8+ t cell,,,False
+liver,central memory cd8+ t cell,,,False
+liver,conventional dendritic cell 1(cdc1),,,False
+liver,naive cd4 t cell,,,False
+liver,naive cd4 t cell,,,False
+liver,central memory cd8+ t cell,,,False
+liver,central memory cd8+ t cell,,,False
+liver,regulatory t(treg) cell,,,False
+liver,macrophage,liver,macrophage,True
+liver,central memory cd8+ t cell,,,False
+liver,plasma cell,liver,plasma cell,True
+liver,macrophage,liver,macrophage,True
+liver,naive cd8+ t cell,,,False
+liver,conventional dendritic cell 2(cdc2),,,False
+liver,naive cd8+ t cell,,,False
+liver,conventional dendritic cell 2(cdc2),,,False
+liver,macrophage,liver,macrophage,True
+liver,naive cd8+ t cell,,,False
+liver,regulatory t(treg) cell,,,False
+liver,regulatory t(treg) cell,,,False
+liver,naive cd8+ t cell,,,False
+liver,conventional dendritic cell 1(cdc1),,,False
+liver,macrophage,liver,macrophage,True
+liver,regulatory t(treg) cell,,,False
+liver,naive cd8+ t cell,,,False
+liver,naive b cell,,,False
+liver,conventional dendritic cell 2(cdc2),,,False
+liver,central memory cd8+ t cell,,,False
+liver,naive b cell,,,False
+liver,naive b cell,,,False
+liver,conventional dendritic cell 1(cdc1),,,False
+liver,naive b cell,,,False
+liver,plasma cell,liver,plasma cell,True
+spleen,naive cd8 t cell,,,False
+spleen,naive b cell,spleen,naive b cell,True
+spleen,naive cd8 t cell,,,False
+spleen,naive cd8 t cell,,,False
+spleen,central memory cd4+ t cell,,,False
+spleen,conventional dendritic cell 1(cdc1),,,False
+spleen,central memory cd4+ t cell,,,False
+spleen,naive b cell,spleen,naive b cell,True
+spleen,megakaryocyte,,,False
+spleen,naive cd8 t cell,,,False
+spleen,naive b cell,spleen,naive b cell,True
+spleen,naive cd8 t cell,,,False
+spleen,naive cd8 t cell,,,False
+spleen,plasma cell,spleen,plasma cell,True
+spleen,conventional dendritic cell 1(cdc1),,,False
+spleen,naive b cell,spleen,naive b cell,True
+spleen,naive cd8 t cell,,,False
+spleen,plasma cell,spleen,plasma cell,True
+spleen,naive b cell,spleen,naive b cell,True
+spleen,naive cd8 t cell,,,False
+spleen,naive cd4 t cell,,,False
+spleen,plasmacytoid dendritic cell(pdc),,,False
+spleen,naive cd4 t cell,,,False
+spleen,effector memory cd8+ t cell,,,False
+spleen,regulatory t (treg) cell,,,False
+spleen,plasma cell,spleen,plasma cell,True
+spleen,naive cd8 t cell,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,plasma cell,spleen,plasma cell,True
+spleen,macrophage,spleen,macrophage,True
+spleen,effector memory cd8+ t cell,,,False
+spleen,central memory cd8+ t cell,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,naive b cell,spleen,naive b cell,True
+spleen,megakaryocyte,,,False
+spleen,megakaryocyte,,,False
+spleen,t follicular helper(tfh) cell,,,False
+spleen,naive b cell,spleen,naive b cell,True
+spleen,monocyte,,,False
+spleen,central memory cd4+ t cell,,,False
+spleen,central memory cd4+ t cell,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,naive cd4 t cell,,,False
+spleen,naive cd8 t cell,,,False
+spleen,plasma cell,spleen,plasma cell,True
+spleen,central memory cd4+ t cell,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,central memory cd4+ t cell,,,False
+spleen,central memory cd8+ t cell,,,False
+spleen,megakaryocyte,,,False
+spleen,central memory cd8+ t cell,,,False
+spleen,naive cd4 t cell,,,False
+spleen,regulatory t (treg) cell,,,False
+spleen,regulatory t (treg) cell,,,False
+spleen,natural killer cell,spleen,nk cell,True
+spleen,central memory cd8+ t cell,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,naive cd4 t cell,,,False
+spleen,plasmacytoid dendritic cell(pdc),,,False
+spleen,conventional dendritic cell 2(cdc2),,,False
+spleen,conventional dendritic cell 1(cdc1),,,False
+spleen,central memory cd8+ t cell,,,False
+spleen,naive cd4 t cell,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,conventional dendritic cell 2(cdc2),,,False
+spleen,plasmacytoid dendritic cell(pdc),,,False
+spleen,t cell,,,False
+spleen,regulatory t (treg) cell,,,False
+spleen,regulatory t (treg) cell,,,False
+spleen,central memory cd8+ t cell,,,False
+spleen,central memory cd8+ t cell,,,False
+spleen,naive b cell,spleen,naive b cell,True
+spleen,regulatory t (treg) cell,,,False
+spleen,megakaryocyte,,,False
+spleen,central memory cd8+ t cell,,,False
+spleen,central memory cd8+ t cell,,,False
+spleen,regulatory t (treg) cell,,,False
+spleen,conventional dendritic cell 2(cdc2),,,False
+spleen,conventional dendritic cell 2(cdc2),,,False
+spleen,natural killer cell,spleen,nk cell,True
+spleen,effector memory t cell,,,False
+spleen,megakaryocyte,,,False
+spleen,naive cd4 t cell,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,natural killer cell,spleen,nk cell,True
+spleen,macrophage,spleen,macrophage,True
+spleen,macrophage,spleen,macrophage,True
+spleen,plasmacytoid dendritic cell(pdc),,,False
+spleen,effector memory cd8+ t cell,,,False
+spleen,natural killer cell,spleen,nk cell,True
+spleen,natural killer cell,spleen,nk cell,True
+spleen,central memory cd8+ t cell,,,False
+spleen,plasmacytoid dendritic cell(pdc),,,False
+spleen,effector memory cd8+ t cell,,,False
+spleen,megakaryocyte,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,regulatory t (treg) cell,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,naive cd4 t cell,,,False
+spleen,plasmacytoid dendritic cell(pdc),,,False
+spleen,central memory cd4+ t cell,,,False
+spleen,central memory cd4+ t cell,,,False
+spleen,plasmacytoid dendritic cell(pdc),,,False
+spleen,effector memory cd8+ t cell,,,False
+spleen,macrophage,spleen,macrophage,True
+spleen,t follicular helper(tfh) cell,,,False
+spleen,central memory cd4+ t cell,,,False
+spleen,effector memory t cell,,,False
+spleen,conventional dendritic cell 2(cdc2),,,False
+spleen,natural killer cell,spleen,nk cell,True
+spleen,t follicular helper(tfh) cell,,,False
+spleen,b cell,,,False
+spleen,naive cd4 t cell,,,False
+spleen,natural killer cell,spleen,nk cell,True
+spleen,megakaryocyte,,,False
+spleen,t cell,,,False
+spleen,plasmacytoid dendritic cell(pdc),,,False
+spleen,t cell,,,False
+spleen,t follicular helper(tfh) cell,,,False
+spleen,t cell,,,False
+spleen,effector memory t cell,,,False
+spleen,megakaryocyte,,,False
+spleen,t cell,,,False
+spleen,regulatory t (treg) cell,,,False
+spleen,plasmacytoid dendritic cell(pdc),,,False
+spleen,megakaryocyte,,,False
+spleen,t cell,,,False
+spleen,t follicular helper(tfh) cell,,,False
+spleen,effector memory t cell,,,False
+spleen,effector memory t cell,,,False
+spleen,effector memory t cell,,,False
+blood,t cell,blood,t cell,True
+blood,myeloid cell,,,False
+blood,natural killer cell,blood,nk cell,True
+blood,t cell,blood,t cell,True
+blood,natural killer cell,blood,nk cell,True
+blood,myeloid cell,,,False
+blood,natural killer cell,blood,nk cell,True
+blood,t cell,blood,t cell,True
+blood,myeloid cell,,,False
+blood,b cell,,,False
+blood,natural killer cell,blood,nk cell,True
+blood,t cell,blood,t cell,True
+blood,myeloid cell,,,False
+blood,lymphocyte,,,False
+blood,lymphocyte,,,False
+blood,myeloid cell,,,False
+blood,myeloid cell,,,False
+blood,lymphocyte,,,False
+undefined,cd8+ t cell,,,False
+undefined,cd8+ t cell,,,False
+undefined,b cell,,,False
+undefined,natural killer cell,,,False
+eye,vascular endothelial cell,,,False
+eye,lymphatic endothelial cell,,,False
+eye,vascular endothelial cell,,,False
+eye,vascular endothelial cell,,,False
+eye,vascular endothelial cell,,,False
+eye,vascular endothelial cell,,,False
+eye,lymphatic endothelial cell,,,False
+eye,trabecular meshwork cell,,,False
+eye,lymphatic endothelial cell,,,False
+eye,lymphatic endothelial cell,,,False
+eye,vascular endothelial cell,,,False
+eye,vascular endothelial cell,,,False
+eye,vascular endothelial cell,,,False
+eye,vascular endothelial cell,,,False
+eye,trabecular meshwork cell,,,False
+eye,vascular endothelial cell,,,False
+eye,trabecular meshwork cell,,,False
+eye,vascular endothelial cell,,,False
+eye,lymphatic endothelial cell,,,False
+eye,trabecular meshwork cell,,,False
+eye,vascular endothelial cell,,,False
+gastrointestinal tract,t cell,,,False
+gastrointestinal tract,b cell,,,False
+gastrointestinal tract,t cell,,,False
+gastrointestinal tract,b cell,,,False
+gastrointestinal tract,endocrine cell,,,False
+gastrointestinal tract,endothelial cell,,,False
+gastrointestinal tract,macrophage,,,False
+gastrointestinal tract,endothelial cell,,,False
+gastrointestinal tract,fibroblast,,,False
+gastrointestinal tract,epithelial cell,,,False
+gastrointestinal tract,mast cell,,,False
+gastrointestinal tract,epithelial cell,,,False
+gastrointestinal tract,t cell,,,False
+gastrointestinal tract,fibroblast,,,False
+gastrointestinal tract,parietal cell,,,False
+gastrointestinal tract,epithelial cell,,,False
+yolk sac,progenitor cell,,,False
+undefined,megakaryocyte,,,False
+undefined,megakaryocyte,,,False
+undefined,multipotent progenitor cell,,,False
+undefined,multipotent progenitor cell,,,False
+undefined,granulocyte,,,False
+undefined,megakaryocyte,,,False
+undefined,multipotent progenitor cell,,,False
+undefined,leukocyte,,,False
+undefined,hematopoietic stem cell,,,False
+undefined,red blood cell (erythrocyte),,,False
+undefined,macrophage,,,False
+undefined,leukocyte,,,False
+undefined,red blood cell (erythrocyte),,,False
+undefined,multipotent progenitor cell,,,False
+undefined,progenitor cell,,,False
+undefined,hematopoietic stem cell,,,False
+undefined,multipotent progenitor cell,,,False
+undefined,red blood cell (erythrocyte),,,False
+undefined,naive progenitor cell,,,False
+undefined,progenitor cell,,,False
+undefined,naive 1 progenitor cell,,,False
+undefined,hematopoietic stem cell,,,False
+undefined,hematopoietic stem cell,,,False
+undefined,red blood cell (erythrocyte),,,False
+undefined,naive 1 progenitor cell,,,False
+undefined,primitive hematopoiesis cell,,,False
+undefined,progenitor cell,,,False
+undefined,granulocyte,,,False
+undefined,progenitor cell,,,False
+undefined,progenitor cell,,,False
+undefined,naive progenitor cell,,,False
+undefined,progenitor cell,,,False
+undefined,progenitor cell,,,False
+undefined,hematopoietic stem cell,,,False
+undefined,progenitor cell,,,False
+undefined,leukocyte,,,False
+undefined,multipotent progenitor cell,,,False
+undefined,progenitor cell,,,False
+undefined,hematopoietic stem cell,,,False
+undefined,naive progenitor cell,,,False
+undefined,progenitor cell,,,False
+undefined,mesoderm cell,,,False
+undefined,red blood cell (erythrocyte),,,False
+undefined,multipotent progenitor cell,,,False
+undefined,progenitor cell,,,False
+undefined,progenitor cell,,,False
+undefined,endothelial cell,,,False
+undefined,hematopoietic stem cell,,,False
+undefined,progenitor cell,,,False
+esophagus,myofibroblast,,,False
+esophagus,myofibroblast,,,False
+esophagus,fibroblast,,,False
+esophagus,myofibroblast,,,False
+esophagus,fibroblast,,,False
+esophagus,myofibroblast,,,False
+esophagus,myofibroblast,,,False
+esophagus,myofibroblast,,,False
+esophagus,fibroblast,,,False
+esophagus,fibroblast,,,False
+esophagus,fibroblast,,,False
+esophagus,fibroblast,,,False
+retinal pigment epithelium,effector t(teff) cell,,,False
+retinal pigment epithelium,b cell,,,False
+retinal pigment epithelium,effector t(teff) cell,,,False
+retinal pigment epithelium,macrophage,,,False
+retinal pigment epithelium,macrophage,,,False
+retinal pigment epithelium,effector natural killer cell,,,False
+retinal pigment epithelium,macrophage,,,False
+retinal pigment epithelium,mast cell,,,False
+retinal pigment epithelium,mast cell,,,False
+retinal pigment epithelium,effector t(teff) cell,,,False
+retinal pigment epithelium,macrophage,,,False
+retinal pigment epithelium,effector natural killer cell,,,False
+retinal pigment epithelium,effector natural killer cell,,,False
+esophagus,cancer cell,,,False
+esophagus,cancer cell,,,False
+esophagus,cancer cell,,,False
+esophagus,cancer cell,,,False
+esophagus,cancer cell,,,False
+esophagus,cancer cell,,,False
+esophagus,cancer cell,,,False
+esophagus,cancer cell,,,False
+esophagus,cancer cell,,,False
+retina,retina cell,,,False
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+retina,retina cell,,,False
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+retina,retina cell,,,False
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+retina,retina cell,,,False
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+head and neck,conventional cd4 t cell,,,False
+head and neck,conventional cd4 t cell,,,False
+head and neck,conventional cd4 t cell,,,False
+retinal organoid,rod cell,,,False
+retinal organoid,photoreceptor cell,,,False
+retinal organoid,photoreceptor cell,,,False
+retinal organoid,cone cell,,,False
+retinal organoid,rod cell,,,False
+retinal organoid,cone cell,,,False
+esophagus,monocyte,,,False
+esophagus,monocyte,,,False
+esophagus,mast cell,,,False
+esophagus,conventional dendritic cell(cdc),,,False
+esophagus,plasmacytoid dendritic cell(pdc),,,False
+esophagus,monocyte,,,False
+esophagus,langerhans cell,,,False
+esophagus,langerhans cell,,,False
+esophagus,macrophage,,,False
+esophagus,conventional dendritic cell(cdc),,,False
+lacrimal gland,endothelial cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,epithelial cell,,,False
+lacrimal gland,epithelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,lymphocyte,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,epithelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,lymphocyte,,,False
+lacrimal gland,endothelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,acinar cell,,,False
+esophagus,classical barrett’s esophagus cell,,,False
+esophagus,classical barrett’s esophagus cell,,,False
+esophagus,classical barrett’s esophagus cell,,,False
+esophagus,classical barrett’s esophagus cell,,,False
+esophagus,classical barrett’s esophagus cell,,,False
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,intermediate progenitor cell,,,False
+lateral ganglionic eminence,lge-lineage cell (lateral ganglionic eminence),,,False
+lateral ganglionic eminence,mature msn(medium spiny neuron),,,False
+lateral ganglionic eminence,pre-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,gabaergic neuron,,,False
+lateral ganglionic eminence,early progenitor cell,,,False
+lateral ganglionic eminence,medium spiny neuron(msn),,,False
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,neuron,,,False
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,,False
+blood,memory b cell,blood,memory b cell,True
+blood,memory b cell,blood,memory b cell,True
+gall bladder,squamous cell,,,False
+gall bladder,exhausted cd8+ t cell,,,False
+gall bladder,squamous cell,,,False
+gall bladder,m2 macrophage,,,False
+gall bladder,m2 macrophage,,,False
+gall bladder,exhausted cd8+ t cell,,,False
+gall bladder,m2 macrophage,,,False
+gall bladder,exhausted cd8+ t cell,,,False
+gall bladder,regulatory t(treg) cell,,,False
+gall bladder,m2 macrophage,,,False
+blood,monocyte,blood,monocyte,True
+blood,regulatory cd4+ t cell,,,False
+blood,monocyte,blood,monocyte,True
+blood,dendritic cell,,,False
+blood,t cell,blood,t cell,True
+blood,t cell,blood,t cell,True
+blood,memory cd4+ t cell,,,False
+blood,regulatory cd4+ t cell,,,False
+blood,b cell,,,False
+blood,natural killer cell,blood,nk cell,True
+esophagus,cancer cell,,,False
+esophagus,cancer cell,,,False
+esophagus,t cell,,,False
+esophagus,fibroblast,,,False
+esophagus,t cell,,,False
+esophagus,plasma cell,,,False
+esophagus,endothelial cell,,,False
+esophagus,cancer cell,,,False
+esophagus,b cell,,,False
+esophagus,naive t(th0) cell,,,False
+esophagus,mast cell,,,False
+esophagus,b cell,,,False
+esophagus,mast cell,,,False
+esophagus,myeloid cell,,,False
+esophagus,follicular b cell,,,False
+esophagus,plasma cell,,,False
+esophagus,fibroblast,,,False
+esophagus,epithelial cell,,,False
+esophagus,endothelial cell,,,False
+esophagus,naive t(th0) cell,,,False
+esophagus,myeloid cell,,,False
+esophagus,naive t(th0) cell,,,False
+esophagus,epithelial cell,,,False
+peripheral blood,monocyte,,,False
+serum,cancer cell,,,False
+serum,cancer cell,,,False
+serum,cancer cell,,,False
+serum,cancer cell,,,False
+peripheral blood,memory t cell,,,False
+peripheral blood,naive t(th0) cell,,,False
+peripheral blood,memory t cell,,,False
+peripheral blood,naive t(th0) cell,,,False
+peripheral blood,naive t(th0) cell,,,False
+peripheral blood,memory t cell,,,False
+peripheral blood,naive t(th0) cell,,,False
+peripheral blood,memory t cell,,,False
+peripheral blood,memory t cell,,,False
+peripheral blood,naive t(th0) cell,,,False
+peripheral blood,memory t cell,,,False
+peripheral blood,memory t cell,,,False
+peripheral blood,naive t(th0) cell,,,False
+peripheral blood,memory t cell,,,False
+peripheral blood,naive t(th0) cell,,,False
+peripheral blood,naive t(th0) cell,,,False
+eye,haematopoietic progenitor cell,,,False
+eye,endothelial cell,eye,endothelial cell,True
+choroid,hematopoietic stem cell,,,False
+eye,endothelial cell,eye,endothelial cell,True
+choriocapillaris,choriocapillaris cell,,,False
+eye,endothelial cell,eye,endothelial cell,True
+eye,endothelial cell,eye,endothelial cell,True
+artery,endothelial cell,,,False
+blood,naive cd4+ t cell,,,False
+blood,terminal effector cd8+ t cell,,,False
+blood,naive cd4+ t cell,,,False
+blood,naive cd4+ t cell,,,False
+blood,naive cd8+ t cell,,,False
+blood,regulatory cd4+ t cell,,,False
+blood,naive cd4+ t cell,,,False
+blood,transitional cd8+ t cell,,,False
+blood,naive cd8+ t cell,,,False
+blood,central memory cd8+ t cell,,,False
+blood,naive cd8+ t cell,,,False
+blood,terminal effector cd8+ t cell,,,False
+blood,central memory cd8+ t cell,,,False
+blood,terminal effector cd8+ t cell,,,False
+blood,naive cd8+ t cell,,,False
+blood,regulatory cd4+ t cell,,,False
+blood,terminal effector cd8+ t cell,,,False
+blood,regulatory cd4+ t cell,,,False
+blood,regulatory cd4+ t cell,,,False
+blood,central memory cd8+ t cell,,,False
+blood,yolk sac-derived myeloid-biased progenitor cell(ysmp),,,False
+blood,yolk sac-derived myeloid-biased progenitor cell(ysmp),,,False
+blood,yolk sac-derived myeloid-biased progenitor cell(ysmp),,,False
+blood,yolk sac-derived myeloid-biased progenitor cell(ysmp),,,False
+blood,yolk sac-derived myeloid-biased progenitor cell(ysmp),,,False
+blood,effector regulatory t(etreg) cell,,,False
+blood,effector regulatory t(etreg) cell,,,False
+blood,effector regulatory t(etreg) cell,,,False
+blood,effector regulatory t(etreg) cell,,,False
+blood,effector regulatory t(etreg) cell,,,False
+peripheral blood,natural killer cell,,,False
+peripheral blood,cd4+ t cell,,,False
+peripheral blood,activated cd4+ t cell,,,False
+peripheral blood,activated cd4+ t cell,,,False
+peripheral blood,monocyte,,,False
+peripheral blood,immature b cell,,,False
+peripheral blood,mature b cell,,,False
+peripheral blood,cd4+ t cell,,,False
+peripheral blood,activated cd4+ t cell,,,False
+peripheral blood,activated cd8+ t cell,,,False
+peripheral blood,gamma delta(γδ) t cell,,,False
+peripheral blood,cd4+ t cell,,,False
+peripheral blood,natural killer cell,,,False
+peripheral blood,monocyte,,,False
+peripheral blood,cd4+ t cell,,,False
+peripheral blood,natural killer cell,,,False
+peripheral blood,cd4+ t cell,,,False
+peripheral blood,monocyte,,,False
+peripheral blood,activated cd8+ t cell,,,False
+peripheral blood,mature b cell,,,False
+peripheral blood,activated cd4+ t cell,,,False
+peripheral blood,immature b cell,,,False
+peripheral blood,natural killer cell,,,False
+peripheral blood,gamma delta(γδ) t cell,,,False
+peripheral blood,regulatory t(treg) cell,,,False
+peripheral blood,monocyte,,,False
+peripheral blood,immature b cell,,,False
+peripheral blood,gamma delta(γδ) t cell,,,False
+peripheral blood,monocyte,,,False
+peripheral blood,gamma delta(γδ) t cell,,,False
+peripheral blood,immature b cell,,,False
+peripheral blood,natural killer cell,,,False
+peripheral blood,monocyte,,,False
+peripheral blood,immature b cell,,,False
+peripheral blood,activated cd8+ t cell,,,False
+peripheral blood,natural killer cell,,,False
+peripheral blood,activated cd8+ t cell,,,False
+peripheral blood,mature b cell,,,False
+peripheral blood,activated cd8+ t cell,,,False
+peripheral blood,regulatory t(treg) cell,,,False
+peripheral blood,gamma delta(γδ) t cell,,,False
+peripheral blood,regulatory t(treg) cell,,,False
+peripheral blood,mature b cell,,,False
+peripheral blood,mature b cell,,,False
+peripheral blood,activated cd8+ t cell,,,False
+peripheral blood,mature b cell,,,False
+peripheral blood,immature b cell,,,False
+peripheral blood,regulatory t(treg) cell,,,False
+peripheral blood,regulatory t(treg) cell,,,False
+blood,natural killer cell,blood,nk cell,True
+blood,natural killer cell,blood,nk cell,True
+esophagus,transitional basal progenitor cell,,,False
+esophagus,residual embryonic cell,,,False
+esophagus,transitional basal progenitor cell,,,False
+esophagus,residual embryonic cell,,,False
+esophagus,stem cell,,,False
+esophagus,transitional basal progenitor cell,,,False
+intestine,stem cell,,,False
+esophagus,duodenal epithelial cell,,,False
+esophagus,granulocyte,,,False
+esophagus,myeloid cell,,,False
+esophagus,fibroblast,,,False
+esophagus,t cell,,,False
+esophagus,mast cell,,,False
+esophagus,esophageal epithelial cell,,,False
+esophagus,plasma cell,,,False
+esophagus,endothelial cell,,,False
+esophagus,epithelial cell,,,False
+esophagus,goblet cell,,,False
+esophagus,goblet cell,,,False
+esophagus,glandular barrett's esophagus cell,,,False
+esophagus,goblet cell,,,False
+esophagus,epithelial cell,,,False
+esophagus,goblet cell,,,False
+esophagus,epithelial cell,,,False
+esophagus,stratified esophageal cell,,,False
+esophagus,goblet cell,,,False
+blood,monocyte,blood,monocyte,True
+blood,b cell,,,False
+blood,platelet,blood,platelet,True
+esophagus,b cell,,,False
+esophagus,b cell,,,False
+esophagus,b cell,,,False
+esophagus,b cell,,,False
+esophagus,b cell,,,False
+esophagus,endothelial cell,,,False
+esophagus,epithelial cell,,,False
+esophagus,fibroblast,,,False
+esophagus,epithelial cell,,,False
+esophagus,myeloid cell,,,False
+esophagus,endothelial cell,,,False
+esophagus,endothelial cell,,,False
+esophagus,epithelial cell,,,False
+esophagus,fibroblast,,,False
+esophagus,myeloid cell,,,False
+esophagus,myeloid cell,,,False
+esophagus,t cell,,,False
+esophagus,pericyte,,,False
+esophagus,myeloid cell,,,False
+esophagus,pericyte,,,False
+esophagus,endothelial cell,,,False
+esophagus,fibroblastic reticular cell,,,False
+esophagus,myeloid cell,,,False
+esophagus,fibroblast,,,False
+esophagus,epithelial cell,,,False
+esophagus,t cell,,,False
+esophagus,fibroblast,,,False
+esophagus,t cell,,,False
+esophagus,fibroblastic reticular cell,,,False
+esophagus,myeloid cell,,,False
+esophagus,fibroblast,,,False
+esophagus,pericyte,,,False
+esophagus,t cell,,,False
+esophagus,fibroblast,,,False
+esophagus,myeloid cell,,,False
+retina,t cell,,,False
+retina,t cell,,,False
+eye,iris puttative stem cell,,,False
+eye,smooth muscle cell,,,False
+eye,iris puttative stem cell,,,False
+eye,corneal epithelial cell,eye,corneal epithelial cell,True
+eye,corneal epithelial cell,eye,corneal epithelial cell,True
+eye,iris puttative stem cell,,,False
+eye,retina ganglion cell,,,False
+eye,rod cell,,,False
+eye,monocyte,eye,monocyte,True
+eye,activated t cell,,,False
+eye,schwann cell,,,False
+eye,melanocyte,eye,melanocyte,True
+eye,monocyte,eye,monocyte,True
+eye,bipolar cell,,,False
+eye,fibroblast,eye,fibroblast,True
+eye,schwann cell,,,False
+eye,mueller glia cell,,,False
+eye,rod cell,,,False
+eye,retina ganglion cell,,,False
+eye,rod cell,,,False
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,retinal pigment epithelial cell,eye,retinal pigment epithelial cell,True
+eye,ciliary body cell,,,False
+eye,fibroblast,eye,fibroblast,True
+eye,mueller glia cell,,,False
+eye,smooth muscle cell,,,False
+eye,bipolar cell,,,False
+eye,cone cell,,,False
+eye,melanocyte,eye,melanocyte,True
+eye,cone cell,,,False
+eye,amacrine cell,,,False
+eye,amacrine cell,,,False
+eye,schwann cell,,,False
+eye,corneal epithelial cell,eye,corneal epithelial cell,True
+eye,classical dendritic cell a(cdca),,,False
+eye,classical dendritic cell a(cdca),,,False
+eye,granulocyte,,,False
+eye,mature dendritic cell,,,False
+eye,gamma delta(γδ) t cell,,,False
+eye,gamma delta(γδ) t cell,,,False
+eye,mature dendritic cell,,,False
+eye,regulatory t(treg) cell,,,False
+eye,cd8+ t cell,,,False
+eye,myeloid cell,,,False
+eye,cd4+ t cell,,,False
+eye,granulocyte,,,False
+eye,plasmacytoid dendritic cell(pdc),,,False
+eye,natural killer cell,,,False
+eye,classical dendritic cell b(cdcb),,,False
+eye,myeloid cell,,,False
+eye,cd8+ t cell,,,False
+eye,natural killer cell,,,False
+eye,plasma cell,eye,plasma cell,True
+eye,classical dendritic cell b(cdcb),,,False
+eye,naive b cell,,,False
+eye,cd4+ t cell,,,False
+eye,regulatory t(treg) cell,,,False
+eye,plasmacytoid dendritic cell(pdc),,,False
+esophagus,cancer cell,,,False
+gall bladder,cancer cell,,,False
+retinal pigment epithelium,epithelial cell,,,False
+retinal pigment epithelium,epithelial cell,,,False
+retinal pigment epithelium,epithelial cell,,,False
+retinal pigment epithelium,epithelial cell,,,False
+retinal pigment epithelium,epithelial cell,,,False
+retinal pigment epithelium,epithelial cell,,,False
+esophagus,basal cell,,,False
+esophagus,basal cell,,,False
+esophagus,basal cell,,,False
+corneal endothelium,endothelial cell,,,False
+corneal endothelium,endothelial cell,,,False
+corneal endothelium,endothelial cell,,,False
+corneal endothelium,endothelial cell,,,False
+corneal endothelium,endothelial cell,,,False
+corneal endothelium,endothelial cell,,,False
+eye,effector memory t cell,,,False
+eye,effector memory t cell,,,False
+eye,effector memory t cell,,,False
+eye,effector memory t cell,,,False
+eye,effector memory t cell,,,False
+eye,effector memory t cell,,,False
+cornea,t cell,,,False
+cornea,t cell,,,False
+cornea,t cell,,,False
+gut,regulatory t(treg) cell,,,False
+gut,regulatory t(treg) cell,,,False
+gut,regulatory t(treg) cell,,,False

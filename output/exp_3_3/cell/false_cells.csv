@@ -1,0 +1,135 @@
+ori_tissue,ori_cell_type
+tumor,mast cells
+tumor,mast cells
+tumor,cdcs (conventional dendritic cells)
+hepatocellular carcinoma,cdcs
+multiple tissues,resident tissue macrophages (rtms)
+colon cancer,tams
+hepatocellular carcinoma,tams
+uterus,mast cell
+uterus,mast cell
+thyroid tumor,mast cell
+thyroid tumor,mast cell
+tumor tissue,macrophage
+multiple cancer types,cdcs
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor or adjacent normal tissue,monocytes
+tumor or adjacent normal tissue,monocytes
+tumor or adjacent normal tissue,monocytes
+tumor or adjacent normal tissue,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+tumor,monocytes
+multiple cancer types,macrophages
+multiple cancer types,macrophages
+multiple cancer types,lyve1+ macrophages
+non-cancer tissues,nlrp3+ macrophages
+tumor,spp1+ tams
+tumor,c1qc+ tams
+tumor,isg15+ tams
+tumor,fn1+ tams
+tumor,rtms
+tumor,tams
+tumor,tams
+tumor,macrophages
+kidney tumor,tams
+kidney tumor,tams
+skcm tumor,macrophages
+tumor,cdcs
+lung cancer,macrophage
+lung cancer,macrophage
+lung cancer,macrophage
+lung cancer,macrophage
+lacrimal gland,epithelial cell
+lacrimal gland,epithelial cell
+lacrimal gland,epithelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,myoepithelial cell
+lacrimal gland,endothelial cell
+lacrimal gland,endothelial cell
+lacrimal gland,lymphocyte
+lacrimal gland,lymphocyte
+lacrimal gland,basal cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal cell
+lacrimal gland tissue,acinar cell
+lacrimal gland tissue,acinar cell
+lacrimal gland tissue,acinar cell
+lacrimal gland tissue,acinar cell
+lacrimal gland tissue,ductal cell
+lacrimal gland tissue,ductal cell
+lacrimal gland organoid,basal cell
+lacrimal gland organoid,basal cell
+lacrimal gland organoid,basal cell
+lacrimal gland organoid,basal cell
+lacrimal gland organoid,acinar cell
+lacrimal gland organoid,differentiated cell
+lacrimal gland organoid,differentiated cell
+lacrimal gland organoid,differentiated cell
+lacrimal gland organoid,differentiated cell
+lacrimal gland organoid,differentiated cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal cell
+lacrimal gland,acinar cell
+lacrimal gland,ductal and acinar cells
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,acinar cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal cell
+lacrimal gland,ductal progenitor
+lacrimal gland,acinar cell
+lge (lateral ganglionic eminence),d1-msns (d1 medium spiny neurons)
+lge (lateral ganglionic eminence),d2-msns (d2 medium spiny neurons)
+lge (lateral ganglionic eminence),mge interneurons
+lge (lateral ganglionic eminence),mge interneurons
+lge (lateral ganglionic eminence),mge interneurons
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons
+lge (lateral ganglionic eminence),dorsal lge (dlge) interneurons
+striatum,pre-msn
+striatum,pre-msn
+striatum,pre-msn
+striatum,pre-msn
+striatum,d1-msns (patch cells)
+striatum,d1-msns (patch cells)
+striatum,d2-msns (patch cells)
+striatum,d2-msns (patch cells)
+lge (lateral ganglionic eminence),apical progenitors
+lge (lateral ganglionic eminence),apical progenitors
+striatum,d1-msns
+striatum,d2-msns
+striatum,d1-msns
+striatum,d2-msns
+striatum,d1-msns
+striatum,d2-msns
+brain,medium spiny neurons (msns)
+brain,medium spiny neurons (msns)
+brain,d1 msns
+brain,d2 msns

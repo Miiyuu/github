@@ -1,0 +1,6 @@
+pmid,marker_recall,tissue_cell_recall,standard_marker_count,test_marker_count,standard_tc_count,test_tc_count
+30893597,0.8,0.0,5,29,2,8
+30958799,0.9230769230769231,0.25,13,50,4,30
+35303421,1.0,0.0,3,54,1,34
+Average,0.9076923076923077,0.08333333333333333,21,133,7,72
+Total,0.9,0.14285714285714285,20,128,7,71

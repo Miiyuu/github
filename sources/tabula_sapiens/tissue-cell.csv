@@ -1,0 +1,475 @@
+organ_tissue,cell_ontology_class
+Bladder,b cell
+Bladder,bladder urothelial cell
+Bladder,capillary endothelial cell
+Bladder,endothelial cell of lymphatic vessel
+Bladder,fibroblast
+Bladder,macrophage
+Bladder,mast cell
+Bladder,myofibroblast cell
+Bladder,nk cell
+Bladder,pericyte cell
+Bladder,plasma cell
+Bladder,plasmacytoid dendritic cell
+Bladder,smooth muscle cell
+Bladder,t cell
+Bladder,vein endothelial cell
+Blood,basophil
+Blood,cd141-positive myeloid dendritic cell
+Blood,cd24 neutrophil
+Blood,"cd4-positive, alpha-beta memory t cell"
+Blood,"cd4-positive, alpha-beta t cell"
+Blood,"cd8-positive, alpha-beta cytokine secreting effector t cell"
+Blood,"cd8-positive, alpha-beta t cell"
+Blood,classical monocyte
+Blood,erythrocyte
+Blood,granulocyte
+Blood,hematopoietic stem cell
+Blood,macrophage
+Blood,memory b cell
+Blood,monocyte
+Blood,myeloid progenitor
+Blood,naive b cell
+Blood,"naive thymus-derived cd4-positive, alpha-beta t cell"
+Blood,nampt neutrophil
+Blood,neutrophil
+Blood,nk cell
+Blood,non-classical monocyte
+Blood,plasma cell
+Blood,plasmablast
+Blood,plasmacytoid dendritic cell
+Blood,platelet
+Blood,t cell
+Blood,type i nk t cell
+Bone_Marrow,cd24 neutrophil
+Bone_Marrow,"cd4-positive, alpha-beta t cell"
+Bone_Marrow,"cd8-positive, alpha-beta t cell"
+Bone_Marrow,erythrocyte
+Bone_Marrow,erythroid progenitor
+Bone_Marrow,granulocyte
+Bone_Marrow,hematopoietic stem cell
+Bone_Marrow,macrophage
+Bone_Marrow,memory b cell
+Bone_Marrow,monocyte
+Bone_Marrow,myeloid progenitor
+Bone_Marrow,naive b cell
+Bone_Marrow,nampt neutrophil
+Bone_Marrow,neutrophil
+Bone_Marrow,nk cell
+Bone_Marrow,plasma cell
+Bone_Marrow,plasmablast
+Eye,adipocyte
+Eye,b cell
+Eye,"cd4-positive, alpha-beta t cell"
+Eye,"cd8-positive, alpha-beta t cell"
+Eye,ciliary body
+Eye,conjunctival epithelial cell
+Eye,corneal epithelial cell
+Eye,corneal keratocyte
+Eye,dendritic cell
+Eye,endothelial cell
+Eye,epithelial cell of lacrimal sac
+Eye,erythroid lineage cell
+Eye,eye photoreceptor cell
+Eye,fibroblast
+Eye,lacrimal gland functional unit cell
+Eye,limbal stem cell
+Eye,limbal stromal cell
+Eye,macrophage
+Eye,mast cell
+Eye,melanocyte
+Eye,microglial cell
+Eye,monocyte
+Eye,muller cell
+Eye,ocular surface cell
+Eye,plasma cell
+Eye,radial glial cell
+Eye,retina horizontal cell
+Eye,retinal bipolar neuron
+Eye,retinal blood vessel endothelial cell
+Eye,retinal ganglion cell
+Eye,retinal pigment epithelial cell
+Eye,t cell
+Fat,b cell
+Fat,endothelial cell
+Fat,fibroblast
+Fat,leucocyte
+Fat,macrophage
+Fat,mast cell
+Fat,mesenchymal stem cell
+Fat,myofibroblast cell
+Fat,neutrophil
+Fat,nk cell
+Fat,plasma cell
+Fat,smooth muscle cell
+Fat,t cell
+Heart,cardiac endothelial cell
+Heart,cardiac muscle cell
+Heart,fibroblast of cardiac tissue
+Heart,hepatocyte
+Heart,macrophage
+Heart,smooth muscle cell
+Kidney,b cell
+Kidney,cd4-positive helper t cell
+Kidney,"cd8-positive, alpha-beta t cell"
+Kidney,endothelial cell
+Kidney,kidney epithelial cell
+Kidney,macrophage
+Kidney,nk cell
+Large_Intestine,b cell
+Large_Intestine,"cd4-positive, alpha-beta t cell"
+Large_Intestine,"cd8-positive, alpha-beta t cell"
+Large_Intestine,enterocyte of epithelium of large intestine
+Large_Intestine,fibroblast
+Large_Intestine,goblet cell
+Large_Intestine,gut endothelial cell
+Large_Intestine,immature enterocyte
+Large_Intestine,intestinal crypt stem cell
+Large_Intestine,intestinal crypt stem cell of large intestine
+Large_Intestine,intestinal enteroendocrine cell
+Large_Intestine,intestinal tuft cell
+Large_Intestine,large intestine goblet cell
+Large_Intestine,mast cell
+Large_Intestine,mature enterocyte
+Large_Intestine,monocyte
+Large_Intestine,neutrophil
+Large_Intestine,paneth cell of epithelium of large intestine
+Large_Intestine,plasma cell
+Large_Intestine,transit amplifying cell of large intestine
+Liver,endothelial cell
+Liver,endothelial cell of hepatic sinusoid
+Liver,erythrocyte
+Liver,fibroblast
+Liver,hepatocyte
+Liver,intrahepatic cholangiocyte
+Liver,liver dendritic cell
+Liver,macrophage
+Liver,monocyte
+Liver,neutrophil
+Liver,nk cell
+Liver,plasma cell
+Liver,t cell
+Lung,adventitial cell
+Lung,alveolar fibroblast
+Lung,b cell
+Lung,basal cell
+Lung,basophil
+Lung,bronchial smooth muscle cell
+Lung,bronchial vessel endothelial cell
+Lung,capillary aerocyte
+Lung,capillary endothelial cell
+Lung,cd4-positive alpha-beta t cell
+Lung,"cd4-positive, alpha-beta t cell"
+Lung,cd8-positive alpha-beta t cell
+Lung,"cd8-positive, alpha-beta t cell"
+Lung,classical monocyte
+Lung,club cell
+Lung,dendritic cell
+Lung,endothelial cell of artery
+Lung,endothelial cell of lymphatic vessel
+Lung,fibroblast
+Lung,intermediate monocyte
+Lung,lung ciliated cell
+Lung,lung microvascular endothelial cell
+Lung,macrophage
+Lung,mesothelial cell
+Lung,myofibroblast cell
+Lung,neutrophil
+Lung,nk cell
+Lung,non-classical monocyte
+Lung,pericyte cell
+Lung,plasma cell
+Lung,plasmacytoid dendritic cell
+Lung,pulmonary ionocyte
+Lung,respiratory goblet cell
+Lung,respiratory mucous cell
+Lung,serous cell of epithelium of bronchus
+Lung,smooth muscle cell
+Lung,type i pneumocyte
+Lung,type ii pneumocyte
+Lung,vascular associated smooth muscle cell
+Lung,vein endothelial cell
+Lymph_Node,b cell
+Lymph_Node,cd141-positive myeloid dendritic cell
+Lymph_Node,cd1c-positive myeloid dendritic cell
+Lymph_Node,cd4-positive alpha-beta t cell
+Lymph_Node,"cd4-positive, alpha-beta memory t cell"
+Lymph_Node,cd8-positive alpha-beta t cell
+Lymph_Node,"cd8-positive, alpha-beta memory t cell"
+Lymph_Node,classical monocyte
+Lymph_Node,endothelial cell
+Lymph_Node,erythrocyte
+Lymph_Node,hematopoietic stem cell
+Lymph_Node,innate lymphoid cell
+Lymph_Node,intermediate monocyte
+Lymph_Node,macrophage
+Lymph_Node,mast cell
+Lymph_Node,mature conventional dendritic cell
+Lymph_Node,mature nk t cell
+Lymph_Node,memory b cell
+Lymph_Node,naive b cell
+Lymph_Node,"naive thymus-derived cd4-positive, alpha-beta t cell"
+Lymph_Node,neutrophil
+Lymph_Node,nk cell
+Lymph_Node,non-classical monocyte
+Lymph_Node,plasma cell
+Lymph_Node,plasmacytoid dendritic cell
+Lymph_Node,regulatory t cell
+Lymph_Node,stromal cell
+Lymph_Node,t cell
+Lymph_Node,type i nk t cell
+Mammary,b cell
+Mammary,basal cell
+Mammary,endothelial cell of artery
+Mammary,endothelial cell of lymphatic vessel
+Mammary,fibroblast of breast
+Mammary,luminal epithelial cell of mammary gland
+Mammary,macrophage
+Mammary,mast cell
+Mammary,nk cell
+Mammary,pericyte cell
+Mammary,plasma cell
+Mammary,t cell
+Mammary,vascular associated smooth muscle cell
+Mammary,vein endothelial cell
+Muscle,capillary endothelial cell
+Muscle,"cd4-positive, alpha-beta t cell"
+Muscle,"cd8-positive, alpha-beta t cell"
+Muscle,endothelial cell of artery
+Muscle,endothelial cell of lymphatic vessel
+Muscle,endothelial cell of vascular tree
+Muscle,erythrocyte
+Muscle,fast muscle cell
+Muscle,macrophage
+Muscle,mast cell
+Muscle,mature nk t cell
+Muscle,mesenchymal stem cell
+Muscle,mesothelial cell
+Muscle,pericyte cell
+Muscle,skeletal muscle satellite stem cell
+Muscle,slow muscle cell
+Muscle,smooth muscle cell
+Muscle,t cell
+Muscle,tendon cell
+Pancreas,b cell
+Pancreas,endothelial cell
+Pancreas,fibroblast
+Pancreas,mast cell
+Pancreas,myeloid cell
+Pancreas,nk cell
+Pancreas,pancreatic acinar cell
+Pancreas,pancreatic alpha cell
+Pancreas,pancreatic beta cell
+Pancreas,pancreatic delta cell
+Pancreas,pancreatic ductal cell
+Pancreas,pancreatic pp cell
+Pancreas,pancreatic stellate cell
+Pancreas,plasma cell
+Pancreas,t cell
+Prostate,basal cell of prostate epithelium
+Prostate,"cd8-positive, alpha-beta t cell"
+Prostate,cd8b-positive nk t cell
+Prostate,club cell of prostate epithelium
+Prostate,endothelial cell
+Prostate,epithelial cell
+Prostate,erythroid progenitor
+Prostate,fibroblast
+Prostate,hillock cell of prostate epithelium
+Prostate,hillock-club cell of prostate epithelium
+Prostate,luminal cell of prostate epithelium
+Prostate,macrophage
+Prostate,mast cell
+Prostate,monocyte
+Prostate,myeloid cell
+Prostate,neutrophil
+Prostate,nkt cell
+Prostate,smooth muscle cell
+Prostate,sperm
+Prostate,stromal cell
+Prostate,t cell
+Salivary_Gland,acinar cell of salivary gland
+Salivary_Gland,adventitial cell
+Salivary_Gland,b cell
+Salivary_Gland,basal cell
+Salivary_Gland,cd4-positive helper t cell
+Salivary_Gland,"cd4-positive, alpha-beta t cell"
+Salivary_Gland,"cd8-positive, alpha-beta t cell"
+Salivary_Gland,duct epithelial cell
+Salivary_Gland,endothelial cell
+Salivary_Gland,endothelial cell of lymphatic vessel
+Salivary_Gland,fibroblast
+Salivary_Gland,ionocyte
+Salivary_Gland,macrophage
+Salivary_Gland,memory b cell
+Salivary_Gland,monocyte
+Salivary_Gland,myoepithelial cell
+Salivary_Gland,naive b cell
+Salivary_Gland,neutrophil
+Salivary_Gland,nk cell
+Salivary_Gland,pericyte cell
+Salivary_Gland,plasma cell
+Salivary_Gland,salivary gland cell
+Salivary_Gland,t cell
+Skin,cd141-positive myeloid dendritic cell
+Skin,cd1c-positive myeloid dendritic cell
+Skin,cd4-positive helper t cell
+Skin,"cd4-positive, alpha-beta memory t cell"
+Skin,"cd8-positive, alpha-beta cytotoxic t cell"
+Skin,"cd8-positive, alpha-beta memory t cell"
+Skin,cell of skeletal muscle
+Skin,endothelial cell
+Skin,epithelial cell
+Skin,langerhans cell
+Skin,macrophage
+Skin,mast cell
+Skin,melanocyte
+Skin,memory b cell
+Skin,muscle cell
+Skin,naive b cell
+Skin,"naive thymus-derived cd4-positive, alpha-beta t cell"
+Skin,"naive thymus-derived cd8-positive, alpha-beta t cell"
+Skin,nk cell
+Skin,nkt cell
+Skin,plasma cell
+Skin,regulatory t cell
+Skin,smooth muscle cell
+Skin,stromal cell
+Skin,t cell
+Small_Intestine,b cell
+Small_Intestine,"cd4-positive, alpha-beta t cell"
+Small_Intestine,"cd8-positive, alpha-beta t cell"
+Small_Intestine,duodenum glandular cell
+Small_Intestine,enterocyte of epithelium of small intestine
+Small_Intestine,fibroblast
+Small_Intestine,goblet cell
+Small_Intestine,gut endothelial cell
+Small_Intestine,immature enterocyte
+Small_Intestine,intestinal crypt stem cell
+Small_Intestine,intestinal crypt stem cell of small intestine
+Small_Intestine,intestinal enteroendocrine cell
+Small_Intestine,intestinal tuft cell
+Small_Intestine,mast cell
+Small_Intestine,mature enterocyte
+Small_Intestine,monocyte
+Small_Intestine,neutrophil
+Small_Intestine,paneth cell of epithelium of small intestine
+Small_Intestine,plasma cell
+Small_Intestine,small intestine goblet cell
+Small_Intestine,transit amplifying cell of small intestine
+Spleen,cd141-positive myeloid dendritic cell
+Spleen,cd1c-positive myeloid dendritic cell
+Spleen,"cd4-positive, alpha-beta memory t cell"
+Spleen,"cd8-positive, alpha-beta memory t cell"
+Spleen,"cd8-positive, alpha-beta t cell"
+Spleen,classical monocyte
+Spleen,endothelial cell
+Spleen,erythrocyte
+Spleen,hematopoietic stem cell
+Spleen,innate lymphoid cell
+Spleen,intermediate monocyte
+Spleen,macrophage
+Spleen,mature nk t cell
+Spleen,memory b cell
+Spleen,naive b cell
+Spleen,"naive thymus-derived cd4-positive, alpha-beta t cell"
+Spleen,"naive thymus-derived cd8-positive, alpha-beta t cell"
+Spleen,neutrophil
+Spleen,nk cell
+Spleen,plasma cell
+Spleen,plasmacytoid dendritic cell
+Spleen,platelet
+Spleen,regulatory t cell
+Spleen,type i nk t cell
+Thymus,b cell
+Thymus,capillary endothelial cell
+Thymus,cd4-positive helper t cell
+Thymus,"cd8-positive, alpha-beta cytotoxic t cell"
+Thymus,"cd8-positive, alpha-beta t cell"
+Thymus,dendritic cell
+Thymus,dn1 thymic pro-t cell
+Thymus,dn3 thymocyte
+Thymus,dn4 thymocyte
+Thymus,endothelial cell of artery
+Thymus,endothelial cell of lymphatic vessel
+Thymus,erythrocyte
+Thymus,fast muscle cell
+Thymus,fibroblast
+Thymus,immature natural killer cell
+Thymus,innate lymphoid cell
+Thymus,macrophage
+Thymus,mast cell
+Thymus,mature nk t cell
+Thymus,medullary thymic epithelial cell
+Thymus,memory b cell
+Thymus,mesothelial cell
+Thymus,monocyte
+Thymus,myeloid dendritic cell
+Thymus,naive b cell
+Thymus,naive regulatory t cell
+Thymus,nk cell
+Thymus,plasma cell
+Thymus,t follicular helper cell
+Thymus,thymocyte
+Thymus,vascular associated smooth muscle cell
+Thymus,vein endothelial cell
+Tongue,basal cell
+Tongue,capillary endothelial cell
+Tongue,endothelial cell of artery
+Tongue,endothelial cell of lymphatic vessel
+Tongue,epithelial cell
+Tongue,fibroblast
+Tongue,immune cell
+Tongue,keratinocyte
+Tongue,pericyte cell
+Tongue,schwann cell
+Tongue,tongue muscle cell
+Tongue,vein endothelial cell
+Trachea,b cell
+Trachea,basal cell
+Trachea,"cd4-positive, alpha-beta t cell"
+Trachea,"cd8-positive, alpha-beta t cell"
+Trachea,ciliated cell
+Trachea,connective tissue cell
+Trachea,"double-positive, alpha-beta thymocyte"
+Trachea,endothelial cell
+Trachea,fibroblast
+Trachea,goblet cell
+Trachea,ionocyte
+Trachea,macrophage
+Trachea,mast cell
+Trachea,mucus secreting cell
+Trachea,neutrophil
+Trachea,plasma cell
+Trachea,secretory cell
+Trachea,serous cell of epithelium of trachea
+Trachea,smooth muscle cell
+Trachea,t cell
+Trachea,tracheal goblet cell
+Uterus,b cell
+Uterus,ciliated epithelial cell
+Uterus,endothelial cell
+Uterus,endothelial cell of lymphatic vessel
+Uterus,epithelial cell
+Uterus,epithelial cell of uterus
+Uterus,fibroblast
+Uterus,immune cell
+Uterus,macrophage
+Uterus,myometrial cell
+Uterus,nk cell
+Uterus,pericyte cell
+Uterus,t cell
+Uterus,vascular associated smooth muscle cell
+Vasculature,artery endothelial cell
+Vasculature,b cell
+Vasculature,endothelial cell
+Vasculature,epithelial cell
+Vasculature,erythrocyte
+Vasculature,fibroblast
+Vasculature,lymphatic endothelial cell
+Vasculature,macrophage
+Vasculature,mast cell
+Vasculature,nk cell
+Vasculature,pericyte cell
+Vasculature,plasma cell
+Vasculature,smooth muscle cell
+Vasculature,t cell

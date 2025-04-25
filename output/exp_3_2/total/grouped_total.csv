@@ -1,0 +1,30 @@
+pmid,species,tissue_type,cell_name,markers
+30582448,Mouse,Heart,Macrophage,"['IFIT3', 'ARG1', 'LYVE1', 'IFIT3', 'ARG1', 'LYVE1']"
+30582448,Mouse,Heart,Macrophage (recruited CCR2+),['CD64+Ly6ClowCCR2+tdTomato-']
+30582448,Mouse,Heart,Macrophage (recruited),['CCR2']
+30582448,Mouse,Heart,Macrophage (tissue-resident CCR2+),['CD64+Ly6ClowCCR2+tdTomato+']
+30582448,Mouse,Heart,Macrophage (tissue-resident CCR2-),['CD64+Ly6ClowCCR2-tdTomato+']
+30582448,Mouse,Heart,Macrophage (tissue-resident),['CD68']
+30582448,Mouse,Heart,Macrophages,"['CD64', 'tdTomato', 'CD68', 'CD45', 'CD64']"
+30582448,Mouse,Heart,Monocyte (recruited),"['Ly6Chigh', 'CD64intLy6ChighCCR2+tdTomato-']"
+30582448,Mouse,Heart,Monocytes,"['CCR2', 'Ly6C']"
+30582448,Mouse,Heart,Monocytes and Macrophages,['CCR2']
+30582448,Mouse,Heart,Monocytes and macrophages,"['CCR2', 'CD45.1', 'MHC-II']"
+30582448,Mouse,Heart,Recruited CCR2+ macrophages,"['Cxcl1', 'Cxcl2', 'Ccl2', 'Ccl7', 'Ccl9', 'Il1β', 'Il10', 'Areg', 'Ereg', 'Gdf3', 'Arg1', 'Mrc1', 'Hif1α', 'CCR2']"
+30582448,Mouse,Heart,Tissue-resident CCR2+ macrophages,"['Type I IFN stimulated genes', 'CCR2', 'CCR2']"
+30582448,Mouse,Heart,Tissue-resident CCR2- macrophages,"['Igf1', 'Pdgfc', 'Hbegf', 'Cyr61', 'CCR2']"
+30582448,Mouse,Heart,Tissue-resident macrophages,['CD169']
+30582448,Mouse,Myocardial tissue,Macrophage,"['Tnip3 (TNFAIP3-interacting protein 3)', 'Itgb7 (integrin subunit β7)']"
+30582448,Mouse,Myocardial tissue,Monocyte,"['Ly6C2', 'Hp (haptoglobin)', 'Plac8 (placenta-specific 8)', 'Thbs (thrombospondin)']"
+30582448,Mouse,Myocardium,Macrophages,['CCR2+MHC-IIhigh']
+30582448,Mouse,Myocardium,Monocyte-derived macrophages,['CCR2']
+30582448,Mouse,Myocardium,Monocytes,['CCR2+Ly6Chigh']
+30582448,,Heart,Macrophage,"['LYVE1', 'IFIT3', 'ARG1', 'ITGB7', 'ANPEP', 'CCRL2', 'CCR2']"
+30582448,,Myocardium,Tissue-resident cardiac macrophages (adult hematopoietic lineage),['CCR2+']
+30582448,,Myocardium,Tissue-resident cardiac macrophages (embryonic lineage),['CCR2-']
+30760918,Mouse,Heart,Activated cardiac fibroblasts,['CKAP4']
+30760918,Mouse,Heart,Tissue-resident macrophages,"['TIMD4', 'LYVE1', 'MHC-IIlo', 'CCR2-']"
+30760918,,,Endothelial cell,"['ICAM-1', 'VCAM-1', 'MHC II', 'CD31']"
+30787185,Mouse,Retina,Vascular endothelial cell,"['Notch1', 'Jag1', 'Dll4']"
+30787185,Mouse,Retinal tissue,Endothelial cell,"['Notch1', 'Jag1', 'Dll4']"
+30787185,,,Endothelial cell,['VE-cadherin']

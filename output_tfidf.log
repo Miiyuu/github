@@ -1,0 +1,1054 @@
+Step 1: Processing raw data...
+All files merged and saved to output/exp_3_3/total/total.csv
+Grouped data saved to output/exp_3_3/total/grouped_total.csv
+All files merged and saved to output/exp_3_3/total/cm_total.csv
+Grouped data saved to output/exp_3_3/total/cm_grouped_total.csv
+Step 2: Marker standardization...
+Input sequence provided is already in string format. No operation performed
+56 input query terms found dup hits:	[('TNF', 7), ('VEGFA', 5), ('LAMP3', 12), ('CD14', 2), ('CD1A', 2), ('LYVE1', 3), ('SPP1', 10), ('FO
+25 input query terms found no hit:	['CD16', 'CD172A', 'MP3', 'HLA/FCER1A', 'CD68/CD163', 'CD14hiCD16-', 'CD14+CD16hi', 'CD14hiCD16+', '
+²éÑ¯³É¹¦ÂÊ: 91.47%
+Input sequence provided is already in string format. No operation performed
+4 input query terms found no hit:	['CD16', 'CTIP2', 'OCT6', 'hfb_G_000352']
+²éÑ¯³É¹¦ÂÊ: 90.91%
+a1bg alpha-1-b glycoprotein
+a1bg-as1 flj23569 ncrna00181 a1bgas a1bg-as a1bg antisense rna 1
+a1cf acf asp acf64 acf65 apobec1cf apobec1 complementation factor
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "CD16"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'FCGR3A', 'alias_symbol': 'CD16 CD16a FcgammaRIIIa FcGRIIIA', 'prev_symbol': 'FCGR3 FCG3', 'name': 'Fc gamma receptor IIIa', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FCGR3B', 'alias_symbol': 'CD16 CD16b FcgammaRIIIb FcRIIIb', 'prev_symbol': 'FCGR3 FCG3', 'name': 'Fc gamma receptor IIIb', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-CO1', 'alias_symbol': 'COX1 COI', 'prev_symbol': 'MTCO1', 'name': 'mitochondrially encoded cytochrome c oxidase I', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-CO2', 'alias_symbol': 'COX2 CO2', 'prev_symbol': 'MTCO2', 'name': 'mitochondrially encoded cytochrome c oxidase II', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND6', 'alias_symbol': 'NAD6 ND6', 'prev_symbol': 'MTND6', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: Ô­Ê¼±ê¼Ç"CD16"ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞÓĞÁ½¸öÆ¥ÅäÏî£¬·Ö±ğÊÇ"FCGR3A"ºÍ"FCGR3B"¡£ÕâÁ½¸ö»ùÒò·ûºÅ¶¼ÔÚÆä'alias_symbol'×Ö¶ÎÖĞ°üº¬ÁË"CD16"¡£¸ù¾İ³£ÓÃµÄ»ùÒòÃüÃû¹æ·¶ÒÔ¼°"CD16"µÄ¹ã·ºÊ¹ÓÃÇé¿ö£¬ÕâÁ½¸ö»ùÒò·ûºÅ¶¼¿ÉÒÔ×÷Îª±ê×¼»¯½á¹û¡£È»¶ø£¬"FCGR3A"Í¨³£±»ÈÏÎªÊÇ¸ü³£¼ûµÄÓë"CD16"Ïà¹ØÁªµÄ»ùÒò·ûºÅ£¬Òò´ËÑ¡Ôñ"FCGR3A"×÷ÎªĞŞÕı½á¹û¡£
+ĞŞÕı½á¹û: FCGR3A
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "CD172A"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'SIRPA', 'alias_symbol': 'SHPS1 SIRP MYD-1 BIT P84 SHPS-1 SIRPalpha CD172a SIRPalpha2 MFR SIRP-ALPHA-1', 'prev_symbol': 'PTPNS1', 'name': 'signal regulatory protein alpha', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HSP1', 'alias_symbol': '', 'prev_symbol': 'MTHSP1', 'name': 'mitochondrially encoded major H-strand promoter', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4', 'alias_symbol': 'ND4 NAD4', 'prev_symbol': 'MTND4 LHON', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÖĞ£¬µÚÒ»¸öÌõÄ¿{'symbol': 'SIRPA', ...}µÄ'alias_symbol'×Ö¶Î°üº¬'CD172a'£¬ÕâÓëÔ­Ê¼±ê¼Ç"CD172A"·Ç³£Æ¥Åä£¨½ö´óĞ¡Ğ´²»Í¬£©¡£Òò´Ë£¬Ñ¡Ôñ¸ÃÌõÄ¿µÄ'symbol'×÷Îª±ê×¼»¯½á¹û¡£
+ĞŞÕı½á¹û: SIRPA
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "MP3"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HSP2', 'alias_symbol': '', 'prev_symbol': 'MTHSP2', 'name': 'mitochondrially encoded minor H-strand promoter', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4', 'alias_symbol': 'ND4 NAD4', 'prev_symbol': 'MTND4 LHON', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: Ô­Ê¼±ê¼Ç"MP3"ÓëºòÑ¡ĞÅÏ¢ÖĞµÄÈÎºÎÌõÄ¿¾ùÎŞÃ÷ÏÔÆ¥Åä¡£ºòÑ¡ĞÅÏ¢ÖĞÎ´³öÏÖÓë"MP3"Ïà¹ØµÄ·ûºÅ¡¢±ğÃû»òÃû³Æ£¬Òò´ËÎŞ·¨ÕÒµ½ºÏÊÊµÄ±ê×¼»¯½á¹û¡£
+ĞŞÕı½á¹û: MP3
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "HLA/FCER1A"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'HLA-DOA', 'alias_symbol': 'HLA-D0-alpha', 'prev_symbol': 'HLA-DZA HLA-DNA', 'name': 'major histocompatibility complex, class II, DO alpha', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FCER1A', 'alias_symbol': 'FcepsilonRIalpha FCERIA', 'prev_symbol': 'FCE1A', 'name': 'Fc epsilon receptor Ia', 'alias_name': '', 'prev_name': ''}, {'symbol': 'HLA-F-AS1', 'alias_symbol': '', 'prev_symbol': '', 'name': 'HLA-F antisense RNA 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'HLA-DRB9', 'alias_symbol': 'D6S206 D6S206E', 'prev_symbol': 'HLA-DRB1L HLA-DR1BL', 'name': 'major histocompatibility complex, class II, DR beta 9 (pseudogene)', 'alias_name': '', 'prev_name': ''}, {'symbol': 'HLA-J', 'alias_symbol': 'CDA12 HLA-59', 'prev_symbol': 'HLA-CDA12 D6S203', 'name': 'major histocompatibility complex, class I, J (pseudogene)', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: Ô­Ê¼±ê¼Ç"HLA/FCER1A"¿´ÆğÀ´ÏñÊÇÁ½¸ö»ùÒò·ûºÅµÄ×éºÏ£¬ÆäÖĞ"FCER1A"ÔÚºòÑ¡ĞÅÏ¢ÖĞÖ±½ÓÆ¥Åäµ½ÁËÒ»¸öÌõÄ¿£¬¶ø"HLA"²¿·ÖÃ»ÓĞÃ÷È·Ö¸ÏòÄ³¸öÌØ¶¨»ùÒò¡£Òò´Ë£¬Ñ¡ÔñÓë"FCER1A"ÍêÈ«Æ¥ÅäµÄºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û¡£
+ĞŞÕı½á¹û: FCER1A
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "CD68/CD163"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'CD163', 'alias_symbol': 'M130 MM130 SCARI1', 'prev_symbol': '', 'name': 'CD163 molecule', 'alias_name': '', 'prev_name': ''}, {'symbol': 'CD68', 'alias_symbol': 'SCARD1 GP110 DKFZp686M18236 LAMP4', 'prev_symbol': '', 'name': 'CD68 molecule', 'alias_name': '', 'prev_name': ''}, {'symbol': 'CD163L1', 'alias_symbol': 'M160 CD163B SCARI2 WC1', 'prev_symbol': '', 'name': 'CD163 molecule like 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-LIPCAR', 'alias_symbol': 'uc022bqs.1 LIPCAR', 'prev_symbol': '', 'name': 'mitochondrially encoded long non-coding cardiac associated RNA', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: Ô­Ê¼±ê¼Ç"CD68/CD163"°üº¬ÁËÁ½¸ö»ùÒò·ûºÅµÄ²¿·Ö×éºÏ£¬·Ö±ğÊÇ"CD68"ºÍ"CD163"¡£ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬¿ÉÒÔÕÒµ½ÓëÕâÁ½¸ö²¿·ÖÍêÈ«Æ¥ÅäµÄÌõÄ¿£¬·Ö±ğÊÇ{'symbol': 'CD68'}ºÍ{'symbol': 'CD163'}¡£ÓÉÓÚÔ­Ê¼±ê¼ÇÊÇÁ½¸ö»ùÒò·ûºÅµÄ×éºÏĞÎÊ½£¬ĞŞÕı½á¹ûÓ¦Ñ¡ÔñÓëÆä×îÆ¥ÅäµÄ±ê×¼»¯»ùÒò·ûºÅ×éºÏ¡£
+ĞŞÕı½á¹û: CD68/CD163
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "CD14hiCD16-"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HSP2', 'alias_symbol': '', 'prev_symbol': 'MTHSP2', 'name': 'mitochondrially encoded minor H-strand promoter', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4', 'alias_symbol': 'ND4 NAD4', 'prev_symbol': 'MTND4 LHON', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: Ô­Ê¼±ê¼Ç"CD14hiCD16-"ÃèÊöµÄÊÇÒ»ÖÖÃâÒßÏ¸°ûÑÇÈºµÄ±íĞÍ£¬ÓëºòÑ¡ĞÅÏ¢ÖĞµÄ»ùÒò·ûºÅ¼°Æä±ğÃû¾ùÎŞÃ÷ÏÔ¹ØÁª¡£ºòÑ¡ĞÅÏ¢ÁĞ±íÖĞµÄ»ùÒòÖ÷ÒªÉæ¼°ÏßÁ£Ìå±àÂëºÍÖ¬·¾Ëá´úĞ»Ïà¹Ø»ùÒò£¬Î´ÕÒµ½Óë"CD14"»ò"CD16"Ïà¹ØµÄ»ùÒò·ûºÅ»òÃû³Æ¡£Òò´ËÎŞ·¨Æ¥Åäµ½ºÏÊÊµÄ±ê×¼»¯½á¹û¡£
+ĞŞÕı½á¹û: CD14hiCD16-
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "CD14+CD16hi"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'CD14', 'alias_symbol': '', 'prev_symbol': '', 'name': 'CD14 molecule', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-OLR', 'alias_symbol': 'OriL', 'prev_symbol': 'MTOLR', 'name': 'mitochondrially encoded light strand origin of replication', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND6', 'alias_symbol': 'NAD6 ND6', 'prev_symbol': 'MTND6', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬Ã»ÓĞÕÒµ½ÓëÔ­Ê¼±ê¼Ç"CD14+CD16hi"ÍêÈ«Æ¥Åä»òÏà¹ØµÄ±ê×¼»¯»ùÒò·ûºÅ¡£ËäÈ»ÓĞÒ»¸öºòÑ¡ĞÅÏ¢µÄsymbolÎª"CD14"£¬µ«Ëü½ö±íÊ¾CD14²¿·Ö£¬ÎŞ·¨¸²¸ÇÕû¸öÔ­Ê¼±ê¼ÇµÄº¬Òå£¨°üÀ¨CD16hi²¿·Ö£©¡£Òò´Ë£¬ÎŞ·¨Ñ¡ÔñÈÎºÎÒ»¸öºòÑ¡ĞÅÏ¢×÷Îª±ê×¼»¯½á¹û¡£
+ĞŞÕı½á¹û: CD14+CD16hi
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "CD14hiCD16+"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HSP2', 'alias_symbol': '', 'prev_symbol': 'MTHSP2', 'name': 'mitochondrially encoded minor H-strand promoter', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4', 'alias_symbol': 'ND4 NAD4', 'prev_symbol': 'MTND4 LHON', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: Ô­Ê¼±ê¼Ç"CD14hiCD16+"ÃèÊöÁËÒ»ÖÖÃâÒßÏ¸°ûÑÇÈº£¬Í¨³£Óëµ¥ºËÏ¸°û»ò¾ŞÊÉÏ¸°ûµÄ±íĞÍÏà¹Ø¡£È»¶ø£¬ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬ËùÓĞÌõÄ¿¾ùÎªÏßÁ£Ìå»ùÒò£¨MT-ND4¡¢MT-ND4L¡¢MT-ND5µÈ£©»òÖ¬·¾Ëá´úĞ»Ïà¹Ø»ùÒò£¨FADS2£©£¬ÓëÃâÒßÏ¸°û±ê¼ÇÎŞÖ±½Ó¹ØÁª¡£Òò´Ë£¬ÎŞ·¨ÕÒµ½ÓëÔ­Ê¼±ê¼ÇÆ¥ÅäµÄºòÑ¡ĞÅÏ¢¡£
+ĞŞÕı½á¹û: CD14hiCD16+
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "PD-L1"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'CD274', 'alias_symbol': 'B7-H B7H1 PD-L1 PDL1 B7-H1', 'prev_symbol': 'PDCD1LG1', 'name': 'CD274 molecule', 'alias_name': '', 'prev_name': ''}, {'symbol': 'UCHL1', 'alias_symbol': 'PGP9.5 Uch-L1 UCHL-1', 'prev_symbol': 'PARK5', 'name': 'ubiquitin C-terminal hydrolase L1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'APOL1', 'alias_symbol': '', 'prev_symbol': 'APOL', 'name': 'apolipoprotein L1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'L1CAM', 'alias_symbol': 'CD171 NCAM-L1 CAML1', 'prev_symbol': 'HSAS1 SPG1 HSAS MASA MIC5 S10', 'name': 'L1 cell adhesion molecule', 'alias_name': '', 'prev_name': ''}, {'symbol': 'ENPP2', 'alias_symbol': 'ATX PD-IALPHA', 'prev_symbol': 'PDNP2', 'name': 'ectonucleotide pyrophosphatase/phosphodiesterase 2', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬µÚÒ»¸öºòÑ¡ĞÅÏ¢µÄalias_symbol×Ö¶Î°üº¬"PD-L1"£¬ÕâÓëÔ­Ê¼±ê¼ÇÍêÈ«Æ¥Åä¡£Òò´Ë£¬Ñ¡Ôñ¸ÃºòÑ¡ĞÅÏ¢µÄsymbol×Ö¶ÎÖµ"CD274"×÷Îª±ê×¼»¯½á¹û¡£
+ĞŞÕı½á¹û: CD274
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "TRL3"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HSP2', 'alias_symbol': '', 'prev_symbol': 'MTHSP2', 'name': 'mitochondrially encoded minor H-strand promoter', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4', 'alias_symbol': 'ND4 NAD4', 'prev_symbol': 'MTND4 LHON', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬Î´ÕÒµ½ÓëÔ­Ê¼±ê¼Ç"TRL3"Ïà¹ØµÄÈÎºÎÆ¥ÅäĞÅÏ¢¡£ºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'¡¢'alias_symbol'¡¢'prev_symbol'µÈ×Ö¶Î¾ùÎ´°üº¬"TRL3"»òÆä¿ÉÄÜµÄ±äÌå¡£Òò´ËÎŞ·¨½øĞĞ±ê×¼»¯£¬·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£
+ĞŞÕı½á¹û: TRL3
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "CD207 langerin "
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'CD207', 'alias_symbol': 'Langerin CLEC4K', 'prev_symbol': '', 'name': 'CD207 molecule', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-LIPCAR', 'alias_symbol': 'uc022bqs.1 LIPCAR', 'prev_symbol': '', 'name': 'mitochondrially encoded long non-coding cardiac associated RNA', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬µÚÒ»¸öÌõÄ¿°üº¬'symbol'Îª'CD207'£¬²¢ÇÒÆä'alias_symbol'°üº¬'Langerin'£¬ÕâÓëÔ­Ê¼±ê¼Ç"CD207 langerin"ÍêÈ«Æ¥Åä¡£ÆäËûºòÑ¡ĞÅÏ¢ÓëÔ­Ê¼±ê¼ÇÎŞ¹Ø¡£
+ĞŞÕı½á¹û: CD207
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "not"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'CNOT4P1', 'alias_symbol': '', 'prev_symbol': '', 'name': 'CCR4-NOT transcription complex subunit 4 pseudogene 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'CNOT7P1', 'alias_symbol': '', 'prev_symbol': '', 'name': 'CCR4-NOT transcription complex subunit 7 pseudogene 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'CNOT7P2', 'alias_symbol': '', 'prev_symbol': '', 'name': 'CCR4-NOT transcription complex subunit 7 pseudogene 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'CNOT7', 'alias_symbol': '', 'prev_symbol': 'CAF1', 'name': 'CCR4-NOT transcription complex subunit 7', 'alias_name': '', 'prev_name': ''}, {'symbol': 'CNOT10', 'alias_symbol': 'FLJ12890 FLJ13165', 'prev_symbol': '', 'name': 'CCR4-NOT transcription complex subunit 10', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: Ô­Ê¼±ê¼Ç"not"ÊÇÒ»¸ö·Ç³£Ä£ºıµÄ´Ê£¬ÎŞ·¨Ö±½ÓÓëºòÑ¡ĞÅÏ¢ÖĞµÄ»ùÒò·ûºÅ»òÃû³ÆÃ÷È·¶ÔÓ¦¡£¾­¹ı¼ì²éºòÑ¡ĞÅÏ¢ÁĞ±í£¬ËùÓĞÌõÄ¿¾ùÊôÓÚCCR4-NOT×ªÂ¼¸´ºÏÌåÏà¹Ø»ùÒò£¬µ«Ã»ÓĞÒ»¸öÌõÄ¿µÄsymbol¡¢alias_symbol¡¢prev_symbol¡¢name¡¢alias_name»òprev_nameÄÜ¹»Ö±½ÓÆ¥Åä"not"¡£Òò´ËÎŞ·¨È·¶¨×î¼ÑÆ¥ÅäÏî¡£
+ĞŞÕı½á¹û: not
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "EPCAM"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'EPCAM-DT', 'alias_symbol': '', 'prev_symbol': '', 'name': 'EPCAM divergent transcript', 'alias_name': '', 'prev_name': ''}, {'symbol': 'EPCAM', 'alias_symbol': 'Ly74 TROP1 GA733-2 EGP34 EGP40 EGP-2 KSA CD326 Ep-CAM HEA125 KS1/4 MK-1 MH99 MOC31 MOC-31 323/A3 17-1A TACST-1 CO-17A ESA BerEp4 Ber-Ep4', 'prev_symbol': 'M4S1 MIC18 TACSTD1', 'name': 'epithelial cell adhesion molecule', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HSP2', 'alias_symbol': '', 'prev_symbol': 'MTHSP2', 'name': 'mitochondrially encoded minor H-strand promoter', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬µÚ¶ş¸öÌõÄ¿Ã÷È·°üº¬Ô­Ê¼±ê¼Ç"EPCAM"×÷ÎªÆä'symbol'×Ö¶Î£¬²¢ÇÒÆä±ğÃû£¨alias_symbol£©ºÍÖ®Ç°·ûºÅ£¨prev_symbol£©Ò²Óë¸Ã»ùÒòÏà¹Ø¡£Òò´Ë£¬Õâ¸öºòÑ¡ĞÅÏ¢×îÆ¥ÅäÔ­Ê¼±ê¼Ç¡£
+ĞŞÕı½á¹û: EPCAM
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "CD8"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'CD8A', 'alias_symbol': 'p32 CD8alpha', 'prev_symbol': 'CD8', 'name': 'CD8 subunit alpha', 'alias_name': '', 'prev_name': ''}, {'symbol': 'CD8B', 'alias_symbol': 'Ly-3 LYT3 P37 CD8beta', 'prev_symbol': 'CD8B1', 'name': 'CD8 subunit beta', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ATT', 'alias_symbol': '', 'prev_symbol': 'MTATT', 'name': 'mitochondrially encoded membrane attachment site', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-CO1', 'alias_symbol': 'COX1 COI', 'prev_symbol': 'MTCO1', 'name': 'mitochondrially encoded cytochrome c oxidase I', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬µÚÒ»¸öÌõÄ¿ {'symbol': 'CD8A', 'alias_symbol': 'p32 CD8alpha', 'prev_symbol': 'CD8', ...} µÄ 'prev_symbol' ×Ö¶ÎÃ÷È·±ê×¢ÁË 'CD8'£¬Õâ±íÃ÷¸ÃÌõÄ¿µÄ±ê×¼»¯·ûºÅ 'CD8A' ÊÇÔ­Ê¼±ê¼Ç 'CD8' µÄ¸üĞÂ°æ±¾¡£Òò´Ë£¬Ñ¡Ôñ¸ÃÌõÄ¿µÄ 'symbol' ×÷Îª±ê×¼»¯½á¹û¡£
+ĞŞÕı½á¹û: CD8A
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "DC_LAMP"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HSP2', 'alias_symbol': '', 'prev_symbol': 'MTHSP2', 'name': 'mitochondrially encoded minor H-strand promoter', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4', 'alias_symbol': 'ND4 NAD4', 'prev_symbol': 'MTND4 LHON', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬Ã»ÓĞÕÒµ½Óë"DC_LAMP"Ïà¹ØµÄÈÎºÎÆ¥ÅäĞÅÏ¢£¨°üÀ¨symbol¡¢alias_symbol¡¢prev_symbol¡¢nameµÈ×Ö¶Î£©¡£Òò´ËÎŞ·¨½«Ô­Ê¼±ê¼Ç±ê×¼»¯ÎªºòÑ¡ĞÅÏ¢ÖĞµÄÈÎºÎ½á¹û¡£
+ĞŞÕı½á¹û: DC_LAMP
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "KI67"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HSP2', 'alias_symbol': '', 'prev_symbol': 'MTHSP2', 'name': 'mitochondrially encoded minor H-strand promoter', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4', 'alias_symbol': 'ND4 NAD4', 'prev_symbol': 'MTND4 LHON', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬Ã»ÓĞÕÒµ½ÓëÔ­Ê¼±ê¼Ç"KI67"Æ¥ÅäµÄ'symbol'¡¢'alias_symbol'»ò'prev_symbol'¡£Òò´ËÎŞ·¨½«"KI67"±ê×¼»¯ÎªºòÑ¡ĞÅÏ¢ÖĞµÄÈÎºÎ½á¹û¡£
+ĞŞÕı½á¹û: KI67
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "NKX2.1"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'NKX2-1-AS1', 'alias_symbol': '', 'prev_symbol': '', 'name': 'NKX2-1 antisense RNA 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'NKX2-2-AS1', 'alias_symbol': 'NKX2-2AS', 'prev_symbol': '', 'name': 'NKX2-2 antisense RNA 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'NKX2-8', 'alias_symbol': 'NKX2.8 Nkx2-9', 'prev_symbol': 'NKX2H', 'name': 'NK2 homeobox 8', 'alias_name': '', 'prev_name': ''}, {'symbol': 'NKX2-1', 'alias_symbol': 'TTF-1 TTF1', 'prev_symbol': 'NKX2A BCH TITF1', 'name': 'NK2 homeobox 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'NKX2-2', 'alias_symbol': 'NKX2.2', 'prev_symbol': 'NKX2B', 'name': 'NK2 homeobox 2', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬µÚ4¸öºòÑ¡ĞÅÏ¢µÄ'symbol'Îª'NKX2-1'£¬²¢ÇÒÆä'alias_symbol'°üº¬'TTF-1 TTF1'£¬'prev_symbol'°üº¬'NKX2A BCH TITF1'£¬ÕâĞ©¶¼ÓëÔ­Ê¼±ê¼Ç'NKX2.1'¸ß¶ÈÏà¹Ø¡£´ËÍâ£¬'NKX2-1'ÊÇÒÑÖªµÄ±ê×¼»¯»ùÒò·ûºÅ£¬·ûºÏĞŞÕıÒªÇó¡£
+ĞŞÕı½á¹û: NKX2-1
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "COUP-TFII NR2F2 "
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'NR2F2', 'alias_symbol': 'COUP-TFII COUPTFB SVP40 NF-E3 COUPTF2', 'prev_symbol': 'ARP1 TFCOUP2', 'name': 'nuclear receptor subfamily 2 group F member 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'NR2F2-AS1', 'alias_symbol': '', 'prev_symbol': '', 'name': 'NR2F2 antisense RNA 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'GTF2I', 'alias_symbol': 'TFII-I BAP-135 SPIN BTKAP1 DIWS IB291', 'prev_symbol': 'WBSCR6', 'name': 'general transcription factor IIi', 'alias_name': '', 'prev_name': ''}, {'symbol': 'NR2F1', 'alias_symbol': 'EAR-3 COUP-TFI TCFCOUP1 SVP44 COUPTF1', 'prev_symbol': 'ERBAL3 TFCOUP1', 'name': 'nuclear receptor subfamily 2 group F member 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: Ô­Ê¼±ê¼Ç"COUP-TFII NR2F2"ÖĞ°üº¬"COUP-TFII"ºÍ"NR2F2"£¬ÆäÖĞ"COUP-TFII"³öÏÖÔÚµÚÒ»¸öºòÑ¡ĞÅÏ¢µÄ'alias_symbol'×Ö¶ÎÖĞ£¬ÇÒ¸ÃºòÑ¡ĞÅÏ¢µÄ'symbol'Îª"NR2F2"£¬ÍêÈ«Æ¥ÅäÔ­Ê¼±ê¼ÇµÄÄÚÈİ¡£ÆäËûºòÑ¡ĞÅÏ¢ÓëÔ­Ê¼±ê¼ÇÎŞÖ±½Ó¹ØÁª¡£
+ĞŞÕı½á¹û: NR2F2
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "OCT6 POU3F1 "
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'POU3F1', 'alias_symbol': 'OCT6 SCIP', 'prev_symbol': 'OTF6', 'name': 'POU class 3 homeobox 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HPR', 'alias_symbol': 'HPR', 'prev_symbol': 'MTHPR', 'name': 'mitochondrially encoded replication primer', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4', 'alias_symbol': 'ND4 NAD4', 'prev_symbol': 'MTND4 LHON', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND3', 'alias_symbol': 'ND3 NAD3', 'prev_symbol': 'MTND3', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: Ô­Ê¼±ê¼Ç "OCT6 POU3F1" ÖĞµÄ "OCT6" ÓëºòÑ¡ĞÅÏ¢ÖĞµÚÒ»¸öÌõÄ¿µÄ 'alias_symbol' Æ¥Åä£¬ÇÒÆä 'symbol' Îª "POU3F1"£¬ÓëÔ­Ê¼±ê¼ÇÖĞµÄ "POU3F1" ÍêÈ«Ò»ÖÂ¡£Òò´Ë£¬¸ÃºòÑ¡ĞÅÏ¢ÊÇ×îÆ¥ÅäµÄ½á¹û¡£
+ĞŞÕı½á¹û: POU3F1
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "CTIP2"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'BCL11B', 'alias_symbol': 'CTIP-2 CTIP2 hRIT1-alpha SMARCM2', 'prev_symbol': 'ZNF856B', 'name': 'BCL11 transcription factor B', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HSP2', 'alias_symbol': '', 'prev_symbol': 'MTHSP2', 'name': 'mitochondrially encoded minor H-strand promoter', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬µÚÒ»¸öÌõÄ¿{'symbol': 'BCL11B', 'alias_symbol': 'CTIP-2 CTIP2 hRIT1-alpha SMARCM2'}µÄ±ğÃû£¨alias_symbol£©×Ö¶ÎÃ÷È·°üº¬ÁËÔ­Ê¼±ê¼Ç"CTIP2"£¬Òò´Ë¿ÉÒÔÈ·¶¨¸ÃÌõÄ¿ÓëÔ­Ê¼±ê¼Ç×îÆ¥Åä¡£¸ù¾İ¹æÔò£¬Ó¦Ñ¡ÔñÆä'symbol'×Ö¶Î"BCL11B"×÷Îª±ê×¼»¯½á¹û¡£
+ĞŞÕı½á¹û: BCL11B
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "OCT6"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'POU3F1', 'alias_symbol': 'OCT6 SCIP', 'prev_symbol': 'OTF6', 'name': 'POU class 3 homeobox 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HPR', 'alias_symbol': 'HPR', 'prev_symbol': 'MTHPR', 'name': 'mitochondrially encoded replication primer', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4', 'alias_symbol': 'ND4 NAD4', 'prev_symbol': 'MTND4 LHON', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND3', 'alias_symbol': 'ND3 NAD3', 'prev_symbol': 'MTND3', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬µÚÒ»¸öÌõÄ¿'symbol'Îª'POU3F1'£¬Æä'alias_symbol'°üº¬'OCT6'£¬Õâ±íÃ÷'OCT6'ÊÇ'POU3F1'µÄ±ğÃû¡£Òò´Ë£¬¿ÉÒÔÈ·¶¨Ô­Ê¼±ê¼Ç'OCT6'µÄ±ê×¼»¯½á¹ûÎª'POU3F1'¡£
+ĞŞÕı½á¹û: POU3F1
+```
+
+All markers processed. Results saved to: output/exp_3_3/marker/corrected_markers.csv
+a1bg alpha-1-b glycoprotein
+a1bg-as1 flj23569 ncrna00181 a1bgas a1bg-as a1bg antisense rna 1
+a1cf acf asp acf64 acf65 apobec1cf apobec1 complementation factor
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "CD16"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'FCGR3A', 'alias_symbol': 'CD16 CD16a FcgammaRIIIa FcGRIIIA', 'prev_symbol': 'FCGR3 FCG3', 'name': 'Fc gamma receptor IIIa', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FCGR3B', 'alias_symbol': 'CD16 CD16b FcgammaRIIIb FcRIIIb', 'prev_symbol': 'FCGR3 FCG3', 'name': 'Fc gamma receptor IIIb', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-CO1', 'alias_symbol': 'COX1 COI', 'prev_symbol': 'MTCO1', 'name': 'mitochondrially encoded cytochrome c oxidase I', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-CO2', 'alias_symbol': 'COX2 CO2', 'prev_symbol': 'MTCO2', 'name': 'mitochondrially encoded cytochrome c oxidase II', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND6', 'alias_symbol': 'NAD6 ND6', 'prev_symbol': 'MTND6', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: Ô­Ê¼±ê¼Ç"CD16"ÔÚºòÑ¡ĞÅÏ¢ÖĞÆ¥Åäµ½ÁËÁ½¸ö¿ÉÄÜµÄ»ùÒò·ûºÅ£ºFCGR3AºÍFCGR3B¡£ÕâÁ½¸ö»ùÒò¶¼°üº¬"CD16"×÷Îª±ğÃû£¨alias_symbol£©¡£È»¶ø£¬¸ù¾İ³£¼ûµÄ»ùÒòÃüÃû¹æÔòÒÔ¼°CD16Í¨³£ÓëFc gammaÊÜÌåÏà¹ØµÄ±³¾°ÖªÊ¶£¬CD16¸ü³£±»ÓÃÀ´Ö¸´úFCGR3A£¨CD16a£©£¬ÕâÊÇÖ÷Òª±í´ïÔÚNKÏ¸°ûºÍ¾ŞÊÉÏ¸°ûÉÏµÄÑÇĞÍ¡£Òò´Ë£¬Ñ¡ÔñFCGR3A×÷Îª×îÆ¥ÅäµÄ½á¹û¡£
+ĞŞÕı½á¹û: FCGR3A
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "CTIP2"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'BCL11B', 'alias_symbol': 'CTIP-2 CTIP2 hRIT1-alpha SMARCM2', 'prev_symbol': 'ZNF856B', 'name': 'BCL11 transcription factor B', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HSP2', 'alias_symbol': '', 'prev_symbol': 'MTHSP2', 'name': 'mitochondrially encoded minor H-strand promoter', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬µÚÒ»¸öºòÑ¡ĞÅÏ¢µÄ'symbol'Îª'BCL11B'£¬Æä'alias_symbol'×Ö¶Î°üº¬'CTIP2'£¬ÕâÓëÔ­Ê¼±ê¼ÇÍêÈ«Æ¥Åä¡£Òò´Ë£¬Ñ¡Ôñ¸ÃºòÑ¡ĞÅÏ¢µÄ'symbol'×÷Îª±ê×¼»¯½á¹û¡£
+ĞŞÕı½á¹û: BCL11B
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "OCT6"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'POU3F1', 'alias_symbol': 'OCT6 SCIP', 'prev_symbol': 'OTF6', 'name': 'POU class 3 homeobox 1', 'alias_name': '', 'prev_name': ''}, {'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HPR', 'alias_symbol': 'HPR', 'prev_symbol': 'MTHPR', 'name': 'mitochondrially encoded replication primer', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4', 'alias_symbol': 'ND4 NAD4', 'prev_symbol': 'MTND4 LHON', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND3', 'alias_symbol': 'ND3 NAD3', 'prev_symbol': 'MTND3', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: ÔÚºòÑ¡ĞÅÏ¢ÁĞ±íÖĞ£¬µÚÒ»¸öÌõÄ¿°üº¬±ğÃû 'OCT6 SCIP'£¬ÆäÖĞÃ÷È·Ìáµ½ÁËÔ­Ê¼±ê¼Ç 'OCT6'¡£Òò´Ë£¬¸ÃÌõÄ¿ÓëÔ­Ê¼±ê¼Ç×îÆ¥Åä£¬Æä±ê×¼»¯·ûºÅ 'POU3F1' Ó¦×÷ÎªĞŞÕı½á¹û¡£
+ĞŞÕı½á¹û: POU3F1
+```
+
+    ÄãÊÇÒ»¸ö»ùÒò±ê¼Ç±ê×¼»¯¹¤¾ß£¬ĞèÒª¸ù¾İºòÑ¡ĞÅÏ¢ĞŞÕıÔ­Ê¼±ê¼Ç£¬½«ÆäÃû³ÆĞŞÕıÎªºòÑ¡ĞÅÏ¢ÖĞµÄ±ê×¼»¯½á¹û¡£Äã»áµÃµ½Ò»¸öºòÑ¡ĞÅÏ¢ÁĞ±í£¬ÆäÖĞ°üÀ¨5¸ö¼ìË÷³öµÄºòÑ¡ĞÅÏ¢£¬ËüÃÇµÄÅÅĞòÊÇËæ»ú´òÂÒµÄ¡£ÇëÔÚËùÓĞºòÑ¡ĞÅÏ¢ÖĞ£¬Ñ¡ÔñÄãÈÏÎª¸úmarker×îÆ¥ÅäµÄ½á¹û¡£Èç¹ûÄÜ¹»ÕÒµ½£¬¾ÍÑ¡ÔñºòÑ¡ĞÅÏ¢ÖĞµÄ'symbol'×÷Îª±ê×¼»¯½á¹û£»Èç¹ûÕÒ²»µ½£¬¾Í·µ»ØÔ­Ê¼±ê¼ÇÃû³Æ¡£¸ø³öÄãµÄÀíÓÉ¡£
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÀíÓÉ>
+    ĞŞÕı½á¹û: <±ê×¼»¯µÄ»ùÒò·ûºÅ>
+    ```
+    
+    ÏÖÔÚÇë´¦ÀíÒÔÏÂ±ê¼Ç£º
+    Ô­Ê¼±ê¼Ç: "hfb_G_000352"
+    ºòÑ¡ĞÅÏ¢ÁĞ±í: [{'symbol': 'FADS2', 'alias_symbol': 'FADSD6 D6D TU13 DES6 SLL0262', 'prev_symbol': 'LLCDL2', 'name': 'fatty acid desaturase 2', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-HSP2', 'alias_symbol': '', 'prev_symbol': 'MTHSP2', 'name': 'mitochondrially encoded minor H-strand promoter', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND5', 'alias_symbol': 'ND5 NAD5', 'prev_symbol': 'MTND5', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4L', 'alias_symbol': 'ND4L NAD4L', 'prev_symbol': 'MTND4L', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L', 'alias_name': '', 'prev_name': ''}, {'symbol': 'MT-ND4', 'alias_symbol': 'ND4 NAD4', 'prev_symbol': 'MTND4 LHON', 'name': 'mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4', 'alias_name': '', 'prev_name': ''}]
+    
+```
+ÀíÓÉ: Ô­Ê¼±ê¼Ç"hfb_G_000352"ÓëºòÑ¡ĞÅÏ¢ÁĞ±íÖĞµÄËùÓĞÌõÄ¿¾ùÎŞÖ±½ÓÆ¥Åä¹ØÏµ¡£¸Ã±ê¼Ç¼È²»Æ¥ÅäÈÎºÎ'symbol'¡¢'alias_symbol'£¬Ò²²»Æ¥Åä'prev_symbol'»òÆäËû×Ö¶Î¡£Òò´ËÎŞ·¨ÕÒµ½ºÏÊÊµÄ±ê×¼»¯½á¹û¡£
+ĞŞÕı½á¹û: hfb_G_000352
+```
+
+All markers processed. Results saved to: output/exp_3_3/marker/cm_corrected_markers.csv
+ÒÑÍê³É±ê¼Ç±ê×¼»¯£¬¹²ĞŞ¸Ä 13 ´¦»ùÒò·ûºÅ
+ÎÄ¼şÒÑ±£´æÖÁ: output/exp_3_3/marker/corrected_total.csv
+ÒÑÍê³É±ê¼Ç±ê×¼»¯£¬¹²ĞŞ¸Ä 3 ´¦»ùÒò·ûºÅ
+ÎÄ¼şÒÑ±£´æÖÁ: output/exp_3_3/marker/cm_corrected_total.csv
+Step 4: Evaluation...
+½á¹ûÒÑ±£´æµ½ output/exp_3_3/marker/after_result.csv
+
+°´ÎÄÕÂ·Ö×éµÄÆ½¾ùÖ¸±ê:
+Æ½¾ùmarkerÕÙ»ØÂÊ: 0.7167
+Æ½¾ùmarker¾«È·ÂÊ: 0.1951
+Æ½¾ùtissue_cellÕÙ»ØÂÊ: 0.3333
+Æ½¾ùtissue_cell¾«È·ÂÊ: 0.0909
+
+ËùÓĞÎÄÕÂºÏ²¢ºóµÄÖ¸±ê:
+×ÜmarkerÕÙ»ØÂÊ: 0.7045
+×Ümarker¾«È·ÂÊ: 0.1902
+×Ütissue_cellÕÙ»ØÂÊ: 0.2727
+×Ütissue_cell¾«È·ÂÊ: 0.0517
+
+È«¾ÖÖ¸±ê(²»°´ÎÄÕÂ·Ö×é):
+È«¾ÖmarkerÕÙ»ØÂÊ: 0.7045
+È«¾Ömarker¾«È·ÂÊ: 0.1902
+È«¾Ötissue_cellÕÙ»ØÂÊ: 0.2727
+È«¾Ötissue_cell¾«È·ÂÊ: 0.0517
+½á¹ûÒÑ±£´æµ½ output/exp_3_3/marker/before_result.csv
+
+°´ÎÄÕÂ·Ö×éµÄÆ½¾ùÖ¸±ê:
+Æ½¾ùmarkerÕÙ»ØÂÊ: 0.6833
+Æ½¾ùmarker¾«È·ÂÊ: 0.1911
+Æ½¾ùtissue_cellÕÙ»ØÂÊ: 0.3333
+Æ½¾ùtissue_cell¾«È·ÂÊ: 0.0909
+
+ËùÓĞÎÄÕÂºÏ²¢ºóµÄÖ¸±ê:
+×ÜmarkerÕÙ»ØÂÊ: 0.6818
+×Ümarker¾«È·ÂÊ: 0.1840
+×Ütissue_cellÕÙ»ØÂÊ: 0.2727
+×Ütissue_cell¾«È·ÂÊ: 0.0517
+
+È«¾ÖÖ¸±ê(²»°´ÎÄÕÂ·Ö×é):
+È«¾ÖmarkerÕÙ»ØÂÊ: 0.6818
+È«¾Ömarker¾«È·ÂÊ: 0.1840
+È«¾Ötissue_cellÕÙ»ØÂÊ: 0.2727
+È«¾Ötissue_cell¾«È·ÂÊ: 0.0517
+Step 4: Cell tissue standardization...
+ours
+
+===== Êı¾İ´¦ÀíÍ³¼Æ =====
+Ô­Ê¼Êı¾İ×ÜÌõÊı: 293
+humanÊı¾İÌõÊı: 184
+  - tissue_typeÈ±Ê§: 46 Ìõ
+  - cell_nameÈ±Ê§: 4 Ìõ
+È¥³ı¿ÕÖµºóÓĞĞ§Êı¾İ: 134 Ìõ
+
+¹ıÂËºóµÄÊı¾İÒÑ±£´æµ½: output/exp_3_3/cell/filter_total.csv
+
+===== Æ¥ÅäÍ³¼Æ½á¹û =====
+Æ¥ÅäÌõÊı: 0
+Æ¥ÅäÂÊ: 0.00%
+
+´¦ÀíÍê³É£¬½á¹ûÒÑ±£´æµ½: output/exp_3_3/cell/matched_tissue_cell.csv
+CellMarker
+
+===== Êı¾İ´¦ÀíÍ³¼Æ =====
+Ô­Ê¼Êı¾İ×ÜÌõÊı: 44
+humanÊı¾İÌõÊı: 44
+  - tissue_typeÈ±Ê§: 0 Ìõ
+  - cell_nameÈ±Ê§: 0 Ìõ
+È¥³ı¿ÕÖµºóÓĞĞ§Êı¾İ: 44 Ìõ
+
+¹ıÂËºóµÄÊı¾İÒÑ±£´æµ½: output/exp_3_3/cell/cm_filter_total.csv
+
+===== Æ¥ÅäÍ³¼Æ½á¹û =====
+Æ¥ÅäÌõÊı: 0
+Æ¥ÅäÂÊ: 0.00%
+
+´¦ÀíÍê³É£¬½á¹ûÒÑ±£´æµ½: output/exp_3_3/cell/cm_matched_tissue_cell.csv
+Step 5: LLM-based cell_tissue standardization...
+ours
+´¦ÀíÏ¸°ûÊı¾İ:   0%|          | 0/134 [00:00<?, ?it/s]´¦ÀíÏ¸°ûÊı¾İ:  19%|¨€¨        | 26/134 [00:00<00:00, 257.94it/s]´¦ÀíÏ¸°ûÊı¾İ:  51%|¨€¨€¨€¨€¨€¨‡    | 69/134 [00:00<00:00, 353.30it/s]´¦ÀíÏ¸°ûÊı¾İ:  93%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨†| 124/134 [00:00<00:00, 439.93it/s]´¦ÀíÏ¸°ûÊı¾İ: 100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 134/134 [00:00<00:00, 415.32it/s]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[('uterus', 1.0)]
+[('uterus', 1.0)]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[('kidney', 1.0)]
+[('kidney', 1.0)]
+[]
+[]
+[('lung', 1.0)]
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 1 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 2 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 3 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+LLMµ÷ÓÃÊ§°Ü£¬±£³ÖÔ­Ê¼Êı¾İ
+[('lung', 1.0)]
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 1 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 2 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 3 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+LLMµ÷ÓÃÊ§°Ü£¬±£³ÖÔ­Ê¼Êı¾İ
+[('lung', 1.0)]
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 1 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 2 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 3 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+LLMµ÷ÓÃÊ§°Ü£¬±£³ÖÔ­Ê¼Êı¾İ
+[('lung', 1.0)]
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 1 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 2 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+prompt:  
+    ÄãÊÇÒ»¸öÉúÎïÒ½Ñ§×¨¼Ò£¬ÕıÔÚ°ïÖú±ê×¼»¯Ï¸°ûºÍ×éÖ¯ÀàĞÍµÄ±ê×¢¡£Çë¸ù¾İÒÔÏÂÔ­Ê¼Êı¾İºÍ´Ó±ê×¼ÎÄ¼şÖĞ¼ìË÷µÃµ½µÄºòÑ¡Æ¥Åä£¬¸ø³ö×îºÏÊÊµÄĞŞÕı½á¹û¡£ĞŞÕıÊ±£¬ÓÅÏÈÑ¡ÔñÓëÔ­Ê¼Êı¾İ×îÆ¥ÅäµÄ×éÖ¯-Ï¸°ûÀàĞÍ×éºÏ¡£Èç¹ûÔ­Ê¼Ï¸°ûÀàĞÍÓëºòÑ¡Æ¥ÅäÖĞµÄÏ¸°ûÀàĞÍÊÇ°üº¬¹ØÏµ£¬»òÏ¸°ûÖ®¼äÓĞ·¢Óı¹ØÏµµÈ£¬Ò²ÈÏÎªÆäÆ¥Åä¡£×¢Òâ£¬Èç¹ûÏ¸°ûÀàĞÍÆ¥ÅäµÄÊÇfree_annotation£¬ĞèÒªÓÃÆä¶ÔÓ¦µÄcell_ontology_class×÷ÎªÏ¸°ûĞŞÕıµÄ½á¹û¡£Èç¹ûÄãÈÏÎªÃ»ÓĞºÏÊÊµÄÆ¥Åä£¬Ôò±£³ÖÔ­Ê¼Êı¾İ²»±ä¡£
+
+    Ô­Ê¼Êı¾İ:
+    - Ô­Ê¼×éÖ¯: lung cancer
+    - Ô­Ê¼Ï¸°ûÀàĞÍ: macrophage
+
+    ºòÑ¡Æ¥Åä:
+ºòÑ¡×éÖ¯ 1: lung
+  ºòÑ¡Ï¸°û 1: cell_ontology_class='macrophage', free_annotation='macrophage' (ÏàËÆ¶È: 0.84)
+  ºòÑ¡Ï¸°û 2: cell_ontology_class='macrophage', free_annotation='monocyte/macrophage' (ÏàËÆ¶È: 0.69)
+  ºòÑ¡Ï¸°û 3: cell_ontology_class='macrophage', free_annotation='tissue resident macrophage' (ÏàËÆ¶È: 0.57)
+  ºòÑ¡Ï¸°û 4: cell_ontology_class='macrophage', free_annotation='macrophages' (ÏàËÆ¶È: 0.48)
+  ºòÑ¡Ï¸°û 5: cell_ontology_class='macrophage', free_annotation='sorted myeloid' (ÏàËÆ¶È: 0.36)
+
+
+    ÇëÑÏ¸ñ°´ÕÕÈçÏÂ¸ñÊ½Êä³ö£º
+    ```
+    ÀíÓÉ: <ÄãµÄÅĞ¶ÏÀíÓÉ>
+    ĞŞÕı×éÖ¯: <ĞŞÕıºóµÄ×éÖ¯ÀàĞÍ>
+    ĞŞÕıÏ¸°û: <ĞŞÕıºóµÄÏ¸°ûÀàĞÍ>
+    ```
+    
+µ÷ÓÃ´óÄ£ĞÍ³ö´í: name 'API_KEY' is not defined
+µÚ 3 ´Î³¢ÊÔĞŞÕı `lung cancer/macrophage` Ê§°Ü£¬ÖØÊÔ...
+LLMµ÷ÓÃÊ§°Ü£¬±£³ÖÔ­Ê¼Êı¾İ
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+
+´¦ÀíÍê³É£¡Í³¼ÆĞÅÏ¢:
+×Ü´¦ÀíÌõÊı: 134
+ÍêÈ«ĞŞÕıÌõÊı(found): 0
+½á¹ûÒÑ±£´æµ½: output/exp_3_3/cell/corrected_tissue_cell.csv
+CellMarker
+´¦ÀíÏ¸°ûÊı¾İ:   0%|          | 0/44 [00:00<?, ?it/s]´¦ÀíÏ¸°ûÊı¾İ: 100%|¨€¨€¨€¨€¨€¨€¨€¨€¨€¨€| 44/44 [00:00<00:00, 460.98it/s]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+
+´¦ÀíÍê³É£¡Í³¼ÆĞÅÏ¢:
+×Ü´¦ÀíÌõÊı: 44
+ÍêÈ«ĞŞÕıÌõÊı(found): 0
+½á¹ûÒÑ±£´æµ½: output/exp_3_3/cell/cm_corrected_tissue_cell.csv
+Step 6: correcting total.csv...
+ours
+filter_total.csv - Ô­Ê¼¼ÇÂ¼: 134Ìõ, ĞŞÕı¼ÇÂ¼: 0Ìõ
+corrected_total.csv - Ô­Ê¼¼ÇÂ¼: 293Ìõ, ĞŞÕı¼ÇÂ¼: 0Ìõ
+´¦ÀíÍê³É£¬½á¹ûÒÑ±£´æµ½Ö¸¶¨Â·¾¶
+CellMarker
+filter_total.csv - Ô­Ê¼¼ÇÂ¼: 44Ìõ, ĞŞÕı¼ÇÂ¼: 0Ìõ
+corrected_total.csv - Ô­Ê¼¼ÇÂ¼: 44Ìõ, ĞŞÕı¼ÇÂ¼: 0Ìõ
+´¦ÀíÍê³É£¬½á¹ûÒÑ±£´æµ½Ö¸¶¨Â·¾¶
+'ï¿½ï¿½+ä¿®æ­£å‰' is not recognized as an internal or external command,
+operable program or batch file.
+½á¹ûÒÑ±£´æµ½ output/exp_3_3/cell/before_result.csv
+
+°´ÎÄÕÂ·Ö×éµÄÆ½¾ùÖ¸±ê:
+Æ½¾ùmarkerÕÙ»ØÂÊ: 0.7167
+Æ½¾ùmarker¾«È·ÂÊ: 0.1951
+Æ½¾ùtissue_cellÕÙ»ØÂÊ: 0.3333
+Æ½¾ùtissue_cell¾«È·ÂÊ: 0.0909
+
+ËùÓĞÎÄÕÂºÏ²¢ºóµÄÖ¸±ê:
+×ÜmarkerÕÙ»ØÂÊ: 0.7045
+×Ümarker¾«È·ÂÊ: 0.1902
+×Ütissue_cellÕÙ»ØÂÊ: 0.2727
+×Ütissue_cell¾«È·ÂÊ: 0.0517
+
+È«¾ÖÖ¸±ê(²»°´ÎÄÕÂ·Ö×é):
+È«¾ÖmarkerÕÙ»ØÂÊ: 0.7045
+È«¾Ömarker¾«È·ÂÊ: 0.1902
+È«¾Ötissue_cellÕÙ»ØÂÊ: 0.2727
+È«¾Ötissue_cell¾«È·ÂÊ: 0.0517
+è¿‡æ»¤å‰+ä¿®æ­£å
+usage: 3_eval.py [-h] --cm_path CM_PATH --test_path TEST_PATH --output OUTPUT
+3_eval.py: error: the following arguments are required: --cm_path, --test_path, --output
+'ï¿½ï¿½+ä¿®æ­£å‰' is not recognized as an internal or external command,
+operable program or batch file.
+usage: 3_eval.py [-h] --cm_path CM_PATH --test_path TEST_PATH --output OUTPUT
+3_eval.py: error: the following arguments are required: --cm_path, --test_path, --output
+è¿‡æ»¤å+ä¿®æ­£å
+½á¹ûÒÑ±£´æµ½ output/exp_3_3/cell/after_filter_result.csv
+
+°´ÎÄÕÂ·Ö×éµÄÆ½¾ùÖ¸±ê:
+Æ½¾ùmarkerÕÙ»ØÂÊ: 0.5167
+Æ½¾ùmarker¾«È·ÂÊ: 0.2656
+Æ½¾ùtissue_cellÕÙ»ØÂÊ: 0.3333
+Æ½¾ùtissue_cell¾«È·ÂÊ: 0.1429
+
+ËùÓĞÎÄÕÂºÏ²¢ºóµÄÖ¸±ê:
+×ÜmarkerÕÙ»ØÂÊ: 0.5682
+×Ümarker¾«È·ÂÊ: 0.2841
+×Ütissue_cellÕÙ»ØÂÊ: 0.2727
+×Ütissue_cell¾«È·ÂÊ: 0.1132
+
+È«¾ÖÖ¸±ê(²»°´ÎÄÕÂ·Ö×é):
+È«¾ÖmarkerÕÙ»ØÂÊ: 0.5682
+È«¾Ömarker¾«È·ÂÊ: 0.2841
+È«¾Ötissue_cellÕÙ»ØÂÊ: 0.2727
+È«¾Ötissue_cell¾«È·ÂÊ: 0.1132
+All steps completed

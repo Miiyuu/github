@@ -1,0 +1,45 @@
+ori_tissue,ori_cell_type,corrected_tissue,corrected_cell_type,corrected
+esophagus,monocyte,,,False
+esophagus,monocyte,,,False
+esophagus,mast cell,,,False
+esophagus,conventional dendritic cell(cdc),,,False
+esophagus,plasmacytoid dendritic cell(pdc),,,False
+esophagus,monocyte,,,False
+esophagus,langerhans cell,,,False
+esophagus,langerhans cell,,,False
+esophagus,macrophage,,,False
+esophagus,conventional dendritic cell(cdc),,,False
+lacrimal gland,endothelial cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,epithelial cell,,,False
+lacrimal gland,epithelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,lymphocyte,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,ductal cell,,,False
+lacrimal gland,acinar cell,,,False
+lacrimal gland,epithelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,lymphocyte,,,False
+lacrimal gland,endothelial cell,,,False
+lacrimal gland,myoepithelial cell,,,False
+lacrimal gland,acinar cell,,,False
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,intermediate progenitor cell,,,False
+lateral ganglionic eminence,lge-lineage cell (lateral ganglionic eminence),,,False
+lateral ganglionic eminence,mature msn(medium spiny neuron),,,False
+lateral ganglionic eminence,pre-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,gabaergic neuron,,,False
+lateral ganglionic eminence,early progenitor cell,,,False
+lateral ganglionic eminence,medium spiny neuron(msn),,,False
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,neuron,,,False
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,d1-msn(medium spiny neuron),,,False
+lateral ganglionic eminence,d2-msn(medium spiny neuron),,,False

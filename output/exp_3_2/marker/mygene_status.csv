@@ -1,0 +1,82 @@
+marker,in_mygene
+CCR2,True
+CCR2-,False
+CCR2+,False
+CCR2+Ly6Chigh,False
+CCR2+MHC-IIhigh,False
+CD68,True
+CCR2,True
+Ly6Chigh,False
+CD64+Ly6ClowCCR2-tdTomato+,False
+CD64+Ly6ClowCCR2+tdTomato+,False
+CD64+Ly6ClowCCR2+tdTomato-,False
+CD64intLy6ChighCCR2+tdTomato-,False
+Cxcl1,True
+Cxcl2,True
+Ccl2,True
+Ccl7,True
+Ccl9,False
+Il1β,False
+Il10,True
+Areg,True
+Ereg,True
+Gdf3,True
+Arg1,True
+Mrc1,True
+Hif1α,False
+Type I IFN stimulated genes,False
+Igf1,True
+Pdgfc,True
+Hbegf,True
+Cyr61,False
+CCR2,True
+CD169,False
+Ly6C2,False
+Hp (haptoglobin),False
+Plac8 (placenta-specific 8),False
+Thbs (thrombospondin),False
+Tnip3 (TNFAIP3-interacting protein 3),False
+Itgb7 (integrin subunit β7),False
+LYVE1,True
+IFIT3,True
+ARG1,True
+ITGB7,True
+ANPEP,True
+CCRL2,True
+CCR2,True
+CCR2,True
+CCR2,True
+CCR2,True
+CD64,False
+tdTomato,False
+CD68,True
+CCR2,True
+CCR2,True
+CCR2,True
+Ly6C,False
+CD45,False
+CD64,False
+CD45.1,False
+MHC-II,False
+IFIT3,True
+ARG1,True
+LYVE1,True
+IFIT3,True
+ARG1,True
+LYVE1,True
+CKAP4,True
+TIMD4,True
+LYVE1,True
+MHC-IIlo,False
+CCR2-,False
+ICAM-1,False
+VCAM-1,False
+MHC II,False
+CD31,False
+Notch1,True
+Jag1,True
+Dll4,True
+Notch1,True
+Jag1,True
+Dll4,True
+VE-cadherin,False

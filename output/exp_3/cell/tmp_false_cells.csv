@@ -1,0 +1,8 @@
+ori_tissue,ori_cell_type
+heart,cardiomyocyte (cm)
+heart,cardiac progenitor (cvp)
+esophagus,treg (t regulatory) cell
+esophagus,effector th2 cell
+eoe tissue,cd3+ t cell
+blood,cd4+ t cells
+liver metastasis (liv.mets),spp1+ tams

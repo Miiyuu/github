@@ -1,0 +1,378 @@
+[
+  {
+    "query": "CD68",
+    "_id": "968",
+    "_score": 18.331408,
+    "entrezgene": "968",
+    "name": "CD68 molecule",
+    "symbol": "CD68",
+    "taxid": 9606
+  },
+  {
+    "query": "CD16",
+    "notfound": true
+  },
+  {
+    "query": "KIT",
+    "_id": "3815",
+    "_score": 18.22368,
+    "entrezgene": "3815",
+    "name": "KIT proto-oncogene, receptor tyrosine kinase",
+    "symbol": "KIT",
+    "taxid": 9606
+  },
+  {
+    "query": "FCER1A",
+    "_id": "2205",
+    "_score": 19.268387,
+    "entrezgene": "2205",
+    "name": "Fc epsilon receptor Ia",
+    "symbol": "FCER1A",
+    "taxid": 9606
+  },
+  {
+    "query": "LILRA4",
+    "_id": "23547",
+    "_score": 23.393343,
+    "entrezgene": "23547",
+    "name": "leukocyte immunoglobulin like receptor A4",
+    "symbol": "LILRA4",
+    "taxid": 9606
+  },
+  {
+    "query": "CD14",
+    "_id": "929",
+    "_score": 18.572315,
+    "entrezgene": "929",
+    "name": "CD14 molecule",
+    "symbol": "CD14",
+    "taxid": 9606
+  },
+  {
+    "query": "CD207",
+    "_id": "50489",
+    "_score": 19.312319,
+    "entrezgene": "50489",
+    "name": "CD207 molecule",
+    "symbol": "CD207",
+    "taxid": 9606
+  },
+  {
+    "query": "CD1A",
+    "_id": "909",
+    "_score": 22.482275,
+    "entrezgene": "909",
+    "name": "CD1a molecule",
+    "symbol": "CD1A",
+    "taxid": 9606
+  },
+  {
+    "query": "CD163",
+    "_id": "9332",
+    "_score": 19.305965,
+    "entrezgene": "9332",
+    "name": "CD163 molecule",
+    "symbol": "CD163",
+    "taxid": 9606
+  },
+  {
+    "query": "HLA-DQA1",
+    "_id": "3117",
+    "_score": 25.49844,
+    "entrezgene": "3117",
+    "name": "major histocompatibility complex, class II, DQ alpha 1",
+    "symbol": "HLA-DQA1",
+    "taxid": 9606
+  },
+  {
+    "query": "PECAM1",
+    "_id": "5175",
+    "_score": 18.16489,
+    "entrezgene": "5175",
+    "name": "platelet and endothelial cell adhesion molecule 1",
+    "symbol": "PECAM1",
+    "taxid": 9606
+  },
+  {
+    "query": "LCN2",
+    "_id": "3934",
+    "_score": 19.424494,
+    "entrezgene": "3934",
+    "name": "lipocalin 2",
+    "symbol": "LCN2",
+    "taxid": 9606
+  },
+  {
+    "query": "MYH11",
+    "_id": "4629",
+    "_score": 18.245914,
+    "entrezgene": "4629",
+    "name": "myosin heavy chain 11",
+    "symbol": "MYH11",
+    "taxid": 9606
+  },
+  {
+    "query": "TPM2",
+    "_id": "7169",
+    "_score": 17.698997,
+    "entrezgene": "7169",
+    "name": "tropomyosin 2",
+    "symbol": "TPM2",
+    "taxid": 9606
+  },
+  {
+    "query": "FOXC1",
+    "_id": "2296",
+    "_score": 18.351828,
+    "entrezgene": "2296",
+    "name": "forkhead box C1",
+    "symbol": "FOXC1",
+    "taxid": 9606
+  },
+  {
+    "query": "AQP5",
+    "_id": "362",
+    "_score": 18.57627,
+    "entrezgene": "362",
+    "name": "aquaporin 5",
+    "symbol": "AQP5",
+    "taxid": 9606
+  },
+  {
+    "query": "KRT5",
+    "_id": "3852",
+    "_score": 18.955662,
+    "entrezgene": "3852",
+    "name": "keratin 5",
+    "symbol": "KRT5",
+    "taxid": 9606
+  },
+  {
+    "query": "PRR27",
+    "_id": "401137",
+    "_score": 20.027515,
+    "entrezgene": "401137",
+    "name": "proline rich 27",
+    "symbol": "PRR27",
+    "taxid": 9606
+  },
+  {
+    "query": "PTPRC",
+    "_id": "5788",
+    "_score": 17.471506,
+    "entrezgene": "5788",
+    "name": "protein tyrosine phosphatase receptor type C",
+    "symbol": "PTPRC",
+    "taxid": 9606
+  },
+  {
+    "query": "HTN1",
+    "_id": "3346",
+    "_score": 23.484547,
+    "entrezgene": "3346",
+    "name": "histatin 1",
+    "symbol": "HTN1",
+    "taxid": 9606
+  },
+  {
+    "query": "WFDC2",
+    "_id": "10406",
+    "_score": 17.944502,
+    "entrezgene": "10406",
+    "name": "WAP four-disulfide core domain 2",
+    "symbol": "WFDC2",
+    "taxid": 9606
+  },
+  {
+    "query": "LTF",
+    "_id": "4057",
+    "_score": 19.237755,
+    "entrezgene": "4057",
+    "name": "lactotransferrin",
+    "symbol": "LTF",
+    "taxid": 9606
+  },
+  {
+    "query": "PAX6",
+    "_id": "5080",
+    "_score": 18.183218,
+    "entrezgene": "5080",
+    "name": "paired box 6",
+    "symbol": "PAX6",
+    "taxid": 9606
+  },
+  {
+    "query": "ACTA2",
+    "_id": "59",
+    "_score": 17.648138,
+    "entrezgene": "59",
+    "name": "actin alpha 2, smooth muscle",
+    "symbol": "ACTA2",
+    "taxid": 9606
+  },
+  {
+    "query": "CD2",
+    "_id": "914",
+    "_score": 18.386465,
+    "entrezgene": "914",
+    "name": "CD2 molecule",
+    "symbol": "CD2",
+    "taxid": 9606
+  },
+  {
+    "query": "CDH5",
+    "_id": "1003",
+    "_score": 17.667841,
+    "entrezgene": "1003",
+    "name": "cadherin 5",
+    "symbol": "CDH5",
+    "taxid": 9606
+  },
+  {
+    "query": "MYLK",
+    "_id": "4638",
+    "_score": 18.167933,
+    "entrezgene": "4638",
+    "name": "myosin light chain kinase",
+    "symbol": "MYLK",
+    "taxid": 9606
+  },
+  {
+    "query": "SCGB2A1",
+    "_id": "4246",
+    "_score": 23.074274,
+    "entrezgene": "4246",
+    "name": "secretoglobin family 2A member 1",
+    "symbol": "SCGB2A1",
+    "taxid": 9606
+  },
+  {
+    "query": "GRIK3",
+    "_id": "2899",
+    "_score": 17.672253,
+    "entrezgene": "2899",
+    "name": "glutamate ionotropic receptor kainate type subunit 3",
+    "symbol": "GRIK3",
+    "taxid": 9606
+  },
+  {
+    "query": "ASCL1",
+    "_id": "429",
+    "_score": 18.36905,
+    "entrezgene": "429",
+    "name": "achaete-scute family bHLH transcription factor 1",
+    "symbol": "ASCL1",
+    "taxid": 9606
+  },
+  {
+    "query": "MEIS2",
+    "_id": "4212",
+    "_score": 18.258766,
+    "entrezgene": "4212",
+    "name": "Meis homeobox 2",
+    "symbol": "MEIS2",
+    "taxid": 9606
+  },
+  {
+    "query": "CTIP2",
+    "notfound": true
+  },
+  {
+    "query": "OCT6",
+    "notfound": true
+  },
+  {
+    "query": "SIX3",
+    "_id": "6496",
+    "_score": 18.255543,
+    "entrezgene": "6496",
+    "name": "SIX homeobox 3",
+    "symbol": "SIX3",
+    "taxid": 9606
+  },
+  {
+    "query": "GAD2",
+    "_id": "2572",
+    "_score": 17.577961,
+    "entrezgene": "2572",
+    "name": "glutamate decarboxylase 2",
+    "symbol": "GAD2",
+    "taxid": 9606
+  },
+  {
+    "query": "GSX2",
+    "_id": "170825",
+    "_score": 17.687798,
+    "entrezgene": "170825",
+    "name": "GS homeobox 2",
+    "symbol": "GSX2",
+    "taxid": 9606
+  },
+  {
+    "query": "FOXP1",
+    "_id": "27086",
+    "_score": 18.201761,
+    "entrezgene": "27086",
+    "name": "forkhead box P1",
+    "symbol": "FOXP1",
+    "taxid": 9606
+  },
+  {
+    "query": "TAC1",
+    "_id": "6863",
+    "_score": 17.66564,
+    "entrezgene": "6863",
+    "name": "tachykinin precursor 1",
+    "symbol": "TAC1",
+    "taxid": 9606
+  },
+  {
+    "query": "SP9",
+    "_id": "100131390",
+    "_score": 17.698997,
+    "entrezgene": "100131390",
+    "name": "Sp9 transcription factor",
+    "symbol": "SP9",
+    "taxid": 9606
+  },
+  {
+    "query": "DCX",
+    "_id": "1641",
+    "_score": 18.131847,
+    "entrezgene": "1641",
+    "name": "doublecortin",
+    "symbol": "DCX",
+    "taxid": 9606
+  },
+  {
+    "query": "ISL1",
+    "_id": "3670",
+    "_score": 18.226837,
+    "entrezgene": "3670",
+    "name": "ISL LIM homeobox 1",
+    "symbol": "ISL1",
+    "taxid": 9606
+  },
+  {
+    "query": "EBF1",
+    "_id": "1879",
+    "_score": 18.122957,
+    "entrezgene": "1879",
+    "name": "EBF transcription factor 1",
+    "symbol": "EBF1",
+    "taxid": 9606
+  },
+  {
+    "query": "hfb_G_000352",
+    "notfound": true
+  },
+  {
+    "query": "SIX3-AS1",
+    "_id": "100506108",
+    "_score": 27.201292,
+    "entrezgene": "100506108",
+    "name": "SIX3 antisense RNA 1",
+    "symbol": "SIX3-AS1",
+    "taxid": 9606
+  }
+]

@@ -1,0 +1,45 @@
+species,tissue_class,tissue_type,cell_name,marker,pmid
+Human,Esophagus,Esophagus,Monocyte,CD68,33545035
+Human,Esophagus,Esophagus,Monocyte,CD16,33545035
+Human,Esophagus,Esophagus,Mast cell,KIT,33545035
+Human,Esophagus,Esophagus,Conventional dendritic cell(cDC),FCER1A,33545035
+Human,Esophagus,Esophagus,Plasmacytoid dendritic cell(pDC),LILRA4,33545035
+Human,Esophagus,Esophagus,Monocyte,CD14,33545035
+Human,Esophagus,Esophagus,Langerhans cell,CD207,33545035
+Human,Esophagus,Esophagus,Langerhans cell,CD1A,33545035
+Human,Esophagus,Esophagus,Macrophage,CD163,33545035
+Human,Esophagus,Esophagus,Conventional dendritic cell(cDC),HLA-DQA1,33545035
+Human,Eye,Lacrimal gland,Endothelial cell,PECAM1,33730555
+Human,Eye,Lacrimal gland,Ductal cell,LCN2,33730555
+Human,Eye,Lacrimal gland,Myoepithelial cell,MYH11,33730555
+Human,Eye,Lacrimal gland,Myoepithelial cell,TPM2,33730555
+Human,Eye,Lacrimal gland,Epithelial cell,FOXC1,33730555
+Human,Eye,Lacrimal gland,Epithelial cell,AQP5,33730555
+Human,Eye,Lacrimal gland,Myoepithelial cell,KRT5,33730555
+Human,Eye,Lacrimal gland,Acinar cell,PRR27,33730555
+Human,Eye,Lacrimal gland,Lymphocyte,PTPRC,33730555
+Human,Eye,Lacrimal gland,Acinar cell,HTN1,33730555
+Human,Eye,Lacrimal gland,Ductal cell,WFDC2,33730555
+Human,Eye,Lacrimal gland,Acinar cell,LTF,33730555
+Human,Eye,Lacrimal gland,Epithelial cell,PAX6,33730555
+Human,Eye,Lacrimal gland,Myoepithelial cell,ACTA2,33730555
+Human,Eye,Lacrimal gland,Lymphocyte,CD2,33730555
+Human,Eye,Lacrimal gland,Endothelial cell,CDH5,33730555
+Human,Eye,Lacrimal gland,Myoepithelial cell,MYLK,33730555
+Human,Eye,Lacrimal gland,Acinar cell,SCGB2A1,33730555
+Human,Fetal striatum,Lateral ganglionic eminence,D2-MSN(medium spiny neuron),GRIK3,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,Intermediate progenitor cell,ASCL1,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,LGE-lineage cell (lateral ganglionic eminence),MEIS2,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,Mature MSN(medium spiny neuron),CTIP2,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,pre-MSN(medium spiny neuron),OCT6,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D2-MSN(medium spiny neuron),SIX3,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,GABAergic neuron,GAD2,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,Early progenitor cell,GSX2,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,Medium spiny neuron(MSN),FOXP1,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D1-MSN(medium spiny neuron),TAC1,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D2-MSN(medium spiny neuron),SP9,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,Neuron,DCX,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D1-MSN(medium spiny neuron),ISL1,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D1-MSN(medium spiny neuron),EBF1,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D1-MSN(medium spiny neuron),hfb_G_000352,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D2-MSN(medium spiny neuron),SIX3-AS1,33958447

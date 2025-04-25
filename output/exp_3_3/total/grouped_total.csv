@@ -1,0 +1,124 @@
+pmid,species,tissue_type,cell_name,markers
+33545035,Human,Colon cancer,TAMs,['SPP1']
+33545035,Human,Hepatocellular carcinoma,TAMs,['FOLR2']
+33545035,Human,Hepatocellular carcinoma,cDCs,['MP3']
+33545035,Human,KIDNEY tumor,TAMs,"['FN1', 'CD52']"
+33545035,Human,Lung cancer,Macrophage,"['PPARG', 'MARCO', 'MRC1', 'MSR1']"
+33545035,Human,Multiple cancer types,LYVE1+ Macrophages,['LYVE1']
+33545035,Human,Multiple cancer types,Macrophages,"['SPP1', 'C1QC']"
+33545035,Human,Multiple cancer types,cDCs,['LAMP3']
+33545035,Human,Multiple tissues,Resident tissue macrophages (RTMs),['LYVE1']
+33545035,Human,Non-cancer tissues,NLRP3+ Macrophages,['NLRP3']
+33545035,Human,SKCM tumor,Macrophages,['VCAN']
+33545035,Human,Thyroid tumor,Mast cell,"['TNF', 'VEGFA']"
+33545035,Human,Tumor,C1QC+ TAMs,['C1QC']
+33545035,Human,Tumor,FN1+ TAMs,['FN1']
+33545035,Human,Tumor,ISG15+ TAMs,['ISG15']
+33545035,Human,Tumor,Macrophages,['SPP1']
+33545035,Human,Tumor,Mast cells,"['TNF', 'VEGFA']"
+33545035,Human,Tumor,Monocytes,"['S100A8', 'S100A9', 'CSF3R', 'IL1B', 'CCL4', 'CXCL2', 'CXCR4', 'AREG', 'EGR1', 'NR4A1', 'NR4A2', 'NLRP3', 'NFKB1', 'NFKBIA']"
+33545035,Human,Tumor,RTMs,['LYVE1']
+33545035,Human,Tumor,SPP1+ TAMs,['SPP1']
+33545035,Human,Tumor,TAMs,"['C1QC', 'FOLR2']"
+33545035,Human,Tumor,cDCs,['LAMP3']
+33545035,Human,Tumor,cDCs (conventional dendritic cells),['LAMP3']
+33545035,Human,Tumor or adjacent normal tissue,Monocytes,"['HLA-DQA1', 'HLA-DQB1', 'CD163', 'CD68']"
+33545035,Human,Tumor tissue,Macrophage,['IL1B']
+33545035,Human,Uterus,Mast cell,"['TNF', 'VEGFA']"
+33545035,Human,,C02_cDC2_CD1A (Langerhans cell),"['CD1A', 'CD207 (langerin)', 'not EPCAM']"
+33545035,Human,,C03_cDC2_IL1B,"['IL1B', 'TNF', 'CCL3', 'CCL4']"
+33545035,Human,,C05_cDC2_ISG15,"['ISG15', 'IFI6', 'IFIT1']"
+33545035,Human,,C06_cDC2_CXCL9,['CXCL9']
+33545035,Human,,LAMP3+ cDCs,"['CD4', 'CD8', 'FOXP3', 'DC_LAMP']"
+33545035,Human,,Macrophage,"['SPP1', 'FN1', 'VCAN']"
+33545035,Human,,Mast cell,"['KIT', 'TPSAB1', 'CPA3', 'TPSB2', 'TNF', 'VEGFA']"
+33545035,Human,,Monocyte,"['CD14', 'CD16']"
+33545035,Human,,Myeloid cell,"['PTPRC', 'CST3']"
+33545035,Human,,T cell,['CD3E']
+33545035,Human,,cDC1,"['XCR1', 'CADM1']"
+33545035,Human,,cDC2,"['CD1A', 'CD172A', 'IL1B', 'TNF']"
+33545035,,CRC and Myeloma,Intermediate monocytes,['CD14hiCD16+']
+33545035,,Esophageal carcinoma,Classical monocytes,['CD14hiCD16-']
+33545035,,Esophageal carcinoma,Mast cells,['KIT']
+33545035,,Esophageal carcinoma,Mature cDCs,['LAMP3']
+33545035,,Esophageal carcinoma,Monocytes/macrophages,['CD68/CD163']
+33545035,,Esophageal carcinoma,Non-classical monocytes,['CD14+CD16hi']
+33545035,,Esophageal carcinoma,cDC1s,['CLEC9A']
+33545035,,Esophageal carcinoma,cDC2s,['CD1C']
+33545035,,Esophageal carcinoma,pDCs,"['LILRA4', 'HLA/FCER1A']"
+33545035,,Lung cancer,Alveolar macrophages,"['PPARG', 'MARCO', 'MRC1', 'MSR1']"
+33545035,,THCA,SPP1+ macrophages,['PYCR1']
+33545035,,Tumor,Angiogenesis-associated macrophages,['SPP1']
+33545035,,Tumor,Macrophage (ISG15+ TAMs),"['ISG15', 'IFIT1', 'IFITM1', 'TNFSF10', 'CASP1', 'CASP4', 'CXCL10']"
+33545035,,Tumor,SPP1+ TAMs,"['CD68', 'SPP1', 'CD52']"
+33545035,,,C06_cDC2_CXCL9,"['CXCL9', 'IDO1', 'CXCL9', 'IDO1']"
+33545035,,,C06_cDC2_CXCL9 sub-cluster,"['CXCL9', 'IDO1']"
+33545035,,,C1QC+ TAMs,['C1QC']
+33545035,,,C1QC+ macrophage,"['C1QC', 'C1QC']"
+33545035,,,CXCL9+ cDC2s,['CXCL9']
+33545035,,,FCN1+ cDC2 subset,['FCN1']
+33545035,,,FN1+ TAMs,['FN1']
+33545035,,,IL1B+ cDC2 subset,['IL1B']
+33545035,,,INHBA+ TAMs,['INHBA']
+33545035,,,ISG15+ TAMs,['ISG15']
+33545035,,,LAMP3+ cDCs,"['LAMP3', 'CMTM6', 'PD-L1', 'AXL', 'TRL3', 'CD40', 'LAMP3', 'LAMP3', 'LAMP3']"
+33545035,,,Mast cell subtype,"['TPSAB1', 'TNF', 'VEGFA']"
+33545035,,,SPP1+ TAMs,['SPP1']
+33545035,,,SPP1+ macrophage,"['SPP1', 'SPP1']"
+33545035,,,VCAN+ TAMs,['VCAN']
+33545035,,,cDC1-derived LAMP3+ cDCs,"['IL12B', 'BTLA', 'LAMP3', 'LAMP3']"
+33545035,,,cDC2 and C1QC+ TAMs,['AXL']
+33545035,,,cDC2-derived LAMP3+ cDCs,"['CD1E', 'CCL17', 'LAMP3', 'LAMP3', 'IDO1']"
+33545035,,,monocytes,"['CD14', 'CD16', 'FCN1']"
+33730555,Human,Lacrimal gland,Acinar cell,"['LTF', 'LCN1', 'LYZ', 'PRR27', 'LACRT', 'SCGB1D1', 'SCGB2A1', 'CST1', 'CST4', 'HTN1', 'SMR3A', 'SMR3B', 'CHRM1', 'LYZ', 'LTF', 'LCN1', 'BPIFA1']"
+33730555,Human,Lacrimal gland,Basal cell,['TP63']
+33730555,Human,Lacrimal gland,Ductal and acinar cells,['VIPR1']
+33730555,Human,Lacrimal gland,Ductal cell,"['LCN2', 'WFDC2', 'C3', 'LCN2', 'WFDC2', 'LCN2', 'C3', 'WFDC2']"
+33730555,Human,Lacrimal gland,Ductal progenitor,['KRT5']
+33730555,Human,Lacrimal gland,Endothelial cell,"['CDH5', 'PECAM1']"
+33730555,Human,Lacrimal gland,Epithelial cell,"['PAX6', 'FOXC1', 'AQP5']"
+33730555,Human,Lacrimal gland,Lymphocyte,"['PTPRC', 'CD2']"
+33730555,Human,Lacrimal gland,Myoepithelial cell,"['ACTA2', 'MYH11', 'MYLK', 'TPM2']"
+33730555,Human,Lacrimal gland,,"['CFTR', 'CLCN3', 'SLC12A4', 'LRRC26']"
+33730555,Human,Lacrimal gland organoid,Acinar cell,['BPIFA1']
+33730555,Human,Lacrimal gland organoid,Basal cell,"['KRT5', 'KRT14', 'NGFR', 'TP63']"
+33730555,Human,Lacrimal gland organoid,Differentiated cell,"['AQP5', 'F3', 'MUC16', 'MUC5AC', 'PIGR']"
+33730555,Human,Lacrimal gland tissue,Acinar cell,"['LTF', 'PRR27', 'SCGB2A1', 'HTN1']"
+33730555,Human,Lacrimal gland tissue,Ductal cell,"['LCN2', 'WFDC2']"
+33730555,Mouse,Lacrimal gland,Ductal cell,"['Pigr', 'C3', 'Lcn2', 'Ltf', 'Sftpd', 'Serpinb2', 'Serpinb5', 'Cstb', 'Cst6', 'Aqp5']"
+33730555,Mouse,Lacrimal gland,Ductal cell progenitors,['Krt5']
+33730555,Mouse,Lacrimal gland,Ductal progenitor,['KRT5']
+33730555,Mouse,Lacrimal gland,Ducts,['Ltf']
+33730555,Mouse,Lacrimal gland,Myoepithelial cell,"['Acta2', 'Myl9']"
+33730555,Mouse,Lacrimal gland,Stem cell,"['Lgr5', 'Axin2', 'Tnfrsf19', 'Krt5']"
+33730555,,Lacrimal gland,Acinar cells,['Aqp5']
+33730555,,Lacrimal gland,Epithelial cells,['Pax6']
+33730555,,Lacrimal gland,Luminal cells,['Lcn2']
+33730555,,,,"['PAX6', 'AQP5', 'LTF', 'KRT5', 'KI67', 'ACTA2', 'LYZ', 'LCN2', 'BPIFA1', 'PRR27', 'WFDC2', 'SCGB2A1', 'HTN1', 'LCN1']"
+33958447,Human,Brain,D1 MSNs,['ISL1']
+33958447,Human,Brain,D2 MSNs,['SIX3']
+33958447,Human,Brain,Medium Spiny Neurons (MSNs),"['PDYN', 'TSHZ1']"
+33958447,Human,LGE (Lateral Ganglionic Eminence),Apical Progenitors,"['SALL3', 'LINC01896']"
+33958447,Human,LGE (Lateral Ganglionic Eminence),D1-MSNs (D1 medium spiny neurons),['ISL1']
+33958447,Human,LGE (Lateral Ganglionic Eminence),D2-MSNs (D2 medium spiny neurons),['SIX3']
+33958447,Human,LGE (Lateral Ganglionic Eminence),MGE interneurons,"['NKX2.1', 'LHX6', 'LHX8']"
+33958447,Human,LGE (Lateral Ganglionic Eminence),dorsal LGE (dLGE) interneurons,"['SP8', 'COUP-TFII (NR2F2)', 'PAX6']"
+33958447,Human,Striatum,D1-MSNs,"['ZNF467', 'OCT6', 'IKZF1']"
+33958447,Human,Striatum,D1-MSNs (patch cells),"['PDYN', 'TSHZ1']"
+33958447,Human,Striatum,D2-MSNs,"['ZNF467', 'OCT6', 'MAFB']"
+33958447,Human,Striatum,D2-MSNs (patch cells),"['PDYN', 'TSHZ1']"
+33958447,Human,Striatum,Pre-MSN,"['OCT6 (POU3F1)', 'ISL1', 'SIX3', 'CTIP2']"
+33958447,Human,,APs (Ancestal Progenitors),['OTX1']
+33958447,Human,,BPs (Basal Progenitors),['VAX1']
+33958447,Human,,D1-MSN,['IKZF1']
+33958447,Human,,D1-MSNs,['ISL1']
+33958447,Human,,D1-MSNs (D1 Medium Spiny Neurons),['FOXO1']
+33958447,Human,,D2-MSNs,['SIX3']
+33958447,Human,,D2-MSNs (D2 Medium Spiny Neurons),['NANOG']
+33958447,Human,,MSNs (Medium Spiny Neurons),['POU2F2']
+33958447,Human,,Mature D1-MSNs,['NEFM']
+33958447,Human,,Postmitotic neurons (SVZ of LGE),['OCT6']
+33958447,Human,,Pre-MSNs,['OCT6']
+33958447,Mouse,,D2-MSN,['IKZF1']
+33958447,,,D2-MSN,['MAFB']
+33958447,,,pre-MSN,['OCT6']

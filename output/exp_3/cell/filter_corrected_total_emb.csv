@@ -1,0 +1,119 @@
+species,tissue_type,cell_name,marker,pmid
+Human,Heart,Cardiac muscle cell,LAMB2,30893597
+Human,Heart,Cardiac muscle cell,LAMC1,30893597
+Human,Heart,Cardiac muscle cell,LAMB1,30893597
+Human,Heart,Cardiac muscle cell,LAMA2,30893597
+Human,Heart,Cardiac muscle cell,LAMA5,30893597
+Human,Heart,Cardiac muscle cell,LAMA4,30893597
+Human,heart,"cardiac muscle cell
+```",TNNI3,30893597
+Human,heart,"cardiac muscle cell
+```",TNNT2,30893597
+Human,heart,"cardiac muscle cell
+```",ACTN1,30893597
+Human,heart,"cardiac muscle cell
+```",NKX2-5,30893597
+Human,heart,"cardiac muscle cell
+```",MYH1,30893597
+Human,heart,"cardiac muscle cell
+```",T (brachyury),30893597
+Human,heart,"cardiac muscle cell
+```",MESP1,30893597
+Human,heart,"cardiac muscle cell
+```",ISL1,30893597
+Human,heart,"cardiac muscle cell
+```",TBX5,30893597
+Human,heart,"cardiac muscle cell
+```",MEF2C,30893597
+Human,heart,"cardiac muscle cell
+```",NKX2-5,30893597
+Human,heart,"cardiac muscle cell
+```",KIT,30893597
+Human,heart,"cardiac muscle cell
+```",GATA3,30893597
+Human,spleen,"regulatory t cell
+```",FOXP3,30958799
+Human,fat,"t cell
+```",GATA3,30958799
+Human,fat,"t cell
+```",HPGDS,30958799
+Human,fat,"t cell
+```",PTGDR2,30958799
+Human,fat,"t cell
+```",IL-17RB,30958799
+Human,fat,"t cell
+```",FFAR3,30958799
+Human,lymph_node,"cell_ontology_class='t cell', free_annotation='t lymphocytes'
+```",ITGAE (CD103),30958799
+Human,blood,"t cell
+```",CXCR4,30958799
+Human,blood,"t cell
+```",CCR5,30958799
+Human,blood,"t cell
+```",CCR8,30958799
+Human,lymph_node,"t cell
+```",IL-25 receptor,30958799
+Human,lymph_node,"t cell
+```",HPGDS,30958799
+Human,trachea,"t cell
+```",IL4,30958799
+Human,trachea,"t cell
+```",IL5,30958799
+Human,trachea,"t cell
+```",IL13,30958799
+Human,lymph_node,"cell_ontology_class='t cell', free_annotation='t lymphocytes'
+```",IFNG,30958799
+Human,esophageal tissue,"cell_ontology_class='t cell', free_annotation='t cells'
+```",IFNG,30958799
+Human,esophageal tissue,"t cell
+```",IL4,30958799
+Human,esophageal tissue,"t cell
+```",IL5,30958799
+Human,esophageal tissue,"t cell
+```",IL13,30958799
+Human,esophageal tissue,"cell_ontology_class='t cell', free_annotation='t cells'
+```",IFNG,30958799
+Human,esophageal tissue,"t cell
+```",IL4,30958799
+Human,esophageal tissue,"t cell
+```",IL5,30958799
+Human,esophageal tissue,"t cell
+```",IL13,30958799
+Human,blood,"t cell (il5 producer)
+```",IL5,30958799
+Human,fat,"t cell
+```",FFAR3,30958799
+Human,blood,"cd4-positive
+```",FFAR3,30958799
+Human,liver metastasis,"spp1+ tams
+```",SPP1,35303421
+Human,liver metastasis,"spp1+ tams
+```",CD68,35303421
+Human,liver metastasis,"spp1+ tams
+```",MARCO,35303421
+Human,liver,"c1qc+ tams
+```",C1QC,35303421
+Human,liver,"c1qc+ tams
+```",CXCL9,35303421
+Human,liver,"c1qc+ tams
+```",CXCL10,35303421
+Human,liver metastasis (liv.mets),"mki67+ tams
+```",MKI67,35303421
+Human,tumor microenvironment,"cell_ontology_class='macrophage', free_annotation='macrophage'
+```",C1QC,35303421
+Human,tumor microenvironment,"tumor-associated macrophages (TAMs, SPP1+)
+```",SPP1,35303421
+Human,lymph_node,"cd1c-positive myeloid dendritic cell
+```",C1QC,35303421
+Human,liver,"natural killer cells
+```",CD56bright/CD16neg,35303421
+Human,thymus,"macrophage
+```",CD68,35303421
+Human,thymus,"macrophage
+```",MARCO,35303421
+Human,thymus,"dn3 thymocyte
+```",CD1C,35303421
+Human,thymus,"dn3 thymocyte
+```",CD14,35303421
+Human,thymus,"dn3 thymocyte
+```",CD163,35303421

@@ -1,0 +1,131 @@
+Step 6: correcting total.csv...
+ours
+filter_total.csv - 原始记录: 62条, 修正记录: 56条
+corrected_total.csv - 原始记录: 243条, 修正记录: 56条
+处理完成，结果已保存到指定路径
+CellMarker
+filter_total.csv - 原始记录: 22条, 修正记录: 22条
+corrected_total.csv - 原始记录: 22条, 修正记录: 22条
+处理完成，结果已保存到指定路径
+Step 7: Evaluating cell_tissue standardization...
+total before
+结果已保存到 output/exp_3/cell/before_result.csv
+
+按文章分组的平均指标:
+平均marker召回率: 0.9077
+平均marker精确率: 0.1445
+平均tissue_cell召回率: 0.0833
+平均tissue_cell精确率: 0.0111
+
+所有文章合并后的指标:
+总marker召回率: 0.9000
+总marker精确率: 0.1406
+总tissue_cell召回率: 0.1429
+总tissue_cell精确率: 0.0141
+
+全局指标(不按文章分组):
+全局marker召回率: 0.9000
+全局marker精确率: 0.1406
+全局tissue_cell召回率: 0.1429
+全局tissue_cell精确率: 0.0141
+total after(tfidf)
+结果已保存到 output/exp_3/cell/after_result.csv
+
+按文章分组的平均指标:
+平均marker召回率: 0.9077
+平均marker精确率: 0.1445
+平均tissue_cell召回率: 0.0833
+平均tissue_cell精确率: 0.0111
+
+所有文章合并后的指标:
+总marker召回率: 0.9000
+总marker精确率: 0.1406
+总tissue_cell召回率: 0.1429
+总tissue_cell精确率: 0.0141
+
+全局指标(不按文章分组):
+全局marker召回率: 0.9000
+全局marker精确率: 0.1406
+全局tissue_cell召回率: 0.1429
+全局tissue_cell精确率: 0.0141
+total after(emb)
+结果已保存到 output/exp_3/cell/after_result.csv
+
+按文章分组的平均指标:
+平均marker召回率: 0.9077
+平均marker精确率: 0.1445
+平均tissue_cell召回率: 0.4167
+平均tissue_cell精确率: 0.0591
+
+所有文章合并后的指标:
+总marker召回率: 0.9000
+总marker精确率: 0.1406
+总tissue_cell召回率: 0.3333
+总tissue_cell精确率: 0.0290
+
+全局指标(不按文章分组):
+全局marker召回率: 0.9000
+全局marker精确率: 0.1406
+全局tissue_cell召回率: 0.3333
+全局tissue_cell精确率: 0.0290
+filter before
+结果已保存到 output/exp_3/cell/before_filter_result.csv
+
+按文章分组的平均指标:
+平均marker召回率: 0.2205
+平均marker精确率: 0.1519
+平均tissue_cell召回率: 0.0833
+平均tissue_cell精确率: 0.0303
+
+所有文章合并后的指标:
+总marker召回率: 0.3500
+总marker精确率: 0.1628
+总tissue_cell召回率: 0.1429
+总tissue_cell精确率: 0.0435
+
+全局指标(不按文章分组):
+全局marker召回率: 0.3500
+全局marker精确率: 0.1628
+全局tissue_cell召回率: 0.1429
+全局tissue_cell精确率: 0.0435
+filter after(tfidf)
+结果已保存到 output/exp_3/cell/after_filter_result.csv
+
+按文章分组的平均指标:
+平均marker召回率: 0.2205
+平均marker精确率: 0.1519
+平均tissue_cell召回率: 0.0833
+平均tissue_cell精确率: 0.0303
+
+所有文章合并后的指标:
+总marker召回率: 0.3500
+总marker精确率: 0.1628
+总tissue_cell召回率: 0.1429
+总tissue_cell精确率: 0.0435
+
+全局指标(不按文章分组):
+全局marker召回率: 0.3500
+全局marker精确率: 0.1628
+全局tissue_cell召回率: 0.1429
+全局tissue_cell精确率: 0.0435
+filter after(emb)
+结果已保存到 output/exp_3/cell/after_filter_result.csv
+
+按文章分组的平均指标:
+平均marker召回率: 0.2205
+平均marker精确率: 0.1519
+平均tissue_cell召回率: 0.4167
+平均tissue_cell精确率: 0.2000
+
+所有文章合并后的指标:
+总marker召回率: 0.3500
+总marker精确率: 0.1628
+总tissue_cell召回率: 0.3333
+总tissue_cell精确率: 0.0952
+
+全局指标(不按文章分组):
+全局marker召回率: 0.3500
+全局marker精确率: 0.1628
+全局tissue_cell召回率: 0.3333
+全局tissue_cell精确率: 0.0952
+All steps completed

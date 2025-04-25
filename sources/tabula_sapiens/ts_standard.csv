@@ -1,0 +1,1305 @@
+organ_tissue,cell_ontology_class,free_annotation
+bladder,b cell,b cell
+bladder,b cell,b cells
+bladder,b cell,b lymphocytes
+bladder,b cell,b_cells
+bladder,bladder urothelial cell,bladder urothelial cell
+bladder,capillary endothelial cell,capillary endothelial cell
+bladder,capillary endothelial cell,capillary_endothelial_confirmed
+bladder,capillary endothelial cell,vascular capillary endothelial cell
+bladder,endothelial cell of lymphatic vessel,lymphatic cells
+bladder,endothelial cell of lymphatic vessel,lymphatic endothelial cell
+bladder,endothelial cell of lymphatic vessel,lymphatic endothelium
+bladder,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel
+bladder,endothelial cell of lymphatic vessel,endothelial_cell_of_lymphatic_vessel_confirmed
+bladder,fibroblast,endometrial stromal fibbroblast
+bladder,fibroblast,fibroblast
+bladder,fibroblast,fibroblasts
+bladder,fibroblast,stellate/fibroblast
+bladder,fibroblast,uterine fibroblast
+bladder,macrophage,macrophage
+bladder,macrophage,macrophages
+bladder,macrophage,monocyte/macrophage
+bladder,macrophage,sorted myeloid
+bladder,macrophage,tissue resident macrophage
+bladder,mast cell,mast cell
+bladder,mast cell,mast_cells
+bladder,mast cell,mast cells
+bladder,myofibroblast cell,myofibroblasts
+bladder,myofibroblast cell,myofibroblast cell
+bladder,nk cell,nk cell
+bladder,nk cell,nk cells
+bladder,nk cell,natural killer cell
+bladder,nk cell,natural killer cells
+bladder,nk cell,natural_killar_cells
+bladder,nk cell,proliferating nk cell
+bladder,nk cell,uterine nk cells
+bladder,pericyte cell,pericyte
+bladder,pericyte cell,pericytes
+bladder,pericyte cell,perivascular
+bladder,pericyte cell,pericyte cell
+bladder,pericyte cell,pericyte_cell_confirmed
+bladder,plasma cell,plasma
+bladder,plasma cell,plasma cell
+bladder,plasma cell,plasma cells
+bladder,plasma cell,plasma_cells
+bladder,plasmacytoid dendritic cell,plasmacytoid dendritic cell
+bladder,smooth muscle cell,smooth muscle cell
+bladder,smooth muscle cell,smooth muscle cells
+bladder,smooth muscle cell,smooth_muscle_cells
+bladder,t cell,areg high t-cell
+bladder,t cell,areg low t-cell
+bladder,t cell,t cell
+bladder,t cell,t cell-low rna
+bladder,t cell,t cells
+bladder,t cell,t lymphocytes
+bladder,t cell,t-cells
+bladder,t cell,t_cells
+bladder,t cell,alpha beta t cell
+bladder,t cell,alpha-beta t cell
+bladder,vein endothelial cell,vein cell (endothelial cell)
+bladder,vein endothelial cell,vascular venous endothelial cell
+bladder,vein endothelial cell,vein endothelial cell
+bladder,vein endothelial cell,vein_endothelial_cell
+blood,basophil,basophil
+blood,cd141-positive myeloid dendritic cell,cd141-positive myeloid dendritic cell
+blood,cd24 neutrophil,cd24 neutrophil
+blood,"cd4-positive, alpha-beta memory t cell",cd4-positive memory t cell
+blood,"cd4-positive, alpha-beta t cell",cd4 t cell
+blood,"cd8-positive, alpha-beta cytokine secreting effector t cell","cd8-positive, alpha-beta cytokine secreting effector t cell"
+blood,"cd8-positive, alpha-beta t cell",cd4 t cell
+blood,"cd8-positive, alpha-beta t cell",cd8 t cell
+blood,classical monocyte,classical monocyte
+blood,erythrocyte,erythrocyte
+blood,erythrocyte,erythrocytes
+blood,granulocyte,granulocyte
+blood,hematopoietic stem cell,hematopoietic stem cell
+blood,macrophage,macrophage
+blood,macrophage,macrophages
+blood,macrophage,monocyte/macrophage
+blood,macrophage,sorted myeloid
+blood,macrophage,tissue resident macrophage
+blood,memory b cell,memory b cell
+blood,monocyte,monocyte
+blood,monocyte,monocytes
+blood,myeloid progenitor,myeloid progenitor
+blood,naive b cell,naive b cell
+blood,"naive thymus-derived cd4-positive, alpha-beta t cell",naive cd4-positive helper t cells
+blood,nampt neutrophil,nampt neutrophil
+blood,neutrophil,neutrophil
+blood,nk cell,nk cell
+blood,nk cell,nk cells
+blood,nk cell,natural killer cell
+blood,nk cell,natural killer cells
+blood,nk cell,natural_killar_cells
+blood,nk cell,proliferating nk cell
+blood,nk cell,uterine nk cells
+blood,non-classical monocyte,non-classical monocyte
+blood,plasma cell,plasma
+blood,plasma cell,plasma cell
+blood,plasma cell,plasma cells
+blood,plasma cell,plasma_cells
+blood,plasmablast,plasmablast
+blood,plasmacytoid dendritic cell,plasmacytoid dendritic cell
+blood,platelet,platelet
+blood,t cell,areg high t-cell
+blood,t cell,areg low t-cell
+blood,t cell,t cell
+blood,t cell,t cell-low rna
+blood,t cell,t cells
+blood,t cell,t lymphocytes
+blood,t cell,t-cells
+blood,t cell,t_cells
+blood,t cell,alpha beta t cell
+blood,t cell,alpha-beta t cell
+blood,type i nk t cell,nk t cell
+blood,type i nk t cell,nkt cell
+blood,type i nk t cell,type i nk t cell
+bone_marrow,cd24 neutrophil,cd24 neutrophil
+bone_marrow,"cd4-positive, alpha-beta t cell",cd4 t cell
+bone_marrow,"cd8-positive, alpha-beta t cell",cd4 t cell
+bone_marrow,"cd8-positive, alpha-beta t cell",cd8 t cell
+bone_marrow,erythrocyte,erythrocyte
+bone_marrow,erythrocyte,erythrocytes
+bone_marrow,erythroid progenitor,erythroid progenitor cell
+bone_marrow,erythroid progenitor,erythroid progenitor
+bone_marrow,erythroid progenitor,not-existing
+bone_marrow,granulocyte,granulocyte
+bone_marrow,hematopoietic stem cell,hematopoietic stem cell
+bone_marrow,macrophage,macrophage
+bone_marrow,macrophage,macrophages
+bone_marrow,macrophage,monocyte/macrophage
+bone_marrow,macrophage,sorted myeloid
+bone_marrow,macrophage,tissue resident macrophage
+bone_marrow,memory b cell,memory b cell
+bone_marrow,monocyte,monocyte
+bone_marrow,monocyte,monocytes
+bone_marrow,myeloid progenitor,myeloid progenitor
+bone_marrow,naive b cell,naive b cell
+bone_marrow,nampt neutrophil,nampt neutrophil
+bone_marrow,neutrophil,neutrophil
+bone_marrow,nk cell,nk cell
+bone_marrow,nk cell,nk cells
+bone_marrow,nk cell,natural killer cell
+bone_marrow,nk cell,natural killer cells
+bone_marrow,nk cell,natural_killar_cells
+bone_marrow,nk cell,proliferating nk cell
+bone_marrow,nk cell,uterine nk cells
+bone_marrow,plasma cell,plasma
+bone_marrow,plasma cell,plasma cell
+bone_marrow,plasma cell,plasma cells
+bone_marrow,plasma cell,plasma_cells
+bone_marrow,plasmablast,plasmablast
+eye,adipocyte,adipocytes
+eye,b cell,b cell
+eye,b cell,b cells
+eye,b cell,b lymphocytes
+eye,b cell,b_cells
+eye,"cd4-positive, alpha-beta t cell",cd4 t cell
+eye,"cd8-positive, alpha-beta t cell",cd4 t cell
+eye,"cd8-positive, alpha-beta t cell",cd8 t cell
+eye,ciliary body,ciliary body cells
+eye,conjunctival epithelial cell,conjunctiva - epithelial cells
+eye,corneal epithelial cell,cornea - epithelial cells
+eye,corneal keratocyte,cornea - mesenchymal cells - stromal keratinocytes
+eye,dendritic cell,dendritic cell
+eye,dendritic cell,dendritic cells
+eye,endothelial cell,endothelial
+eye,endothelial cell,endothelial cell
+eye,endothelial cell,endothelial cells
+eye,endothelial cell,endothelial/kuppfer
+eye,endothelial cell,endothelial_cells
+eye,endothelial cell,endothelium
+eye,endothelial cell,enodthelial cell
+eye,epithelial cell of lacrimal sac,lacrimal cells - unspecified
+eye,erythroid lineage cell,erythroid cells
+eye,eye photoreceptor cell,retina - photoreceptor cells
+eye,fibroblast,endometrial stromal fibbroblast
+eye,fibroblast,fibroblast
+eye,fibroblast,fibroblasts
+eye,fibroblast,stellate/fibroblast
+eye,fibroblast,uterine fibroblast
+eye,lacrimal gland functional unit cell,lacrimal gland functional unit cells
+eye,limbal stem cell,limbal stem cells
+eye,limbal stromal cell,limbal stromal cells
+eye,macrophage,macrophage
+eye,macrophage,macrophages
+eye,macrophage,monocyte/macrophage
+eye,macrophage,sorted myeloid
+eye,macrophage,tissue resident macrophage
+eye,mast cell,mast cell
+eye,mast cell,mast_cells
+eye,mast cell,mast cells
+eye,melanocyte,melanocytes
+eye,melanocyte,melanocytes or limbal stem cells
+eye,microglial cell,retina - microglia
+eye,monocyte,monocyte
+eye,monocyte,monocytes
+eye,muller cell,retina - muller glia
+eye,ocular surface cell,inflamed ocular surface cells
+eye,plasma cell,plasma
+eye,plasma cell,plasma cell
+eye,plasma cell,plasma cells
+eye,plasma cell,plasma_cells
+eye,radial glial cell,radial glia progenitor cells
+eye,retina horizontal cell,retina - horizontal cells
+eye,retinal bipolar neuron,retina - bipolar cells
+eye,retinal blood vessel endothelial cell,vascular endothelial cells
+eye,retinal ganglion cell,retina - ganglion cells
+eye,retinal pigment epithelial cell,retina - retinal pigment epithelium
+eye,t cell,areg high t-cell
+eye,t cell,areg low t-cell
+eye,t cell,t cell
+eye,t cell,t cell-low rna
+eye,t cell,t cells
+eye,t cell,t lymphocytes
+eye,t cell,t-cells
+eye,t cell,t_cells
+eye,t cell,alpha beta t cell
+eye,t cell,alpha-beta t cell
+fat,b cell,b cell
+fat,b cell,b cells
+fat,b cell,b lymphocytes
+fat,b cell,b_cells
+fat,endothelial cell,endothelial
+fat,endothelial cell,endothelial cell
+fat,endothelial cell,endothelial cells
+fat,endothelial cell,endothelial/kuppfer
+fat,endothelial cell,endothelial_cells
+fat,endothelial cell,endothelium
+fat,endothelial cell,enodthelial cell
+fat,fibroblast,endometrial stromal fibbroblast
+fat,fibroblast,fibroblast
+fat,fibroblast,fibroblasts
+fat,fibroblast,stellate/fibroblast
+fat,fibroblast,uterine fibroblast
+fat,leucocyte,leucocytes
+fat,macrophage,macrophage
+fat,macrophage,macrophages
+fat,macrophage,monocyte/macrophage
+fat,macrophage,sorted myeloid
+fat,macrophage,tissue resident macrophage
+fat,mast cell,mast cell
+fat,mast cell,mast_cells
+fat,mast cell,mast cells
+fat,mesenchymal stem cell,mesenchymal stem cells
+fat,mesenchymal stem cell,mesenchymal stem cell
+fat,myofibroblast cell,myofibroblasts
+fat,myofibroblast cell,myofibroblast cell
+fat,neutrophil,neutrophil
+fat,nk cell,nk cell
+fat,nk cell,nk cells
+fat,nk cell,natural killer cell
+fat,nk cell,natural killer cells
+fat,nk cell,natural_killar_cells
+fat,nk cell,proliferating nk cell
+fat,nk cell,uterine nk cells
+fat,plasma cell,plasma
+fat,plasma cell,plasma cell
+fat,plasma cell,plasma cells
+fat,plasma cell,plasma_cells
+fat,smooth muscle cell,smooth muscle cell
+fat,smooth muscle cell,smooth muscle cells
+fat,smooth muscle cell,smooth_muscle_cells
+fat,t cell,areg high t-cell
+fat,t cell,areg low t-cell
+fat,t cell,t cell
+fat,t cell,t cell-low rna
+fat,t cell,t cells
+fat,t cell,t lymphocytes
+fat,t cell,t-cells
+fat,t cell,t_cells
+fat,t cell,alpha beta t cell
+fat,t cell,alpha-beta t cell
+heart,cardiac endothelial cell,endothelial cells
+heart,cardiac muscle cell,cardiac muscle cells
+heart,fibroblast of cardiac tissue,cardiac fibroblast
+heart,hepatocyte,hepatocyte
+heart,macrophage,macrophage
+heart,macrophage,macrophages
+heart,macrophage,monocyte/macrophage
+heart,macrophage,sorted myeloid
+heart,macrophage,tissue resident macrophage
+heart,smooth muscle cell,smooth muscle cell
+heart,smooth muscle cell,smooth muscle cells
+heart,smooth muscle cell,smooth_muscle_cells
+kidney,b cell,b cell
+kidney,b cell,b cells
+kidney,b cell,b lymphocytes
+kidney,b cell,b_cells
+kidney,cd4-positive helper t cell,cd4 helper t cell
+kidney,"cd8-positive, alpha-beta t cell",cd4 t cell
+kidney,"cd8-positive, alpha-beta t cell",cd8 t cell
+kidney,endothelial cell,endothelial
+kidney,endothelial cell,endothelial cell
+kidney,endothelial cell,endothelial cells
+kidney,endothelial cell,endothelial/kuppfer
+kidney,endothelial cell,endothelial_cells
+kidney,endothelial cell,endothelium
+kidney,endothelial cell,enodthelial cell
+kidney,kidney epithelial cell,kidney epithelial cell
+kidney,macrophage,macrophage
+kidney,macrophage,macrophages
+kidney,macrophage,monocyte/macrophage
+kidney,macrophage,sorted myeloid
+kidney,macrophage,tissue resident macrophage
+kidney,nk cell,nk cell
+kidney,nk cell,nk cells
+kidney,nk cell,natural killer cell
+kidney,nk cell,natural killer cells
+kidney,nk cell,natural_killar_cells
+kidney,nk cell,proliferating nk cell
+kidney,nk cell,uterine nk cells
+large_intestine,b cell,b cell
+large_intestine,b cell,b cells
+large_intestine,b cell,b lymphocytes
+large_intestine,b cell,b_cells
+large_intestine,"cd4-positive, alpha-beta t cell",cd4 t cell
+large_intestine,"cd8-positive, alpha-beta t cell",cd4 t cell
+large_intestine,"cd8-positive, alpha-beta t cell",cd8 t cell
+large_intestine,enterocyte of epithelium of large intestine,immature enterocyte
+large_intestine,enterocyte of epithelium of large intestine,mature enterocyte
+large_intestine,fibroblast,endometrial stromal fibbroblast
+large_intestine,fibroblast,fibroblast
+large_intestine,fibroblast,fibroblasts
+large_intestine,fibroblast,stellate/fibroblast
+large_intestine,fibroblast,uterine fibroblast
+large_intestine,goblet cell,goblet cell
+large_intestine,gut endothelial cell,gut endothelial cell
+large_intestine,immature enterocyte,immature enterocyte
+large_intestine,intestinal crypt stem cell,intestinal crypt stem cell
+large_intestine,intestinal crypt stem cell of large intestine,intestinal crypt stem cell
+large_intestine,intestinal enteroendocrine cell,intestinal enteroendocrine cell
+large_intestine,intestinal tuft cell,intestinal tuft cell
+large_intestine,large intestine goblet cell,goblet cell
+large_intestine,mast cell,mast cell
+large_intestine,mast cell,mast_cells
+large_intestine,mast cell,mast cells
+large_intestine,mature enterocyte,mature enterocyte
+large_intestine,monocyte,monocyte
+large_intestine,monocyte,monocytes
+large_intestine,neutrophil,neutrophil
+large_intestine,paneth cell of epithelium of large intestine,paneth cell of epithelium of large intestine
+large_intestine,paneth cell of epithelium of large intestine,paneth-like cell
+large_intestine,plasma cell,plasma
+large_intestine,plasma cell,plasma cell
+large_intestine,plasma cell,plasma cells
+large_intestine,plasma cell,plasma_cells
+large_intestine,transit amplifying cell of large intestine,intestinal transient amplifying cell
+large_intestine,transit amplifying cell of large intestine,transit amplifying cell of large intestine
+liver,endothelial cell,endothelial
+liver,endothelial cell,endothelial cell
+liver,endothelial cell,endothelial cells
+liver,endothelial cell,endothelial/kuppfer
+liver,endothelial cell,endothelial_cells
+liver,endothelial cell,endothelium
+liver,endothelial cell,enodthelial cell
+liver,endothelial cell of hepatic sinusoid,endothelial
+liver,erythrocyte,erythrocyte
+liver,erythrocyte,erythrocytes
+liver,fibroblast,endometrial stromal fibbroblast
+liver,fibroblast,fibroblast
+liver,fibroblast,fibroblasts
+liver,fibroblast,stellate/fibroblast
+liver,fibroblast,uterine fibroblast
+liver,hepatocyte,hepatocyte
+liver,intrahepatic cholangiocyte,becs
+liver,liver dendritic cell,dendritic cell
+liver,macrophage,macrophage
+liver,macrophage,macrophages
+liver,macrophage,monocyte/macrophage
+liver,macrophage,sorted myeloid
+liver,macrophage,tissue resident macrophage
+liver,monocyte,monocyte
+liver,monocyte,monocytes
+liver,neutrophil,neutrophil
+liver,nk cell,nk cell
+liver,nk cell,nk cells
+liver,nk cell,natural killer cell
+liver,nk cell,natural killer cells
+liver,nk cell,natural_killar_cells
+liver,nk cell,proliferating nk cell
+liver,nk cell,uterine nk cells
+liver,plasma cell,plasma
+liver,plasma cell,plasma cell
+liver,plasma cell,plasma cells
+liver,plasma cell,plasma_cells
+liver,t cell,areg high t-cell
+liver,t cell,areg low t-cell
+liver,t cell,t cell
+liver,t cell,t cell-low rna
+liver,t cell,t cells
+liver,t cell,t lymphocytes
+liver,t cell,t-cells
+liver,t cell,t_cells
+liver,t cell,alpha beta t cell
+liver,t cell,alpha-beta t cell
+lung,adventitial cell,adventitial fibroblast
+lung,adventitial cell,adventitial cell
+lung,alveolar fibroblast,alveolar fibroblast
+lung,b cell,b cell
+lung,b cell,b cells
+lung,b cell,b lymphocytes
+lung,b cell,b_cells
+lung,basal cell,basal
+lung,basal cell,basal cell
+lung,basal cell,basal cells
+lung,basal cell,basal_cells_confirmed
+lung,basophil,basophil
+lung,bronchial smooth muscle cell,bronchial smooth muscle cell
+lung,bronchial vessel endothelial cell,bronchial vessel endothelial cell
+lung,capillary aerocyte,capillary aerocyte
+lung,capillary endothelial cell,capillary endothelial cell
+lung,capillary endothelial cell,capillary_endothelial_confirmed
+lung,capillary endothelial cell,vascular capillary endothelial cell
+lung,cd4-positive alpha-beta t cell,cd4-positive alpha-beta thymocyte
+lung,"cd4-positive, alpha-beta t cell",cd4 t cell
+lung,cd8-positive alpha-beta t cell,cd8-positive alpha-beta thymocyte
+lung,"cd8-positive, alpha-beta t cell",cd4 t cell
+lung,"cd8-positive, alpha-beta t cell",cd8 t cell
+lung,classical monocyte,classical monocyte
+lung,club cell,club cell
+lung,dendritic cell,dendritic cell
+lung,dendritic cell,dendritic cells
+lung,endothelial cell of artery,artery cells (endothelial cells)
+lung,endothelial cell of artery,endothelial cell of artery
+lung,endothelial cell of artery,endothelial_cell_of_artery_confirmed
+lung,endothelial cell of artery,vascular arterial endothelial cell
+lung,endothelial cell of lymphatic vessel,lymphatic cells
+lung,endothelial cell of lymphatic vessel,lymphatic endothelial cell
+lung,endothelial cell of lymphatic vessel,lymphatic endothelium
+lung,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel
+lung,endothelial cell of lymphatic vessel,endothelial_cell_of_lymphatic_vessel_confirmed
+lung,fibroblast,endometrial stromal fibbroblast
+lung,fibroblast,fibroblast
+lung,fibroblast,fibroblasts
+lung,fibroblast,stellate/fibroblast
+lung,fibroblast,uterine fibroblast
+lung,intermediate monocyte,intermediate monocyte
+lung,lung ciliated cell,lung ciliated cell
+lung,lung microvascular endothelial cell,lung microvascular endothelial cell
+lung,macrophage,macrophage
+lung,macrophage,macrophages
+lung,macrophage,monocyte/macrophage
+lung,macrophage,sorted myeloid
+lung,macrophage,tissue resident macrophage
+lung,mesothelial cell,mesothelial cell
+lung,myofibroblast cell,myofibroblasts
+lung,myofibroblast cell,myofibroblast cell
+lung,neutrophil,neutrophil
+lung,nk cell,nk cell
+lung,nk cell,nk cells
+lung,nk cell,natural killer cell
+lung,nk cell,natural killer cells
+lung,nk cell,natural_killar_cells
+lung,nk cell,proliferating nk cell
+lung,nk cell,uterine nk cells
+lung,non-classical monocyte,non-classical monocyte
+lung,pericyte cell,pericyte
+lung,pericyte cell,pericytes
+lung,pericyte cell,perivascular
+lung,pericyte cell,pericyte cell
+lung,pericyte cell,pericyte_cell_confirmed
+lung,plasma cell,plasma
+lung,plasma cell,plasma cell
+lung,plasma cell,plasma cells
+lung,plasma cell,plasma_cells
+lung,plasmacytoid dendritic cell,plasmacytoid dendritic cell
+lung,pulmonary ionocyte,pulmonary ionocyte
+lung,respiratory goblet cell,respiratory goblet cell
+lung,respiratory mucous cell,respiratory mucous cell
+lung,serous cell of epithelium of bronchus,serous cell of epithelium of bronchus
+lung,smooth muscle cell,smooth muscle cell
+lung,smooth muscle cell,smooth muscle cells
+lung,smooth muscle cell,smooth_muscle_cells
+lung,type i pneumocyte,type i pneumocyte
+lung,type ii pneumocyte,type ii pneumocyte
+lung,vascular associated smooth muscle cell,vascular smooth muscle
+lung,vascular associated smooth muscle cell,vasuclar smooth muscle cell
+lung,vascular associated smooth muscle cell,vascular associated smooth muscle cell
+lung,vein endothelial cell,vein cell (endothelial cell)
+lung,vein endothelial cell,vascular venous endothelial cell
+lung,vein endothelial cell,vein endothelial cell
+lung,vein endothelial cell,vein_endothelial_cell
+lymph_node,b cell,b cell
+lymph_node,b cell,b cells
+lymph_node,b cell,b lymphocytes
+lymph_node,b cell,b_cells
+lymph_node,cd141-positive myeloid dendritic cell,cd141-positive myeloid dendritic cell
+lymph_node,cd1c-positive myeloid dendritic cell,cd1c-positive myeloid dendritic cell
+lymph_node,cd4-positive alpha-beta t cell,cd4-positive alpha-beta thymocyte
+lymph_node,"cd4-positive, alpha-beta memory t cell",cd4-positive memory t cell
+lymph_node,cd8-positive alpha-beta t cell,cd8-positive alpha-beta thymocyte
+lymph_node,"cd8-positive, alpha-beta memory t cell",cd8-positive memory t cell
+lymph_node,classical monocyte,classical monocyte
+lymph_node,endothelial cell,endothelial
+lymph_node,endothelial cell,endothelial cell
+lymph_node,endothelial cell,endothelial cells
+lymph_node,endothelial cell,endothelial/kuppfer
+lymph_node,endothelial cell,endothelial_cells
+lymph_node,endothelial cell,endothelium
+lymph_node,endothelial cell,enodthelial cell
+lymph_node,erythrocyte,erythrocyte
+lymph_node,erythrocyte,erythrocytes
+lymph_node,hematopoietic stem cell,hematopoietic stem cell
+lymph_node,innate lymphoid cell,innate lymphoid cells
+lymph_node,innate lymphoid cell,innate lymphoid cell
+lymph_node,intermediate monocyte,intermediate monocyte
+lymph_node,macrophage,macrophage
+lymph_node,macrophage,macrophages
+lymph_node,macrophage,monocyte/macrophage
+lymph_node,macrophage,sorted myeloid
+lymph_node,macrophage,tissue resident macrophage
+lymph_node,mast cell,mast cell
+lymph_node,mast cell,mast_cells
+lymph_node,mast cell,mast cells
+lymph_node,mature conventional dendritic cell,conventional dendritic cell
+lymph_node,mature nk t cell,mature nk t cell
+lymph_node,memory b cell,memory b cell
+lymph_node,naive b cell,naive b cell
+lymph_node,"naive thymus-derived cd4-positive, alpha-beta t cell",naive cd4-positive helper t cells
+lymph_node,neutrophil,neutrophil
+lymph_node,nk cell,nk cell
+lymph_node,nk cell,nk cells
+lymph_node,nk cell,natural killer cell
+lymph_node,nk cell,natural killer cells
+lymph_node,nk cell,natural_killar_cells
+lymph_node,nk cell,proliferating nk cell
+lymph_node,nk cell,uterine nk cells
+lymph_node,non-classical monocyte,non-classical monocyte
+lymph_node,plasma cell,plasma
+lymph_node,plasma cell,plasma cell
+lymph_node,plasma cell,plasma cells
+lymph_node,plasma cell,plasma_cells
+lymph_node,plasmacytoid dendritic cell,plasmacytoid dendritic cell
+lymph_node,regulatory t cell,regulatory t cell
+lymph_node,stromal cell,stromal
+lymph_node,stromal cell,stromal cell
+lymph_node,stromal cell,stromal cells
+lymph_node,t cell,areg high t-cell
+lymph_node,t cell,areg low t-cell
+lymph_node,t cell,t cell
+lymph_node,t cell,t cell-low rna
+lymph_node,t cell,t cells
+lymph_node,t cell,t lymphocytes
+lymph_node,t cell,t-cells
+lymph_node,t cell,t_cells
+lymph_node,t cell,alpha beta t cell
+lymph_node,t cell,alpha-beta t cell
+lymph_node,type i nk t cell,nk t cell
+lymph_node,type i nk t cell,nkt cell
+lymph_node,type i nk t cell,type i nk t cell
+mammary,b cell,b cell
+mammary,b cell,b cells
+mammary,b cell,b lymphocytes
+mammary,b cell,b_cells
+mammary,basal cell,basal
+mammary,basal cell,basal cell
+mammary,basal cell,basal cells
+mammary,basal cell,basal_cells_confirmed
+mammary,endothelial cell of artery,artery cells (endothelial cells)
+mammary,endothelial cell of artery,endothelial cell of artery
+mammary,endothelial cell of artery,endothelial_cell_of_artery_confirmed
+mammary,endothelial cell of artery,vascular arterial endothelial cell
+mammary,endothelial cell of lymphatic vessel,lymphatic cells
+mammary,endothelial cell of lymphatic vessel,lymphatic endothelial cell
+mammary,endothelial cell of lymphatic vessel,lymphatic endothelium
+mammary,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel
+mammary,endothelial cell of lymphatic vessel,endothelial_cell_of_lymphatic_vessel_confirmed
+mammary,fibroblast of breast,fibroblasts (lipofibroblasts)
+mammary,luminal epithelial cell of mammary gland,luminal progenitor cells
+mammary,luminal epithelial cell of mammary gland,mature luminal cells
+mammary,macrophage,macrophage
+mammary,macrophage,macrophages
+mammary,macrophage,monocyte/macrophage
+mammary,macrophage,sorted myeloid
+mammary,macrophage,tissue resident macrophage
+mammary,mast cell,mast cell
+mammary,mast cell,mast_cells
+mammary,mast cell,mast cells
+mammary,nk cell,nk cell
+mammary,nk cell,nk cells
+mammary,nk cell,natural killer cell
+mammary,nk cell,natural killer cells
+mammary,nk cell,natural_killar_cells
+mammary,nk cell,proliferating nk cell
+mammary,nk cell,uterine nk cells
+mammary,pericyte cell,pericyte
+mammary,pericyte cell,pericytes
+mammary,pericyte cell,perivascular
+mammary,pericyte cell,pericyte cell
+mammary,pericyte cell,pericyte_cell_confirmed
+mammary,plasma cell,plasma
+mammary,plasma cell,plasma cell
+mammary,plasma cell,plasma cells
+mammary,plasma cell,plasma_cells
+mammary,t cell,areg high t-cell
+mammary,t cell,areg low t-cell
+mammary,t cell,t cell
+mammary,t cell,t cell-low rna
+mammary,t cell,t cells
+mammary,t cell,t lymphocytes
+mammary,t cell,t-cells
+mammary,t cell,t_cells
+mammary,t cell,alpha beta t cell
+mammary,t cell,alpha-beta t cell
+mammary,vascular associated smooth muscle cell,vascular smooth muscle
+mammary,vascular associated smooth muscle cell,vasuclar smooth muscle cell
+mammary,vascular associated smooth muscle cell,vascular associated smooth muscle cell
+mammary,vein endothelial cell,vein cell (endothelial cell)
+mammary,vein endothelial cell,vascular venous endothelial cell
+mammary,vein endothelial cell,vein endothelial cell
+mammary,vein endothelial cell,vein_endothelial_cell
+muscle,capillary endothelial cell,capillary endothelial cell
+muscle,capillary endothelial cell,capillary_endothelial_confirmed
+muscle,capillary endothelial cell,vascular capillary endothelial cell
+muscle,"cd4-positive, alpha-beta t cell",cd4 t cell
+muscle,"cd8-positive, alpha-beta t cell",cd4 t cell
+muscle,"cd8-positive, alpha-beta t cell",cd8 t cell
+muscle,endothelial cell of artery,artery cells (endothelial cells)
+muscle,endothelial cell of artery,endothelial cell of artery
+muscle,endothelial cell of artery,endothelial_cell_of_artery_confirmed
+muscle,endothelial cell of artery,vascular arterial endothelial cell
+muscle,endothelial cell of lymphatic vessel,lymphatic cells
+muscle,endothelial cell of lymphatic vessel,lymphatic endothelial cell
+muscle,endothelial cell of lymphatic vessel,lymphatic endothelium
+muscle,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel
+muscle,endothelial cell of lymphatic vessel,endothelial_cell_of_lymphatic_vessel_confirmed
+muscle,endothelial cell of vascular tree,endothelial cell of vascular tree
+muscle,erythrocyte,erythrocyte
+muscle,erythrocyte,erythrocytes
+muscle,fast muscle cell,fast muscle cell
+muscle,macrophage,macrophage
+muscle,macrophage,macrophages
+muscle,macrophage,monocyte/macrophage
+muscle,macrophage,sorted myeloid
+muscle,macrophage,tissue resident macrophage
+muscle,mast cell,mast cell
+muscle,mast cell,mast_cells
+muscle,mast cell,mast cells
+muscle,mature nk t cell,mature nk t cell
+muscle,mesenchymal stem cell,mesenchymal stem cells
+muscle,mesenchymal stem cell,mesenchymal stem cell
+muscle,mesothelial cell,mesothelial cell
+muscle,pericyte cell,pericyte
+muscle,pericyte cell,pericytes
+muscle,pericyte cell,perivascular
+muscle,pericyte cell,pericyte cell
+muscle,pericyte cell,pericyte_cell_confirmed
+muscle,skeletal muscle satellite stem cell,skeletal muscle satellite stem cell
+muscle,slow muscle cell,slow muscle cell
+muscle,smooth muscle cell,smooth muscle cell
+muscle,smooth muscle cell,smooth muscle cells
+muscle,smooth muscle cell,smooth_muscle_cells
+muscle,t cell,areg high t-cell
+muscle,t cell,areg low t-cell
+muscle,t cell,t cell
+muscle,t cell,t cell-low rna
+muscle,t cell,t cells
+muscle,t cell,t lymphocytes
+muscle,t cell,t-cells
+muscle,t cell,t_cells
+muscle,t cell,alpha beta t cell
+muscle,t cell,alpha-beta t cell
+muscle,tendon cell,tendon cell
+pancreas,b cell,b cell
+pancreas,b cell,b cells
+pancreas,b cell,b lymphocytes
+pancreas,b cell,b_cells
+pancreas,endothelial cell,endothelial
+pancreas,endothelial cell,endothelial cell
+pancreas,endothelial cell,endothelial cells
+pancreas,endothelial cell,endothelial/kuppfer
+pancreas,endothelial cell,endothelial_cells
+pancreas,endothelial cell,endothelium
+pancreas,endothelial cell,enodthelial cell
+pancreas,fibroblast,endometrial stromal fibbroblast
+pancreas,fibroblast,fibroblast
+pancreas,fibroblast,fibroblasts
+pancreas,fibroblast,stellate/fibroblast
+pancreas,fibroblast,uterine fibroblast
+pancreas,mast cell,mast cell
+pancreas,mast cell,mast_cells
+pancreas,mast cell,mast cells
+pancreas,myeloid cell,monocyte/macrophage
+pancreas,myeloid cell,myeloid cell
+pancreas,nk cell,nk cell
+pancreas,nk cell,nk cells
+pancreas,nk cell,natural killer cell
+pancreas,nk cell,natural killer cells
+pancreas,nk cell,natural_killar_cells
+pancreas,nk cell,proliferating nk cell
+pancreas,nk cell,uterine nk cells
+pancreas,pancreatic acinar cell,pancreatic acinar cell
+pancreas,pancreatic acinar cell,pancreatic acing cell
+pancreas,pancreatic alpha cell,pancreatic alpha cell
+pancreas,pancreatic beta cell,pancreatic beta cell
+pancreas,pancreatic delta cell,pancreatic delta cell
+pancreas,pancreatic ductal cell,pancreatic ductal cell
+pancreas,pancreatic pp cell,pancreatic pp cell
+pancreas,pancreatic stellate cell,pancreatic stellate cell
+pancreas,pancreatic stellate cell,pancreatic stellate cell activated
+pancreas,pancreatic stellate cell,pancreatic stellate cell quiescent
+pancreas,plasma cell,plasma
+pancreas,plasma cell,plasma cell
+pancreas,plasma cell,plasma cells
+pancreas,plasma cell,plasma_cells
+pancreas,t cell,areg high t-cell
+pancreas,t cell,areg low t-cell
+pancreas,t cell,t cell
+pancreas,t cell,t cell-low rna
+pancreas,t cell,t cells
+pancreas,t cell,t lymphocytes
+pancreas,t cell,t-cells
+pancreas,t cell,t_cells
+pancreas,t cell,alpha beta t cell
+pancreas,t cell,alpha-beta t cell
+prostate,basal cell of prostate epithelium,basal epithelial cell
+prostate,"cd8-positive, alpha-beta t cell",cd4 t cell
+prostate,"cd8-positive, alpha-beta t cell",cd8 t cell
+prostate,cd8b-positive nk t cell,cd8b+ natural killer t-cell
+prostate,club cell of prostate epithelium,pigr high club epithelial cell
+prostate,club cell of prostate epithelium,scgb3a1 high club epithelial cell
+prostate,endothelial cell,endothelial
+prostate,endothelial cell,endothelial cell
+prostate,endothelial cell,endothelial cells
+prostate,endothelial cell,endothelial/kuppfer
+prostate,endothelial cell,endothelial_cells
+prostate,endothelial cell,endothelium
+prostate,endothelial cell,enodthelial cell
+prostate,epithelial cell,cycling epithelial cells
+prostate,epithelial cell,ltf+ epithelial cell
+prostate,epithelial cell,other epithelial cell
+prostate,epithelial cell,epithelial cell
+prostate,epithelial cell,epithelial cells
+prostate,epithelial cell,epithelium_of_tongue_lowquality_tsp7_anterior
+prostate,erythroid progenitor,erythroid progenitor cell
+prostate,erythroid progenitor,erythroid progenitor
+prostate,erythroid progenitor,not-existing
+prostate,fibroblast,endometrial stromal fibbroblast
+prostate,fibroblast,fibroblast
+prostate,fibroblast,fibroblasts
+prostate,fibroblast,stellate/fibroblast
+prostate,fibroblast,uterine fibroblast
+prostate,hillock cell of prostate epithelium,hillock epithelial cell
+prostate,hillock-club cell of prostate epithelium,hillock/club epithelial cell
+prostate,luminal cell of prostate epithelium,cpe high luminal epithelial cell
+prostate,luminal cell of prostate epithelium,cpe low luminal epithelial cell
+prostate,luminal cell of prostate epithelium,luminal epithelial cell
+prostate,macrophage,macrophage
+prostate,macrophage,macrophages
+prostate,macrophage,monocyte/macrophage
+prostate,macrophage,sorted myeloid
+prostate,macrophage,tissue resident macrophage
+prostate,mast cell,mast cell
+prostate,mast cell,mast_cells
+prostate,mast cell,mast cells
+prostate,monocyte,monocyte
+prostate,monocyte,monocytes
+prostate,myeloid cell,monocyte/macrophage
+prostate,myeloid cell,myeloid cell
+prostate,neutrophil,neutrophil
+prostate,nkt cell,nkt cell
+prostate,nkt cell,natural killer t-cell
+prostate,smooth muscle cell,smooth muscle cell
+prostate,smooth muscle cell,smooth muscle cells
+prostate,smooth muscle cell,smooth_muscle_cells
+prostate,sperm,sperm cell
+prostate,stromal cell,stromal
+prostate,stromal cell,stromal cell
+prostate,stromal cell,stromal cells
+prostate,t cell,areg high t-cell
+prostate,t cell,areg low t-cell
+prostate,t cell,t cell
+prostate,t cell,t cell-low rna
+prostate,t cell,t cells
+prostate,t cell,t lymphocytes
+prostate,t cell,t-cells
+prostate,t cell,t_cells
+prostate,t cell,alpha beta t cell
+prostate,t cell,alpha-beta t cell
+salivary_gland,acinar cell of salivary gland,mucinous acini
+salivary_gland,acinar cell of salivary gland,serous acini
+salivary_gland,adventitial cell,adventitial fibroblast
+salivary_gland,adventitial cell,adventitial cell
+salivary_gland,b cell,b cell
+salivary_gland,b cell,b cells
+salivary_gland,b cell,b lymphocytes
+salivary_gland,b cell,b_cells
+salivary_gland,basal cell,basal
+salivary_gland,basal cell,basal cell
+salivary_gland,basal cell,basal cells
+salivary_gland,basal cell,basal_cells_confirmed
+salivary_gland,cd4-positive helper t cell,cd4 helper t cell
+salivary_gland,"cd4-positive, alpha-beta t cell",cd4 t cell
+salivary_gland,"cd8-positive, alpha-beta t cell",cd4 t cell
+salivary_gland,"cd8-positive, alpha-beta t cell",cd8 t cell
+salivary_gland,duct epithelial cell,ductal
+salivary_gland,duct epithelial cell,ductal cell
+salivary_gland,endothelial cell,endothelial
+salivary_gland,endothelial cell,endothelial cell
+salivary_gland,endothelial cell,endothelial cells
+salivary_gland,endothelial cell,endothelial/kuppfer
+salivary_gland,endothelial cell,endothelial_cells
+salivary_gland,endothelial cell,endothelium
+salivary_gland,endothelial cell,enodthelial cell
+salivary_gland,endothelial cell of lymphatic vessel,lymphatic cells
+salivary_gland,endothelial cell of lymphatic vessel,lymphatic endothelial cell
+salivary_gland,endothelial cell of lymphatic vessel,lymphatic endothelium
+salivary_gland,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel
+salivary_gland,endothelial cell of lymphatic vessel,endothelial_cell_of_lymphatic_vessel_confirmed
+salivary_gland,fibroblast,endometrial stromal fibbroblast
+salivary_gland,fibroblast,fibroblast
+salivary_gland,fibroblast,fibroblasts
+salivary_gland,fibroblast,stellate/fibroblast
+salivary_gland,fibroblast,uterine fibroblast
+salivary_gland,ionocyte,ionocytes
+salivary_gland,ionocyte,ionocyte
+salivary_gland,macrophage,macrophage
+salivary_gland,macrophage,macrophages
+salivary_gland,macrophage,monocyte/macrophage
+salivary_gland,macrophage,sorted myeloid
+salivary_gland,macrophage,tissue resident macrophage
+salivary_gland,memory b cell,memory b cell
+salivary_gland,monocyte,monocyte
+salivary_gland,monocyte,monocytes
+salivary_gland,myoepithelial cell,myoepithelial
+salivary_gland,naive b cell,naive b cell
+salivary_gland,neutrophil,neutrophil
+salivary_gland,nk cell,nk cell
+salivary_gland,nk cell,nk cells
+salivary_gland,nk cell,natural killer cell
+salivary_gland,nk cell,natural killer cells
+salivary_gland,nk cell,natural_killar_cells
+salivary_gland,nk cell,proliferating nk cell
+salivary_gland,nk cell,uterine nk cells
+salivary_gland,pericyte cell,pericyte
+salivary_gland,pericyte cell,pericytes
+salivary_gland,pericyte cell,perivascular
+salivary_gland,pericyte cell,pericyte cell
+salivary_gland,pericyte cell,pericyte_cell_confirmed
+salivary_gland,plasma cell,plasma
+salivary_gland,plasma cell,plasma cell
+salivary_gland,plasma cell,plasma cells
+salivary_gland,plasma cell,plasma_cells
+salivary_gland,salivary gland cell,cycling cells
+salivary_gland,t cell,areg high t-cell
+salivary_gland,t cell,areg low t-cell
+salivary_gland,t cell,t cell
+salivary_gland,t cell,t cell-low rna
+salivary_gland,t cell,t cells
+salivary_gland,t cell,t lymphocytes
+salivary_gland,t cell,t-cells
+salivary_gland,t cell,t_cells
+salivary_gland,t cell,alpha beta t cell
+salivary_gland,t cell,alpha-beta t cell
+skin,cd141-positive myeloid dendritic cell,cd141-positive myeloid dendritic cell
+skin,cd1c-positive myeloid dendritic cell,cd1c-positive myeloid dendritic cell
+skin,cd4-positive helper t cell,cd4 helper t cell
+skin,"cd4-positive, alpha-beta memory t cell",cd4-positive memory t cell
+skin,"cd8-positive, alpha-beta cytotoxic t cell",cd8-positive cytotoxic t cells
+skin,"cd8-positive, alpha-beta memory t cell",cd8-positive memory t cell
+skin,cell of skeletal muscle,skeletal muscle cells
+skin,endothelial cell,endothelial
+skin,endothelial cell,endothelial cell
+skin,endothelial cell,endothelial cells
+skin,endothelial cell,endothelial/kuppfer
+skin,endothelial cell,endothelial_cells
+skin,endothelial cell,endothelium
+skin,endothelial cell,enodthelial cell
+skin,epithelial cell,cycling epithelial cells
+skin,epithelial cell,ltf+ epithelial cell
+skin,epithelial cell,other epithelial cell
+skin,epithelial cell,epithelial cell
+skin,epithelial cell,epithelial cells
+skin,epithelial cell,epithelium_of_tongue_lowquality_tsp7_anterior
+skin,langerhans cell,langerhans cells
+skin,macrophage,macrophage
+skin,macrophage,macrophages
+skin,macrophage,monocyte/macrophage
+skin,macrophage,sorted myeloid
+skin,macrophage,tissue resident macrophage
+skin,mast cell,mast cell
+skin,mast cell,mast_cells
+skin,mast cell,mast cells
+skin,melanocyte,melanocytes
+skin,melanocyte,melanocytes or limbal stem cells
+skin,memory b cell,memory b cell
+skin,muscle cell,muscle cells
+skin,naive b cell,naive b cell
+skin,"naive thymus-derived cd4-positive, alpha-beta t cell",naive cd4-positive helper t cells
+skin,"naive thymus-derived cd8-positive, alpha-beta t cell",naive cd8-positive t cell
+skin,nk cell,nk cell
+skin,nk cell,nk cells
+skin,nk cell,natural killer cell
+skin,nk cell,natural killer cells
+skin,nk cell,natural_killar_cells
+skin,nk cell,proliferating nk cell
+skin,nk cell,uterine nk cells
+skin,nkt cell,nkt cell
+skin,nkt cell,natural killer t-cell
+skin,plasma cell,plasma
+skin,plasma cell,plasma cell
+skin,plasma cell,plasma cells
+skin,plasma cell,plasma_cells
+skin,regulatory t cell,regulatory t cell
+skin,smooth muscle cell,smooth muscle cell
+skin,smooth muscle cell,smooth muscle cells
+skin,smooth muscle cell,smooth_muscle_cells
+skin,stromal cell,stromal
+skin,stromal cell,stromal cell
+skin,stromal cell,stromal cells
+skin,t cell,areg high t-cell
+skin,t cell,areg low t-cell
+skin,t cell,t cell
+skin,t cell,t cell-low rna
+skin,t cell,t cells
+skin,t cell,t lymphocytes
+skin,t cell,t-cells
+skin,t cell,t_cells
+skin,t cell,alpha beta t cell
+skin,t cell,alpha-beta t cell
+small_intestine,b cell,b cell
+small_intestine,b cell,b cells
+small_intestine,b cell,b lymphocytes
+small_intestine,b cell,b_cells
+small_intestine,"cd4-positive, alpha-beta t cell",cd4 t cell
+small_intestine,"cd8-positive, alpha-beta t cell",cd4 t cell
+small_intestine,"cd8-positive, alpha-beta t cell",cd8 t cell
+small_intestine,duodenum glandular cell,duodenum glandular cell
+small_intestine,enterocyte of epithelium of small intestine,immature enterocyte
+small_intestine,enterocyte of epithelium of small intestine,mature enterocyte
+small_intestine,fibroblast,endometrial stromal fibbroblast
+small_intestine,fibroblast,fibroblast
+small_intestine,fibroblast,fibroblasts
+small_intestine,fibroblast,stellate/fibroblast
+small_intestine,fibroblast,uterine fibroblast
+small_intestine,goblet cell,goblet cell
+small_intestine,gut endothelial cell,gut endothelial cell
+small_intestine,immature enterocyte,immature enterocyte
+small_intestine,intestinal crypt stem cell,intestinal crypt stem cell
+small_intestine,intestinal crypt stem cell of small intestine,intestinal crypt stem cell
+small_intestine,intestinal enteroendocrine cell,intestinal enteroendocrine cell
+small_intestine,intestinal tuft cell,intestinal tuft cell
+small_intestine,mast cell,mast cell
+small_intestine,mast cell,mast_cells
+small_intestine,mast cell,mast cells
+small_intestine,mature enterocyte,mature enterocyte
+small_intestine,monocyte,monocyte
+small_intestine,monocyte,monocytes
+small_intestine,neutrophil,neutrophil
+small_intestine,paneth cell of epithelium of small intestine,paneth cell
+small_intestine,paneth cell of epithelium of small intestine,paneth cell of epithelium of small intestine
+small_intestine,plasma cell,plasma
+small_intestine,plasma cell,plasma cell
+small_intestine,plasma cell,plasma cells
+small_intestine,plasma cell,plasma_cells
+small_intestine,small intestine goblet cell,goblet cell
+small_intestine,transit amplifying cell of small intestine,intestinal transient amplifying cell
+small_intestine,transit amplifying cell of small intestine,transit amplifying cell of small intestine
+spleen,cd141-positive myeloid dendritic cell,cd141-positive myeloid dendritic cell
+spleen,cd1c-positive myeloid dendritic cell,cd1c-positive myeloid dendritic cell
+spleen,"cd4-positive, alpha-beta memory t cell",cd4-positive memory t cell
+spleen,"cd8-positive, alpha-beta memory t cell",cd8-positive memory t cell
+spleen,"cd8-positive, alpha-beta t cell",cd4 t cell
+spleen,"cd8-positive, alpha-beta t cell",cd8 t cell
+spleen,classical monocyte,classical monocyte
+spleen,endothelial cell,endothelial
+spleen,endothelial cell,endothelial cell
+spleen,endothelial cell,endothelial cells
+spleen,endothelial cell,endothelial/kuppfer
+spleen,endothelial cell,endothelial_cells
+spleen,endothelial cell,endothelium
+spleen,endothelial cell,enodthelial cell
+spleen,erythrocyte,erythrocyte
+spleen,erythrocyte,erythrocytes
+spleen,hematopoietic stem cell,hematopoietic stem cell
+spleen,innate lymphoid cell,innate lymphoid cells
+spleen,innate lymphoid cell,innate lymphoid cell
+spleen,intermediate monocyte,intermediate monocyte
+spleen,macrophage,macrophage
+spleen,macrophage,macrophages
+spleen,macrophage,monocyte/macrophage
+spleen,macrophage,sorted myeloid
+spleen,macrophage,tissue resident macrophage
+spleen,mature nk t cell,mature nk t cell
+spleen,memory b cell,memory b cell
+spleen,naive b cell,naive b cell
+spleen,"naive thymus-derived cd4-positive, alpha-beta t cell",naive cd4-positive helper t cells
+spleen,"naive thymus-derived cd8-positive, alpha-beta t cell",naive cd8-positive t cell
+spleen,neutrophil,neutrophil
+spleen,nk cell,nk cell
+spleen,nk cell,nk cells
+spleen,nk cell,natural killer cell
+spleen,nk cell,natural killer cells
+spleen,nk cell,natural_killar_cells
+spleen,nk cell,proliferating nk cell
+spleen,nk cell,uterine nk cells
+spleen,plasma cell,plasma
+spleen,plasma cell,plasma cell
+spleen,plasma cell,plasma cells
+spleen,plasma cell,plasma_cells
+spleen,plasmacytoid dendritic cell,plasmacytoid dendritic cell
+spleen,platelet,platelet
+spleen,regulatory t cell,regulatory t cell
+spleen,type i nk t cell,nk t cell
+spleen,type i nk t cell,nkt cell
+spleen,type i nk t cell,type i nk t cell
+thymus,b cell,b cell
+thymus,b cell,b cells
+thymus,b cell,b lymphocytes
+thymus,b cell,b_cells
+thymus,capillary endothelial cell,capillary endothelial cell
+thymus,capillary endothelial cell,capillary_endothelial_confirmed
+thymus,capillary endothelial cell,vascular capillary endothelial cell
+thymus,cd4-positive helper t cell,cd4 helper t cell
+thymus,"cd8-positive, alpha-beta cytotoxic t cell",cd8-positive cytotoxic t cells
+thymus,"cd8-positive, alpha-beta t cell",cd4 t cell
+thymus,"cd8-positive, alpha-beta t cell",cd8 t cell
+thymus,dendritic cell,dendritic cell
+thymus,dendritic cell,dendritic cells
+thymus,dn1 thymic pro-t cell,double negative alpha beta t cell (dn2)
+thymus,dn3 thymocyte,double negative alpha beta t cell (dn1)
+thymus,dn4 thymocyte,double negative alpha beta t cell effector memory (dn3)
+thymus,endothelial cell of artery,artery cells (endothelial cells)
+thymus,endothelial cell of artery,endothelial cell of artery
+thymus,endothelial cell of artery,endothelial_cell_of_artery_confirmed
+thymus,endothelial cell of artery,vascular arterial endothelial cell
+thymus,endothelial cell of lymphatic vessel,lymphatic cells
+thymus,endothelial cell of lymphatic vessel,lymphatic endothelial cell
+thymus,endothelial cell of lymphatic vessel,lymphatic endothelium
+thymus,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel
+thymus,endothelial cell of lymphatic vessel,endothelial_cell_of_lymphatic_vessel_confirmed
+thymus,erythrocyte,erythrocyte
+thymus,erythrocyte,erythrocytes
+thymus,fast muscle cell,fast muscle cell
+thymus,fibroblast,endometrial stromal fibbroblast
+thymus,fibroblast,fibroblast
+thymus,fibroblast,fibroblasts
+thymus,fibroblast,stellate/fibroblast
+thymus,fibroblast,uterine fibroblast
+thymus,immature natural killer cell,immature natural killer cell
+thymus,innate lymphoid cell,innate lymphoid cells
+thymus,innate lymphoid cell,innate lymphoid cell
+thymus,macrophage,macrophage
+thymus,macrophage,macrophages
+thymus,macrophage,monocyte/macrophage
+thymus,macrophage,sorted myeloid
+thymus,macrophage,tissue resident macrophage
+thymus,mast cell,mast cell
+thymus,mast cell,mast_cells
+thymus,mast cell,mast cells
+thymus,mature nk t cell,mature nk t cell
+thymus,medullary thymic epithelial cell,medullary thymic epithelial cell
+thymus,memory b cell,memory b cell
+thymus,mesothelial cell,mesothelial cell
+thymus,monocyte,monocyte
+thymus,monocyte,monocytes
+thymus,myeloid dendritic cell,myeloid dendritic cells
+thymus,naive b cell,naive b cell
+thymus,naive regulatory t cell,na?ve regulatory t cell
+thymus,nk cell,nk cell
+thymus,nk cell,nk cells
+thymus,nk cell,natural killer cell
+thymus,nk cell,natural killer cells
+thymus,nk cell,natural_killar_cells
+thymus,nk cell,proliferating nk cell
+thymus,nk cell,uterine nk cells
+thymus,plasma cell,plasma
+thymus,plasma cell,plasma cell
+thymus,plasma cell,plasma cells
+thymus,plasma cell,plasma_cells
+thymus,t follicular helper cell,t follicular helper cell-like
+thymus,thymocyte,thymocyte
+thymus,vascular associated smooth muscle cell,vascular smooth muscle
+thymus,vascular associated smooth muscle cell,vasuclar smooth muscle cell
+thymus,vascular associated smooth muscle cell,vascular associated smooth muscle cell
+thymus,vein endothelial cell,vein cell (endothelial cell)
+thymus,vein endothelial cell,vascular venous endothelial cell
+thymus,vein endothelial cell,vein endothelial cell
+thymus,vein endothelial cell,vein_endothelial_cell
+tongue,basal cell,basal
+tongue,basal cell,basal cell
+tongue,basal cell,basal cells
+tongue,basal cell,basal_cells_confirmed
+tongue,capillary endothelial cell,capillary endothelial cell
+tongue,capillary endothelial cell,capillary_endothelial_confirmed
+tongue,capillary endothelial cell,vascular capillary endothelial cell
+tongue,endothelial cell of artery,artery cells (endothelial cells)
+tongue,endothelial cell of artery,endothelial cell of artery
+tongue,endothelial cell of artery,endothelial_cell_of_artery_confirmed
+tongue,endothelial cell of artery,vascular arterial endothelial cell
+tongue,endothelial cell of lymphatic vessel,lymphatic cells
+tongue,endothelial cell of lymphatic vessel,lymphatic endothelial cell
+tongue,endothelial cell of lymphatic vessel,lymphatic endothelium
+tongue,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel
+tongue,endothelial cell of lymphatic vessel,endothelial_cell_of_lymphatic_vessel_confirmed
+tongue,epithelial cell,cycling epithelial cells
+tongue,epithelial cell,ltf+ epithelial cell
+tongue,epithelial cell,other epithelial cell
+tongue,epithelial cell,epithelial cell
+tongue,epithelial cell,epithelial cells
+tongue,epithelial cell,epithelium_of_tongue_lowquality_tsp7_anterior
+tongue,fibroblast,endometrial stromal fibbroblast
+tongue,fibroblast,fibroblast
+tongue,fibroblast,fibroblasts
+tongue,fibroblast,stellate/fibroblast
+tongue,fibroblast,uterine fibroblast
+tongue,immune cell,cycling immune cells
+tongue,immune cell,immune_notvalidated
+tongue,keratinocyte,tongue_keratinized_epithelium
+tongue,pericyte cell,pericyte
+tongue,pericyte cell,pericytes
+tongue,pericyte cell,perivascular
+tongue,pericyte cell,pericyte cell
+tongue,pericyte cell,pericyte_cell_confirmed
+tongue,schwann cell,schwann_cell
+tongue,tongue muscle cell,tongue_muscle_cell
+tongue,vein endothelial cell,vein cell (endothelial cell)
+tongue,vein endothelial cell,vascular venous endothelial cell
+tongue,vein endothelial cell,vein endothelial cell
+tongue,vein endothelial cell,vein_endothelial_cell
+trachea,b cell,b cell
+trachea,b cell,b cells
+trachea,b cell,b lymphocytes
+trachea,b cell,b_cells
+trachea,basal cell,basal
+trachea,basal cell,basal cell
+trachea,basal cell,basal cells
+trachea,basal cell,basal_cells_confirmed
+trachea,"cd4-positive, alpha-beta t cell",cd4 t cell
+trachea,"cd8-positive, alpha-beta t cell",cd4 t cell
+trachea,"cd8-positive, alpha-beta t cell",cd8 t cell
+trachea,ciliated cell,ciliated cell
+trachea,connective tissue cell,connective tissue cell
+trachea,"double-positive, alpha-beta thymocyte",cd4 cd8 t cell
+trachea,endothelial cell,endothelial
+trachea,endothelial cell,endothelial cell
+trachea,endothelial cell,endothelial cells
+trachea,endothelial cell,endothelial/kuppfer
+trachea,endothelial cell,endothelial_cells
+trachea,endothelial cell,endothelium
+trachea,endothelial cell,enodthelial cell
+trachea,fibroblast,endometrial stromal fibbroblast
+trachea,fibroblast,fibroblast
+trachea,fibroblast,fibroblasts
+trachea,fibroblast,stellate/fibroblast
+trachea,fibroblast,uterine fibroblast
+trachea,goblet cell,goblet cell
+trachea,ionocyte,ionocytes
+trachea,ionocyte,ionocyte
+trachea,macrophage,macrophage
+trachea,macrophage,macrophages
+trachea,macrophage,monocyte/macrophage
+trachea,macrophage,sorted myeloid
+trachea,macrophage,tissue resident macrophage
+trachea,mast cell,mast cell
+trachea,mast cell,mast_cells
+trachea,mast cell,mast cells
+trachea,mucus secreting cell,mucus secreting cell
+trachea,neutrophil,neutrophil
+trachea,plasma cell,plasma
+trachea,plasma cell,plasma cell
+trachea,plasma cell,plasma cells
+trachea,plasma cell,plasma_cells
+trachea,secretory cell,secretory cell
+trachea,serous cell of epithelium of trachea,serous cell of epithelium of trachea
+trachea,smooth muscle cell,smooth muscle cell
+trachea,smooth muscle cell,smooth muscle cells
+trachea,smooth muscle cell,smooth_muscle_cells
+trachea,t cell,areg high t-cell
+trachea,t cell,areg low t-cell
+trachea,t cell,t cell
+trachea,t cell,t cell-low rna
+trachea,t cell,t cells
+trachea,t cell,t lymphocytes
+trachea,t cell,t-cells
+trachea,t cell,t_cells
+trachea,t cell,alpha beta t cell
+trachea,t cell,alpha-beta t cell
+trachea,tracheal goblet cell,tracheal goblet cell
+uterus,b cell,b cell
+uterus,b cell,b cells
+uterus,b cell,b lymphocytes
+uterus,b cell,b_cells
+uterus,ciliated epithelial cell,ciliated epithelium
+uterus,endothelial cell,endothelial
+uterus,endothelial cell,endothelial cell
+uterus,endothelial cell,endothelial cells
+uterus,endothelial cell,endothelial/kuppfer
+uterus,endothelial cell,endothelial_cells
+uterus,endothelial cell,endothelium
+uterus,endothelial cell,enodthelial cell
+uterus,endothelial cell of lymphatic vessel,lymphatic cells
+uterus,endothelial cell of lymphatic vessel,lymphatic endothelial cell
+uterus,endothelial cell of lymphatic vessel,lymphatic endothelium
+uterus,endothelial cell of lymphatic vessel,endothelial cell of lymphatic vessel
+uterus,endothelial cell of lymphatic vessel,endothelial_cell_of_lymphatic_vessel_confirmed
+uterus,epithelial cell,cycling epithelial cells
+uterus,epithelial cell,ltf+ epithelial cell
+uterus,epithelial cell,other epithelial cell
+uterus,epithelial cell,epithelial cell
+uterus,epithelial cell,epithelial cells
+uterus,epithelial cell,epithelium_of_tongue_lowquality_tsp7_anterior
+uterus,epithelial cell of uterus,unciliated epithelium
+uterus,fibroblast,endometrial stromal fibbroblast
+uterus,fibroblast,fibroblast
+uterus,fibroblast,fibroblasts
+uterus,fibroblast,stellate/fibroblast
+uterus,fibroblast,uterine fibroblast
+uterus,immune cell,cycling immune cells
+uterus,immune cell,immune_notvalidated
+uterus,macrophage,macrophage
+uterus,macrophage,macrophages
+uterus,macrophage,monocyte/macrophage
+uterus,macrophage,sorted myeloid
+uterus,macrophage,tissue resident macrophage
+uterus,myometrial cell,myometrial smooth muscle
+uterus,nk cell,nk cell
+uterus,nk cell,nk cells
+uterus,nk cell,natural killer cell
+uterus,nk cell,natural killer cells
+uterus,nk cell,natural_killar_cells
+uterus,nk cell,proliferating nk cell
+uterus,nk cell,uterine nk cells
+uterus,pericyte cell,pericyte
+uterus,pericyte cell,pericytes
+uterus,pericyte cell,perivascular
+uterus,pericyte cell,pericyte cell
+uterus,pericyte cell,pericyte_cell_confirmed
+uterus,t cell,areg high t-cell
+uterus,t cell,areg low t-cell
+uterus,t cell,t cell
+uterus,t cell,t cell-low rna
+uterus,t cell,t cells
+uterus,t cell,t lymphocytes
+uterus,t cell,t-cells
+uterus,t cell,t_cells
+uterus,t cell,alpha beta t cell
+uterus,t cell,alpha-beta t cell
+uterus,vascular associated smooth muscle cell,vascular smooth muscle
+uterus,vascular associated smooth muscle cell,vasuclar smooth muscle cell
+uterus,vascular associated smooth muscle cell,vascular associated smooth muscle cell
+vasculature,artery endothelial cell,artery endothelial cell
+vasculature,b cell,b cell
+vasculature,b cell,b cells
+vasculature,b cell,b lymphocytes
+vasculature,b cell,b_cells
+vasculature,endothelial cell,endothelial
+vasculature,endothelial cell,endothelial cell
+vasculature,endothelial cell,endothelial cells
+vasculature,endothelial cell,endothelial/kuppfer
+vasculature,endothelial cell,endothelial_cells
+vasculature,endothelial cell,endothelium
+vasculature,endothelial cell,enodthelial cell
+vasculature,epithelial cell,cycling epithelial cells
+vasculature,epithelial cell,ltf+ epithelial cell
+vasculature,epithelial cell,other epithelial cell
+vasculature,epithelial cell,epithelial cell
+vasculature,epithelial cell,epithelial cells
+vasculature,epithelial cell,epithelium_of_tongue_lowquality_tsp7_anterior
+vasculature,erythrocyte,erythrocyte
+vasculature,erythrocyte,erythrocytes
+vasculature,fibroblast,endometrial stromal fibbroblast
+vasculature,fibroblast,fibroblast
+vasculature,fibroblast,fibroblasts
+vasculature,fibroblast,stellate/fibroblast
+vasculature,fibroblast,uterine fibroblast
+vasculature,lymphatic endothelial cell,lymphatic endothelial cell
+vasculature,macrophage,macrophage
+vasculature,macrophage,macrophages
+vasculature,macrophage,monocyte/macrophage
+vasculature,macrophage,sorted myeloid
+vasculature,macrophage,tissue resident macrophage
+vasculature,mast cell,mast cell
+vasculature,mast cell,mast_cells
+vasculature,mast cell,mast cells
+vasculature,nk cell,nk cell
+vasculature,nk cell,nk cells
+vasculature,nk cell,natural killer cell
+vasculature,nk cell,natural killer cells
+vasculature,nk cell,natural_killar_cells
+vasculature,nk cell,proliferating nk cell
+vasculature,nk cell,uterine nk cells
+vasculature,pericyte cell,pericyte
+vasculature,pericyte cell,pericytes
+vasculature,pericyte cell,perivascular
+vasculature,pericyte cell,pericyte cell
+vasculature,pericyte cell,pericyte_cell_confirmed
+vasculature,plasma cell,plasma
+vasculature,plasma cell,plasma cell
+vasculature,plasma cell,plasma cells
+vasculature,plasma cell,plasma_cells
+vasculature,smooth muscle cell,smooth muscle cell
+vasculature,smooth muscle cell,smooth muscle cells
+vasculature,smooth muscle cell,smooth_muscle_cells
+vasculature,t cell,areg high t-cell
+vasculature,t cell,areg low t-cell
+vasculature,t cell,t cell
+vasculature,t cell,t cell-low rna
+vasculature,t cell,t cells
+vasculature,t cell,t lymphocytes
+vasculature,t cell,t-cells
+vasculature,t cell,t_cells
+vasculature,t cell,alpha beta t cell
+vasculature,t cell,alpha-beta t cell

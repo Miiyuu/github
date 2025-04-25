@@ -1,0 +1,73 @@
+species,tissue_type,cell_name,marker,pmid
+Human,Heart,Cardiac muscle cell,LAMB2,30893597
+Human,Heart,Cardiac muscle cell,LAMC1,30893597
+Human,Heart,Cardiac muscle cell,LAMB1,30893597
+Human,Heart,Cardiac muscle cell,LAMA2,30893597
+Human,Heart,Cardiac muscle cell,LAMA5,30893597
+Human,Heart,Cardiac muscle cell,LAMA4,30893597
+Human,Heart,Cardiomyocyte (CM),TNNI3,30893597
+Human,Heart,Cardiomyocyte (CM),TNNT2,30893597
+Human,Heart,Cardiomyocyte (CM),ACTN1,30893597
+Human,Heart,Cardiomyocyte (CM),NKX2-5,30893597
+Human,Heart,Cardiomyocyte (CM),MYH1,30893597
+Human,heart,"cardiac progenitor (cvp)
+```",T (brachyury),30893597
+Human,heart,"cardiac progenitor (cvp)
+```",MESP1,30893597
+Human,heart,"cardiac progenitor (cvp)
+```",ISL1,30893597
+Human,heart,"cardiac progenitor (cvp)
+```",TBX5,30893597
+Human,heart,"cardiac progenitor (cvp)
+```",MEF2C,30893597
+Human,heart,"cardiac progenitor (cvp)
+```",NKX2-5,30893597
+Human,heart,"cardiac progenitor (cvp)
+```",KIT,30893597
+Human,heart,"cardiac progenitor (cvp)
+```",GATA3,30893597
+Human,Esophagus,Treg (T regulatory) cell,FOXP3,30958799
+Human,Esophagus,Effector Th2 cell,GATA3,30958799
+Human,Esophagus,Effector Th2 cell,HPGDS,30958799
+Human,Esophagus,Effector Th2 cell,PTGDR2,30958799
+Human,Esophagus,Effector Th2 cell,IL-17RB,30958799
+Human,Esophagus,Effector Th2 cell,FFAR3,30958799
+Human,EoE tissue,T lymphocyte,ITGAE (CD103),30958799
+Human,EoE tissue,CD3+ T cell,CXCR4,30958799
+Human,EoE tissue,CD3+ T cell,CCR5,30958799
+Human,EoE tissue,CD3+ T cell,CCR8,30958799
+Human,EoE tissue,Tissue lymphocyte,IL-25 receptor,30958799
+Human,EoE tissue,Tissue lymphocyte,HPGDS,30958799
+Human,EoE tissue,Th2 cell,IL4,30958799
+Human,EoE tissue,Th2 cell,IL5,30958799
+Human,EoE tissue,Th2 cell,IL13,30958799
+Human,EoE tissue,T lymphocyte,IFNG,30958799
+Human,Esophageal tissue,Th1 cell,IFNG,30958799
+Human,Esophageal tissue,Th2 cell,IL4,30958799
+Human,Esophageal tissue,Th2 cell,IL5,30958799
+Human,Esophageal tissue,Th2 cell,IL13,30958799
+Human,Esophageal tissue,Th1 cell,IFNG,30958799
+Human,Esophageal tissue,Th2 cell,IL4,30958799
+Human,Esophageal tissue,Th2 cell,IL5,30958799
+Human,Esophageal tissue,Th2 cell,IL13,30958799
+Human,EoE tissue,T cells (IL5 producers),IL5,30958799
+Human,EoE tissue,T cells (FFAR3+),FFAR3,30958799
+Human,blood,"cd4-positive, alpha-beta t cell
+```",FFAR3,30958799
+Human,Liver Metastasis (Liv.Mets),SPP1+ TAMs,SPP1,35303421
+Human,Liver Metastasis (Liv.Mets),SPP1+ TAMs,CD68,35303421
+Human,Liver Metastasis (Liv.Mets),SPP1+ TAMs,MARCO,35303421
+Human,Liver Metastasis (Liv.Mets),C1QC+ TAMs,C1QC,35303421
+Human,Liver Metastasis (Liv.Mets),C1QC+ TAMs,CXCL9,35303421
+Human,Liver Metastasis (Liv.Mets),C1QC+ TAMs,CXCL10,35303421
+Human,Liver Metastasis (Liv.Mets),MKI67+ TAMs,MKI67,35303421
+Human,Tumor microenvironment,TAMs (C1QC+),C1QC,35303421
+Human,Tumor microenvironment,TAMs (SPP1+),SPP1,35303421
+Human,Tumor microenvironment,cDC2s (C1QC+),C1QC,35303421
+Human,liver,"nk cell
+```",CD56bright/CD16neg,35303421
+Human,Tumor,SPP1+ TAM,CD68,35303421
+Human,Tumor,SPP1+ TAM,MARCO,35303421
+Human,Tumor,DC3,CD1C,35303421
+Human,Tumor,DC3,CD14,35303421
+Human,Tumor,DC3,CD163,35303421

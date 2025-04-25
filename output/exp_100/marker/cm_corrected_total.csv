@@ -1,0 +1,1757 @@
+species,tissue_class,tissue_type,cell_name,marker,pmid
+Mouse,Heart,Heart,Macrophage,Plac8,30582448
+Mouse,Heart,Heart,Macrophage,THBS1,30582448
+Mouse,Heart,Heart,Macrophage,Ly6C2,30582448
+Mouse,Heart,Heart,Macrophage,Hp,30582448
+Mouse,Heart,Heart,Fibroblast,CKAP4,30760918
+Mouse,Eye,Eye,Endothelial cell,Notch1,30787185
+Mouse,Eye,Eye,Endothelial cell,Notch4,30787185
+Mouse,Eye,Eye,Endothelial cell,Dll4,30787185
+Mouse,Eye,Eye,Endothelial cell,Jag1,30787185
+Mouse,Heart,Heart,Pan-macrophage,CD68,30872492
+Mouse,Heart,Heart,Pan-macrophage,PECAM1,30872492
+Mouse,Lung,Lung,Pan–blood vessel cell,PECAM1,30872492
+Mouse,Lung,Lung,Macrophage,MerTK,30872492
+Mouse,Lung,Lung,Pan-macrophage,CD68,30872492
+Mouse,Lung,Lung,Macrophage,IQCF4P,30872492
+Mouse,Lung,Lung,Macrophage,FCGR1A,30872492
+Mouse,Skin,Skin,Pan-macrophage,CD68,30872492
+Mouse,Skin,Skin,Pan–blood vessel cell,PECAM1,30872492
+Human,Heart,Heart muscle,Cardiomyocyte,ACTC1,30893597
+Human,Heart,Heart muscle,Cardiomyocyte,MYH7,30893597
+Human,Heart,Heart muscle,Cardiomyocyte,SIRPA,30893597
+Human,Heart,Heart muscle,Cardiomyocyte,TNNT2,30893597
+Human,Heart,Heart muscle,Neuron,NPTX1,30893597
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,CD4,30958799
+Human,Esophagus,Esophagus,T helper 2(Th2) cell,HPGDS,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,IL10,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,CD40LG,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,FOXP3,30958799
+Human,Esophagus,Esophagus,Effector Th2-like cell,GATA3,30958799
+Human,Esophagus,Esophagus,Effector Th2 cell,HPGDS,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,CTLA4,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,MAF,30958799
+Human,Esophagus,Esophagus,T helper 2(Th2) cell,PTGDR2,30958799
+Human,Esophagus,Esophagus,T helper 2(Th2) cell,IL1RL1,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,IFNG,30958799
+Human,Esophagus,Esophagus,T helper 2(Th2) cell,IL-17RB,30958799
+Human,Esophagus,Esophagus,Regulatory T(Treg) cell,IL17A,30958799
+Mouse,Eye,Retina,Horizontal cell,NEFH,30988181
+Mouse,Eye,Retina,Cholinergic amacrine cell,Calretinin,30988181
+Mouse,Eye,Retina,Horizontal cell,CALB1,30988181
+Mouse,Eye,Retina,Retinal ganglion cell(RGC) axon,NEFH,30988181
+Human,Heart,Heart,Endothelial cell,CDH5,31028265
+Human,Heart,Heart,Hematopoietic cell,LXN,31028265
+Human,Heart,Heart,Hematopoietic cell,CARBONIC-ANYDRASE,31028265
+Human,Heart,Heart,Myofibroblast,TAGLN,31028265
+Human,Heart,Heart,Endothelial cell,ENG,31028265
+Human,Heart,Heart,Hematopoietic cell,GJA4,31028265
+Human,Heart,Heart,Hematopoietic cell,FICOLIN3,31028265
+Human,Heart,Heart,Endothelial cell,NOTCH4,31028265
+Human,Heart,Heart,Endocardial cell,KLF2,31028265
+Human,Heart,Heart,Endothelial cell,KLF2,31028265
+Human,Heart,Heart,Hematopoietic cell,SOX8,31028265
+Human,Heart,Heart,Hematopoietic cell,CD55,31028265
+Human,Heart,Heart,Endothelial cell,PECAM,31028265
+Human,Heart,Heart,Hematopoietic cell,CD40,31028265
+Human,Heart,Heart,Hematopoietic cell,HOXP1,31028265
+Human,Heart,Heart,Endocardial cell,CDH5,31028265
+Human,Heart,Heart,Endocardial cell,NOTCH4,31028265
+Human,Heart,Heart,Endocardial cell,ENG,31028265
+Human,Heart,Heart,Endocardial cell,PECAM,31028265
+Mouse,Heart,Embryonic heart,Late-born neuron,POU3F2,31073041
+Mouse,Heart,Embryonic heart,Early-born neuron,BCL11B,31073041
+Mouse,Eye,Retina,Müller glial cell,Glul,31170999
+Mouse,Eye,Retina,Ganglion cell,Pou4f2,31170999
+Mouse,Eye,Retina,Rod photoreceptor cell,Nr2e3,31170999
+Mouse,Eye,Retina,Endothelial cell,Tie1,31170999
+Mouse,Eye,Retina,Cone photoreceptor cell,Arr3,31170999
+Mouse,Eye,Retina,Cone photoreceptor cell,Opn1mw,31170999
+Mouse,Eye,Retina,Amacrine cell,Gad1,31170999
+Mouse,Eye,Retina,Endothelial cell,Cldn5,31170999
+Mouse,Eye,Retina,Müller glial cell,Slc3a2,31170999
+Mouse,Eye,Retina,Rod photoreceptor cell,Nrl,31170999
+Mouse,Eye,Retina,Ganglion cell,Thy1,31170999
+Mouse,Eye,Retina,Amacrine cell,Pax6,31170999
+Mouse,Eye,Retina,Ganglion cell,Nefl,31170999
+Mouse,Eye,Retina,Amacrine cell,Tfap2a,31170999
+Mouse,Eye,Retina,Horizontal cell,Calb1,31170999
+Mouse,Eye,Retina,Pericyte,Acta2,31170999
+Mouse,Eye,Retina,Pericyte,Tagln,31170999
+Mouse,Eye,Retina,Bipolar cell,Grik1,31170999
+Mouse,Eye,Retina,Horizontal cell,Lhx1,31170999
+Mouse,Eye,Retina,Rod photoreceptor cell,Rho,31170999
+Mouse,Eye,Retina,Bipolar cell,Grm6,31170999
+Mouse,Eye,Retina,Astrocyte,Pax2,31170999
+Mouse,Eye,Retina,Müller glial cell,Vim,31170999
+Mouse,Eye,Retina,Müller glial cell,Rlbp1,31170999
+Mouse,Eye,Retina,Bipolar cell,Vsx2,31170999
+Mouse,Eye,Retina,Astrocyte,S100b,31170999
+Mouse,Heart,Heart muscle,Epicardial cell,Bnc1,31216470
+Mouse,Heart,Heart muscle,Epicardial cell,Anxa8,31216470
+Mouse,Heart,Heart muscle,Epicardial cell,Krt19,31216470
+Mouse,Heart,Heart muscle,Epicardial cell,Tcf21,31216470
+Mouse,Heart,Heart muscle,Epicardial cell,Krt8,31216470
+Mouse,Heart,Heart muscle,Epicardial cell,Tbx18,31216470
+Mouse,Heart,Heart muscle,Fibroblast,Col1a1,31216470
+Mouse,Heart,Heart muscle,Cardiomyocyte,Tnnt2,31216470
+Mouse,Heart,Heart muscle,Epicardial cell,Upk1b,31216470
+Mouse,Heart,Heart muscle,Epicardial cell,Gpm6a,31216470
+Mouse,Heart,Heart muscle,Epicardial cell,Gata5,31216470
+Mouse,Heart,Heart muscle,Macrophage,Lys6c,31216470
+Mouse,Heart,Heart muscle,Epicardial cell,Myrf,31216470
+Mouse,Heart,Heart muscle,Epicardial cell, Wt1,31216470
+Mouse,Fetal heart,Left ventricle,Left ventricular cell,Pln,31341279
+Mouse,Fetal heart,Posterior second heart field,Posterior second heart field(pSHF) cell,Hoxb1,31341279
+Mouse,Fetal heart,Endoderm,Endodermal cell,Foxa2,31341279
+Mouse,Fetal heart,Posterior second heart field,Posterior second heart field(pSHF) cell,Hoxa1,31341279
+Mouse,Fetal heart,Endoderm,Endodermal cell,Epcam,31341279
+Mouse,Fetal heart,Outflow tract,Outflow tract(OFT) cell,CRIPTO,31341279
+Mouse,Fetal heart,Ectoderm,Ectodermal cell,Sox2,31341279
+Mouse,Fetal heart,Left ventricle,Left ventricular cell,Hand1,31341279
+Mouse,Fetal heart,Ectoderm,Ectodermal cell,Pou3f1,31341279
+Mouse,Gastrointestinal tract,Stomach,Stem cell,BHLHA15,31422913
+Mouse,Gastrointestinal tract,Stomach,Stem cell,Bmi1,31422913
+Mouse,Gastrointestinal tract,Stomach,Stem cell,Lgr5,31422913
+Mouse,Gastrointestinal tract,Stomach,Stem cell,Lrig1,31422913
+Mouse,Gastrointestinal tract,Stomach,Stem cell,Runx1,31422913
+Mouse,Gastrointestinal tract,Stomach,Stem cell,Sox2,31422913
+Mouse,Gastrointestinal tract,Stomach,Stem cell,TNFRSF19,31422913
+Mouse,Stomach,Stomach,Neck cell,Muc6,31422913
+Mouse,Stomach,Stomach,Pit cell,Muc5ac,31422913
+Human,Eye,Retina,Cone photoreceptor cell,PDE6C,31436334
+Human,Eye,Retina,Horizontal cell,ONECUT1,31436334
+Human,Eye,Retina,Microglial cell,HLA‐DPA1,31436334
+Human,Eye,Retina,Müller glial cell,RLBP1,31436334
+Human,Eye,Retina,Cone photoreceptor cell,GNAT2,31436334
+Human,Eye,Retina,Cone photoreceptor cell,CNBG3,31436334
+Human,Eye,Retina,Cone photoreceptor cell,PDE6H,31436334
+Human,Eye,Retina,Retinal ganglion cell,NEFL,31436334
+Human,Eye,Retina,Cone photoreceptor cell,GUCA1C,31436334
+Human,Eye,Retina,Cone photoreceptor cell,THRB,31436334
+Human,Eye,Retina,Cone photoreceptor cell,GRK7,31436334
+Human,Eye,Retina,Retinal ganglion cell,SNCG,31436334
+Human,Eye,Retina,Müller glial cell,RLBP1,31436334
+Human,Eye,Retina,Cone photoreceptor cell,GNGT2,31436334
+Human,Eye,Retina,Horizontal cell,ONECUT2,31436334
+Human,Eye,Retina,Retinal astrocyte,GFAP,31436334
+Human,Eye,Retina,Rod cell,CNGA1,31436334
+Human,Eye,Retina,Retinal ganglion cell,GAP43,31436334
+Human,Eye,Retina,Rod cell,PDE6A,31436334
+Human,Eye,Retina,Amacrine cell,CALB1,31436334
+Human,Eye,Retina,Cone photoreceptor cell,RXRG,31436334
+Human,Eye,Retina,Bipolar cell,OTX2,31436334
+Human,Eye,Retina,Rod cell,RHO,31436334
+Human,Eye,Retina,Bipolar cell,VSX2,31436334
+Human,Eye,Retina,Microglial cell,HLA‐DRA,31436334
+Human,Eye,Retina,Amacrine cell,CHAT,31436334
+Human,Eye,Retina,Amacrine cell,GAD1,31436334
+Human,Eye,Retina,Cone photoreceptor cell,OPN1LW,31436334
+Human,Eye,Retina,Cone photoreceptor cell,ARR3,31436334
+Human,Eye,Retina,Microglial cell,HLA‐DPB1,31436334
+Human,Eye,Retina,Neurogenic retinal progenitor cell,NEUROG2,31543471
+Human,Eye,Retina,Neurogenic retinal progenitor cell,EFNB2,31543471
+Human,Eye,Retina,Multipotent retinal progenitor cell,TGFβ2,31543471
+Human,Eye,Retina,Multipotent retinal progenitor cell,LIN28B,31543471
+Human,Eye,Retina,Neurogenic retinal progenitor cell,ASCL1,31543471
+Human,Eye,Retina,Neuron,DCX,31543471
+Human,Eye,Retina,Neurogenic retinal progenitor cell,DCX,31543471
+Human,Eye,Retina,Neurogenic retinal progenitor cell,GPM6A,31543471
+Human,Eye,Retina,Multipotent retinal progenitor cell,IGFBP5,31543471
+Human,Eye,Retina,Neurogenic retinal progenitor cell,RUFY3,31543471
+Human,Eye,Retina,Neurogenic retinal progenitor cell,RTN4,31543471
+Human,Eye,Retina,Neurogenic retinal progenitor cell,ISLR2,31543471
+Human,Eye,Retina,Multipotent retinal progenitor cell,LIN28A,31543471
+Human,Eye,Retina,Multipotent retinal progenitor cell,BMP7,31543471
+Human,Eye,Retina,Neuron,SEMA5A,31543471
+Human,Eye,Retina,Neurogenic retinal progenitor cell,GPM6B,31543471
+Human,Eye,Retina,Multipotent retinal progenitor cell,PFN1,31543471
+Human,Eye,Retina,Multipotent retinal progenitor cell,TMSB10,31543471
+Human,Eye,Retina,Neuron,NRCAM,31543471
+Human,Eye,Retina,Multipotent retinal progenitor cell,GJA1,31543471
+Human,Eye,Retina,Multipotent retinal progenitor cell,ATP1A2,31543471
+Human,Eye,Retina,Adult neural stem cell,GJA1,31543471
+Human,Eye,Retina,Multipotent retinal progenitor cell,JAG1,31543471
+Human,Eye,Retina,Adult neural stem cell,ATP1A2,31543471
+Human,Eye,Retina,Neurogenic retinal progenitor cell,FZD3,31543471
+Human,Eye,Retina,Neuron,DCLK1,31543471
+Mouse,Eye,Retina,Rod photoreceptor cell,Nrl,31625146
+Mouse,Eye,Retina,Horizontal cell,Calb1,31625146
+Mouse,Eye,Retina,Retinal pigment epithelium,Lrat,31625146
+Mouse,Eye,Retina,Amacrine cell,Pax6,31625146
+Mouse,Eye,Retina,Amacrine cell,Tfap2a,31625146
+Mouse,Eye,Retina,Rod photoreceptor cell,Rho,31625146
+Mouse,Eye,Retina,Endothelial cell,Cldn5,31625146
+Mouse,Eye,Retina,Müller glial cell,Vim,31625146
+Mouse,Eye,Retina,Cone photoreceptor cell,Opn1mw,31625146
+Mouse,Eye,Retina,Ganglion cell,Nefl,31625146
+Mouse,Eye,Retina,Ganglion cell,Thy1,31625146
+Mouse,Eye,Retina,Müller glial cell,Rlbp1,31625146
+Mouse,Eye,Retina,Ganglion cell,Pou4f2,31625146
+Mouse,Eye,Retina,Rod photoreceptor cell,Nr2e3,31625146
+Mouse,Eye,Retina,Endothelial cell,Tie1,31625146
+Mouse,Eye,Retina,Müller glial cell,Slc3a2,31625146
+Mouse,Eye,Retina,Bipolar cell,Grik1,31625146
+Mouse,Eye,Retina,Pericyte,Tagln,31625146
+Mouse,Eye,Retina,Horizontal cell,Lhx1,31625146
+Mouse,Eye,Retina,Pericyte,Acta2,31625146
+Mouse,Eye,Retina,Müller glial cell,Glul,31625146
+Mouse,Eye,Retina,Bipolar cell,Grm6,31625146
+Mouse,Eye,Retina,Cone photoreceptor cell,Arr3,31625146
+Mouse,Eye,Retina,Astrocyte,S100b,31625146
+Mouse,Eye,Retina,Amacrine cell,Gad1,31625146
+Mouse,Eye,Retina,Retinal pigment epithelium,RPE65,31625146
+Mouse,Eye,Retina,Bipolar cell,Vsx2,31625146
+Mouse,Eye,Retina,Astrocyte,Pax2,31625146
+Human,Eye,Retina,Microglial cell,CD163,31653841
+Human,Eye,Retina,Horizontal cell,ONECUT2,31653841
+Human,Eye,Retina,Microglial cell,TMEM119,31653841
+Human,Eye,Retina,Vascular cell,RGS5,31653841
+Human,Eye,Retina,Retinal ganglion cell,NEFL,31653841
+Human,Eye,Retina,Vascular cell,TM4SF1,31653841
+Human,Eye,Retina,Rod cell,PPEF2,31653841
+Human,Eye,Retina,Cone cell,OPN1SW,31653841
+Human,Eye,Retina,Bipolar cell,TMEM215,31653841
+Human,Eye,Retina,Amacrine cell,GAD1,31653841
+Human,Eye,Retina,Retinal ganglion cell,NEFM,31653841
+Human,Eye,Retina,Vascular cell,CD34,31653841
+Human,Eye,Retina,Vascular cell,ADAMTS9,31653841
+Human,Eye,Retina,Cone cell,OPN1MW,31653841
+Human,Eye,Retina,Müller glial cell,GLUL,31653841
+Human,Eye,Retina,Rod cell,PDE6A,31653841
+Human,Eye,Retina,Amacrine cell,C1QL2,31653841
+Human,Eye,Retina,Astrocyte,GLUL,31653841
+Human,Eye,Retina,Rod cell,NR2E3,31653841
+Human,Eye,Retina,Astrocyte,ΑΡΟΕ,31653841
+Human,Eye,Retina,Cone cell,GNAT2,31653841
+Human,Eye,Retina,Macroglial cell,COL4A3,31653841
+Human,Eye,Retina,Retinal ganglion cell,SLC17A6,31653841
+Human,Eye,Retina,Vascular cell,CDH5,31653841
+Human,Eye,Retina,Microglial cell,C1QA,31653841
+Human,Eye,Retina,Cone cell,OPN1LW,31653841
+Human,Eye,Retina,Horizontal cell,ONECUT1,31653841
+Human,Eye,Retina,Macroglial cell,FOS,31653841
+Human,Eye,Retina,Müller glial cell,CLU,31653841
+Human,Eye,Retina,Müller glial cell,ΑΡΟΕ,31653841
+Human,Eye,Retina,Bipolar cell,TRPM1,31653841
+Human,Eye,Retina,Microglial cell,AIF1,31653841
+Human,Eye,Retina,Horizontal cell,LHX1,31653841
+Human,Eye,Retina,Macroglial cell,FTL,31653841
+Human,Eye,Retina,Retinal ganglion cell,SNCG,31653841
+Human,Eye,Retina,Bipolar cell,CAMK2B,31653841
+Human,Eye,Retina,Bipolar cell,GRM6,31653841
+Human,Eye,Retina,Astrocyte,GFAP,31653841
+Human,Eye,Retina,Astrocyte,CLU,31653841
+Human,Eye,Retina,Astrocyte,SPARCL1,31653841
+Human,Eye,Choroid,Artery cell,SEMA3G,31712411
+Human,Eye,Choroid,Macrophage,AIF1,31712411
+Human,Eye,Choroid,Retinal pigment epithelial cell,RPE65,31712411
+Human,Eye,Choroid,Nonmyelinating schwann cell,SCN7A,31712411
+Human,Eye,Choroid,Fibroblast,FBLN1,31712411
+Human,Eye,Choroid,Vein cell,MMRN1,31712411
+Human,Eye,Choroid,Artery cell,HEY1,31712411
+Human,Eye,Choroid,Mast cell,KIT,31712411
+Human,Eye,Choroid,Nonmyelinating schwann cell,NGFR,31712411
+Human,Eye,Choroid,Leukocyte,PTPRC,31712411
+Human,Eye,Choroid,Vein cell,ACKR1,31712411
+Human,Eye,Choroid,Endothelial cell,VWF,31712411
+Human,Eye,Choroid,Melanocyte,DCT,31712411
+Human,Eye,Choroid,Myelinating schwann cell,MBP,31712411
+Human,Eye,Choroid,Smooth muscle cell,RGS5,31712411
+Human,Eye,Choroid,Melanocyte,MLANA,31712411
+Human,Eye,Choroid,Melanocyte,PMEL,31712411
+Human,Eye,Choroid,Nonmyelinating schwann cell,L1CAM,31712411
+Human,Eye,Choroid,Myelinating schwann cell,MPZ,31712411
+Human,Eye,Choroid,Endothelial cell,CD34,31712411
+Human,Eye,Choroid,Melanocyte,TYRP1,31712411
+Human,Eye,Choroid,Choriocapillaris cell,PLVAP,31712411
+Human,Eye,Choroid,Schwann cell,PLP1,31712411
+Human,Eye,Choroid,T cell,CD2,31712411
+Human,Eye,Choroid,Choriocapillaris cell,CA4,31712411
+Human,Eye,Choroid,Pericyte,RGS5,31712411
+Human,Eye,Choroid,Nonmyelinating schwann cell,NCAM1,31712411
+Human,Eye,Choroid,Retinal pigment epithelial cell,BEST1,31712411
+Human,Eye,Choroid,Natural killer cell,CD2,31712411
+Human,Eye,Choroid,B cell,CD79A,31712411
+Human,Eye,Choroid,Endothelial cell,ICAM2,31712411
+Mouse,Eye,Eye,Astrocyte,Gfap,31775049
+Mouse,Eye,Eye,Microglial cell,Tmem119,31775049
+Mouse,Eye,Eye,Ganglion cell,Pou4f1,31775049
+Human,Eye,Eye,Horizontal cell,SEP4,31848347
+Human,Eye,Eye,Rod cell,PDE6A,31848347
+Human,Eye,Eye,Mueller glia cell,SLC1A3,31848347
+Human,Eye,Eye,Bipolar cell,NETO1,31848347
+Human,Eye,Eye,Amacrine cell,GAD1,31848347
+Human,Eye,Eye,Retinal ganglion cell,RBPMS,31848347
+Human,Eye,Eye,Cone cell,ARR3,31848347
+Human,Esophagus,Esophagus,Monocyte,VCAN,31892341
+Human,Esophagus,Esophagus,Immune cell,PTPRC,31892341
+Human,Esophagus,Esophagus,Cytotoxic T cell,GZMB,31892341
+Human,Esophagus,Esophagus,CD8+ T cell,CD8A,31892341
+Human,Esophagus,Esophagus,Conventional dendritic cell 2(cDC2),CLEC10A,31892341
+Human,Esophagus,Esophagus,Endothelial cell,CLEC14A,31892341
+Human,Esophagus,Esophagus,Stratified keratinocyte,KRT4,31892341
+Human,Esophagus,Esophagus,B cell,IGHD,31892341
+Human,Esophagus,Esophagus,B cell,CD27,31892341
+Human,Esophagus,Esophagus,B cell,TNFRSF13B,31892341
+Human,Esophagus,Esophagus,Cytotoxic T cell,PRF1,31892341
+Human,Esophagus,Esophagus,CD4+ T cell,CD8A,31892341
+Human,Esophagus,Esophagus,Cytotoxic T cell,GNLY,31892341
+Human,Esophagus,Esophagus,Conventional dendritic cell 2(cDC2),CD1C,31892341
+Human,Esophagus,Esophagus,Vascular cell,VWF,31892341
+Human,Esophagus,Esophagus,Gland ductal cell,KRT7,31892341
+Human,Esophagus,Esophagus,Gland cell,TFF3,31892341
+Human,Esophagus,Esophagus,Natural killer cell,NCR1,31892341
+Human,Esophagus,Esophagus,B cell,FCER2,31892341
+Human,Esophagus,Esophagus,Gland ductal cell,KRT23,31892341
+Human,Esophagus,Esophagus,B cell,CD19,31892341
+Human,Esophagus,Esophagus,CD8+ T cell,CD3E,31892341
+Human,Esophagus,Esophagus,Stromal cell,COL1A2,31892341
+Human,Esophagus,Esophagus,Natural killer cell,NCAM1,31892341
+Human,Esophagus,Esophagus,Mast cell,TPSB2,31892341
+Human,Esophagus,Esophagus,CD8+ T cell,CD4,31892341
+Human,Esophagus,Esophagus,Monocyte,CD14,31892341
+Human,Esophagus,Esophagus,Macrophage,APOE,31892341
+Human,Esophagus,Esophagus,Dividing cell,MKI67,31892341
+Human,Esophagus,Esophagus,CD4+ T cell,CD3E,31892341
+Human,Esophagus,Esophagus,Gland cell,MUC5B,31892341
+Human,Esophagus,Esophagus,Vascular cell,CCL21,31892341
+Human,Esophagus,Esophagus,Stromal cell,DCN,31892341
+Human,Esophagus,Esophagus,B cell,TCL1A,31892341
+Human,Esophagus,Esophagus,Basal epithelial cell,ITGA6,31892341
+Human,Esophagus,Esophagus,Monocyte,FCN1,31892341
+Human,Esophagus,Esophagus,Basal epithelial cell,SCPEP1,31892341
+Human,Esophagus,Esophagus,Basal epithelial cell,KRT5,31892341
+Human,Esophagus,Esophagus,Stromal cell,FBLN1,31892341
+Human,Esophagus,Esophagus,Endothelial cell,PECAM1,31892341
+Human,Esophagus,Esophagus,CD4+ T cell,CD4,31892341
+Human,Esophagus,Esophagus,B cell,CD79A,31892341
+Human,Lung,Lung,Cytotoxic T cell,PRF1,31892341
+Human,Lung,Lung,CD8+ T cell,CD4,31892341
+Human,Lung,Lung,Alveolar cell Type 1,AGER,31892341
+Human,Lung,Lung,Cytotoxic T cell,GNLY,31892341
+Human,Lung,Lung,Cytotoxic T cell,GZMB,31892341
+Human,Lung,Lung,CD8+ T cell,CD8A,31892341
+Human,Lung,Lung,CD8+ T cell,CD3E,31892341
+Human,Lung,Lung,Plasmacytoid dendritic cell(pDC),IL3RC,31892341
+Human,Lung,Lung,Ciliated cell,FOXJ1,31892341
+Human,Lung,Lung,Monocyte,FCN1,31892341
+Human,Lung,Lung,CD4+ T cell,CD8A,31892341
+Human,Lung,Lung,Dividing cell,MKI67,31892341
+Human,Lung,Lung,Natural killer cell,CD160,31892341
+Human,Lung,Lung,Plasmacytoid dendritic cell(pDC),CLEC4C,31892341
+Human,Lung,Lung,Ciliated cell,EPCAM,31892341
+Human,Lung,Lung,Alveolar cell Type 1,SFTPC,31892341
+Human,Lung,Lung,Macrophage,CD5L,31892341
+Human,Lung,Lung,Macrophage,APOE,31892341
+Human,Lung,Lung,Vascular cell,VWF,31892341
+Human,Lung,Lung,B cell,CD79A,31892341
+Human,Lung,Lung,Alveolar cell Type 1,SLPI,31892341
+Human,Lung,Lung,Ciliated cell,CIMAP3,31892341
+Human,Lung,Lung,Conventional dendritic cell 2(cDC2),CD1C,31892341
+Human,Lung,Lung,Conventional dendritic cell 1(cDC1),CLEC9A,31892341
+Human,Lung,Lung,Fibroblast,PDGFRA,31892341
+Human,Lung,Lung,CD4+ T cell,CD4,31892341
+Human,Lung,Lung,Monocyte,CD14,31892341
+Human,Lung,Lung,Monocyte,VCAN,31892341
+Human,Lung,Lung,Macrophage,MARCO,31892341
+Human,Lung,Lung,Natural killer cell,NCR1,31892341
+Human,Lung,Lung,Fibroblast,VCAN,31892341
+Human,Lung,Lung,Regulatory T(Treg) cell,IL2RA,31892341
+Human,Lung,Lung,Activated dendritic cell,CCR7,31892341
+Human,Lung,Lung,Conventional dendritic cell 1(cDC1),XCR1,31892341
+Human,Lung,Lung,Alveolar cell Type 2,AGER,31892341
+Human,Lung,Lung,B cell,CD19,31892341
+Human,Lung,Lung,Conventional dendritic cell 2(cDC2),CLEC10A,31892341
+Human,Lung,Lung,Alveolar cell Type 1,EPCAM,31892341
+Human,Lung,Lung,Plasma cell,XBP1,31892341
+Human,Lung,Lung,B cell,MS4A1,31892341
+Human,Lung,Lung,Natural killer cell,NCAM1,31892341
+Human,Lung,Lung,Alveolar cell Type 2,SLPI,31892341
+Human,Lung,Lung,Regulatory T(Treg) cell,FOXP3,31892341
+Human,Lung,Lung,Plasma cell,SDC1,31892341
+Human,Lung,Lung,Muscularis cell,TAGLN,31892341
+Human,Lung,Lung,Muscularis cell,ACTA2,31892341
+Human,Lung,Lung,Dividing cell,CDK1,31892341
+Human,Lung,Lung,Vascular cell,CCL21,31892341
+Human,Lung,Lung,Alveolar cell Type 2,EPCAM,31892341
+Human,Lung,Lung,Alveolar cell Type 2,SFTPC,31892341
+Human,Lung,Lung,CD4+ T cell,CD3E,31892341
+Human,Lung,Lung,Vascular cell,PECAM1,31892341
+Human,Lung,Lung,Mast cell,TPSB2,31892341
+Human,Lung,Lung,Plasma cell,JCHAIN,31892341
+Human,Spleen,Spleen,Regulatory T(Treg) cell,FOXP3,31892341
+Human,Spleen,Spleen,Regulatory T(Treg) cell,IL2RA,31892341
+Human,Spleen,Spleen,CD34+ progenitor cell,CD34,31892341
+Human,Spleen,Spleen,Cytotoxic T cell,GZMB,31892341
+Human,Spleen,Spleen,Dividing cell,H2AZ1,31892341
+Human,Spleen,Spleen,CD34+ progenitor cell,HOXA9,31892341
+Human,Spleen,Spleen,Follicular B cell,TCL1A,31892341
+Human,Spleen,Spleen,T follicular helper(Tfh) cell,ICOS,31892341
+Human,Spleen,Spleen,Macrophage,CD5L,31892341
+Human,Spleen,Spleen,CD34+ progenitor cell,PROM1,31892341
+Human,Spleen,Spleen,Follicular B cell,FCER2,31892341
+Human,Spleen,Spleen,CD4+ T cell,CD8A,31892341
+Human,Spleen,Spleen,Follicular B cell,IL4R,31892341
+Human,Spleen,Spleen,Monocyte,FCN1,31892341
+Human,Spleen,Spleen,Somatic hypermutation B cell,AICDA,31892341
+Human,Spleen,Spleen,Conventional dendritic cell 2(cDC2),CLEC10A,31892341
+Human,Spleen,Spleen,CD4+ T cell,CD4,31892341
+Human,Spleen,Spleen,Follicular B cell,IGHD,31892341
+Human,Spleen,Spleen,Innate lymphoid cell,KLRB1,31892341
+Human,Spleen,Spleen,T follicular helper(Tfh) cell,PDCD1,31892341
+Human,Spleen,Spleen,CD4+ T cell,CD3E,31892341
+Human,Spleen,Spleen,Natural killer cell,CD160,31892341
+Human,Spleen,Spleen,Monocyte,VCAN,31892341
+Human,Spleen,Spleen,Natural killer cell,NCR1,31892341
+Human,Spleen,Spleen,Conventional dendritic cell 2(cDC2),CD1C,31892341
+Human,Spleen,Spleen,Mait-like cell,KLRB1,31892341
+Human,Spleen,Spleen,Platelet,PF4,31892341
+Human,Spleen,Spleen,Platelet,GP9,31892341
+Human,Spleen,Spleen,Mait-like cell,SLC4A10,31892341
+Human,Spleen,Spleen,Macrophage,APOE,31892341
+Human,Spleen,Spleen,T follicular helper(Tfh) cell,CXCR5,31892341
+Human,Spleen,Spleen,Plasmacytoid dendritic cell,CLEC4C,31892341
+Human,Spleen,Spleen,Dividing cell,TUBB,31892341
+Human,Spleen,Spleen,Natural killer cell,NCAM1,31892341
+Human,Spleen,Spleen,Immune cell,PTPRC,31892341
+Human,Spleen,Spleen,γ δ T cell,TRGV2,31892341
+Human,Spleen,Spleen,Plasma cell,IGHG1,31892341
+Human,Spleen,Spleen,Plasmacytoid dendritic cell,IL3RC,31892341
+Human,Spleen,Spleen,Monocyte,CD14,31892341
+Human,Spleen,Spleen,CD8+ T cell,CD4,31892341
+Human,Spleen,Spleen,Innate lymphoid cell,TNFSF13B,31892341
+Human,Spleen,Spleen,Mantle B cell,TNFRSF13B,31892341
+Human,Spleen,Spleen,γ δ T cell,FCGR3A,31892341
+Human,Spleen,Spleen,Follicular B cell,YBX3,31892341
+Human,Spleen,Spleen,Plasma cell,IGHM,31892341
+Human,Spleen,Spleen,Natural killer cell,FCGR3A,31892341
+Human,Spleen,Spleen,Dividing cell,MKI67,31892341
+Human,Spleen,Spleen,Conventional dendritic cell 1(cDC1),XCR1,31892341
+Human,Spleen,Spleen,Dividing cell,CDK1,31892341
+Human,Spleen,Spleen,Cytotoxic T cell,PRF1,31892341
+Human,Spleen,Spleen,B cell,CD19,31892341
+Human,Spleen,Spleen,Innate lymphoid cell,IL7R,31892341
+Human,Spleen,Spleen,Innate lymphoid cell,AREG,31892341
+Human,Spleen,Spleen,CD8+ T cell,CD8A,31892341
+Human,Spleen,Spleen,Plasma cell,JCHAIN,31892341
+Human,Spleen,Spleen,Conventional dendritic cell 1(cDC1),CLEC9A,31892341
+Human,Spleen,Spleen,Plasma cell,XBP1,31892341
+Human,Spleen,Spleen,Mantle B cell,CD27,31892341
+Human,Spleen,Spleen,Cytotoxic T cell,GNLY,31892341
+Human,Spleen,Spleen,Activated dendritic cell,CCR7,31892341
+Human,Spleen,Spleen,B cell,MS4A1,31892341
+Human,Spleen,Spleen,Naïve cell,LEFTY1,31892341
+Human,Spleen,Spleen,B cell,CD79A,31892341
+Human,Spleen,Spleen,CD8+ T cell,CD3E,31892341
+Human,Spleen,Spleen,Plasma cell,SDC1,31892341
+Human,Eye,Eye,CD8+ T cell,LAG3,31980621
+Human,Eye,Retina,Rod cell,NRL,32023475
+Human,Eye,Retina,Neuron,OTX2,32023475
+Human,Eye,Retina,Later-stage progenitor cell,Rgs16,32023475
+Human,Eye,Retina,Glial cell,SLC1A3,32023475
+Human,Eye,Retina,Forebrain cell,FOXG1,32023475
+Human,Eye,Retina,Glial cell,RLBP1,32023475
+Human,Eye,Retina,Neuron,AP2A,32023475
+Human,Eye,Retina,Forebrain cell,SOX1,32023475
+Human,Eye,Retina,Progenitor cell,SOX2,32023475
+Human,Eye,Retina,Later-stage progenitor cell,Fabp7,32023475
+Human,Eye,Retina,Photoreceptor cell,OTX2,32023475
+Human,Eye,Retina,Bipolar cell,VSX1,32023475
+Human,Eye,Retina,T helper 1(Th1) cell,ATOH7,32023475
+Human,Eye,Retina,Bipolar cell,RCVRN,32023475
+Human,Eye,Retina,Bipolar cell,GRM6,32023475
+Human,Eye,Retina,Bipolar cell,OTX2,32023475
+Human,Eye,Retina,Neuron,NEFL,32023475
+Human,Eye,Retina,Neuron,ONECUT2,32023475
+Human,Eye,Retina,Progenitor cell,VSX2,32023475
+Human,Eye,Retina,Ganglion cell,SNCG,32023475
+Human,Eye,Retina,Photoreceptor cell,RCVRN,32023475
+Human,Gastrointestinal tract,Stomach,Naïve or central memory  T cell,CCR7,32060101
+Human,Gastrointestinal tract,Stomach,Cytotoxic cell,NKG7,32060101
+Human,Gastrointestinal tract,Stomach,CD8 T cell,CD8B,32060101
+Human,Gastrointestinal tract,Stomach,Fibroblast,THY1,32060101
+Human,Gastrointestinal tract,Stomach,Cytotoxic cell,GZMA,32060101
+Human,Gastrointestinal tract,Stomach,CD8 T cell,CD8A,32060101
+Human,Gastrointestinal tract,Stomach,Smooth muscle cell,ACTA2,32060101
+Human,Gastrointestinal tract,Stomach,Gastric neuroendocrine cell,GAST,32060101
+Human,Gastrointestinal tract,Stomach,Endothelial cell,VWF,32060101
+Human,Gastrointestinal tract,Stomach,Fibroblast,DCN,32060101
+Human,Gastrointestinal tract,Stomach,Macrophage,CD14,32060101
+Human,Gastrointestinal tract,Stomach,Cytotoxic cell,KLRD1,32060101
+Human,Gastrointestinal tract,Stomach,Cytotoxic cell,PRF1,32060101
+Human,Gastrointestinal tract,Stomach,Intestinal epithelial cell,MUC2,32060101
+Human,Gastrointestinal tract,Stomach,Pericyte,PDGFRB,32060101
+Human,Gastrointestinal tract,Stomach,Myofibroblast,ACTA2,32060101
+Human,Gastrointestinal tract,Stomach,Natural killer cell,GNLY,32060101
+Human,Gastrointestinal tract,Stomach,Natural killer cell,NCR1,32060101
+Human,Gastrointestinal tract,Stomach,Cytotoxic cell,GZMB,32060101
+Human,Gastrointestinal tract,Stomach,Antrum gastric epithelial cell,PDX1,32060101
+Human,Gastrointestinal tract,Stomach,Fibroblast,LUM,32060101
+Human,Gastrointestinal tract,Stomach,Macrophage,CD68,32060101
+Human,Gastrointestinal tract,Stomach,Dendritic cell,CLEC4C,32060101
+Human,Gastrointestinal tract,Stomach,Gastric neuroendocrine cell,CHGA,32060101
+Human,Gastrointestinal tract,Stomach,Cytotoxic cell,GZMH,32060101
+Human,Gastrointestinal tract,Stomach,Fibroblast,COL1A1,32060101
+Human,Gastrointestinal tract,Stomach,Mast cell,CPA3,32060101
+Human,Gastrointestinal tract,Stomach,Naïve or central memory  T cell,SELL,32060101
+Human,Gastrointestinal tract,Stomach,Endothelial cell,SELP,32060101
+Human,Gastrointestinal tract,Stomach,Regulatory T(Treg) cell,IL2RA,32060101
+Human,Gastrointestinal tract,Stomach,Macrophage,CD163,32060101
+Human,Gastrointestinal tract,Stomach,Myofibroblast,THY1,32060101
+Human,Gastrointestinal tract,Stomach,Gastric parietal cell,CBLIF,32060101
+Human,Gastrointestinal tract,Stomach,Endothelial cell,PECAM1,32060101
+Human,Gastrointestinal tract,Stomach,Cytotoxic cell,KLRK1,32060101
+Human,Gastrointestinal tract,Stomach,Dendritic cell,CD83,32060101
+Human,Gastrointestinal tract,Stomach,Dendritic cell,IRF4,32060101
+Human,Gastrointestinal tract,Stomach,Myofibroblast,CAV1,32060101
+Human,Gastrointestinal tract,Stomach,T cell,CD3D,32060101
+Human,Gastrointestinal tract,Stomach,Myofibroblast,DCN,32060101
+Human,Gastrointestinal tract,Stomach,Fibroblast,COL14A1,32060101
+Human,Gastrointestinal tract,Stomach,Tissue resident effector memory T cell,CD69,32060101
+Human,Gastrointestinal tract,Stomach,Myofibroblast,COL14A1,32060101
+Human,Gastrointestinal tract,Stomach,Mast cell,TPSAB1,32060101
+Human,Gastrointestinal tract,Stomach,Antrum gastric epithelial cell,GAST,32060101
+Human,Gastrointestinal tract,Stomach,Monocyte,FCGR3A,32060101
+Human,Gastrointestinal tract,Stomach,Gastric stem cell,LGR5,32060101
+Human,Gastrointestinal tract,Stomach,B cell,CD79,32060101
+Human,Gastrointestinal tract,Stomach,Gastric neuroendocrine cell,EPCAM,32060101
+Human,Gastrointestinal tract,Stomach,T cell,CD3E,32060101
+Human,Gastrointestinal tract,Stomach,Dendritic cell,ID2,32060101
+Human,Gastrointestinal tract,Stomach,Endothelial cell,SELE,32060101
+Human,Gastrointestinal tract,Stomach,Epithelial cell,MUC5AC,32060101
+Human,Gastrointestinal tract,Stomach,Gastric neuroendocrine cell,SST,32060101
+Human,Gastrointestinal tract,Stomach,T cell,CD3G,32060101
+Human,Gastrointestinal tract,Stomach,Monocyte,CD14,32060101
+Human,Gastrointestinal tract,Stomach,Epithelial cell,TFF2,32060101
+Human,Gastrointestinal tract,Stomach,Cytotoxic cell,CTSW,32060101
+Human,Gastrointestinal tract,Stomach,Myofibroblast,COL1A1,32060101
+Human,Gastrointestinal tract,Stomach,Regulatory T(Treg) cell,FOXP3,32060101
+Human,Gastrointestinal tract,Stomach,Natural killer cell,XCL2,32060101
+Human,Gastrointestinal tract,Stomach,Cytotoxic cell,GNLY,32060101
+Human,Gastrointestinal tract,Stomach,Macrophage,FCGR3A,32060101
+Human,Gastrointestinal tract,Stomach,Gastric stem cell,TNFRSF19,32060101
+Human,Gastrointestinal tract,Stomach,Fibroblast,CAV1,32060101
+Human,Gastrointestinal tract,Stomach,Cytotoxic cell,KLRB1,32060101
+Human,Gastrointestinal tract,Stomach,Myofibroblast,LUM,32060101
+Human,Gastrointestinal tract,Stomach,Plasma cell,SDC1,32060101
+Human,Gastrointestinal tract,Stomach,Natural killer cell,NKG7,32060101
+Human,Gastrointestinal tract,Stomach,Tissue resident effector memory T cell,ITGAE,32060101
+Human,Gastrointestinal tract,Stomach,Epithelial cell,TFF1,32060101
+Human,Gastrointestinal tract,Stomach,Gastric neuroendocrine cell,TFF3,32060101
+Human,Gastrointestinal tract,Stomach,Dendritic cell,HLA-DQA2,32060101
+Human,Gastrointestinal tract,Stomach,B cell,MS4A1,32060101
+Human,Gastrointestinal tract,Stomach,Dendritic cell,IL3RA,32060101
+Human,Gastrointestinal tract,Stomach,Mast cell,MS4A2,32060101
+Human,Gastrointestinal tract,Stomach,B cell,CD19,32060101
+Human,Gastrointestinal tract,Stomach,Endothelial cell,ENG,32060101
+Human,Gastrointestinal tract,Stomach,Tissue resident effector memory T cell,ITGA1,32060101
+Human,Gastrointestinal tract,Stomach,Pericyte,RGS5,32060101
+Human,Gastrointestinal tract,Stomach,Mast cell,TPSB2,32060101
+Human,Gastrointestinal tract,Stomach,Epithelial cell,PGC,32060101
+Human,Gastrointestinal tract,Stomach,Epithelial cell,MUC6,32060101
+Mouse,Eye,Retina,Ganglion cell,Zic1,32071204
+Mouse,Eye,Retina,Ganglion cell,Tfap2d,32071204
+Mouse,Eye,Retina,Ganglion cell,Rbpms2,32071204
+Mouse,Eye,Retina,Ganglion cell,Mapt,32071204
+Mouse,Eye,Retina,Ganglion cell,Irx3,32071204
+Mouse,Eye,Retina,Ganglion cell,Nefm,32071204
+Human,Blood,Blood,Myeloid cell,S100A8,32114394
+Human,Blood,Blood,Plasmacytoid dendritic cell(pDC),MZB1,32114394
+Human,Blood,Blood,B cell,ADAM28,32114394
+Human,Blood,Blood,Myeloid cell,PF4,32114394
+Human,Blood,Blood,Dendritic cell,CLEC10A,32114394
+Human,Blood,Blood,T cell,CD247,32114394
+Human,Blood,Blood,B cell,JCHAIN,32114394
+Human,Blood,Blood,B cell,CXCR4,32114394
+Human,Blood,Blood,T cell,GIMAP7,32114394
+Human,Blood,Blood,Myeloid cell,FCN1,32114394
+Human,Blood,Blood,Myeloid cell,CLEC4C,32114394
+Human,Blood,Blood,Plasmacytoid dendritic cell(pDC),ITM2C,32114394
+Human,Blood,Blood,B cell,FCER2,32114394
+Human,Blood,Blood,T cell,IFITM1,32114394
+Human,Blood,Blood,T cell,LCK,32114394
+Human,Blood,Blood,B cell,BANK1,32114394
+Human,Blood,Blood,Myeloid cell,CD14,32114394
+Human,Blood,Blood,Plasmacytoid dendritic cell(pDC),CLEC4C,32114394
+Human,Blood,Blood,Myeloid cell,MS4A6A,32114394
+Human,Blood,Blood,B cell,TCF4,32114394
+Human,Blood,Blood,B cell,PMAIP1,32114394
+Human,Blood,Blood,CD4+ T cell,LTB,32114394
+Human,Blood,Blood,Myeloid cell,LST1,32114394
+Human,Blood,Blood,B cell,CR1P1,32114394
+Human,Blood,Blood,Myeloid cell,CDKN1C,32114394
+Human,Blood,Blood,B cell,VPREB3,32114394
+Human,Blood,Blood,B cell,TCL1A,32114394
+Human,Blood,Blood,Myeloid cell,FCGR3A,32114394
+Human,Blood,Blood,Myeloid cell,CST4,32114394
+Human,Blood,Blood,Myeloid cell,SERPINA1,32114394
+Human,Blood,Blood,Plasmacytoid dendritic cell(pDC),LILRA4,32114394
+Human,Blood,Blood,Myeloid cell,MNDA,32114394
+Mouse,Blood,Blood,Stem cell,LY6S,32166394
+Human,Eye,Retina,Neuron,MAP2,32231223
+Human,Eye,Retina,Epithelial cell,BEST1,32231223
+Human,Eye,Retina,Epithelial cell,MITF,32231223
+Human,Eye,Retina,Epithelial cell,RPE65,32231223
+Human,Eye,Retina,Neuron,TUBB3,32231223
+Human,Eye,Retina,Epithelial cell,TYR,32231223
+Human,Eye,Retina,Neuron,POU5F1,32231223
+Human,Blood,Peripheral blood,Natural killer cell,FCGR3A,32251406
+Human,Blood,Peripheral blood,Natural killer cell,KLRF1,32251406
+Mouse,Eye,Choroid,Leukocyte,Ptprc,32268117
+Mouse,Eye,Choroid,Smooth muscle cell,Acta2,32268117
+Mouse,Eye,Choroid,Fibroblast,Col1a1,32268117
+Mouse,Eye,Choroid,Pericyte,Pdgfrb,32268117
+Mouse,Eye,Choroid,Endothelial cell,Pecam1,32268117
+Mouse,Eye,Choroid,Lymphatic endothelial cell,Prox1,32268117
+Mouse,Eye,Choroid,Endothelial cell,Cdh5,32268117
+Human,Blood,Blood,Natural regulatory T cell,CTLA4,32286271
+Human,Blood,Blood,Natural regulatory T cell,HLA-DPB1,32286271
+Human,Blood,Blood,Natural regulatory T cell,CD74,32286271
+Human,Blood,Blood,Finally highly effector (TEMRA) memory T cell,GZMH,32286271
+Human,Blood,Blood,Finally highly effector (TEMRA) memory T cell,CST7,32286271
+Human,Blood,Blood,CD4+ T cell,LRRN3,32286271
+Human,Blood,Blood,Effector memory T cell,GZMK,32286271
+Human,Blood,Blood,Finally highly effector (TEMRA) memory T cell,NKG7,32286271
+Human,Blood,Blood,Finally highly effector (TEMRA) memory T cell,GZMA,32286271
+Human,Blood,Blood,CD4+ T cell,CCR7,32286271
+Human,Blood,Blood,Finally highly effector (TEMRA) memory T cell,CCL5,32286271
+Human,Blood,Blood,Natural regulatory T cell,ITGB1,32286271
+Human,Blood,Blood,Natural regulatory T cell,ANXA2,32286271
+Human,Blood,Blood,Finally highly effector (TEMRA) memory T cell,CCL4,32286271
+Human,Blood,Blood,Naive T(Th0) cell,CCR7,32286271
+Human,Blood,Blood,Natural regulatory T cell,HLA-DRB1,32286271
+Human,Blood,Blood,Natural regulatory T cell,HLA-DRB1,32286271
+Human,Blood,Blood,Finally highly effector (TEMRA) memory T cell,GNLY,32286271
+Human,Blood,Blood,Naive T(Th0) cell,LRRN3,32286271
+Human,Blood,Blood,Naive T(Th0) cell,SELL,32286271
+Human,Blood,Blood,Effector memory T cell,KLRB1,32286271
+Human,Blood,Blood,Natural regulatory T cell,LGALS3,32286271
+Human,Blood,Blood,Effector memory T cell,IL7R,32286271
+Human,Blood,Blood,CD4+ T cell,SELL,32286271
+Human,Blood,Blood,Naive T(Th0) cell,NPM1,32286271
+Human,Blood,Blood,Natural regulatory T cell,IL2RA,32286271
+Human,Blood,Blood,Central memory T cell,PASK,32286271
+Human,Blood,Blood,Natural regulatory T cell,VIM,32286271
+Human,Blood,Blood,Natural regulatory T cell,LGALS1,32286271
+Human,Blood,Blood,Effector memory T cell,TNFSF13B,32286271
+Human,Blood,Blood,Natural regulatory T cell,FOXP3,32286271
+Human,Blood,Blood,Monocyte,LYZ,32286626
+Human,Blood,Blood,Monocyte,FCGR3A,32286626
+Human,Blood,Blood,Dendritic cell,FCER1A,32286626
+Human,Blood,Blood,Monocyte,CD14,32286626
+Human,Blood,Blood,Natural killer cell,GNLY,32286626
+Human,Blood,Blood,T cell,IL7R,32286626
+Human,Blood,Blood,B cell,CD19,32286626
+Human,Eye,Eye,Endothelial cell,CCL21,32341164
+Human,Eye,Eye,Endothelial cell,PECAM1,32341164
+Human,Eye,Eye,Endothelial cell,FLT4,32341164
+Human,Gastrointestinal tract,Gastrointestinal tract,Stem cell,SOX9,32345613
+Human,Undefined,Undefined,Macrophage,CD163,32345613
+Human,Undefined,Undefined,Stromal cell,VIM,32345613
+Human,Undefined,Undefined,Cancer stem cell,PROM1,32345613
+Human,Undefined,Undefined,Cancer stem cell,ITGA6,32345613
+Human,Undefined,Undefined,Cancer stem cell,ITGA6,32345613
+Human,Undefined,Undefined,Cancer stem cell,PROM1,32345613
+Human,Undefined,Undefined,Cancer stem cell,HES1,32345613
+Human,Undefined,Undefined,Cancer stem cell,ALDH1A1,32345613
+Human,Undefined,Undefined,Immune cell,PTPRC,32345613
+Human,Undefined,Undefined,Epithelial cell,EpCAM,32345613
+Human,Blood,Umbilical cord blood,CD4+ T cell,TIGIT,32351504
+Human,Blood,Umbilical cord blood,CD4+ T cell,TNFRSF9,32351504
+Human,Blood,Umbilical cord blood,CD4+ T cell,IKZF2,32351504
+Human,Blood,Umbilical cord blood,CD4+ T cell,FOXP3,32351504
+Human,Blood,Blood,Naive CD4 T cell,TCF7,32351704
+Human,Blood,Blood,Naive CD4 T cell,MAL,32351704
+Human,Blood,Blood,Naive CD4 T cell,CCR7,32351704
+Human,Blood,Blood,Naive CD4 T cell,MYC,32351704
+Human,Blood,Blood,Megakaryocyte,SPARC,32351704
+Human,Blood,Blood,Effector memory T cell,TIMP1,32351704
+Human,Blood,Blood,Megakaryocyte,PPBP,32351704
+Human,Blood,Blood,Naive CD8+ T cell,RCAN3,32351704
+Human,Blood,Blood,Megakaryocyte,ITGA2B,32351704
+Human,Blood,Blood,Megakaryocyte,TUBB1,32351704
+Human,Blood,Blood,Naive CD8+ T cell,MAL,32351704
+Human,Blood,Blood,Megakaryocyte,PF4,32351704
+Human,Blood,Blood,Megakaryocyte,NRGN,32351704
+Human,Blood,Blood,Central memory CD4+ T cell,CCR7,32351704
+Human,Blood,Blood,Naive CD4 T cell,TSHZ2,32351704
+Human,Blood,Blood,Naive CD8+ T cell,NOSIP,32351704
+Human,Blood,Blood,Effector memory T cell,LTB,32351704
+Human,Blood,Blood,Effector memory T cell,TNFRSF4,32351704
+Human,Blood,Blood,Megakaryocyte,PIG6B,32351704
+Human,Blood,Blood,Central memory CD8+ T cell,MYC,32351704
+Human,Blood,Blood,Effector memory T cell,CD52,32351704
+Human,Blood,Blood,Naive CD8+ T cell,LEF1,32351704
+Human,Blood,Blood,Megakaryocyte,GNG11,32351704
+Human,Blood,Blood,Naive CD8+ T cell,SELL,32351704
+Human,Blood,Blood,Conventional dendritic cell 2(cDC2),PPA1,32351704
+Human,Blood,Blood,Megakaryocyte,CAVIN2,32351704
+Human,Blood,Blood,Central memory CD4+ T cell,MAL,32351704
+Human,Blood,Blood,Regulatory T(Treg) cell,CORO1B,32351704
+Human,Blood,Blood,Central memory CD8+ T cell,SELL,32351704
+Human,Blood,Blood,Naive B cell,PLPP5,32351704
+Human,Blood,Blood,Naive CD8+ T cell,TCF7,32351704
+Human,Blood,Blood,Central memory CD4+ T cell,SELL,32351704
+Human,Blood,Blood,Central memory CD4+ T cell,TSHZ2,32351704
+Human,Blood,Blood,Conventional dendritic cell 2(cDC2),FCER1A,32351704
+Human,Blood,Blood,Effector memory CD8+ T cell,CD8A,32351704
+Human,Blood,Blood,Naive B cell,IGHD,32351704
+Human,Blood,Blood,Megakaryocyte,MYL9,32351704
+Human,Blood,Blood,Regulatory T(Treg) cell,FANK1,32351704
+Human,Blood,Blood,Central memory CD4+ T cell,LEF1,32351704
+Human,Blood,Blood,Conventional dendritic cell 2(cDC2),HLA-DQA1,32351704
+Human,Blood,Blood,Naive B cell,APLP2,32351704
+Human,Blood,Blood,Naive CD8+ T cell,SOCS3,32351704
+Human,Blood,Blood,Regulatory T(Treg) cell,FOXP3,32351704
+Human,Blood,Blood,Effector memory CD8+ T cell,CD52,32351704
+Human,Blood,Blood,Regulatory T(Treg) cell,ARID5B,32351704
+Human,Blood,Blood,Central memory CD8+ T cell,MAL,32351704
+Human,Blood,Blood,Effector memory T cell,AQP3,32351704
+Human,Blood,Blood,Effector memory T cell,IL7R,32351704
+Human,Blood,Blood,Regulatory T(Treg) cell,RTKN2,32351704
+Human,Blood,Blood,Central memory CD4+ T cell,TCF7,32351704
+Human,Blood,Blood,Effector memory CD8+ T cell,CXCR3,32351704
+Human,Blood,Blood,Plasma cell,JCHAIN,32351704
+Human,Blood,Blood,Naive CD4 T cell,NOSIP,32351704
+Human,Blood,Blood,Naive CD4 T cell,SOCS3,32351704
+Human,Blood,Blood,Central memory CD8+ T cell,SOCS3,32351704
+Human,Blood,Blood,Plasma cell,DPEP1,32351704
+Human,Blood,Blood,Naive B cell,IGHM,32351704
+Human,Blood,Blood,Central memory CD8+ T cell,LEF1,32351704
+Human,Blood,Blood,Naive B cell,CXCR4,32351704
+Human,Blood,Blood,Central memory CD8+ T cell,NOSIP,32351704
+Human,Blood,Blood,Naive B cell,TCL1A,32351704
+Human,Blood,Blood,Central memory CD8+ T cell,RCAN3,32351704
+Human,Blood,Blood,Conventional dendritic cell 2(cDC2),CD1C,32351704
+Human,Blood,Blood,Central memory CD4+ T cell,MYC,32351704
+Human,Blood,Blood,Effector memory CD8+ T cell,CD8B,32351704
+Human,Blood,Blood,Effector memory CD8+ T cell,ITGA1,32351704
+Human,Blood,Blood,Naive B cell,IL4R,32351704
+Human,Blood,Blood,Naive B cell,FCER2,32351704
+Human,Blood,Blood,Central memory CD8+ T cell,TCF7,32351704
+Human,Blood,Blood,Regulatory T(Treg) cell,CTLA4,32351704
+Human,Blood,Blood,Central memory CD8+ T cell,TSHZ2,32351704
+Human,Blood,Blood,Central memory CD4+ T cell,NOSIP,32351704
+Human,Blood,Blood,Central memory CD4+ T cell,SOCS3,32351704
+Human,Blood,Blood,Naive CD8+ T cell,TSHZ2,32351704
+Human,Blood,Blood,Regulatory T(Treg) cell,GBP2,32351704
+Human,Blood,Blood,Plasma cell,IGKC,32351704
+Human,Blood,Blood,Naive CD8+ T cell,MYC,32351704
+Human,Blood,Blood,Naive CD8+ T cell,CCR7,32351704
+Human,Blood,Blood,Plasma cell,IGHA2,32351704
+Human,Blood,Blood,Conventional dendritic cell 2(cDC2),HLA-DQB1,32351704
+Human,Blood,Blood,Naive CD4 T cell,SELL,32351704
+Human,Blood,Blood,Regulatory T(Treg) cell,IL2RA,32351704
+Human,Blood,Blood,Central memory CD8+ T cell,CCR7,32351704
+Human,Blood,Blood,Naive CD4 T cell,LEF1,32351704
+Human,Blood,Blood,Regulatory T(Treg) cell,ICA1,32351704
+Human,Liver,Liver,Effector memory T cell,TNFRSF4,32351704
+Human,Liver,Liver,Effector memory T cell,TIMP1,32351704
+Human,Liver,Liver,Central memory CD4+ T cell,MAL,32351704
+Human,Liver,Liver,Central memory CD4+ T cell,SELL,32351704
+Human,Liver,Liver,Central memory CD4+ T cell,CCR7,32351704
+Human,Liver,Liver,Central memory CD4+ T cell,MYC,32351704
+Human,Liver,Liver,Plasmacytoid dendritic cell(pDC),BCL11A,32351704
+Human,Liver,Liver,Effector memory T cell,LTB,32351704
+Human,Liver,Liver,Naive B cell,PLPP5,32351704
+Human,Liver,Liver,T follicular helper(Tfh) cell,CD40LG,32351704
+Human,Liver,Liver,Plasma cell,IGHA2,32351704
+Human,Liver,Liver,Macrophage,FABP4,32351704
+Human,Liver,Liver,T follicular helper(Tfh) cell,GPR183,32351704
+Human,Liver,Liver,Central memory CD4+ T cell,NOSIP,32351704
+Human,Liver,Liver,Central memory CD4+ T cell,TCF7,32351704
+Human,Liver,Liver,Naive CD4 T cell,CCR7,32351704
+Human,Liver,Liver,T follicular helper(Tfh) cell,MALAT1,32351704
+Human,Liver,Liver,Macrophage,SLC40A1,32351704
+Human,Liver,Liver,Effector memory T cell,CD52,32351704
+Human,Liver,Liver,Effector memory T cell,IL7R,32351704
+Human,Liver,Liver,Macrophage,APOC1,32351704
+Human,Liver,Liver,Naive CD8+ T cell,SOCS3,32351704
+Human,Liver,Liver,Effector memory CD8+ T cell,CD8A,32351704
+Human,Liver,Liver,Naive B cell,CXCR4,32351704
+Human,Liver,Liver,T follicular helper(Tfh) cell,LTB,32351704
+Human,Liver,Liver,Naive CD4 T cell,TCF7,32351704
+Human,Liver,Liver,Naive CD8+ T cell,LEF1,32351704
+Human,Liver,Liver,Macrophage,FTL,32351704
+Human,Liver,Liver,Plasmacytoid dendritic cell(pDC),IRF8,32351704
+Human,Liver,Liver,Plasma cell,DPEP1,32351704
+Human,Liver,Liver,Central memory CD8+ T cell,NOSIP,32351704
+Human,Liver,Liver,Conventional dendritic cell 2(cDC2),PPA1,32351704
+Human,Liver,Liver,Naive CD4 T cell,SOCS3,32351704
+Human,Liver,Liver,Plasmacytoid dendritic cell(pDC),CCDC50,32351704
+Human,Liver,Liver,Plasmacytoid dendritic cell(pDC),TCF4,32351704
+Human,Liver,Liver,Central memory CD8+ T cell,LEF1,32351704
+Human,Liver,Liver,Plasmacytoid dendritic cell(pDC),SPIB,32351704
+Human,Liver,Liver,Central memory CD4+ T cell,LEF1,32351704
+Human,Liver,Liver,Effector memory CD8+ T cell,ITGA1,32351704
+Human,Liver,Liver,Central memory CD8+ T cell,SOCS3,32351704
+Human,Liver,Liver,Regulatory T(Treg) cell,FOXP3,32351704
+Human,Liver,Liver,Macrophage,FABP5,32351704
+Human,Liver,Liver,Naive B cell,TCL1A,32351704
+Human,Liver,Liver,Naive CD8+ T cell,TSHZ2,32351704
+Human,Liver,Liver,Naive CD8+ T cell,RCAN3,32351704
+Human,Liver,Liver,Naive CD8+ T cell,NOSIP,32351704
+Human,Liver,Liver,Naive CD4 T cell,MAL,32351704
+Human,Liver,Liver,Regulatory T(Treg) cell,CTLA4,32351704
+Human,Liver,Liver,Macrophage,CD5L,32351704
+Human,Liver,Liver,T follicular helper(Tfh) cell,CXCR5,32351704
+Human,Liver,Liver,Plasmacytoid dendritic cell(pDC),IRF7,32351704
+Human,Liver,Liver,Regulatory T(Treg) cell,GBP2,32351704
+Human,Liver,Liver,Plasmacytoid dendritic cell(pDC),ITM2C,32351704
+Human,Liver,Liver,Effector memory CD8+ T cell,CXCR3,32351704
+Human,Liver,Liver,Regulatory T(Treg) cell,FANK1,32351704
+Human,Liver,Liver,Effector memory CD8+ T cell,CD8B,32351704
+Human,Liver,Liver,Naive B cell,IGHM,32351704
+Human,Liver,Liver,Conventional dendritic cell 2(cDC2),HLA-DQB1,32351704
+Human,Liver,Liver,Naive CD4 T cell,MYC,32351704
+Human,Liver,Liver,Central memory CD8+ T cell,MAL,32351704
+Human,Liver,Liver,Effector memory CD8+ T cell,CD52,32351704
+Human,Liver,Liver,Macrophage,MRC1,32351704
+Human,Liver,Liver,Macrophage,LGMN,32351704
+Human,Liver,Liver,Regulatory T(Treg) cell,ICA1,32351704
+Human,Liver,Liver,Central memory CD4+ T cell,TSHZ2,32351704
+Human,Liver,Liver,Central memory CD4+ T cell,SOCS3,32351704
+Human,Liver,Liver,Plasmacytoid dendritic cell(pDC),C12orf75,32351704
+Human,Liver,Liver,Macrophage,APOE,32351704
+Human,Liver,Liver,Effector memory T cell,AQP3,32351704
+Human,Liver,Liver,Plasmacytoid dendritic cell(pDC),LILRA4,32351704
+Human,Liver,Liver,Naive CD4 T cell,NOSIP,32351704
+Human,Liver,Liver,Naive CD4 T cell,LEF1,32351704
+Human,Liver,Liver,Central memory CD8+ T cell,TCF7,32351704
+Human,Liver,Liver,Central memory CD8+ T cell,MYC,32351704
+Human,Liver,Liver,Conventional dendritic cell 1(cDC1),H4C3,32351704
+Human,Liver,Liver,Naive CD4 T cell,TSHZ2,32351704
+Human,Liver,Liver,Naive CD4 T cell,SELL,32351704
+Human,Liver,Liver,Central memory CD8+ T cell,SELL,32351704
+Human,Liver,Liver,Central memory CD8+ T cell,CCR7,32351704
+Human,Liver,Liver,Regulatory T(Treg) cell,ARID5B,32351704
+Human,Liver,Liver,Macrophage,MARCO,32351704
+Human,Liver,Liver,Central memory CD8+ T cell,RCAN3,32351704
+Human,Liver,Liver,Plasma cell,IGKC,32351704
+Human,Liver,Liver,Macrophage,NUPR1,32351704
+Human,Liver,Liver,Naive CD8+ T cell,SELL,32351704
+Human,Liver,Liver,Conventional dendritic cell 2(cDC2),HLA-DQA1,32351704
+Human,Liver,Liver,Naive CD8+ T cell,MYC,32351704
+Human,Liver,Liver,Conventional dendritic cell 2(cDC2),CD1C,32351704
+Human,Liver,Liver,Macrophage,HMOX1,32351704
+Human,Liver,Liver,Naive CD8+ T cell,CCR7,32351704
+Human,Liver,Liver,Regulatory T(Treg) cell,RTKN2,32351704
+Human,Liver,Liver,Regulatory T(Treg) cell,IL2RA,32351704
+Human,Liver,Liver,Naive CD8+ T cell,MAL,32351704
+Human,Liver,Liver,Conventional dendritic cell 1(cDC1),CLEC9A,32351704
+Human,Liver,Liver,Macrophage,SELENOP,32351704
+Human,Liver,Liver,Regulatory T(Treg) cell,CORO1B,32351704
+Human,Liver,Liver,Naive CD8+ T cell,TCF7,32351704
+Human,Liver,Liver,Naive B cell,FCER2,32351704
+Human,Liver,Liver,Conventional dendritic cell 2(cDC2),FCER1A,32351704
+Human,Liver,Liver,Central memory CD8+ T cell,TSHZ2,32351704
+Human,Liver,Liver,Naive B cell,APLP2,32351704
+Human,Liver,Liver,Naive B cell,IL4R,32351704
+Human,Liver,Liver,Conventional dendritic cell 1(cDC1),PTTG1,32351704
+Human,Liver,Liver,Naive B cell,IGHD,32351704
+Human,Liver,Liver,Plasma cell,JCHAIN,32351704
+Human,Spleen,Spleen,Naive CD8 T cell,TCF7,32351704
+Human,Spleen,Spleen,Naive B cell,APLP2,32351704
+Human,Spleen,Spleen,Naive CD8 T cell,CCR7,32351704
+Human,Spleen,Spleen,Naive CD8 T cell,MAL,32351704
+Human,Spleen,Spleen,Central memory CD4+ T cell,CCR7,32351704
+Human,Spleen,Spleen,Conventional dendritic cell 1(cDC1),PTTG1,32351704
+Human,Spleen,Spleen,Central memory CD4+ T cell,MYC,32351704
+Human,Spleen,Spleen,Naive B cell,IGHD,32351704
+Human,Spleen,Spleen,Megakaryocyte,GNG11,32351704
+Human,Spleen,Spleen,Naive CD8 T cell,TSHZ2,32351704
+Human,Spleen,Spleen,Naive B cell,CXCR4,32351704
+Human,Spleen,Spleen,Naive CD8 T cell,SELL,32351704
+Human,Spleen,Spleen,Naive CD8 T cell,RCAN3,32351704
+Human,Spleen,Spleen,Plasma cell,IGKC,32351704
+Human,Spleen,Spleen,Conventional dendritic cell 1(cDC1),CLEC9A,32351704
+Human,Spleen,Spleen,Naive B cell,PLPP5,32351704
+Human,Spleen,Spleen,Naive CD8 T cell,SOCS3,32351704
+Human,Spleen,Spleen,Plasma cell,IGHA2,32351704
+Human,Spleen,Spleen,Naive B cell,IL4R,32351704
+Human,Spleen,Spleen,Naive CD8 T cell,MYC,32351704
+Human,Spleen,Spleen,Naive CD4 T cell,NOSIP,32351704
+Human,Spleen,Spleen,Plasmacytoid dendritic cell(pDC),LILRA4,32351704
+Human,Spleen,Spleen,Naive CD4 T cell,SELL,32351704
+Human,Spleen,Spleen,Effector memory CD8+ T cell,ITGA1,32351704
+Human,Spleen,Spleen,Regulatory T (Treg) cell,CORO1B,32351704
+Human,Spleen,Spleen,Plasma cell,DPEP1,32351704
+Human,Spleen,Spleen,Naive CD8 T cell,LEF1,32351704
+Human,Spleen,Spleen,Macrophage,APOC1,32351704
+Human,Spleen,Spleen,Plasma cell,JCHAIN,32351704
+Human,Spleen,Spleen,Macrophage,NUPR1,32351704
+Human,Spleen,Spleen,Effector memory CD8+ T cell,CXCR3,32351704
+Human,Spleen,Spleen,Central memory CD8+ T cell,MAL,32351704
+Human,Spleen,Spleen,Macrophage,FABP5,32351704
+Human,Spleen,Spleen,Naive B cell,IGHM,32351704
+Human,Spleen,Spleen,Megakaryocyte,PIG6B,32351704
+Human,Spleen,Spleen,Megakaryocyte,NRGN,32351704
+Human,Spleen,Spleen,T follicular helper(Tfh) cell,LTB,32351704
+Human,Spleen,Spleen,Naive B cell,FCER2,32351704
+Human,Spleen,Spleen,Monocyte,CD14,32351704
+Human,Spleen,Spleen,Central memory CD4+ T cell,TSHZ2,32351704
+Human,Spleen,Spleen,Central memory CD4+ T cell,LEF1,32351704
+Human,Spleen,Spleen,Macrophage,APOE,32351704
+Human,Spleen,Spleen,Naive CD4 T cell,MAL,32351704
+Human,Spleen,Spleen,Naive CD8 T cell,NOSIP,32351704
+Human,Spleen,Spleen,Plasma cell,SDC1,32351704
+Human,Spleen,Spleen,Central memory CD4+ T cell,MAL,32351704
+Human,Spleen,Spleen,Macrophage,CD5L,32351704
+Human,Spleen,Spleen,Central memory CD4+ T cell,SOCS3,32351704
+Human,Spleen,Spleen,Central memory CD8+ T cell,RCAN3,32351704
+Human,Spleen,Spleen,Megakaryocyte,PPBP,32351704
+Human,Spleen,Spleen,Central memory CD8+ T cell,NOSIP,32351704
+Human,Spleen,Spleen,Naive CD4 T cell,MYC,32351704
+Human,Spleen,Spleen,Regulatory T (Treg) cell,ICA1,32351704
+Human,Spleen,Spleen,Regulatory T (Treg) cell,ARID5B,32351704
+Human,Spleen,Spleen,Natural killer cell,KLRF1,32351704
+Human,Spleen,Spleen,Central memory CD8+ T cell,CCR7,32351704
+Human,Spleen,Spleen,Macrophage,MARCO,32351704
+Human,Spleen,Spleen,Naive CD4 T cell,CCR7,32351704
+Human,Spleen,Spleen,Plasmacytoid dendritic cell(pDC),CCDC50,32351704
+Human,Spleen,Spleen,Conventional dendritic cell 2(cDC2),HLA-DQA1,32351704
+Human,Spleen,Spleen,Conventional dendritic cell 1(cDC1),H4C3,32351704
+Human,Spleen,Spleen,Central memory CD8+ T cell,TSHZ2,32351704
+Human,Spleen,Spleen,Naive CD4 T cell,SOCS3,32351704
+Human,Spleen,Spleen,Macrophage,HMOX1,32351704
+Human,Spleen,Spleen,Conventional dendritic cell 2(cDC2),HLA-DQB1,32351704
+Human,Spleen,Spleen,Plasmacytoid dendritic cell(pDC),BCL11A,32351704
+Human,Spleen,Spleen,T cell,CXCR6,32351704
+Human,Spleen,Spleen,Regulatory T (Treg) cell,FANK1,32351704
+Human,Spleen,Spleen,Regulatory T (Treg) cell,RTKN2,32351704
+Human,Spleen,Spleen,Central memory CD8+ T cell,SOCS3,32351704
+Human,Spleen,Spleen,Central memory CD8+ T cell,SELL,32351704
+Human,Spleen,Spleen,Naive B cell,TCL1A,32351704
+Human,Spleen,Spleen,Regulatory T (Treg) cell,IL2RA,32351704
+Human,Spleen,Spleen,Megakaryocyte,MYL9,32351704
+Human,Spleen,Spleen,Central memory CD8+ T cell,TCF7,32351704
+Human,Spleen,Spleen,Central memory CD8+ T cell,MYC,32351704
+Human,Spleen,Spleen,Regulatory T (Treg) cell,FOXP3,32351704
+Human,Spleen,Spleen,Conventional dendritic cell 2(cDC2),PPA1,32351704
+Human,Spleen,Spleen,Conventional dendritic cell 2(cDC2),FCER1A,32351704
+Human,Spleen,Spleen,Natural killer cell,CXCR6,32351704
+Human,Spleen,Spleen,Effector memory T cell,TNFRSF4,32351704
+Human,Spleen,Spleen,Megakaryocyte,SPARC,32351704
+Human,Spleen,Spleen,Naive CD4 T cell,LEF1,32351704
+Human,Spleen,Spleen,Macrophage,LGMN,32351704
+Human,Spleen,Spleen,Natural killer cell,CXCR5,32351704
+Human,Spleen,Spleen,Macrophage,SELENOP,32351704
+Human,Spleen,Spleen,Macrophage,MRC1,32351704
+Human,Spleen,Spleen,Plasmacytoid dendritic cell(pDC),ITM2C,32351704
+Human,Spleen,Spleen,Effector memory CD8+ T cell,CD8B,32351704
+Human,Spleen,Spleen,Natural killer cell,CXCR3,32351704
+Human,Spleen,Spleen,Natural killer cell,NCAM1,32351704
+Human,Spleen,Spleen,Central memory CD8+ T cell,LEF1,32351704
+Human,Spleen,Spleen,Plasmacytoid dendritic cell(pDC),IRF8,32351704
+Human,Spleen,Spleen,Effector memory CD8+ T cell,CD8A,32351704
+Human,Spleen,Spleen,Megakaryocyte,CAVIN2,32351704
+Human,Spleen,Spleen,Macrophage,SLC40A1,32351704
+Human,Spleen,Spleen,Regulatory T (Treg) cell,CTLA4,32351704
+Human,Spleen,Spleen,Macrophage,FTL,32351704
+Human,Spleen,Spleen,Naive CD4 T cell,TSHZ2,32351704
+Human,Spleen,Spleen,Plasmacytoid dendritic cell(pDC),C12orf75,32351704
+Human,Spleen,Spleen,Central memory CD4+ T cell,TCF7,32351704
+Human,Spleen,Spleen,Central memory CD4+ T cell,NOSIP,32351704
+Human,Spleen,Spleen,Plasmacytoid dendritic cell(pDC),TCF4,32351704
+Human,Spleen,Spleen,Effector memory CD8+ T cell,CD52,32351704
+Human,Spleen,Spleen,Macrophage,FABP4,32351704
+Human,Spleen,Spleen,T follicular helper(Tfh) cell,CD40LG,32351704
+Human,Spleen,Spleen,Central memory CD4+ T cell,SELL,32351704
+Human,Spleen,Spleen,Effector memory T cell,CD52,32351704
+Human,Spleen,Spleen,Conventional dendritic cell 2(cDC2),CD1C,32351704
+Human,Spleen,Spleen,Natural killer cell,CCR7,32351704
+Human,Spleen,Spleen,T follicular helper(Tfh) cell,GPR183,32351704
+Human,Spleen,Spleen,B cell,CD19,32351704
+Human,Spleen,Spleen,Naive CD4 T cell,TCF7,32351704
+Human,Spleen,Spleen,Natural killer cell,CX3CR1,32351704
+Human,Spleen,Spleen,Megakaryocyte,PF4,32351704
+Human,Spleen,Spleen,T cell,CXCR3,32351704
+Human,Spleen,Spleen,Plasmacytoid dendritic cell(pDC),IRF7,32351704
+Human,Spleen,Spleen,T cell,CX3CR1,32351704
+Human,Spleen,Spleen,T follicular helper(Tfh) cell,MALAT1,32351704
+Human,Spleen,Spleen,T cell,CCR7,32351704
+Human,Spleen,Spleen,Effector memory T cell,TIMP1,32351704
+Human,Spleen,Spleen,Megakaryocyte,TUBB1,32351704
+Human,Spleen,Spleen,T cell,CD3D,32351704
+Human,Spleen,Spleen,Regulatory T (Treg) cell,GBP2,32351704
+Human,Spleen,Spleen,Plasmacytoid dendritic cell(pDC),SPIB,32351704
+Human,Spleen,Spleen,Megakaryocyte,ITGA2B,32351704
+Human,Spleen,Spleen,T cell,CXCR5,32351704
+Human,Spleen,Spleen,T follicular helper(Tfh) cell,CXCR5,32351704
+Human,Spleen,Spleen,Effector memory T cell,AQP3,32351704
+Human,Spleen,Spleen,Effector memory T cell,LTB,32351704
+Human,Spleen,Spleen,Effector memory T cell,IL7R,32351704
+Human,Blood,Blood,T cell,CD4,32377375
+Human,Blood,Blood,Myeloid cell,CD1C,32377375
+Human,Blood,Blood,Natural killer cell,CD4,32377375
+Human,Blood,Blood,T cell,CD3E,32377375
+Human,Blood,Blood,Natural killer cell,CD8A,32377375
+Human,Blood,Blood,Myeloid cell,FCGR3A,32377375
+Human,Blood,Blood,Natural killer cell,CD3E,32377375
+Human,Blood,Blood,T cell,CD8A,32377375
+Human,Blood,Blood,Myeloid cell,CD14,32377375
+Human,Blood,Blood,B cell,CD19,32377375
+Human,Blood,Blood,Natural killer cell,NCAM1,32377375
+Human,Blood,Blood,T cell,NCAM1,32377375
+Mouse,Blood,Peripheral blood,Conventional dendritic cell(cDC),CD1a,32403085
+Mouse,Blood,Peripheral blood,Conventional dendritic cell(cDC),ITGAX,32403085
+Human,Blood,Blood,Myeloid cell,IL1B,32405063
+Human,Blood,Blood,Lymphocyte,CD79A,32405063
+Human,Blood,Blood,Lymphocyte,NKG7,32405063
+Human,Blood,Blood,Myeloid cell,CXCL8,32405063
+Human,Blood,Blood,Myeloid cell,CD14,32405063
+Human,Blood,Blood,Lymphocyte,CD3D,32405063
+Human,Undefined,Undefined,CD8+ T cell,CD3E,32405063
+Human,Undefined,Undefined,CD8+ T cell,CD8A,32405063
+Human,Undefined,Undefined,B cell,CD79A,32405063
+Human,Undefined,Undefined,Natural killer cell,NKG7,32405063
+Human,Eye,Eye,Vascular endothelial cell,KDR,32439707
+Human,Eye,Eye,Lymphatic endothelial cell,PECAM1,32439707
+Human,Eye,Eye,Vascular endothelial cell,VWF,32439707
+Human,Eye,Eye,Vascular endothelial cell,EFNB2,32439707
+Human,Eye,Eye,Vascular endothelial cell,DLL4,32439707
+Human,Eye,Eye,Vascular endothelial cell,EFNB2,32439707
+Human,Eye,Eye,Lymphatic endothelial cell,LYVE1,32439707
+Human,Eye,Eye,Trabecular meshwork cell,CHI3L1,32439707
+Human,Eye,Eye,Lymphatic endothelial cell,MMRN1,32439707
+Human,Eye,Eye,Lymphatic endothelial cell,FLT4,32439707
+Human,Eye,Eye,Vascular endothelial cell,FLT1,32439707
+Human,Eye,Eye,Vascular endothelial cell,DLL4,32439707
+Human,Eye,Eye,Vascular endothelial cell,VWF,32439707
+Human,Eye,Eye,Vascular endothelial cell,EPHB4,32439707
+Human,Eye,Eye,Trabecular meshwork cell,MYOC,32439707
+Human,Eye,Eye,Vascular endothelial cell,EPHB4,32439707
+Human,Eye,Eye,Trabecular meshwork cell,MGP,32439707
+Human,Eye,Eye,Vascular endothelial cell,FLT1,32439707
+Human,Eye,Eye,Lymphatic endothelial cell,PROX1,32439707
+Human,Eye,Eye,Trabecular meshwork cell,AQP1,32439707
+Human,Eye,Eye,Vascular endothelial cell,KDR,32439707
+Human,Gastrointestinal tract,Gastrointestinal tract,T cell,CD3D,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,B cell,MS4A1,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,T cell,CD3E,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,B cell,CD79A,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,Endocrine cell,CHGA,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,Endothelial cell,VWF,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,Macrophage,CD14,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,Endothelial cell,ENG,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,Fibroblast,ACTA2,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,Epithelial cell,EPCAM,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,Mast cell,CPA3,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,Epithelial cell,KRT18,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,T cell,CD2,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,Fibroblast,COL1A2,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,Parietal cell,ATP4A,32532891
+Human,Gastrointestinal tract,Gastrointestinal tract,Epithelial cell,KRT8,32532891
+Human,Fetal liver,Yolk sac,Progenitor cell,SPINK1,32614947
+Human,Undefined,Undefined,Megakaryocyte,PF4,32614947
+Human,Undefined,Undefined,Megakaryocyte,ITGA2B,32614947
+Human,Undefined,Undefined,Multipotent progenitor cell,IL2RG,32614947
+Human,Undefined,Undefined,Multipotent progenitor cell,CD34,32614947
+Human,Undefined,Undefined,Granulocyte,AZU1,32614947
+Human,Undefined,Undefined,Megakaryocyte,GP9,32614947
+Human,Undefined,Undefined,Multipotent progenitor cell,CD52,32614947
+Human,Undefined,Undefined,Leukocyte,ITGAM,32614947
+Human,Undefined,Undefined,Hematopoietic stem cell,CD180,32614947
+Human,Undefined,Undefined,Red blood cell (erythrocyte),MYC,32614947
+Human,Undefined,Undefined,Macrophage,25F9,32614947
+Human,Undefined,Undefined,Leukocyte,ITGAL,32614947
+Human,Undefined,Undefined,Red blood cell (erythrocyte),KLF1,32614947
+Human,Undefined,Undefined,Multipotent progenitor cell,CD180,32614947
+Human,Undefined,Undefined,Progenitor cell,AZU1,32614947
+Human,Undefined,Undefined,Hematopoietic stem cell,CD34,32614947
+Human,Undefined,Undefined,Multipotent progenitor cell,CD33,32614947
+Human,Undefined,Undefined,Red blood cell (erythrocyte),EPCAM,32614947
+Human,Undefined,Undefined,Naive progenitor cell,ITGB2,32614947
+Human,Undefined,Undefined,Progenitor cell,ITGB2,32614947
+Human,Undefined,Undefined,Naive 1 progenitor cell,ITGB2,32614947
+Human,Undefined,Undefined,Hematopoietic stem cell,CD33,32614947
+Human,Undefined,Undefined,Hematopoietic stem cell,IL2RG,32614947
+Human,Undefined,Undefined,Red blood cell (erythrocyte),GYPA,32614947
+Human,Undefined,Undefined,Naive 1 progenitor cell,CD44,32614947
+Human,Undefined,Undefined,Primitive hematopoiesis cell,HBE1,32614947
+Human,Undefined,Undefined,Progenitor cell,GP9,32614947
+Human,Undefined,Undefined,Granulocyte,PRNT3,32614947
+Human,Undefined,Undefined,Progenitor cell,CD44,32614947
+Human,Undefined,Undefined,Progenitor cell,KLF1,32614947
+Human,Undefined,Undefined,Naive progenitor cell,CD44,32614947
+Human,Undefined,Undefined,Progenitor cell,EPCAM,32614947
+Human,Undefined,Undefined,Progenitor cell,CD9,32614947
+Human,Undefined,Undefined,Hematopoietic stem cell,CD44,32614947
+Human,Undefined,Undefined,Progenitor cell,GATA2,32614947
+Human,Undefined,Undefined,Leukocyte,ITGAL,32614947
+Human,Undefined,Undefined,Multipotent progenitor cell,CD44,32614947
+Human,Undefined,Undefined,Progenitor cell,ICAM2,32614947
+Human,Undefined,Undefined,Hematopoietic stem cell,IL3RA,32614947
+Human,Undefined,Undefined,Naive progenitor cell,CD33,32614947
+Human,Undefined,Undefined,Progenitor cell,KIT,32614947
+Human,Undefined,Undefined,Mesoderm cell,FRZB,32614947
+Human,Undefined,Undefined,Red blood cell (erythrocyte),GYPA,32614947
+Human,Undefined,Undefined,Multipotent progenitor cell,IL3RA,32614947
+Human,Undefined,Undefined,Progenitor cell,PF4,32614947
+Human,Undefined,Undefined,Progenitor cell,GYPA,32614947
+Human,Undefined,Undefined,Endothelial cell,CDH5,32614947
+Human,Undefined,Undefined,Hematopoietic stem cell,CD52,32614947
+Human,Undefined,Undefined,Progenitor cell,PRNT3,32614947
+Mouse,Esophagus,Esophagus,Memory T cell,Tcf7,32709844
+Mouse,Esophagus,Esophagus,Memory T cell,Il7r,32709844
+Mouse,Esophagus,Esophagus,Memory T cell,Ccr7,32709844
+Human,Esophagus,Esophagus,Myofibroblast,PLN,32712105
+Human,Esophagus,Esophagus,Myofibroblast,SERPINE1,32712105
+Human,Esophagus,Esophagus,Fibroblast,CCN2,32712105
+Human,Esophagus,Esophagus,Myofibroblast,CCN2,32712105
+Human,Esophagus,Esophagus,Fibroblast,SERPINE1,32712105
+Human,Esophagus,Esophagus,Myofibroblast,COL1A1,32712105
+Human,Esophagus,Esophagus,Myofibroblast,TAGLN,32712105
+Human,Esophagus,Esophagus,Myofibroblast,ACTA2,32712105
+Human,Esophagus,Esophagus,Fibroblast,ACTA2,32712105
+Human,Esophagus,Esophagus,Fibroblast,TAGLN,32712105
+Human,Esophagus,Esophagus,Fibroblast,PLN,32712105
+Human,Esophagus,Esophagus,Fibroblast,COL1A1,32712105
+Mouse,Esophagus,Esophagus,Mesoderm,Sfrp2,32855417
+Mouse,Esophagus,Esophagus,Mesoderm,Wnt4,32855417
+Mouse,Esophagus,Esophagus,Mesoderm,Nkx6-1,32855417
+Mouse,Heart,Heart,Mesoderm,Isl1,32855417
+Mouse,Heart,Heart,Mesoderm,Mtus2,32855417
+Mouse,Lung,Lung,Mesoderm,Wnt2,32855417
+Mouse,Lung,Lung,Mesoderm,Gata4,32855417
+Mouse,Lung,Lung,Mesoderm,Nkx6-1,32855417
+Mouse,Pharynx,Pharynx,Mesoderm,Prrx1,32855417
+Mouse,Pharynx,Pharynx,Mesoderm,Tbx1,32855417
+Mouse,Stomach,Stomach,Mesoderm,Barx1,32855417
+Mouse,Stomach,Stomach,Mesoderm,Hlx,32855417
+Mouse,Trachea,Trachea,Mesoderm,Nkx6-1,32855417
+Mouse,Trachea,Trachea,Mesoderm,Wnt2,32855417
+Mouse,Trachea,Trachea,Mesoderm,Gata4,32855417
+Human,Eye,Retinal pigment epithelium,Effector T(Teff) cell,CD2,33187533
+Human,Eye,Retinal pigment epithelium,B cell,CD79A,33187533
+Human,Eye,Retinal pigment epithelium,Effector T(Teff) cell,NKG7,33187533
+Human,Eye,Retinal pigment epithelium,Macrophage,AIF1,33187533
+Human,Eye,Retinal pigment epithelium,Macrophage,CD68,33187533
+Human,Eye,Retinal pigment epithelium,Effector natural killer cell,CD2,33187533
+Human,Eye,Retinal pigment epithelium,Macrophage,CD163,33187533
+Human,Eye,Retinal pigment epithelium,Mast cell,KIT,33187533
+Human,Eye,Retinal pigment epithelium,Mast cell,CPA3,33187533
+Human,Eye,Retinal pigment epithelium,Effector T(Teff) cell,CD8B,33187533
+Human,Eye,Retinal pigment epithelium,Macrophage,CD14,33187533
+Human,Eye,Retinal pigment epithelium,Effector natural killer cell,NKG7,33187533
+Human,Eye,Retinal pigment epithelium,Effector natural killer cell,CD8B,33187533
+Human,Esophagus,Esophagus,Cancer cell,CD19,33293583
+Human,Esophagus,Esophagus,Cancer cell,CD1C,33293583
+Human,Esophagus,Esophagus,Cancer cell,IL3RA,33293583
+Human,Esophagus,Esophagus,Cancer cell,KLRD1,33293583
+Human,Esophagus,Esophagus,Cancer cell,IGHG1,33293583
+Human,Esophagus,Esophagus,Cancer cell,CD3G,33293583
+Human,Esophagus,Esophagus,Cancer cell,VCAN,33293583
+Human,Esophagus,Esophagus,Cancer cell,CD68,33293583
+Human,Esophagus,Esophagus,Cancer cell,CD163,33293583
+Human,Eye,Retina,Retina cell,CPODXL,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,RPE65,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,RBP1,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,CSTV,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,CRYAB,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,CRABP1,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,TIMP3,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,BEST1,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,RLBP1,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,CST3,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,ENPP2,33307245
+Human,Eye,Retina,Retina cell,SPP1,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,VEGFA,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,RGR,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,HNRNPH1,33307245
+Human,Eye,Retina,Retina cell,STAC2,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,SERPINF1,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,TYRP1,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,TYR,33307245
+Human,Eye,Retina,Retina cell,PCDH9,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,PMEL,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,PLTP,33307245
+Human,Eye,Eye,Retinal pigment epithelial cell,TTR,33307245
+Human,Head and neck,Head and neck,Conventional CD4 T cell,CD3E,33332284
+Human,Head and neck,Head and neck,Conventional CD4 T cell,CD3G,33332284
+Human,Head and neck,Head and neck,Conventional CD4 T cell,CD3D,33332284
+Human,Eye,Retinal organoid,Rod cell,GNGT1,33513359
+Human,Eye,Retinal organoid,Photoreceptor cell,RCVRN,33513359
+Human,Eye,Retinal organoid,Photoreceptor cell,CRX,33513359
+Human,Eye,Retinal organoid,Cone cell,ARR3,33513359
+Human,Eye,Retinal organoid,Rod cell,GNAT1,33513359
+Human,Eye,Retinal organoid,Cone cell,PDE6H,33513359
+Human,Esophagus,Esophagus,Monocyte,CD68,33545035
+Human,Esophagus,Esophagus,Monocyte,FCGR3A,33545035
+Human,Esophagus,Esophagus,Mast cell,KIT,33545035
+Human,Esophagus,Esophagus,Conventional dendritic cell(cDC),FCER1A,33545035
+Human,Esophagus,Esophagus,Plasmacytoid dendritic cell(pDC),LILRA4,33545035
+Human,Esophagus,Esophagus,Monocyte,CD14,33545035
+Human,Esophagus,Esophagus,Langerhans cell,CD207,33545035
+Human,Esophagus,Esophagus,Langerhans cell,CD1A,33545035
+Human,Esophagus,Esophagus,Macrophage,CD163,33545035
+Human,Esophagus,Esophagus,Conventional dendritic cell(cDC),HLA-DQA1,33545035
+Mouse,Eye,Eye,Neuron,RBPMS,33712461
+Mouse,Eye,Eye,Neuron,ISL1,33712461
+Mouse,Eye,Eye,Neuron,POU4F1,33712461
+Mouse,Eye,Eye,Neuron,POU4F2,33712461
+Human,Eye,Lacrimal gland,Endothelial cell,PECAM1,33730555
+Human,Eye,Lacrimal gland,Ductal cell,LCN2,33730555
+Human,Eye,Lacrimal gland,Myoepithelial cell,MYH11,33730555
+Human,Eye,Lacrimal gland,Myoepithelial cell,TPM2,33730555
+Human,Eye,Lacrimal gland,Epithelial cell,FOXC1,33730555
+Human,Eye,Lacrimal gland,Epithelial cell,AQP5,33730555
+Human,Eye,Lacrimal gland,Myoepithelial cell,KRT5,33730555
+Human,Eye,Lacrimal gland,Acinar cell,PRR27,33730555
+Human,Eye,Lacrimal gland,Lymphocyte,PTPRC,33730555
+Human,Eye,Lacrimal gland,Acinar cell,HTN1,33730555
+Human,Eye,Lacrimal gland,Ductal cell,WFDC2,33730555
+Human,Eye,Lacrimal gland,Acinar cell,LTF,33730555
+Human,Eye,Lacrimal gland,Epithelial cell,PAX6,33730555
+Human,Eye,Lacrimal gland,Myoepithelial cell,ACTA2,33730555
+Human,Eye,Lacrimal gland,Lymphocyte,CD2,33730555
+Human,Eye,Lacrimal gland,Endothelial cell,CDH5,33730555
+Human,Eye,Lacrimal gland,Myoepithelial cell,MYLK,33730555
+Human,Eye,Lacrimal gland,Acinar cell,SCGB2A1,33730555
+Mouse,Eye,Retina,Microglial cell,Trem2,33836603
+Mouse,Eye,Retina,Microglial cell,Aif1,33836603
+Mouse,Eye,Retina,Microglial cell,Csf1r,33836603
+Mouse,Esophagus,Esophagus,Columnar cell,Muc5ac,33882290
+Mouse,Esophagus,Esophagus,Barrett’s esophagus cell,Vil1,33882290
+Mouse,Esophagus,Esophagus,Squamous cell,Krt14,33882290
+Mouse,Esophagus,Esophagus,Squamous cell,Krt5,33882290
+Mouse,Esophagus,Esophagus,Columnar cell,Tff1,33882290
+Mouse,Esophagus,Esophagus,Columnar cell,Krt8,33882290
+Human,Esophagus,Esophagus,Classical barrett’s esophagus cell,KRT20,33882290
+Mouse,Esophagus,Esophagus,Squamous cell,Krt13,33882290
+Human,Esophagus,Esophagus,Classical barrett’s esophagus cell,KRT7,33882290
+Mouse,Esophagus,Esophagus,Barrett’s esophagus cell,Agr2,33882290
+Human,Esophagus,Esophagus,Classical barrett’s esophagus cell,AGR2,33882290
+Mouse,Esophagus,Esophagus,Columnar cell,Krt18,33882290
+Mouse,Esophagus,Esophagus,Squamous cell,Trp63,33882290
+Mouse,Esophagus,Esophagus,Columnar cell,Cldn18,33882290
+Mouse,Esophagus,Esophagus,Columnar cell,Krt7,33882290
+Mouse,Esophagus,Esophagus,Squamous cell,Krt4,33882290
+Human,Esophagus,Esophagus,Classical barrett’s esophagus cell,VIL1,33882290
+Human,Esophagus,Esophagus,Classical barrett’s esophagus cell,KRT8,33882290
+Mouse,Epithelium,Airway epithelium,Epithelial cell,H3K4me3,33947861
+Human,Fetal striatum,Lateral ganglionic eminence,D2-MSN(medium spiny neuron),GRIK3,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,Intermediate progenitor cell,ASCL1,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,LGE-lineage cell (lateral ganglionic eminence),MEIS2,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,Mature MSN(medium spiny neuron),BCL11B,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,pre-MSN(medium spiny neuron),OCT6,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D2-MSN(medium spiny neuron),SIX3,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,GABAergic neuron,GAD2,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,Early progenitor cell,GSX2,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,Medium spiny neuron(MSN),FOXP1,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D1-MSN(medium spiny neuron),TAC1,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D2-MSN(medium spiny neuron),SP9,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,Neuron,DCX,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D1-MSN(medium spiny neuron),ISL1,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D1-MSN(medium spiny neuron),EBF1,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D1-MSN(medium spiny neuron),hfb_G_000352,33958447
+Human,Fetal striatum,Lateral ganglionic eminence,D2-MSN(medium spiny neuron),SIX3-AS1,33958447
+Mouse,Esophagus,Esophagus,Basal progenitor cell,Itga6,33972733
+Mouse,Esophagus,Esophagus,Basal progenitor cell,Krt14,33972733
+Mouse,Esophagus,Esophagus,Fibroblast,Col1a1,33972733
+Mouse,Esophagus,Esophagus,Fibroblast,Pdgfra,33972733
+Mouse,Esophagus,Esophagus,Basal cell,Itgb1,33972733
+Mouse,Esophagus,Esophagus,Basal cell,Itga6,33972733
+Mouse,Esophagus,Esophagus,Fibroblast,Fn1,33972733
+Mouse,Esophagus,Esophagus,Basal progenitor cell,Itgb1,33972733
+Mouse,Esophagus,Esophagus,Basal cell,Krt14,33972733
+Mouse,Esophagus,Esophagus,Basal cell,KRT14,33972733
+Mouse,Esophagus,Esophagus,Fibroblast,Col1a2,33972733
+Mouse,Esophagus,Esophagus,Suprabasal cell,KRT4,33972733
+Mouse,Eye,Eye,Basal cell,Itgb4,33984282
+Mouse,Eye,Cornea,Corneal cell,Krt12,33984282
+Mouse,Eye,Eye,Suprabasal cell,Cdkn1a,33984282
+Mouse,Eye,Eye,Suprabasal cell,Dsg1a,33984282
+Mouse,Eye,Eye,Basal cell,Itgb1,33984282
+Mouse,Eye,Eye,Basal cell,Ccnd1,33984282
+Mouse,Eye,Cornea,Corneal cell,Slurp1,33984282
+Mouse,Eye,Eye,Suprabasal cell,Cld4,33984282
+Human,Blood,Blood,Memory B cell,TCRβ,34163487
+Human,Blood,Blood,Memory B cell,TCRα,34163487
+Human,Gall bladder,Gall bladder,Squamous cell,TP63,34171432
+Human,Gall bladder,Gall bladder,Exhausted CD8+ T cell,PDCD1,34171432
+Human,Gall bladder,Gall bladder,Squamous cell,S100A7,34171432
+Human,Gall bladder,Gall bladder,M2 macrophage,MRC1,34171432
+Human,Gall bladder,Gall bladder,M2 macrophage,CD163,34171432
+Human,Gall bladder,Gall bladder,Exhausted CD8+ T cell,LAG3,34171432
+Human,Gall bladder,Gall bladder,M2 macrophage,IL10,34171432
+Human,Gall bladder,Gall bladder,Exhausted CD8+ T cell,CTLA4,34171432
+Human,Gall bladder,Gall bladder,Regulatory T(Treg) cell,FOXP3,34171432
+Human,Gall bladder,Gall bladder,M2 macrophage,CD163,34171432
+Human,Blood,Blood,Monocyte,CD14,34183838
+Human,Blood,Blood,Regulatory CD4+ T cell,IL2RA,34183838
+Human,Blood,Blood,Monocyte,FCGR3A,34183838
+Human,Blood,Blood,Dendritic cell,HLA-DR,34183838
+Human,Blood,Blood,T cell,CD8A,34183838
+Human,Blood,Blood,T cell,CD3,34183838
+Human,Blood,Blood,Memory CD4+ T cell,CD45RO,34183838
+Human,Blood,Blood,Regulatory CD4+ T cell,CD4,34183838
+Human,Blood,Blood,B cell,CD19,34183838
+Human,Blood,Blood,Natural killer cell,NCAM1,34183838
+Human,Esophagus,Esophagus,Cancer cell,KRT5,34192657
+Human,Esophagus,Esophagus,Cancer cell,SOX2,34192657
+Human,Esophagus,Esophagus,T cell,CD3D,34192657
+Human,Esophagus,Esophagus,Fibroblast,DCN,34192657
+Human,Esophagus,Esophagus,T cell,CD3E,34192657
+Human,Esophagus,Esophagus,Plasma cell,IGHG4,34192657
+Human,Esophagus,Esophagus,Endothelial cell,RAMP2,34192657
+Human,Esophagus,Esophagus,Cancer cell,EPCAM,34192657
+Human,Esophagus,Esophagus,B cell,CD79A,34192657
+Human,Esophagus,Esophagus,Naive T(Th0) cell,CCR7,34192657
+Human,Esophagus,Esophagus,Mast cell,TPSB2,34192657
+Human,Esophagus,Esophagus,B cell,IGKC,34192657
+Human,Esophagus,Esophagus,Mast cell,CPA3,34192657
+Human,Esophagus,Esophagus,Myeloid cell,C1QB,34192657
+Human,Esophagus,Esophagus,Follicular B cell,MS4A1,34192657
+Human,Esophagus,Esophagus,Plasma cell,IGHG1,34192657
+Human,Esophagus,Esophagus,Fibroblast,COL1A1,34192657
+Human,Esophagus,Esophagus,Epithelial cell,SPRR3,34192657
+Human,Esophagus,Esophagus,Endothelial cell,VWF,34192657
+Human,Esophagus,Esophagus,Naive T(Th0) cell,LEF1,34192657
+Human,Esophagus,Esophagus,Myeloid cell,LYZ,34192657
+Human,Esophagus,Esophagus,Naive T(Th0) cell,TCF7,34192657
+Human,Esophagus,Esophagus,Epithelial cell,KRT13,34192657
+Human,Blood,Peripheral blood,Monocyte,CD14,34224783
+Human,Blood,Serum,Cancer cell,ERBB2,34225455
+Human,Blood,Serum,Cancer cell,MCAM,34225455
+Human,Blood,Serum,Cancer cell,LNGFR,34225455
+Human,Blood,Serum,Cancer cell,CSPG4,34225455
+Human,Blood,Peripheral blood,Memory T cell,S100A4,34262563
+Human,Blood,Peripheral blood,Naive T(Th0) cell,FABP5,34262563
+Human,Blood,Peripheral blood,Memory T cell,IL32,34262563
+Human,Blood,Peripheral blood,Naive T(Th0) cell,SELL,34262563
+Human,Blood,Peripheral blood,Naive T(Th0) cell,PTMA,34262563
+Human,Blood,Peripheral blood,Memory T cell,S100A10,34262563
+Human,Blood,Peripheral blood,Naive T(Th0) cell,NCL,34262563
+Human,Blood,Peripheral blood,Memory T cell,LGALS3,34262563
+Human,Blood,Peripheral blood,Memory T cell,ALOX5AP,34262563
+Human,Blood,Peripheral blood,Naive T(Th0) cell,HSPD1,34262563
+Human,Blood,Peripheral blood,Memory T cell,MYL12A,34262563
+Human,Blood,Peripheral blood,Memory T cell,S100A6,34262563
+Human,Blood,Peripheral blood,Naive T(Th0) cell,NPM1,34262563
+Human,Blood,Peripheral blood,Memory T cell,LGALS1,34262563
+Human,Blood,Peripheral blood,Naive T(Th0) cell,HSP90AB1,34262563
+Human,Blood,Peripheral blood,Naive T(Th0) cell,HMGA1,34262563
+Mouse,Eye,Retina,Venous cell,Ptgis,34273276
+Mouse,Eye,Retina,Capillary cell,Mfsd2a,34273276
+Mouse,Eye,Retina,Venous cell,Hmgn2,34273276
+Mouse,Eye,Retina,Superficial retinal vascular plexus (S-tip cell),Plvap,34273276
+Mouse,Eye,Retina,Myofibroblast,Tagln,34273276
+Mouse,Eye,Retina,Myofibroblast,Vim,34273276
+Mouse,Eye,Retina,Superficial retinal vascular plexus (S-tip cell),Esm1,34273276
+Mouse,Eye,Retina,Capillary cell,Slc22a8,34273276
+Mouse,Eye,Retina,Myofibroblast,Rock2,34273276
+Human,Eye,Eye,Haematopoietic progenitor cell,CD34,34280556
+Human,Eye,Eye,Endothelial cell,PECAM1,34280556
+Human,Eye,Choroid,Hematopoietic stem cell,CD34,34280556
+Human,Eye,Eye,Endothelial cell,VWF,34280556
+Human,Eye,Choriocapillaris,Choriocapillaris cell,CA4,34280556
+Human,Eye,Eye,Endothelial cell,GJA4,34280556
+Human,Eye,Eye,Endothelial cell,SEMA3G,34280556
+Human,Eye,Artery,Endothelial cell,CLDN5,34280556
+Human,Blood,Blood,Naive CD4+ T cell,TCF7,34282123
+Human,Blood,Blood,Terminal effector CD8+ T cell,NKG7,34282123
+Human,Blood,Blood,Naive CD4+ T cell,LEF1,34282123
+Human,Blood,Blood,Naive CD4+ T cell,SELL,34282123
+Human,Blood,Blood,Naive CD8+ T cell,CCR7,34282123
+Human,Blood,Blood,Regulatory CD4+ T cell,IL2RA,34282123
+Human,Blood,Blood,Naive CD4+ T cell,CCR7,34282123
+Human,Blood,Blood,Transitional CD8+ T cell,GZMK,34282123
+Human,Blood,Blood,Naive CD8+ T cell,SELL,34282123
+Human,Blood,Blood,Central memory CD8+ T cell,SELL,34282123
+Human,Blood,Blood,Naive CD8+ T cell,TCF7,34282123
+Human,Blood,Blood,Terminal effector CD8+ T cell,GZMA,34282123
+Human,Blood,Blood,Central memory CD8+ T cell,CD27,34282123
+Human,Blood,Blood,Terminal effector CD8+ T cell,PRF1,34282123
+Human,Blood,Blood,Naive CD8+ T cell,LEF1,34282123
+Human,Blood,Blood,Regulatory CD4+ T cell,TIGIT,34282123
+Human,Blood,Blood,Terminal effector CD8+ T cell,GZMB,34282123
+Human,Blood,Blood,Regulatory CD4+ T cell,CTLA4,34282123
+Human,Blood,Blood,Regulatory CD4+ T cell,FOXP3,34282123
+Human,Blood,Blood,Central memory CD8+ T cell,CCR7,34282123
+Human,Blood,Blood,Yolk sac-derived myeloid-biased progenitor cell(YSMP),CD44,34284135
+Human,Blood,Blood,Yolk sac-derived myeloid-biased progenitor cell(YSMP),PTPRC,34284135
+Human,Blood,Blood,Yolk sac-derived myeloid-biased progenitor cell(YSMP),PTPRC,34284135
+Human,Blood,Blood,Yolk sac-derived myeloid-biased progenitor cell(YSMP),CD34,34284135
+Human,Blood,Blood,Yolk sac-derived myeloid-biased progenitor cell(YSMP),MYB,34284135
+Human,Blood,Blood,Effector regulatory T(eTreg) cell,GNLY,34322127
+Human,Blood,Blood,Effector regulatory T(eTreg) cell,CD8A,34322127
+Human,Blood,Blood,Effector regulatory T(eTreg) cell,PRF1,34322127
+Human,Blood,Blood,Effector regulatory T(eTreg) cell,GZMH,34322127
+Human,Blood,Blood,Effector regulatory T(eTreg) cell,GZMA,34322127
+Human,Blood,Peripheral blood,Natural killer cell,NKG7,34324441
+Human,Blood,Peripheral blood,CD4+ T cell,RORA,34324441
+Human,Blood,Peripheral blood,Activated CD4+ T cell,CD69,34324441
+Human,Blood,Peripheral blood,Activated CD4+ T cell,STAT3,34324441
+Human,Blood,Peripheral blood,Monocyte,PSAP,34324441
+Human,Blood,Peripheral blood,Immature B cell,HLA-DPB1,34324441
+Human,Blood,Peripheral blood,Mature B cell,LYN,34324441
+Human,Blood,Peripheral blood,CD4+ T cell,LTB,34324441
+Human,Blood,Peripheral blood,Activated CD4+ T cell,SOCS3,34324441
+Human,Blood,Peripheral blood,Activated CD8+ T cell,CD3E,34324441
+Human,Blood,Peripheral blood,Gamma delta(γδ) T cell,TRDV2,34324441
+Human,Blood,Peripheral blood,CD4+ T cell,TNFAIP3,34324441
+Human,Blood,Peripheral blood,Natural killer cell,CD7,34324441
+Human,Blood,Peripheral blood,Monocyte,S100A6,34324441
+Human,Blood,Peripheral blood,CD4+ T cell,CD4,34324441
+Human,Blood,Peripheral blood,Natural killer cell,GZMB,34324441
+Human,Blood,Peripheral blood,CD4+ T cell,IL7R,34324441
+Human,Blood,Peripheral blood,Monocyte,TYROBP,34324441
+Human,Blood,Peripheral blood,Activated CD8+ T cell,CD8A,34324441
+Human,Blood,Peripheral blood,Mature B cell,CD37,34324441
+Human,Blood,Peripheral blood,Activated CD4+ T cell,ICOS,34324441
+Human,Blood,Peripheral blood,Immature B cell,HLA-DRB1,34324441
+Human,Blood,Peripheral blood,Natural killer cell,NCAM1,34324441
+Human,Blood,Peripheral blood,Gamma delta(γδ) T cell,GNLY,34324441
+Human,Blood,Peripheral blood,Regulatory T(Treg) cell,CTLA4,34324441
+Human,Blood,Peripheral blood,Monocyte,CST3,34324441
+Human,Blood,Peripheral blood,Immature B cell,HLA-DRA,34324441
+Human,Blood,Peripheral blood,Gamma delta(γδ) T cell,NKG7,34324441
+Human,Blood,Peripheral blood,Monocyte,OAZ1,34324441
+Human,Blood,Peripheral blood,Gamma delta(γδ) T cell,TRGV9,34324441
+Human,Blood,Peripheral blood,Immature B cell,CD79A,34324441
+Human,Blood,Peripheral blood,Natural killer cell,CCL5,34324441
+Human,Blood,Peripheral blood,Monocyte,LYZ,34324441
+Human,Blood,Peripheral blood,Immature B cell,CD74,34324441
+Human,Blood,Peripheral blood,Activated CD8+ T cell,GZMB,34324441
+Human,Blood,Peripheral blood,Natural killer cell,GNLY,34324441
+Human,Blood,Peripheral blood,Activated CD8+ T cell,NKG7,34324441
+Human,Blood,Peripheral blood,Mature B cell,CD74,34324441
+Human,Blood,Peripheral blood,Activated CD8+ T cell,GZMH,34324441
+Human,Blood,Peripheral blood,Regulatory T(Treg) cell,IL32,34324441
+Human,Blood,Peripheral blood,Gamma delta(γδ) T cell,CCL5,34324441
+Human,Blood,Peripheral blood,Regulatory T(Treg) cell,FOXP3,34324441
+Human,Blood,Peripheral blood,Mature B cell,HLA-DRA,34324441
+Human,Blood,Peripheral blood,Mature B cell,CD79A,34324441
+Human,Blood,Peripheral blood,Activated CD8+ T cell,CCL5,34324441
+Human,Blood,Peripheral blood,Mature B cell,IGHM,34324441
+Human,Blood,Peripheral blood,Immature B cell,CD83,34324441
+Human,Blood,Peripheral blood,Regulatory T(Treg) cell,IL10RA,34324441
+Human,Blood,Peripheral blood,Regulatory T(Treg) cell,IL2RA,34324441
+Human,Blood,Blood,Natural killer cell,KLRC2,34326311
+Human,Blood,Blood,Natural killer cell,FGFBP2,34326311
+Human,Esophagus,Esophagus,Transitional basal progenitor cell,TP63,34385390
+Human,Esophagus,Esophagus,Residual embryonic cell,KRT7,34385390
+Human,Esophagus,Esophagus,Transitional basal progenitor cell,KRT7,34385390
+Human,Esophagus,Esophagus,Residual embryonic cell,MUC4,34385390
+Human,Esophagus,Esophagus,Stem cell,OLFM4,34385390
+Human,Esophagus,Esophagus,Transitional basal progenitor cell,KRT5,34385390
+Human,Intestine,Intestine,Stem cell,OLFM4,34385390
+Human,Esophagus,Esophagus,Duodenal epithelial cell,PIGR,34389613
+Human,Esophagus,Esophagus,Granulocyte,CLC,34389613
+Human,Esophagus,Esophagus,Myeloid cell,CSF1R,34389613
+Human,Esophagus,Esophagus,Fibroblast,COL3A1,34389613
+Human,Esophagus,Esophagus,T cell,TRBC2,34389613
+Human,Esophagus,Esophagus,Mast cell,CPA3,34389613
+Human,Esophagus,Esophagus,Esophageal epithelial cell,KRT5,34389613
+Human,Esophagus,Esophagus,Plasma cell,IGHA1,34389613
+Human,Esophagus,Esophagus,Endothelial cell,VWF,34389613
+Mouse,Foot,Tendon,Tenocyte,TNMD,34408142
+Mouse,Foot,Tendon,Tenocyte,Mkx,34408142
+Mouse,Foot,Tendon,Tenocyte,COL1A2,34408142
+Mouse,Foot,Tendon,Tenocyte,Scx,34408142
+Mouse,Foot,Tendon,Tenocyte,COL1A1,34408142
+Mouse,Foot,Tendon,Tenocyte,PAX1,34408142
+Mouse,Foot,Tendon,Tenocyte,FMOD,34408142
+Mouse,Eye,Retina,Neuron,Pea15a,34416169
+Mouse,Eye,Retina,Neuron,Gad2,34416169
+Mouse,Eye,Retina,Neuron,Calb2,34416169
+Mouse,Eye,Retina,Neuron,Avpr1a,34416169
+Mouse,Eye,Retina,Neuron,Sst,34416169
+Mouse,Eye,Retina,Neuron,Gad1,34416169
+Mouse,Eye,Retina,Neuron,Drd1,34416169
+Mouse,Eye,Retina,Neuron,Dlk2,34416169
+Mouse,Eye,Retina,Neuron,Syt10,34416169
+Mouse,Eye,Retina,Neuron,C1q13,34416169
+Mouse,Eye,Retina,Neuron,Calb1,34416169
+Mouse,Eye,Retina,Neuron,Avp,34416169
+Mouse,Eye,Retina,Neuron,Nms,34416169
+Mouse,Eye,Retina,Neuron,Rgs16,34416169
+Mouse,Eye,Retina,Neuron,Cck,34416169
+Mouse,Eye,Retina,Neuron,Penk,34416169
+Mouse,Eye,Retina,Neuron,Rorb,34416169
+Mouse,Eye,Retina,Neuron,Vipr2,34416169
+Mouse,Eye,Retina,Neuron,Lhx1,34416169
+Mouse,Eye,Retina,Neuron,Vip,34416169
+Mouse,Eye,Retina,Neuron,Slc32a1,34416169
+Mouse,Eye,Retina,Neuron,Vgf,34416169
+Mouse,Eye,Retina,Neuron,Scg2,34416169
+Mouse,Eye,Retina,Neuron,Slc17a6,34416169
+Mouse,Eye,Retina,Neuron,Prok2,34416169
+Human,Esophagus,Esophagus,Epithelial cell,EPCAM,34416429
+Human,Esophagus,Esophagus,Goblet cell,TFF2,34416429
+Human,Esophagus,Esophagus,Goblet cell,MUC5AC,34416429
+Human,Esophagus,Esophagus,Glandular Barrett's esophagus cell,TFF3,34416429
+Human,Esophagus,Esophagus,Goblet cell,TFF1,34416429
+Human,Esophagus,Esophagus,Epithelial cell,CDH1,34416429
+Human,Esophagus,Esophagus,Goblet cell,MUC2,34416429
+Human,Esophagus,Esophagus,Epithelial cell,TFF3,34416429
+Human,Esophagus,Esophagus,Stratified esophageal cell,TP63,34416429
+Human,Esophagus,Esophagus,Goblet cell,TFF3,34416429
+Mouse,Eye,Eye,Endothelial cell,LUM,34487375
+Mouse,Eye,Eye,Suprachiasmatic neuronal cell,GRP,34487375
+Mouse,Eye,Eye,Putative SCN neuron,Avp,34487375
+Mouse,Eye,Eye,Suprachiasmatic neuronal cell,VIP,34487375
+Mouse,Eye,Eye,Suprachiasmatic neuronal cell,CCK,34487375
+Mouse,Eye,Eye,Suprachiasmatic neuronal cell,AVP,34487375
+Mouse,Eye,Eye,Extra-SCN hypothalamic neuron,Sst,34487375
+Mouse,Eye,Eye,Oligodendrocyte,Mog,34487375
+Mouse,Eye,Eye,Microglial cell,Ly86,34487375
+Mouse,Eye,Eye,Oligodendrocyte,Plp1,34487375
+Mouse,Eye,Eye,Radial glial cell,Ccnb1,34487375
+Mouse,Eye,Eye,Extra-SCN hypothalamic neuron,Gal,34487375
+Mouse,Eye,Eye,Microglial cell,C1qa,34487375
+Mouse,Eye,Eye,Ependymocyte,DYNLT4,34487375
+Mouse,Eye,Eye,Astrocyte,Gfap,34487375
+Mouse,Eye,Eye,Suprachiasmatic neuronal cell,C1ql3,34487375
+Mouse,Eye,Eye,Ependymocyte,Tmem212,34487375
+Mouse,Eye,Eye,Radial glial cell,Ube2c,34487375
+Mouse,Eye,Eye,Endothelial cell,Dcn,34487375
+Mouse,Eye,Eye,Astrocyte,Aqp4,34487375
+Mouse,Eye,Eye,Putative SCN neuron,Nms,34487375
+Human,Eye,Blood,Monocyte,LYZ,34488842
+Human,Eye,Blood,B cell,Cd79a,34488842
+Human,Eye,Blood,Platelet,Tubb1,34488842
+Human,Gastrointestinal tract,Esophagus,B cell,MS4A1,34489433
+Human,Gastrointestinal tract,Esophagus,B cell,CD79A,34489433
+Human,Gastrointestinal tract,Esophagus,B cell,MZB1,34489433
+Human,Gastrointestinal tract,Esophagus,B cell,JCHAIN,34489433
+Human,Gastrointestinal tract,Esophagus,B cell,CD19,34489433
+Human,Gastrointestinal tract,Esophagus,Endothelial cell,PECAM1,34489433
+Human,Gastrointestinal tract,Esophagus,Epithelial cell,SFN,34489433
+Human,Gastrointestinal tract,Esophagus,Fibroblast,COL1A2,34489433
+Human,Gastrointestinal tract,Esophagus,Epithelial cell,EPCAM,34489433
+Human,Gastrointestinal tract,Esophagus,Myeloid cell,IL3RA,34489433
+Human,Gastrointestinal tract,Esophagus,Endothelial cell,CDH5,34489433
+Human,Gastrointestinal tract,Esophagus,Endothelial cell,ENG,34489433
+Human,Gastrointestinal tract,Esophagus,Epithelial cell,KRT5,34489433
+Human,Gastrointestinal tract,Esophagus,Fibroblast,COL1A1,34489433
+Human,Gastrointestinal tract,Esophagus,Myeloid cell,LYZ,34489433
+Human,Gastrointestinal tract,Esophagus,Myeloid cell,LAMP3,34489433
+Human,Gastrointestinal tract,Esophagus,T cell,CD3E,34489433
+Human,Gastrointestinal tract,Esophagus,Pericyte,RGS5,34489433
+Human,Gastrointestinal tract,Esophagus,Myeloid cell,CLEC4C,34489433
+Human,Gastrointestinal tract,Esophagus,Pericyte,ACTA2,34489433
+Human,Gastrointestinal tract,Esophagus,Endothelial cell,VWF,34489433
+Human,Gastrointestinal tract,Esophagus,Fibroblastic reticular cell,PDPN,34489433
+Human,Gastrointestinal tract,Esophagus,Myeloid cell,CD14,34489433
+Human,Gastrointestinal tract,Esophagus,Fibroblast,COL3A1,34489433
+Human,Gastrointestinal tract,Esophagus,Epithelial cell,KRT14,34489433
+Human,Gastrointestinal tract,Esophagus,T cell,CD3D,34489433
+Human,Gastrointestinal tract,Esophagus,Fibroblast,DCN,34489433
+Human,Gastrointestinal tract,Esophagus,T cell,CD3G,34489433
+Human,Gastrointestinal tract,Esophagus,Fibroblastic reticular cell,CCL21,34489433
+Human,Gastrointestinal tract,Esophagus,Myeloid cell,TPSAB1,34489433
+Human,Gastrointestinal tract,Esophagus,Fibroblast,FN1,34489433
+Human,Gastrointestinal tract,Esophagus,Pericyte,MCAM,34489433
+Human,Gastrointestinal tract,Esophagus,T cell,CD2,34489433
+Human,Gastrointestinal tract,Esophagus,Fibroblast,COL6A1,34489433
+Human,Gastrointestinal tract,Esophagus,Myeloid cell,CD68,34489433
+Human,Eye,Retina,T cell,TRAC,34552068
+Human,Eye,Retina,T cell,CD3D,34552068
+Human,Eye,Eye,Iris puttative stem cell,ZIC2,34584087
+Human,Eye,Eye,Smooth muscle cell,MYH11,34584087
+Human,Eye,Eye,Iris puttative stem cell,LHX2,34584087
+Human,Eye,Eye,Corneal epithelial cell,KRT12,34584087
+Human,Eye,Eye,Corneal epithelial cell,KRT14,34584087
+Human,Eye,Eye,Iris puttative stem cell,RAX,34584087
+Human,Eye,Eye,Retina ganglion cell,POU4F1,34584087
+Human,Eye,Eye,Rod cell,RHO,34584087
+Human,Eye,Eye,Monocyte,CD74,34584087
+Human,Eye,Eye,Activated T cell,CD69,34584087
+Human,Eye,Eye,Schwann cell,CD9,34584087
+Human,Eye,Eye,Melanocyte,MLANA,34584087
+Human,Eye,Eye,Monocyte,CD14,34584087
+Human,Eye,Eye,Bipolar cell,GRM6,34584087
+Human,Eye,Eye,Fibroblast,MYOC,34584087
+Human,Eye,Eye,Schwann cell,PLP1,34584087
+Human,Eye,Eye,Mueller glia cell,DKK3,34584087
+Human,Eye,Eye,Rod cell,SAG,34584087
+Human,Eye,Eye,Retina ganglion cell,SNCG,34584087
+Human,Eye,Eye,Rod cell,GNAT1,34584087
+Human,Eye,Eye,Retinal pigment epithelial cell,BEST1,34584087
+Human,Eye,Eye,Retinal pigment epithelial cell,RPE65,34584087
+Human,Eye,Eye,Ciliary body cell,AQP1,34584087
+Human,Eye,Eye,Fibroblast,MGP,34584087
+Human,Eye,Eye,Mueller glia cell,CRABP1,34584087
+Human,Eye,Eye,Smooth muscle cell,MYL9,34584087
+Human,Eye,Eye,Bipolar cell,PCP2,34584087
+Human,Eye,Eye,Cone cell,PDE5H,34584087
+Human,Eye,Eye,Melanocyte,PMEL,34584087
+Human,Eye,Eye,Cone cell,ARR3,34584087
+Human,Eye,Eye,Amacrine cell,TFAP2B,34584087
+Human,Eye,Eye,Amacrine cell,GAD2,34584087
+Human,Eye,Eye,Schwann cell,LGI4,34584087
+Human,Eye,Eye,Corneal epithelial cell,TGFBI,34584087
+Human,Eye,Eye,Classical dendritic cell a(cDCa),ITGAX,34783307
+Human,Eye,Eye,Classical dendritic cell a(cDCa),AXL,34783307
+Human,Eye,Eye,Granulocyte,CD33,34783307
+Human,Eye,Eye,Mature dendritic cell,CD83,34783307
+Human,Eye,Eye,Gamma delta(γδ) T cell,TRDC,34783307
+Human,Eye,Eye,Gamma delta(γδ) T cell,NKG7,34783307
+Human,Eye,Eye,Mature dendritic cell,LAMP3,34783307
+Human,Eye,Eye,Regulatory T(Treg) cell,IL2RA,34783307
+Human,Eye,Eye,CD8+ T cell,CD8A,34783307
+Human,Eye,Eye,Myeloid cell,S100A8,34783307
+Human,Eye,Eye,CD4+ T cell,CD4,34783307
+Human,Eye,Eye,Granulocyte,S100A12,34783307
+Human,Eye,Eye,Plasmacytoid dendritic cell(pDC),CLEC4C,34783307
+Human,Eye,Eye,Natural killer cell,GNLY,34783307
+Human,Eye,Eye,Classical dendritic cell b(cDCb),MRC1,34783307
+Human,Eye,Eye,Myeloid cell,CCL2,34783307
+Human,Eye,Eye,CD8+ T cell,TRBC2,34783307
+Human,Eye,Eye,Natural killer cell,IL7R,34783307
+Human,Eye,Eye,Plasma cell,IGHG1,34783307
+Human,Eye,Eye,Classical dendritic cell b(cDCb),CLEC10A,34783307
+Human,Eye,Eye,Naive B cell,MS4A1,34783307
+Human,Eye,Eye,CD4+ T cell,CD3G,34783307
+Human,Eye,Eye,Regulatory T(Treg) cell,FOXP3,34783307
+Human,Eye,Eye,Plasmacytoid dendritic cell(pDC),IL3RA,34783307
+Mouse,Eye,Retina,Dilator muscle cell,OTX,34783308
+Mouse,Eye,Retina,Sphincter 1 cell,Ttn,34783308
+Mouse,Eye,Retina,Stroma 2 cell,TFAP2B,34783308
+Mouse,Eye,Retina,Endothelial cell,ERG,34783308
+Mouse,Eye,Retina,Sphincter 1 cell,RBFOX3,34783308
+Mouse,Eye,Retina,Sphincter 1 cell,Nptx2,34783308
+Mouse,Eye,Retina,Sphincter 1 cell,Ctnna3,34783308
+Mouse,Eye,Retina,Muscle cell,SOX10,34783308
+Mouse,Eye,Retina,Sphincter 1 cell,Rbfox3,34783308
+Mouse,Eye,Retina,Sphincter 1 cell,Ckm,34783308
+Mouse,Eye,Retina,Stroma 1 cell,SOX10,34783308
+Mouse,Eye,Eye,Lymphocyte,Cds1,34912329
+Mouse,Eye,Eye,Lymphocyte,Cxcl13,34912329
+Mouse,Eye,Eye,Lymphocyte,Tap1,34912329
+Mouse,Eye,Eye,Lymphocyte,Serpinb9,34912329
+Mouse,Eye,Eye,Lymphocyte,Tmsb10,34912329
+Mouse,Eye,Eye,Lymphocyte,C1qa,34912329
+Mouse,Eye,Retina,Bipolar cell,PKC-α,34928015
+Mouse,Eye,Retina,Ganglion cell,RBPMS,34928015
+Mouse,Eye,Retina,Photoreceptor cell,RCVRN,34928015
+Human,Esophagus,Esophagus,Cancer cell,CD274,34938292
+Human,Gall bladder,Gall bladder,Cancer cell,APOBEC3A,35020946
+Human,Eye,Retinal pigment epithelium,Epithelial cell,RPE65,35030321
+Human,Eye,Retinal pigment epithelium,Epithelial cell,BEST1,35030321
+Human,Eye,Retinal pigment epithelium,Epithelial cell,TYR,35030321
+Human,Eye,Retinal pigment epithelium,Epithelial cell,RLBP1,35030321
+Human,Eye,Retinal pigment epithelium,Epithelial cell,CRX,35030321
+Human,Eye,Retinal pigment epithelium,Epithelial cell,RAX,35030321
+Mouse,Esophagus,Esophagus,Epithelial cell,Trp63,35075189
+Mouse,Esophagus,Esophagus,Epithelial cell,Krt1541,35075189
+Mouse,Esophagus,Esophagus,Epithelial cell,Sox2,35075189
+Mouse,Salivary gland,Salivary gland,Epithelial cell,Sox9,35075189
+Mouse,Salivary gland,Salivary gland,Epithelial cell,Vim29,35075189
+Mouse,Salivary gland,Salivary gland,Epithelial cell,Trp63,35075189
+Mouse,Salivary gland,Salivary gland,Epithelial cell,Irf628,35075189
+Mouse,Thymus,Thymus,Epithelial cell,Grhl3,35075189
+Mouse,Thymus,Thymus,Epithelial cell,Cldn4,35075189
+Mouse,Thymus,Thymus,Epithelial cell,Cldn3,35075189
+Human,Esophagus,Esophagus,Basal cell,ITGB4,35108658
+Human,Esophagus,Esophagus,Basal cell,SHOC2,35108658
+Human,Esophagus,Esophagus,Basal cell,NT5E,35108658
+Human,Eye,Corneal endothelium,Endothelial cell,SLC4A11,35141048
+Human,Eye,Corneal endothelium,Endothelial cell,AQP1,35141048
+Human,Eye,Corneal endothelium,Endothelial cell,TJP1,35141048
+Human,Eye,Corneal endothelium,Endothelial cell,CDH2,35141048
+Human,Eye,Corneal endothelium,Endothelial cell,ATP1A1,35141048
+Human,Eye,Corneal endothelium,Endothelial cell,COL8A1,35141048
+Mouse,Eye,Retina,Retinal ganglion cell,Rbpms,35191836
+Mouse,Eye,Retina,Cone photoreceptor cell,Otx2,35191836
+Mouse,Eye,Retina,Retinal ganglion cell,Slc17a6,35191836
+Mouse,Eye,Retina,Amacrine cell,Tfap2b,35191836
+Mouse,Eye,Retina,Amacrine cell,Tfap2a,35191836
+Mouse,Eye,Retina,Microglial cell,P2ry12,35191836
+Mouse,Eye,Retina,Anterior segment cell,Mgp,35191836
+Mouse,Eye,Retina,Cone photoreceptor cell,Crx,35191836
+Mouse,Eye,Retina,Anterior segment cell,Bgn,35191836
+Mouse,Eye,Retina,Microglial cell,C1qa,35191836
+Human,Eye,Eye,Effector memory T cell,PDL-1,35242144
+Human,Eye,Eye,Effector memory T cell,TNFRSF1A,35242144
+Human,Eye,Eye,Effector memory T cell,PDCD1,35242144
+Human,Eye,Eye,Effector memory T cell,CTLA4,35242144
+Human,Eye,Eye,Effector memory T cell,RIPK3,35242144
+Human,Eye,Eye,Effector memory T cell,RIPK1,35242144
+Human,Eye,Cornea,T cell,CD3D,35280984
+Human,Eye,Cornea,T cell,LCK,35280984
+Human,Eye,Cornea,T cell,CD3E,35280984
+Human,Gut,Gut,Regulatory T(Treg) cell,IL10,35303421
+Human,Gut,Gut,Regulatory T(Treg) cell,IL23R,35303421
+Human,Gut,Gut,Regulatory T(Treg) cell,IL1R1,35303421
+Mouse,Eye,Retina,M2 macrophage,Ym1,35309305
+Mouse,Eye,Retina,Microglial cell,TMEM119 ,35309305
+Mouse,Eye,Retina,M2 macrophage,Arg1,35309305
+Mouse,Eye,Retina,Antigen-presenting cell,MHC-II,35309305
+Mouse,Eye,Retina,M2 macrophage,TGF-β,35309305
+Mouse,Eye,Retina,Microglial cell,P2RY12,35309305
+Mouse,Eye,Retina,M2 macrophage,IL10,35309305
+Mouse,Eye,Retina,M2 macrophage,MRC1,35309305
+Mouse,Eye,Retina,M1 macrophage,TNF-α,35309305
+Mouse,Eye,Retina,M1 macrophage,CD86,35309305
+Mouse,Eye,Retina,M1 macrophage,IL-1β,35309305
+Mouse,Eye,Retina,M2 macrophage,IGF1,35309305
+Mouse,Eye,Retina,M1 macrophage,IL6,35309305
+Mouse,Eye,Retina,M1 macrophage,FCGR2A,35309305
+Mouse,Eye,Conjunctiva,Gamma delta(γδ) T cell,Cxcr6,35361907
+Mouse,Eye,Conjunctiva,Migratory dendritic cell,CCR7,35361907
+Mouse,Eye,Conjunctiva,Gamma delta(γδ) T cell,Icos,35361907
+Mouse,Eye,Conjunctiva,Macrophage,MHCII,35361907
+Mouse,Eye,Conjunctiva,Conventional dendritic cell(cDC),Naaa,35361907
+Mouse,Eye,Conjunctiva,Gamma delta(γδ) T cell,Trdc,35361907
+Mouse,Eye,Conjunctiva,Conventional dendritic cell(cDC),Cd74,35361907
+Mouse,Eye,Conjunctiva,Monocyte,Mafb,35361907
+Mouse,Eye,Conjunctiva,Conventional dendritic cell(cDC),Ifi205,35361907
+Mouse,Eye,Conjunctiva,Monocyte,Cd74,35361907
+Mouse,Eye,Conjunctiva,Lymphoid cell,Cxcr6,35361907
+Mouse,Eye,Conjunctiva,Conventional dendritic cell(cDC),H2-Ab1,35361907
+Mouse,Eye,Conjunctiva,Lymphoid cell,Areg,35361907
+Mouse,Eye,Conjunctiva,Lymphoid cell,Gata3,35361907
+Mouse,Eye,Conjunctiva,Macrophage,H2-Ab1,35361907
+Mouse,Eye,Conjunctiva,Lymphocyte,IL13,35361907
+Mouse,Eye,Conjunctiva,Mast cell,Egr1,35361907
+Mouse,Eye,Conjunctiva,Lymphoid cell,II5,35361907
+Mouse,Eye,Conjunctiva,Migratory dendritic cell,FASCIN1,35361907
+Mouse,Eye,Conjunctiva,Monocyte,APOE,35361907
+Mouse,Eye,Conjunctiva,T cell,Icos,35361907
+Mouse,Eye,Conjunctiva,Natural killer cell,AZW112010,35361907
+Mouse,Eye,Conjunctiva,B cell,Ebf1,35361907
+Mouse,Eye,Conjunctiva,Macrophage,Cd209a,35361907
+Mouse,Eye,Conjunctiva,Natural killer cell,Gzma,35361907
+Mouse,Eye,Conjunctiva,Mast cell,Fos,35361907
+Mouse,Eye,Conjunctiva,Monocyte,H2-Ab1,35361907
+Mouse,Eye,Conjunctiva,B cell,H2-Ab1,35361907
+Mouse,Eye,Conjunctiva,Natural killer cell,Ccl5,35361907
+Mouse,Eye,Conjunctiva,Myeloid cell,ITGAM,35361907
+Mouse,Eye,Conjunctiva,Monocyte,Apoe,35361907
+Mouse,Eye,Conjunctiva,Monocyte,Lyz2,35361907
+Mouse,Eye,Conjunctiva,B cell,Cd74,35361907
+Mouse,Eye,Conjunctiva,Macrophage,CD209a,35361907
+Mouse,Eye,Conjunctiva,Migratory dendritic cell,Ccl22,35361907
+Mouse,Eye,Conjunctiva,Mast cell,Mcpt4,35361907
+Mouse,Eye,Conjunctiva,B cell,Cd79a,35361907
+Mouse,Eye,Conjunctiva,T cell,Cd28,35361907
+Mouse,Eye,Conjunctiva,Myeloid cell,Ccr2,35361907
+Mouse,Eye,Conjunctiva,Migratory dendritic cell,Tbc1d4,35361907
+Mouse,Eye,Conjunctiva,Gamma delta(γδ) T cell,II17a,35361907
+Mouse,Eye,Conjunctiva,Conjunctival cell,Marcksl1,35361907
+Mouse,Eye,Conjunctiva,Migratory dendritic cell,Ccl5,35361907
+Mouse,Eye,Conjunctiva,Lymphocyte,IL5,35361907
+Mouse,Eye,Conjunctiva,Mast cell,Cma1,35361907
+Mouse,Eye,Conjunctiva,Conjunctival cell,H2-Ab1,35361907
+Mouse,Eye,Conjunctiva,Mast cell,Apoe,35361907
+Mouse,Eye,Conjunctiva,Conjunctival cell,Cd74,35361907
+Mouse,Eye,Conjunctiva,Macrophage,Cd74,35361907
+Mouse,Eye,Conjunctiva,Myeloid cell,ITGAX,35361907
+Mouse,Eye,Conjunctiva,B cell,Igkc,35361907
+Mouse,Eye,Conjunctiva,Macrophage,Lyz2,35361907
+Mouse,Eye,Conjunctiva,Mast cell,Cpa3,35361907
+Mouse,Eye,Conjunctiva,Migratory dendritic cell,Cd74,35361907
+Mouse,Eye,Conjunctiva,Monocyte,CSF1R,35361907
+Mouse,Eye,Conjunctiva,Migratory dendritic cell,Ccr7,35361907
+Mouse,Eye,Conjunctiva,Conventional dendritic cell(cDC),Cst3,35361907
+Mouse,Eye,Conjunctiva,Migratory dendritic cell,Marcksl1,35361907
+Mouse,Eye,Conjunctiva,Migratory dendritic cell,H2-Ab1,35361907
+Mouse,Eye,Conjunctiva,Migratory dendritic cell,Cst3,35361907
+Mouse,Eye,Conjunctiva,T cell,Ctla4,35361907
+Mouse,Esophagus,Esophagus,Basal cell,Krt15,35443762
+Mouse,Esophagus,Esophagus,Basal cell,Trp63,35443762
+Mouse,Esophagus,Esophagus,Basal cell,Sox2,35443762
